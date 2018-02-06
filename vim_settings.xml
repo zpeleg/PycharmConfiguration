@@ -1,0 +1,329 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1516033801418">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/autoplay.py" timestamp="1516023702921">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+        <mark key="^" line="86" column="30" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause.py" timestamp="1517140669634">
+        <mark key="'" line="218" column="8" />
+      </file>
+      <file name="$USER_HOME$/ArchitectureDocs/design.md" timestamp="1511258887162">
+        <mark key="[" line="45" column="46" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="28" column="2" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/detectors/__init__.py" timestamp="1516031973648">
+        <mark key="[" line="1" column="98" />
+        <mark key="]" line="1" column="99" />
+        <mark key="." line="1" column="99" />
+        <mark key="^" line="1" column="46" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data/calibrations.py" timestamp="1516022539113">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="102" />
+        <mark key="]" line="19" column="153" />
+        <mark key="." line="19" column="153" />
+        <mark key="^" line="19" column="153" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/core/__init__.py" timestamp="1516023818707">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="94" />
+        <mark key="^" line="1" column="94" />
+        <mark key="." line="1" column="94" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data/moving_vector.py" timestamp="1516022277145">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Bugatone-Space/python/projects/webserver/bugaserver_bert.py" timestamp="1514193170761">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="515" column="0" />
+        <mark key="]" line="515" column="0" />
+        <mark key="^" line="450" column="42" />
+        <mark key="." line="515" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/__init__.py" timestamp="1516029604237">
+        <mark key="[" line="16" column="62" />
+        <mark key="]" line="16" column="63" />
+        <mark key="^" line="10" column="48" />
+        <mark key="." line="16" column="63" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data/configuration.py" timestamp="1516032389484">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="13" />
+        <mark key="." line="24" column="13" />
+        <mark key="^" line="21" column="24" />
+      </file>
+      <file name="$USER_HOME$/DesignDocs/design.md" timestamp="1511461925531">
+        <mark key="'" line="156" column="0" />
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="^" line="158" column="0" />
+        <mark key="." line="158" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" timestamp="1517140911442">
+        <mark key="'" line="0" column="4" />
+        <mark key="[" line="811" column="0" />
+        <mark key="]" line="811" column="0" />
+        <mark key="^" line="811" column="0" />
+        <mark key="." line="811" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/autopause.py" timestamp="1516032190270">
+        <mark key="'" line="133" column="0" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
+      </file>
+      <file name="$USER_HOME$/Bugatone-Space/python/tests/automation/termination/reference_signal_accuracy.py" timestamp="1517480534576" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/algo_controller.py" timestamp="1516023740086">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="31" />
+        <mark key="." line="24" column="31" />
+        <mark key="^" line="24" column="31" />
+      </file>
+      <file name="$USER_HOME$/Bugatone-Space/python/infra/soundcard/frontend_android_helpers.py" timestamp="1510569802958">
+        <mark key="'" line="568" column="26" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause_api.py" timestamp="1516030678346">
+        <mark key="'" line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/statesdraft.py" timestamp="1516032436078">
+        <mark key="[" line="46" column="4" />
+        <mark key="]" line="46" column="8" />
+        <mark key="^" line="46" column="8" />
+        <mark key="." line="46" column="8" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="16" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/autopause.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/autopause.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/autopause.py" />
+      <jump line="97" column="44" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/autopause.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/autopause.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/autopause.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/autopause.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/autopause.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/autopause.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/autopause.py" />
+      <jump line="75" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/autopause.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/autopause.py" />
+      <jump line="123" column="8" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/autopause.py" />
+      <jump line="124" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/autopause.py" />
+      <jump line="125" column="8" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/autopause.py" />
+      <jump line="129" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/autopause.py" />
+      <jump line="130" column="8" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/autopause.py" />
+      <jump line="131" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/autopause.py" />
+      <jump line="132" column="8" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/autopause.py" />
+      <jump line="134" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/autopause.py" />
+      <jump line="32" column="8" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/algo_controller.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/algo_controller.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/algo_controller.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/algo_controller.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/algo_controller.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/algo_controller.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/algo_controller.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/algo_controller.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/algo_controller.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/algo_controller.py" />
+      <jump line="354" column="19" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="358" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="349" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="344" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="339" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="337" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="329" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="327" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="319" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="314" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="312" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="309" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="299" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="297" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="294" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="290" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="286" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="284" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="279" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="275" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="257" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="254" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="246" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="244" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="239" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="236" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="232" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="205" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="207" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="216" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="218" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="224" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="230" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="346" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="483" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="632" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="633" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/core/streamers.py" />
+      <jump line="26" column="13" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause.py" />
+      <jump line="153" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause.py" />
+      <jump line="253" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause.py" />
+      <jump line="165" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause.py" />
+      <jump line="42" column="8" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autoplay.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autoplay.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autoplay.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autoplay.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autoplay.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autoplay.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autoplay.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autoplay.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autoplay.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autoplay.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autoplay.py" />
+      <jump line="219" column="27" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause.py" />
+      <jump line="220" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause.py" />
+      <jump line="226" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause.py" />
+      <jump line="230" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause.py" />
+      <jump line="232" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause.py" />
+      <jump line="238" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause.py" />
+      <jump line="243" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause.py" />
+      <jump line="247" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause.py" />
+      <jump line="251" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause_api.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause_api.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause_api.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause_api.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause_api.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause_api.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause_api.py" />
+      <jump line="218" column="8" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>ERROR</text>
+      </register>
+      <register name="-" type="4">
+        <text>ERROR</text>
+      </register>
+      <register name="/" type="4">
+        <text>class</text>
+      </register>
+      <register name="0" type="4">
+        <text>&quot;/home/buga/received_file&quot;</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">IyBUT0RPOiBFbnVtIG5hbWluZyBjb252ZW50aW9uIGlzIENhbWVsQ2FzZQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ3VyYXRpb24gPSBjb25maWd1cmF0aW9uCiAgICAgICAgc2VsZi5jYWxpYnJhdGlvbiA9IGNhbGlicmF0aW9uCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ3VyYXRpb24gPSBjb25maWd1cmF0aW9uCiAgICAgICAgc2VsZi5jYWxpYnJhdGlvbiA9IGNhbGlicmF0aW9uCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSAuLnN0YXRlc2RyYWZ0IGltcG9ydCBEZXRlY3Rpb25SZXN1bHQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMgVE9ETzogTGV0J3MgbWluaW1pemUgdGhlIHVzZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkZWYgYmx1YigpOgogICAgICAgICAgICBkZWYgYmxhYigpOgogICAgICAgICAgICAgICAgZGVmIGJhKCk6CiAgICAgICAgICAgICAgICAgICAgcGFzcwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ3VyYXRpb24gPSBjb25maWd1cmF0aW9uCiAgICAgICAgc2VsZi5jYWxpYnJhdGlvbiA9IGNhbGlicmF0aW9uCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>class</last-search>
+      <last-offset />
+      <last-pattern>class</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxmaWxlX3V0aWxzXD4=</entry>
+        <entry>file</entry>
+        <entry encoding="base64">XDxyZWFkX3NhbXBsZV9maWxlXD4=</entry>
+        <entry>open\(</entry>
+        <entry>open(</entry>
+        <entry>body_</entry>
+        <entry encoding="base64">XDxib2R5X2NvcHlcPg==</entry>
+        <entry>EchoAna</entry>
+        <entry encoding="base64">XDxFY2hvQW5hbHl6ZXJcPg==</entry>
+        <entry>record_and_play_raw</entry>
+        <entry>play_all(</entry>
+        <entry>_strea</entry>
+        <entry>test_</entry>
+        <entry>class</entry>
+      </history-search>
+      <history-cmd>
+        <entry>Wq</entry>
+        <entry>wq</entry>
+        <entry>x</entry>
+        <entry>Q</entry>
+        <entry>q</entry>
+        <entry>w</entry>
+        <entry>W</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
