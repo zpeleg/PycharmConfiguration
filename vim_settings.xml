@@ -29,12 +29,12 @@
         <mark key="." line="1" column="99" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" timestamp="1519909590330">
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" timestamp="1519913116208">
         <mark key="'" line="174" column="0" />
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="18" />
-        <mark key="." line="6" column="18" />
-        <mark key="^" line="6" column="18" />
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+        <mark key="^" line="6" column="31" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" timestamp="1519740136202">
         <mark key="'" line="0" column="0" />
