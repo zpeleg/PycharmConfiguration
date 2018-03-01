@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1519208836258">
@@ -28,6 +28,13 @@
         <mark key="]" line="1" column="99" />
         <mark key="." line="1" column="99" />
         <mark key="^" line="1" column="46" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" timestamp="1519901002524">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="81" column="9" />
+        <mark key="]" line="81" column="8" />
+        <mark key="^" line="81" column="8" />
+        <mark key="." line="81" column="8" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" timestamp="1519740136202">
         <mark key="'" line="0" column="0" />
@@ -120,14 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
-      <jump line="132" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
-      <jump line="137" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
-      <jump line="157" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
-      <jump line="177" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
-      <jump line="180" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
-      <jump line="184" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
-      <jump line="189" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
       <jump line="191" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
       <jump line="198" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
       <jump line="200" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
@@ -220,13 +219,36 @@
       <jump line="3" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="69" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ERROR</text>
+        <text encoding="base64">ICAgICAgICA=</text>
+      </register>
+      <register name="j" type="4">
+        <keys>
+          <key char="64" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="-" type="4">
-        <text>ERROR</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -317,7 +339,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
