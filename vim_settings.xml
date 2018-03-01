@@ -29,12 +29,12 @@
         <mark key="." line="1" column="99" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" timestamp="1519903891019">
-        <mark key="'" line="128" column="30" />
-        <mark key="[" line="113" column="7" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
-        <mark key="^" line="112" column="0" />
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" timestamp="1519909590330">
+        <mark key="'" line="174" column="0" />
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+        <mark key="^" line="6" column="18" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" timestamp="1519740136202">
         <mark key="'" line="0" column="0" />
@@ -71,7 +71,7 @@
         <mark key="^" line="10" column="48" />
         <mark key="." line="16" column="63" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/core/cstreamers.py" timestamp="1519902426475">
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/core/cstreamers.py" timestamp="1519909484948">
         <mark key="[" line="116" column="15" />
         <mark key="]" line="117" column="20" />
         <mark key="." line="117" column="20" />
@@ -133,8 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
-      <jump line="200" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
       <jump line="205" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
       <jump line="208" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
       <jump line="211" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
@@ -233,10 +231,12 @@
       <jump line="69" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="76" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="105" column="30" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="173" column="19" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="174" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>InEarDetectChannels</text>
+        <text>return</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -254,7 +254,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>InEarDetectChannels</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -263,31 +263,31 @@
         <text encoding="base64">ICAgICAgICAnZnJlZV9weXdvcmtpbmdfY29uZmlnJzooW1B5V29ya2luZ0NvbmZpZ10sTm9uZSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnZnJlZV9weXNlcnZpJyAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gc2VydmljZV9jb25maWc6IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnY3VtdWxhdGl2ZV9zdW1faW5pdCc6IChOb25lLCBjX3NpemVfdCksCg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gZGV0ZWN0b3JfY29uZmlnOiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBUT0RPOiBFbnVtIG5hbWluZyBjb252ZW50aW9uIGlzIENhbWVsQ2FzZQo=</text>
+        <text encoding="base64">ICAgICAgICAnZnJlZV9weXNlcnZpJyAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAnY3VtdWxhdGl2ZV9zdW1faW5pdCc6IChOb25lLCBjX3NpemVfdCksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ3VyYXRpb24gPSBjb25maWd1cmF0aW9uCiAgICAgICAgc2VsZi5jYWxpYnJhdGlvbiA9IGNhbGlicmF0aW9uCg==</text>
+        <text encoding="base64">IyBUT0RPOiBFbnVtIG5hbWluZyBjb252ZW50aW9uIGlzIENhbWVsQ2FzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ3VyYXRpb24gPSBjb25maWd1cmF0aW9uCiAgICAgICAgc2VsZi5jYWxpYnJhdGlvbiA9IGNhbGlicmF0aW9uCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSAuLnN0YXRlc2RyYWZ0IGltcG9ydCBEZXRlY3Rpb25SZXN1bHQK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ3VyYXRpb24gPSBjb25maWd1cmF0aW9uCiAgICAgICAgc2VsZi5jYWxpYnJhdGlvbiA9IGNhbGlicmF0aW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogTGV0J3MgbWluaW1pemUgdGhlIHVzZQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ3VyYXRpb24gPSBjb25maWd1cmF0aW9uCiAgICAgICAgc2VsZi5jYWxpYnJhdGlvbiA9IGNhbGlicmF0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgYmx1YigpOgogICAgICAgICAgICBkZWYgYmxhYigpOgogICAgICAgICAgICAgICAgZGVmIGJhKCk6CiAgICAgICAgICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ZnJvbSAuLnN0YXRlc2RyYWZ0IGltcG9ydCBEZXRlY3Rpb25SZXN1bHQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
