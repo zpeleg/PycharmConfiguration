@@ -29,12 +29,12 @@
         <mark key="." line="1" column="99" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" timestamp="1520008504797">
-        <mark key="'" line="79" column="24" />
-        <mark key="[" line="198" column="42" />
-        <mark key="]" line="199" column="39" />
-        <mark key="." line="199" column="39" />
-        <mark key="^" line="199" column="39" />
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" timestamp="1520009179009">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="146" column="33" />
+        <mark key="]" line="146" column="33" />
+        <mark key="." line="146" column="33" />
+        <mark key="^" line="146" column="34" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" timestamp="1519740136202">
         <mark key="'" line="0" column="0" />
@@ -127,8 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="427" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
-      <jump line="432" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
       <jump line="438" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
       <jump line="446" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
       <jump line="453" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
@@ -204,6 +202,9 @@
       <jump line="183" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="187" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="190" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="79" column="24" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="198" column="39" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="192" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="188" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="184" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="172" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
@@ -226,11 +227,10 @@
       <jump line="8" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
-      <jump line="79" column="24" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>L</text>
+        <text>([POINTER(PyServiceConfig)], None)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -248,7 +248,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>([POINTER(PyServiceConfig)], None)</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -359,6 +359,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
