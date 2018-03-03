@@ -60,12 +60,12 @@
         <mark key="." line="1" column="99" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" timestamp="1520090801637">
-        <mark key="'" line="202" column="4" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="31" />
-        <mark key="." line="148" column="0" />
-        <mark key="^" line="144" column="30" />
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" timestamp="1520091276969">
+        <mark key="'" line="151" column="0" />
+        <mark key="[" line="192" column="32" />
+        <mark key="]" line="193" column="7" />
+        <mark key="." line="193" column="7" />
+        <mark key="^" line="193" column="7" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data/calibrations.py" timestamp="1516022539113">
         <mark key="'" line="0" column="0" />
@@ -134,14 +134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
-      <jump line="252" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
-      <jump line="250" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
-      <jump line="243" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
-      <jump line="241" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
-      <jump line="237" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
-      <jump line="235" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
-      <jump line="232" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
       <jump line="224" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
       <jump line="220" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
       <jump line="167" column="6" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
@@ -218,7 +210,6 @@
       <jump line="137" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="148" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="153" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
-      <jump line="156" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="169" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="172" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="183" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
@@ -234,6 +225,15 @@
       <jump line="201" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="204" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="202" column="4" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="141" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="150" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="171" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="159" column="4" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="158" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="156" column="4" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="155" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="152" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="151" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
