@@ -9,7 +9,7 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="86" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1520086721104">
+      <file name="/Python Console" timestamp="1520087822617">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause.py" timestamp="1517140669634">
@@ -60,12 +60,12 @@
         <mark key="." line="1" column="99" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" timestamp="1520087244012">
-        <mark key="'" line="201" column="0" />
-        <mark key="[" line="200" column="37" />
-        <mark key="]" line="201" column="0" />
-        <mark key="." line="201" column="0" />
-        <mark key="^" line="201" column="0" />
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" timestamp="1520088306608">
+        <mark key="'" line="202" column="4" />
+        <mark key="[" line="192" column="10" />
+        <mark key="]" line="192" column="10" />
+        <mark key="." line="192" column="10" />
+        <mark key="^" line="192" column="41" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data/calibrations.py" timestamp="1516022539113">
         <mark key="'" line="0" column="0" />
@@ -227,17 +227,17 @@
       <jump line="206" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="192" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="96" column="15" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
-      <jump line="204" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="1" column="88" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="203" column="47" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="193" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="205" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
-      <jump line="202" column="4" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="201" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="204" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="202" column="4" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -255,7 +255,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
@@ -263,33 +263,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBfX2RlbF9fKHNlbGYpOgogICAgICAgIGZyZWVfcHlzZXJ2aWNlX2NvbmZpZyhieXJlZihzZWxmKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="1" type="8">
+        <text>#
+#
+#
+#
+#
+#</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIENETEwoJ2xpYnB5dGhvbl9iaW5kaW5ncy5zbycpLmZyZWVfcHlzZXJ2aWNlX2NvbmZpZyhwb2ludGVyKHNlcnZpY2Vjb25mKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIENETEwK</text>
+        <text encoding="base64">ICAgIHNlcnZpY2Vjb25mID0gUHlTZXJ2aWNlQ29uZmlnKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRpcihfbGliX2NvbmZpZ3VyYXRpb24pKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBfY3R5cGVzIGltcG9ydCBwb2ludGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text>POINTER
-POINTER</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIENETEwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBzYyA9IFB5U2VydmljZUNvbmZpZygpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGRpcihfbGliX2NvbmZpZ3VyYXRpb24pKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBfY3R5cGVzIGltcG9ydCBwb2ludGVyCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGludGVyY29uZiA9IFB5QnVnYXRvbmVJbnRlcm5hbENvbmZpZygpCiAgICBhcGljb25mID0gUHlCdWdhdG9uZUFwaUNvbmZpZ3VyYXRpb24oKQogICAgZGV0ZWN0b3Jjb25mID0gUHlEZXRlY3RvckNvbmZpZygpCg==</text>
+      <register name="9" type="8">
+        <text>POINTER
+POINTER</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
