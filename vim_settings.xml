@@ -60,11 +60,11 @@
         <mark key="." line="1" column="99" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" timestamp="1520089213821">
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" timestamp="1520090801637">
         <mark key="'" line="202" column="4" />
-        <mark key="[" line="205" column="11" />
-        <mark key="]" line="205" column="11" />
-        <mark key="." line="205" column="11" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="31" />
+        <mark key="." line="148" column="0" />
         <mark key="^" line="144" column="30" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data/calibrations.py" timestamp="1516022539113">
@@ -236,8 +236,8 @@
       <jump line="202" column="4" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>pointer(serviceconf)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnZG9zaGl0JzogKE5vbmUsIE5vbmUpLAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -264,15 +264,21 @@
         <text encoding="base64">ICAgIGRlZiBfX2RlbF9fKHNlbGYpOgogICAgICAgIGZyZWVfcHlzZXJ2aWNlX2NvbmZpZyhieXJlZihzZWxmKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KF9saWJfY29uZmlndXJhdGlvbi5fX2RpY3RfXykK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAnZG9zaGl0JzogKE5vbmUsIE5vbmUpLAo=</text>
       </register>
+      <register name="2" type="8">
+        <text encoding="base64">ICAgICAgIAogICAgICAgCiAgICAgICAKICAgICAgIA==</text>
+      </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50KF9saWJfY29uZmlndXJhdGlvbi5fX2RpY3RfXykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAnZG9zaGl0JzogKE5vbmUsIE5vbmUpLAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAnZG9zaGl0JzogKE5vbmUsIE5vbmUpCg==</text>
       </register>
-      <register name="4" type="8">
+      <register name="6" type="8">
         <text>#
 #
 #
@@ -280,20 +286,14 @@
 #
 #</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIENETEwoJ2xpYnB5dGhvbl9iaW5kaW5ncy5zbycpLmZyZWVfcHlzZXJ2aWNlX2NvbmZpZyhwb2ludGVyKHNlcnZpY2Vjb25mKSkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHNlcnZpY2Vjb25mID0gUHlTZXJ2aWNlQ29uZmlnKCkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENETEwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
