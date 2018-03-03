@@ -60,12 +60,12 @@
         <mark key="." line="1" column="99" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" timestamp="1520096419671">
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" timestamp="1520097411613">
         <mark key="'" line="248" column="4" />
-        <mark key="[" line="1" column="63" />
-        <mark key="]" line="1" column="71" />
-        <mark key="." line="1" column="71" />
-        <mark key="^" line="1" column="71" />
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="15" column="32" />
+        <mark key="." line="15" column="32" />
+        <mark key="^" line="15" column="32" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data/calibrations.py" timestamp="1516022539113">
         <mark key="'" line="0" column="0" />
@@ -93,7 +93,7 @@
         <mark key="^" line="10" column="48" />
         <mark key="." line="16" column="63" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/core/cstreamers.py" timestamp="1520086719308" />
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/core/cstreamers.py" timestamp="1520097373974" />
       <file name="$USER_HOME$/DesignDocs/design.md" timestamp="1511461925531">
         <mark key="'" line="156" column="0" />
         <mark key="[" line="176" column="0" />
@@ -236,8 +236,8 @@
       <jump line="248" column="4" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBfY3R5cGVzIGltcG9ydCBwb2ludGVyCg==</text>
+      <register name="&quot;" type="4">
+        <text>configuration</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -255,7 +255,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>configuration</text>
       </register>
       <register name="/" type="4">
         <text>PyAutoPa</text>
