@@ -9,7 +9,7 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="86" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1520087822617">
+      <file name="/Python Console" timestamp="1520088712523">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause.py" timestamp="1517140669634">
@@ -60,12 +60,12 @@
         <mark key="." line="1" column="99" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" timestamp="1520088306608">
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" timestamp="1520089213821">
         <mark key="'" line="202" column="4" />
-        <mark key="[" line="192" column="10" />
-        <mark key="]" line="192" column="10" />
-        <mark key="." line="192" column="10" />
-        <mark key="^" line="192" column="41" />
+        <mark key="[" line="205" column="11" />
+        <mark key="]" line="205" column="11" />
+        <mark key="." line="205" column="11" />
+        <mark key="^" line="144" column="30" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data/calibrations.py" timestamp="1516022539113">
         <mark key="'" line="0" column="0" />
@@ -237,7 +237,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>pointer(serviceconf)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -255,7 +255,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>pointer(serviceconf)</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
@@ -263,7 +263,16 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBfX2RlbF9fKHNlbGYpOgogICAgICAgIGZyZWVfcHlzZXJ2aWNlX2NvbmZpZyhieXJlZihzZWxmKSkK</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50KF9saWJfY29uZmlndXJhdGlvbi5fX2RpY3RfXykK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAnZG9zaGl0JzogKE5vbmUsIE5vbmUpLAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAnZG9zaGl0JzogKE5vbmUsIE5vbmUpCg==</text>
+      </register>
+      <register name="4" type="8">
         <text>#
 #
 #
@@ -271,30 +280,20 @@
 #
 #</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIENETEwoJ2xpYnB5dGhvbl9iaW5kaW5ncy5zbycpLmZyZWVfcHlzZXJ2aWNlX2NvbmZpZyhwb2ludGVyKHNlcnZpY2Vjb25mKSkK</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHNlcnZpY2Vjb25mID0gUHlTZXJ2aWNlQ29uZmlnKCkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIENETEwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRpcihfbGliX2NvbmZpZ3VyYXRpb24pKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBfY3R5cGVzIGltcG9ydCBwb2ludGVyCg==</text>
-      </register>
-      <register name="9" type="8">
-        <text>POINTER
-POINTER</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -335,6 +334,7 @@ POINTER</text>
         <entry>Q</entry>
         <entry>q</entry>
         <entry>W</entry>
+        <entry>w:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
