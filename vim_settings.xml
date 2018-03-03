@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1520007183113">
+      <file name="/Dummy.txt" timestamp="1520010019697">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="16" />
@@ -13,6 +13,9 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
         <mark key="^" line="86" column="30" />
+      </file>
+      <file name="/Python Console" timestamp="1520009306124">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/detectors/autopause.py" timestamp="1517140669634">
         <mark key="'" line="218" column="8" />
@@ -29,12 +32,12 @@
         <mark key="." line="1" column="99" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" timestamp="1520009179009">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="146" column="33" />
-        <mark key="]" line="146" column="33" />
-        <mark key="." line="146" column="33" />
-        <mark key="^" line="146" column="34" />
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" timestamp="1520080471827">
+        <mark key="'" line="146" column="9" />
+        <mark key="[" line="145" column="34" />
+        <mark key="]" line="145" column="33" />
+        <mark key="." line="145" column="33" />
+        <mark key="^" line="145" column="33" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" timestamp="1519740136202">
         <mark key="'" line="0" column="0" />
@@ -127,11 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="438" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
-      <jump line="446" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
-      <jump line="453" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
-      <jump line="463" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
-      <jump line="468" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
       <jump line="473" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
       <jump line="475" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
       <jump line="479" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" />
@@ -227,10 +225,16 @@
       <jump line="8" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="145" column="9" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="185" column="4" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="186" column="23" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="72" column="8" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
+      <jump line="146" column="9" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>([POINTER(PyServiceConfig)], None)</text>
+      <register name="&quot;" type="8">
+        <text>POINTER
+POINTER</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -251,46 +255,47 @@
         <text>([POINTER(PyServiceConfig)], None)</text>
       </register>
       <register name="/" type="4">
-        <text>class</text>
+        <text encoding="base64">XDxmcmVlX3B5c2VydmljZV9jb25maWdcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBfX2RlbF9fKHNlbGYpOgogICAgICAgIGZyZWVfcHlzZXJ2aWNlX2NvbmZpZyhieXJlZihzZWxmKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHBzYyA9IFB5U2VydmljZUNvbmZpZygpCg==</text>
+      <register name="1" type="8">
+        <text>POINTER
+POINTER</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHBzYyA9IFB5U2VydmljZUNvbmZpZygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGludGVyY29uZiA9IFB5QnVnYXRvbmVJbnRlcm5hbENvbmZpZygpCiAgICBhcGljb25mID0gUHlCdWdhdG9uZUFwaUNvbmZpZ3VyYXRpb24oKQogICAgZGV0ZWN0b3Jjb25mID0gUHlEZXRlY3RvckNvbmZpZygpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGludGVyY29uZiA9IFB5QnVnYXRvbmVJbnRlcm5hbENvbmZpZygpCiAgICBhcGljb25mID0gUHlCdWdhdG9uZUFwaUNvbmZpZ3VyYXRpb24oKQogICAgZGV0ZWN0b3Jjb25mID0gUHlEZXRlY3RvckNvbmZpZygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQeVNlcnZpY2VDb25maWcK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gc2VydmljZV9jb25maWc6IAo=</text>
+        <text encoding="base64">ICAgICAgICBQeVNlcnZpY2VDb25maWcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gZGV0ZWN0b3JfY29uZmlnOiAK</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gc2VydmljZV9jb25maWc6IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnZnJlZV9weXNlcnZpJyAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gZGV0ZWN0b3JfY29uZmlnOiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnY3VtdWxhdGl2ZV9zdW1faW5pdCc6IChOb25lLCBjX3NpemVfdCksCg==</text>
+        <text encoding="base64">ICAgICAgICAnZnJlZV9weXNlcnZpJyAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>class</last-search>
+      <last-search encoding="base64">XDxmcmVlX3B5c2VydmljZV9jb25maWdcPg==</last-search>
       <last-offset />
-      <last-pattern>class</last-pattern>
+      <last-pattern encoding="base64">XDxmcmVlX3B5c2VydmljZV9jb25maWdcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -310,6 +315,8 @@
         <entry>_strea</entry>
         <entry>test_</entry>
         <entry>class</entry>
+        <entry encoding="base64">XDxmcmVlX3B5d29ya2luZ19jb25maWdcPg==</entry>
+        <entry encoding="base64">XDxmcmVlX3B5c2VydmljZV9jb25maWdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>Wq</entry>
