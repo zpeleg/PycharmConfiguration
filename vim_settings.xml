@@ -9,6 +9,9 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="86" column="30" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/configs.py" timestamp="1523247029226">
+        <mark key="'" line="46" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1520102218552">
         <mark key="[" line="0" column="0" />
       </file>
@@ -27,6 +30,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/remote/vendors.py" timestamp="1523246587808" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data/configuration.py" timestamp="1516032389484">
         <mark key="[" line="24" column="12" />
         <mark key="]" line="24" column="13" />
@@ -139,11 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
-      <jump line="153" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
-      <jump line="167" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
-      <jump line="178" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
-      <jump line="189" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="220" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="224" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="229" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
@@ -239,6 +238,11 @@
       <jump line="80" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/states/pseudustate_machine.py" />
       <jump line="69" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/states/pseudustate_machine.py" />
       <jump line="61" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/states/pseudustate_machine.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/configs.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/configs.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/configs.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/configs.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/configs.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -296,7 +300,7 @@
         <text encoding="base64">ICAgIHByaW50KHdvcmtpbmdjb25mLmF1dG9wYXVzZS5kZXRlY3Rpb25fY2hhbm5lbHMpCiAgICBwcmludCh3b3JraW5nY29uZi5hdXRvcGF1c2Uud2VpZ2h0c19zbGljZXMpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -337,8 +341,8 @@
         <entry>w:w</entry>
         <entry>W</entry>
         <entry>.,.+1w</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
