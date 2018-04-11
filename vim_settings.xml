@@ -52,7 +52,7 @@
         <mark key="." line="308" column="3" />
         <mark key="^" line="308" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521431905218">
+      <file name="/Dummy.txt" timestamp="1523436240752">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="16" />
@@ -134,6 +134,12 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cforeground.py" timestamp="1523437281863">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="48" column="17" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Bugatone-Space/python/infra/soundcard/frontend_android_helpers.py" timestamp="1510569802958">
         <mark key="'" line="568" column="26" />
       </file>
@@ -146,19 +152,14 @@
         <mark key="^" line="46" column="8" />
         <mark key="." line="46" column="8" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/algocontrollers/cautopause_controller.py" timestamp="1523437713839">
+        <mark key="[" line="43" column="63" />
+        <mark key="]" line="43" column="81" />
+        <mark key="^" line="43" column="81" />
+        <mark key="." line="43" column="81" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
-      <jump line="224" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
-      <jump line="229" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
-      <jump line="247" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
-      <jump line="250" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
-      <jump line="245" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
-      <jump line="242" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
-      <jump line="239" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
-      <jump line="230" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
-      <jump line="225" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
-      <jump line="213" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="210" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="197" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
       <jump line="194" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/cconfig_builder.py" />
@@ -248,10 +249,21 @@
       <jump line="38" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/configs.py" />
       <jump line="42" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/configs.py" />
       <jump line="46" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/configurations/configs.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cforeground.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cforeground.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cforeground.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cforeground.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cforeground.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cforeground.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cforeground.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cforeground.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cforeground.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cforeground.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cforeground.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJwcm9jZXNzLmNoZWNrX2NhbGwoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>reset</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -269,40 +281,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>States</text>
+        <text>reset</text>
       </register>
       <register name="/" type="4">
         <text>PyWorki</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y3VyX3N0YXRlX2ZsYWcg</text>
+        <text>simple_auto_pause_controller_reset</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJwcm9jZXNzLmNoZWNrX2NhbGwoKQo=</text>
+        <text encoding="base64">CiAgICAgICAgaW1wb3J0IGpzb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXR1c191cGRhdGVyLnVwZGF0ZV9zdGF0dXMoIkNoYW5nZSB0byBzdGF0ZSB7bWV9IikK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIElkZW50aWZ5aW5nIHN0YXRlIGRvbmUgYW5kIHdhaXRpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgpjbGFzcyBTdGF0ZXM6CiAgICBJRExFID0gMQogICAgSURFTlRJRllJTkcgPSAyCiAgICBJTkVBUiA9IDMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zdGF0ZV9mbGFnID0gdG1wX3N0YXRlLmZsYWcK</text>
+        <text encoding="base64">ICAgICAgICAjdGJkIGNhbGlicmF0aW9ucwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJfc3RhdHVzID0gc2VsZi5zdGF0dXMuZ2V0X3N0YXR1cygpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdWJwcm9jZXNzLmNoZWNrX2NhbGwoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXR1c191cGRhdGVyLnVwZGF0ZV9zdGF0dXMoIkNoYW5nZSB0byBzdGF0ZSB7bWV9IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRlID0gTm9uZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -344,8 +356,8 @@
         <entry>x</entry>
         <entry>Q</entry>
         <entry>w:w</entry>
-        <entry>W</entry>
         <entry>.,.+1w</entry>
+        <entry>W</entry>
         <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
