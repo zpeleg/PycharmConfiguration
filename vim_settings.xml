@@ -21,8 +21,10 @@
       <file name="/fragment.py" timestamp="1520086249122">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" timestamp="1519740136202">
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cdetectors.py" timestamp="1523458959325">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="51" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data/moving_vector.py" timestamp="1516022277145">
         <mark key="'" line="22" column="0" />
@@ -52,7 +54,7 @@
         <mark key="." line="308" column="3" />
         <mark key="^" line="308" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523436240752">
+      <file name="/Dummy.txt" timestamp="1523458900621">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="16" />
@@ -134,7 +136,7 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cforeground.py" timestamp="1523438857791">
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cforeground.py" timestamp="1523458771654">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="36" column="0" />
         <mark key="]" line="48" column="17" />
@@ -152,11 +154,11 @@
         <mark key="^" line="46" column="8" />
         <mark key="." line="46" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/algocontrollers/cautopause_controller.py" timestamp="1523438870884">
-        <mark key="[" line="35" column="8" />
-        <mark key="]" line="35" column="30" />
-        <mark key="^" line="35" column="30" />
-        <mark key="." line="35" column="30" />
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/algocontrollers/cautopause_controller.py" timestamp="1523458952552">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="32" />
+        <mark key="." line="26" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -262,8 +264,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cforeground.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>libcapforeground</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -281,40 +283,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>libcapforeground</text>
+        <text>audioData</text>
       </register>
       <register name="/" type="4">
         <text>PyWorki</text>
       </register>
-      <register name="0" type="4">
-        <text>simple_auto_pause_controller_reset</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBqID0ganNvbi5kdW1wcyhhdWRpb0RhdGEsIGNscz1Ub0pTT05FbmNvZGVyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgaW1wb3J0IGpzb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBjYXVkaW9fZGF0YSA9IENUZW1wb3JhcnlBdWRpb0RhdGEoKQogICAgICAgIGNhdWRpb19kYXRhLmxvb3BiYWNrLmxlZnQgPSBhcnJfdG9fbnVtcHlpc2goYXVkaW9fZGF0YS5sb29wYmFjay5sZWZ0KQogICAgICAgIGNhdWRpb19kYXRhLmxvb3BiYWNrLnJpZ2h0ID0gYXJyX3RvX251bXB5aXNoKGF1ZGlvX2RhdGEubG9vcGJhY2sucmlnaHQpCiAgICAgICAgY2F1ZGlvX2RhdGEucmVjb3JkaW5nLmxlZnQgPSBhcnJfdG9fbnVtcHlpc2goYXVkaW9fZGF0YS5yZWNvcmRpbmcubGVmdCkKICAgICAgICBjYXVkaW9fZGF0YS5yZWNvcmRpbmcucmlnaHQgPSBhcnJfdG9fbnVtcHlpc2goYXVkaW9fZGF0YS5yZWNvcmRpbmcucmlnaHQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgaW1wb3J0IGpzb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjdGJkIGNhbGlicmF0aW9ucwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJwcm9jZXNzLmNoZWNrX2NhbGwoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXR1c191cGRhdGVyLnVwZGF0ZV9zdGF0dXMoIkNoYW5nZSB0byBzdGF0ZSB7bWV9IikK</text>
+        <text encoding="base64">ICAgICAgICAjdGJkIGNhbGlicmF0aW9ucwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdWJwcm9jZXNzLmNoZWNrX2NhbGwoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
