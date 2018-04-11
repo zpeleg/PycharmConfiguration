@@ -134,7 +134,7 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cforeground.py" timestamp="1523437281863">
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/detectors/cforeground.py" timestamp="1523438857791">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="36" column="0" />
         <mark key="]" line="48" column="17" />
@@ -152,11 +152,11 @@
         <mark key="^" line="46" column="8" />
         <mark key="." line="46" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/algocontrollers/cautopause_controller.py" timestamp="1523437713839">
-        <mark key="[" line="43" column="63" />
-        <mark key="]" line="43" column="81" />
-        <mark key="^" line="43" column="81" />
-        <mark key="." line="43" column="81" />
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/algocontrollers/cautopause_controller.py" timestamp="1523438870884">
+        <mark key="[" line="35" column="8" />
+        <mark key="]" line="35" column="30" />
+        <mark key="^" line="35" column="30" />
+        <mark key="." line="35" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -263,7 +263,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>reset</text>
+        <text>libcapforeground</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -281,7 +281,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>reset</text>
+        <text>libcapforeground</text>
       </register>
       <register name="/" type="4">
         <text>PyWorki</text>
