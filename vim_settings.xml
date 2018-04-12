@@ -319,7 +319,7 @@
         <text encoding="base64">ICAgICAgICBzdWJwcm9jZXNzLmNoZWNrX2NhbGwoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -360,8 +360,8 @@
         <entry>w:w</entry>
         <entry>.,.+1w</entry>
         <entry>W</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
