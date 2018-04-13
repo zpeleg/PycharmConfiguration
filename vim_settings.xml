@@ -30,6 +30,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/data/calibrations.py" timestamp="1523630553549">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="21" column="35" />
+        <mark key="^" line="21" column="35" />
+        <mark key="." line="21" column="35" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data/configuration.py" timestamp="1516032389484">
         <mark key="[" line="24" column="12" />
         <mark key="]" line="24" column="13" />
@@ -46,13 +52,14 @@
         <mark key="^" line="811" column="0" />
         <mark key="." line="811" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/oppo_utils.py" timestamp="1523608556607">
-        <mark key="[" line="279" column="0" />
-        <mark key="]" line="279" column="0" />
-        <mark key="^" line="27" column="39" />
-        <mark key="." line="279" column="0" />
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/oppo_utils.py" timestamp="1523630718595">
+        <mark key="[" line="304" column="12" />
+        <mark key="]" line="304" column="30" />
+        <mark key="^" line="304" column="30" />
+        <mark key="." line="304" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523608595792">
+      <file name="/Dummy.txt" timestamp="1523630745646">
+        <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="31" />
       </file>
       <file name="$USER_HOME$/ArchitectureDocs/design.md" timestamp="1511258887162">
@@ -113,7 +120,7 @@
         <mark key="^" line="158" column="0" />
         <mark key="." line="158" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/logging_buga_parser.py" timestamp="1523628475394">
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/logging_buga_parser.py" timestamp="1523633153882">
         <mark key="'" line="270" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/algocontrollers/autopause.py" timestamp="1516032190270">
@@ -157,11 +164,15 @@
         <mark key="^" line="26" column="32" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/read_status.py" timestamp="1523632879484">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/states/pseudustate_machine.py" />
-      <jump line="118" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/states/pseudustate_machine.py" />
-      <jump line="110" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/states/pseudustate_machine.py" />
       <jump line="105" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/states/pseudustate_machine.py" />
       <jump line="100" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/states/pseudustate_machine.py" />
       <jump line="97" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/states/pseudustate_machine.py" />
@@ -259,10 +270,13 @@
       <jump line="254" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/logging_buga_parser.py" />
       <jump line="266" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/logging_buga_parser.py" />
       <jump line="270" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/logging_buga_parser.py" />
+      <jump line="5" column="12" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/read_status.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/read_status.py" />
+      <jump line="587" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/read_status.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgT3Bwb1V0aWxzLmlzX2RldmljZV9jb25uZWN0ZWQoKToKICAgICAgICAgICAgcHJpbnQoIk5vIGRldmljZXMgY29ubmVjdGVkLiBQbGVhc2UgZml4IGFuZCB0cnkgYWdhaW4iKQogICAgICAgICAgICByZXR1cm4gRmFsc2UK</text>
+      <register name="&quot;" type="4">
+        <text>parts[0]</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -280,40 +294,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>audioData</text>
+        <text>parts[0]</text>
       </register>
       <register name="/" type="4">
         <text>PyWorki</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgT3Bwb1V0aWxzLmlzX2RldmljZV9jb25uZWN0ZWQoKToKICAgICAgICAgICAgcHJpbnQoIk5vIGRldmljZXMgY29ubmVjdGVkLiBQbGVhc2UgZml4IGFuZCB0cnkgYWdhaW4iKQogICAgICAgICAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">cHJpbnQoImhpIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgT3Bwb1V0aWxzLmlzX2RldmljZV9jb25uZWN0ZWQoKToKICAgICAgICAgICAgcHJpbnQoIk5vIGRldmljZXMgY29ubmVjdGVkLiBQbGVhc2UgZml4IGFuZCB0cnkgYWdhaW4iKQogICAgICAgICAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">ICAgIHByaW50KHBhcnRzWzFdKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgT3Bwb1V0aWxzLmlzX2RldmljZV9jb25uZWN0ZWQoKToKICAgICAgICAgICAgcHJpbnQoIk5vIGRldmljZXMgY29ubmVjdGVkLiBQbGVhc2UgZml4IGFuZCB0cnkgYWdhaW4iKQogICAgICAgICAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">ICAgIHByaW50KCJoaSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgT3Bwb1V0aWxzLmlzX2RldmljZV9jb25uZWN0ZWQoKToKICAgICAgICAgICAgcHJpbnQoIk5vIGRldmljZXMgY29ubmVjdGVkLiBQbGVhc2UgZml4IGFuZCB0cnkgYWdhaW4iKQogICAgICAgICAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">cHJpbnQoImhpIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJiaSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjYXVkaW9fZGF0YSA9IENUZW1wb3JhcnlBdWRpb0RhdGEoKQogICAgICAgIGNhdWRpb19kYXRhLmxvb3BiYWNrLmxlZnQgPSBhcnJfdG9fbnVtcHlpc2goYXVkaW9fZGF0YS5sb29wYmFjay5sZWZ0KQogICAgICAgIGNhdWRpb19kYXRhLmxvb3BiYWNrLnJpZ2h0ID0gYXJyX3RvX251bXB5aXNoKGF1ZGlvX2RhdGEubG9vcGJhY2sucmlnaHQpCiAgICAgICAgY2F1ZGlvX2RhdGEucmVjb3JkaW5nLmxlZnQgPSBhcnJfdG9fbnVtcHlpc2goYXVkaW9fZGF0YS5yZWNvcmRpbmcubGVmdCkKICAgICAgICBjYXVkaW9fZGF0YS5yZWNvcmRpbmcucmlnaHQgPSBhcnJfdG9fbnVtcHlpc2goYXVkaW9fZGF0YS5yZWNvcmRpbmcucmlnaHQpCg==</text>
+        <text encoding="base64">ICAgIGpqLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgaW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgICAgICBsb2FkID0ganNvbi5sb2FkKHBjX3BhdGggKyAiL2NhbGlicmF0aW9ucyIpCiAgICAgICAgcHJpbnQobG9hZCkKICAgICAgICByZXR1cm4gQ2FsaWJyYXRpb25zKGxvYWQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4ocGNfcGF0aCsiL2NhbGlicmF0aW9ucyIpIGFzIGY6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IGYucmVhZCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ2FsaWJyYXRpb25zKGpzb24ubG9hZCgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -356,8 +370,8 @@
         <entry>Q</entry>
         <entry>w:w</entry>
         <entry>.,.+1w</entry>
-        <entry>W</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -402,6 +416,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
