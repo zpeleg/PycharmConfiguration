@@ -164,16 +164,14 @@
         <mark key="^" line="26" column="32" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/read_status.py" timestamp="1523634221231">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="16" column="22" />
-        <mark key="." line="16" column="22" />
-        <mark key="^" line="16" column="22" />
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/read_status.py" timestamp="1523637651538">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="8" />
+        <mark key="." line="21" column="8" />
+        <mark key="^" line="23" column="15" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/states/pseudustate_machine.py" />
       <jump line="100" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/states/pseudustate_machine.py" />
       <jump line="97" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/states/pseudustate_machine.py" />
       <jump line="86" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/states/pseudustate_machine.py" />
@@ -273,10 +271,11 @@
       <jump line="5" column="12" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/read_status.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/read_status.py" />
       <jump line="587" column="0" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/read_status.py" />
+      <jump line="16" column="8" filename="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/read_status.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>parsed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxzdCA9IFtdCiAgICBsc3QuYXBwZW5kKGpqWydidWdhdG9uZVN0YXRlJ10uc3BsaXQoIjo6IilbLTFdKQogICAgbHN0LmFwcGVuZChqalsnZGV0ZWN0aW9uUmVzdWx0TGVmdCddLnNwbGl0KCI6OiIpWy0xXSkKICAgIGxzdC5hcHBlbmQoampbJ2RldGVjdGlvblJlc3VsdFJpZ2h0J10uc3BsaXQoIjo6IilbLTFdKQogICAgcHJpbnQoJ3s6MjV9IHs6MjB9IHs6MjB9Jy5mb3JtYXQoKmxzdCkpCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -294,40 +293,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>parsed</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>PyWorki</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoImhpIikK</text>
+        <text encoding="base64">ICAgIGxzdC5hcHBlbmQoampbJ2RldGVjdGlvblJlc3VsdExlZnQnXS5zcGxpdCgiOjoiKVstMV0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxpbmUpCg==</text>
+        <text encoding="base64">ICAgIGxzdCA9IFtdCiAgICBsc3QuYXBwZW5kKGpqWydidWdhdG9uZVN0YXRlJ10uc3BsaXQoIjo6IilbLTFdKQogICAgbHN0LmFwcGVuZChqalsnZGV0ZWN0aW9uUmVzdWx0TGVmdCddLnNwbGl0KCI6OiIpWy0xXSkKICAgIGxzdC5hcHBlbmQoampbJ2RldGVjdGlvblJlc3VsdFJpZ2h0J10uc3BsaXQoIjo6IilbLTFdKQogICAgcHJpbnQoJ3s6MjV9IHs6MjB9IHs6MjB9Jy5mb3JtYXQoKmxzdCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHBhcnRzWzFdKQo=</text>
+        <text encoding="base64">ICAgIGxzdC5hcHBlbmQoampbJ2J1Z2F0b25lU3RhdGUnXS5zcGxpdCgiOjoiKVstMV0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJoaSIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGxpbmUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoImhpIikK</text>
+        <text encoding="base64">ICAgIHByaW50KHBhcnRzWzFdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJiaSIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJoaSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGpqLgo=</text>
+        <text encoding="base64">cHJpbnQoImhpIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkID0ganNvbi5sb2FkKHBjX3BhdGggKyAiL2NhbGlicmF0aW9ucyIpCiAgICAgICAgcHJpbnQobG9hZCkKICAgICAgICByZXR1cm4gQ2FsaWJyYXRpb25zKGxvYWQpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJiaSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4ocGNfcGF0aCsiL2NhbGlicmF0aW9ucyIpIGFzIGY6Cg==</text>
+        <text encoding="base64">ICAgIGpqLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IGYucmVhZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2FkID0ganNvbi5sb2FkKHBjX3BhdGggKyAiL2NhbGlicmF0aW9ucyIpCiAgICAgICAgcHJpbnQobG9hZCkKICAgICAgICByZXR1cm4gQ2FsaWJyYXRpb25zKGxvYWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
