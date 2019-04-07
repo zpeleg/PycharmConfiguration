@@ -57,6 +57,13 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/standalone_benchmark_runner.py" timestamp="1554652798856">
+        <mark key="'" line="62" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+      </file>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/general_android/connection/connection_factory.py" timestamp="1541585565061">
         <mark key="[" line="90" column="81" />
         <mark key="]" line="91" column="11" />
@@ -147,11 +154,12 @@
         <mark key="^" line="57" column="41" />
         <mark key="." line="57" column="20" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" timestamp="1554646750424">
-        <mark key="[" line="40" column="60" />
-        <mark key="]" line="40" column="60" />
-        <mark key="." line="40" column="60" />
-        <mark key="^" line="40" column="60" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" timestamp="1554652573814">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="40" column="39" />
+        <mark key="]" line="40" column="51" />
+        <mark key="." line="40" column="51" />
+        <mark key="^" line="40" column="51" />
       </file>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/impl/adb_connection_adapter.py" timestamp="1548931213824">
         <mark key="'" line="73" column="0" />
@@ -237,7 +245,6 @@
         <mark key="." line="874" column="0" />
         <mark key="^" line="874" column="43" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/detectors/benchmarks/fft_usage.py" timestamp="1554642405088" />
       <file name="$USER_HOME$/Code/device_communication/pydcomm/tests/benchmarks/raw_input_recorder_tests.py" timestamp="1541423906459">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="64" column="23" />
@@ -270,9 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="219" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="217" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
       <jump line="212" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
       <jump line="206" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
       <jump line="200" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
@@ -370,6 +374,9 @@
       <jump line="545" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_ut.py" />
       <jump line="547" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_ut.py" />
       <jump line="557" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_ut.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/standalone_benchmark_runner.py" />
+      <jump line="61" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/standalone_benchmark_runner.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -382,10 +389,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>do thing</text>
+        <text>UT</text>
       </register>
       <register name="-" type="4">
-        <text>do thing</text>
+        <text>UT</text>
       </register>
       <register name="/" type="4">
         <text>buga_con</text>
@@ -394,37 +401,37 @@
         <text>replay_from_audiodata(songs_audio_data, dings_audio_data, configuration)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIGkgPT0gMDoK</text>
+        <text encoding="base64">ZnJvbSBweW1vYmlsZXByb2R1Y3QudXRpbHMuZGVsZXRlX29wcG9fbG9ncyBpbXBvcnQgY29sb3JhbWFfaW5pdAo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSByZXRyeWluZyBpbXBvcnQgCg==</text>
+        <text encoding="base64">ICAgIGlmIGkgPT0gMDoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdyZXRyeWluZycK</text>
+        <text encoding="base64">ZnJvbSByZXRyeWluZyBpbXBvcnQgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdyZXRyeWluZycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIHJlcGxheV9mcm9tX2F1ZGlvZGF0YShzb25nc19hdWRpb19kYXRhLCBkaW5nc19hdWRpb19kYXRhLCBjb25maWd1cmF0aW9uKQo=</text>
+        <text encoding="base64">ICAgIHRyeQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QGFwcGx5X2luX3Byb2Nlc3MK</text>
+        <text encoding="base64">ICAgICMgcmV0dXJuIHJlcGxheV9mcm9tX2F1ZGlvZGF0YShzb25nc19hdWRpb19kYXRhLCBkaW5nc19hdWRpb19kYXRhLCBjb25maWd1cmF0aW9uKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">QGFwcGx5X2luX3Byb2Nlc3MK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIENBcmNoaXZlLmxvYWQoKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIENBcmNoaXZlLmxvYWQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -435,7 +442,7 @@
       <last-offset />
       <last-pattern>buga_con</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute encoding="base64">XDxfcnVuX2FkYl9mb3Jfc3BlY2lmaWNfZGV2aWNlXD4=</last-substitute>
+      <last-substitute>buga_con</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
