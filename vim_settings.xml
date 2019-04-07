@@ -193,8 +193,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" timestamp="1554643512397">
+      <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" timestamp="1554658527368">
         <mark key="'" line="159" column="4" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="^" line="136" column="13" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/oppo_utils.py" timestamp="1542191819453">
         <mark key="[" line="1476" column="0" />
@@ -388,11 +392,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>UT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwLmNsb3NlKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>UT</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>buga_con</text>
@@ -401,37 +405,37 @@
         <text>replay_from_audiodata(songs_audio_data, dings_audio_data, configuration)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBweW1vYmlsZXByb2R1Y3QudXRpbHMuZGVsZXRlX29wcG9fbG9ncyBpbXBvcnQgY29sb3JhbWFfaW5pdAo=</text>
+        <text encoding="base64">ICAgICAgICBwLmNsb3NlKCkK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGkgPT0gMDoK</text>
+        <text encoding="base64">ZnJvbSBweW1vYmlsZXByb2R1Y3QudXRpbHMuZGVsZXRlX29wcG9fbG9ncyBpbXBvcnQgY29sb3JhbWFfaW5pdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSByZXRyeWluZyBpbXBvcnQgCg==</text>
+        <text encoding="base64">ICAgIGlmIGkgPT0gMDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdyZXRyeWluZycK</text>
+        <text encoding="base64">ZnJvbSByZXRyeWluZyBpbXBvcnQgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdyZXRyeWluZycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIHJlcGxheV9mcm9tX2F1ZGlvZGF0YShzb25nc19hdWRpb19kYXRhLCBkaW5nc19hdWRpb19kYXRhLCBjb25maWd1cmF0aW9uKQo=</text>
+        <text encoding="base64">ICAgIHRyeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGFwcGx5X2luX3Byb2Nlc3MK</text>
+        <text encoding="base64">ICAgICMgcmV0dXJuIHJlcGxheV9mcm9tX2F1ZGlvZGF0YShzb25nc19hdWRpb19kYXRhLCBkaW5nc19hdWRpb19kYXRhLCBjb25maWd1cmF0aW9uKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">QGFwcGx5X2luX3Byb2Nlc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENBcmNoaXZlLmxvYWQoKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
