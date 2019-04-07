@@ -154,12 +154,12 @@
         <mark key="^" line="57" column="41" />
         <mark key="." line="57" column="20" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" timestamp="1554652573814">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" timestamp="1554655047599">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="40" column="39" />
-        <mark key="]" line="40" column="51" />
-        <mark key="." line="40" column="51" />
-        <mark key="^" line="40" column="51" />
+        <mark key="[" line="37" column="28" />
+        <mark key="]" line="38" column="33" />
+        <mark key="." line="38" column="33" />
+        <mark key="^" line="38" column="33" />
       </file>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/impl/adb_connection_adapter.py" timestamp="1548931213824">
         <mark key="'" line="73" column="0" />
