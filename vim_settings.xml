@@ -9,6 +9,116 @@
         <mark key="^" line="3" column="47" />
         <mark key="." line="3" column="47" />
       </file>
+      <file name="/a.dummy" timestamp="1554643456900">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/do_ut.py" timestamp="1549815457961">
+        <mark key="[" line="288" column="26" />
+        <mark key="]" line="288" column="26" />
+        <mark key="^" line="288" column="26" />
+        <mark key="." line="288" column="26" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/build.py" timestamp="1549544575628">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="16" />
+        <mark key="^" line="93" column="92" />
+        <mark key="." line="96" column="16" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/archive_in_process.py" timestamp="1554644000302">
+        <mark key="'" line="8" column="39" />
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="44" />
+        <mark key="." line="8" column="44" />
+        <mark key="^" line="8" column="44" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/tests/daemon/actions.py" timestamp="1542128182018">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/daemon/scenarios/teacher_paused_freeze_repro.py" timestamp="1542550157156">
+        <mark key="[" line="43" column="36" />
+        <mark key="]" line="44" column="37" />
+        <mark key="^" line="44" column="37" />
+        <mark key="." line="44" column="37" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/do_uuc.py" timestamp="1549386130270">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/device_communication/pydcomm/tests/benchmarks/tester_raw_input_tests.py" timestamp="1541343800739">
+        <mark key="[" line="19" column="29" />
+        <mark key="]" line="19" column="38" />
+        <mark key="." line="19" column="38" />
+        <mark key="^" line="19" column="38" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/setup.py" timestamp="1554646507721">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/standalone_benchmark_runner.py" timestamp="1554652798856">
+        <mark key="'" line="62" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/Code/device_communication/pydcomm/general_android/connection/connection_factory.py" timestamp="1541585565061">
+        <mark key="[" line="90" column="81" />
+        <mark key="]" line="91" column="11" />
+        <mark key="." line="91" column="11" />
+        <mark key="^" line="91" column="11" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/detectors/benchmarks/ut_splicing_eta.py" timestamp="1550050670583">
+        <mark key="'" line="172" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/generated/json_classes.py" timestamp="1549544232935">
+        <mark key="[" line="362" column="6" />
+        <mark key="]" line="362" column="5" />
+        <mark key="^" line="362" column="5" />
+        <mark key="." line="362" column="5" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/testing.py" timestamp="1549989297697">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="12" />
+        <mark key="^" line="34" column="95" />
+        <mark key="." line="42" column="12" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1554714117026">
+        <mark key="[" line="279" column="89" />
+        <mark key="]" line="279" column="88" />
+        <mark key="." line="279" column="88" />
+        <mark key="^" line="279" column="88" />
+      </file>
+      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/controller_replay.py" timestamp="1540838210872">
+        <mark key="[" line="50" column="12" />
+        <mark key="]" line="50" column="89" />
+        <mark key="." line="50" column="89" />
+        <mark key="^" line="50" column="89" />
+      </file>
+      <file name="$USER_HOME$/Code/device_communication/pydcomm/tests/connection/fixes/network_disconnected_fixer_tests.py" timestamp="1540988843147">
+        <mark key="[" line="14" column="128" />
+        <mark key="]" line="14" column="128" />
+        <mark key="." line="14" column="128" />
+        <mark key="^" line="14" column="129" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_ut.py" timestamp="1554714079578">
+        <mark key="'" line="557" column="0" />
+        <mark key="[" line="505" column="0" />
+        <mark key="]" line="505" column="0" />
+        <mark key="." line="505" column="0" />
+        <mark key="^" line="504" column="14" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/daemon_tester/daemon_tester.py" timestamp="1549460573892">
+        <mark key="'" line="197" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/device_communication/pydcomm/general_android/android_device_utils.py" timestamp="1548931512809">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="39" />
+        <mark key="." line="10" column="39" />
+        <mark key="^" line="10" column="39" />
+      </file>
       <file name="/Python Console" timestamp="1554643410280">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
@@ -20,9 +130,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="37" />
-      </file>
-      <file name="/a.dummy" timestamp="1554643456900">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/swig/templates/python_footer.py" timestamp="1543140676681">
         <mark key="[" line="0" column="0" />
@@ -47,58 +154,27 @@
         <mark key="^" line="43" column="38" />
         <mark key="." line="43" column="38" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/do_ut.py" timestamp="1549815457961">
-        <mark key="[" line="288" column="26" />
-        <mark key="]" line="288" column="26" />
-        <mark key="^" line="288" column="26" />
-        <mark key="." line="288" column="26" />
-      </file>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/general_android/connection/wireless_adb_connection.py" timestamp="1541584398236">
         <mark key="[" line="57" column="20" />
         <mark key="]" line="57" column="20" />
         <mark key="^" line="57" column="41" />
         <mark key="." line="57" column="20" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" timestamp="1554655047599">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" timestamp="1554713959585">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="37" column="28" />
-        <mark key="]" line="38" column="33" />
-        <mark key="." line="38" column="33" />
-        <mark key="^" line="38" column="33" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/build.py" timestamp="1549544575628">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="16" />
-        <mark key="^" line="93" column="92" />
-        <mark key="." line="96" column="16" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/archive_in_process.py" timestamp="1554644000302">
-        <mark key="'" line="8" column="39" />
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="44" />
-        <mark key="." line="8" column="44" />
-        <mark key="^" line="8" column="44" />
+        <mark key="[" line="36" column="122" />
+        <mark key="]" line="36" column="121" />
+        <mark key="." line="36" column="121" />
+        <mark key="^" line="36" column="121" />
       </file>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/impl/adb_connection_adapter.py" timestamp="1548931213824">
         <mark key="'" line="73" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/tests/daemon/actions.py" timestamp="1542128182018">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="4" column="15" />
-        <mark key="^" line="4" column="15" />
       </file>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/general_android/connection/common.py" timestamp="1541421720649">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="1" column="59" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/daemon/scenarios/teacher_paused_freeze_repro.py" timestamp="1542550157156">
-        <mark key="[" line="43" column="36" />
-        <mark key="]" line="44" column="37" />
-        <mark key="^" line="44" column="37" />
-        <mark key="." line="44" column="37" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/collect_dcomm_ux_stats.py" timestamp="1549460599373">
         <mark key="'" line="99" column="0" />
@@ -112,37 +188,16 @@
         <mark key="]" line="145" column="42" />
         <mark key="." line="145" column="42" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/do_uuc.py" timestamp="1549386130270">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/buga_api/capi.py" timestamp="1549456984355">
         <mark key="[" line="355" column="8" />
         <mark key="]" line="355" column="26" />
         <mark key="^" line="355" column="26" />
         <mark key="." line="355" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/device_communication/pydcomm/tests/benchmarks/tester_raw_input_tests.py" timestamp="1541343800739">
-        <mark key="[" line="19" column="29" />
-        <mark key="]" line="19" column="38" />
-        <mark key="." line="19" column="38" />
-        <mark key="^" line="19" column="38" />
-      </file>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/general_android/connection/decorator_helpers.py" timestamp="1548930550122">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/setup.py" timestamp="1554646507721">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/standalone_benchmark_runner.py" timestamp="1554652798856">
-        <mark key="'" line="62" column="4" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" timestamp="1554659076411">
         <mark key="'" line="160" column="4" />
@@ -150,12 +205,6 @@
         <mark key="]" line="137" column="18" />
         <mark key="^" line="137" column="18" />
         <mark key="." line="137" column="18" />
-      </file>
-      <file name="$USER_HOME$/Code/device_communication/pydcomm/general_android/connection/connection_factory.py" timestamp="1541585565061">
-        <mark key="[" line="90" column="81" />
-        <mark key="]" line="91" column="11" />
-        <mark key="." line="91" column="11" />
-        <mark key="^" line="91" column="11" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/oppo_utils.py" timestamp="1542191819453">
         <mark key="[" line="1476" column="0" />
@@ -175,20 +224,11 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/detectors/benchmarks/ut_splicing_eta.py" timestamp="1550050670583">
-        <mark key="'" line="172" column="0" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/daemon_tester/scenarios/insufficient_scenarios.py" timestamp="1546521000157">
         <mark key="[" line="20" column="77" />
         <mark key="]" line="20" column="64" />
         <mark key="^" line="20" column="64" />
         <mark key="." line="20" column="64" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/generated/json_classes.py" timestamp="1549544232935">
-        <mark key="[" line="362" column="6" />
-        <mark key="]" line="362" column="5" />
-        <mark key="^" line="362" column="5" />
-        <mark key="." line="362" column="5" />
       </file>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/general_android/connection/fixers/unreachable_device_fixer.py" timestamp="1541424022379">
         <mark key="[" line="3" column="5" />
@@ -215,12 +255,6 @@
         <mark key="." line="874" column="0" />
         <mark key="^" line="874" column="43" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/testing.py" timestamp="1549989297697">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="12" />
-        <mark key="^" line="34" column="95" />
-        <mark key="." line="42" column="12" />
-      </file>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/tests/benchmarks/raw_input_recorder_tests.py" timestamp="1541423906459">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="64" column="23" />
@@ -238,34 +272,6 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
         <mark key="^" line="72" column="3" />
-      </file>
-      <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/controller_replay.py" timestamp="1540838210872">
-        <mark key="[" line="50" column="12" />
-        <mark key="]" line="50" column="89" />
-        <mark key="." line="50" column="89" />
-        <mark key="^" line="50" column="89" />
-      </file>
-      <file name="$USER_HOME$/Code/device_communication/pydcomm/tests/connection/fixes/network_disconnected_fixer_tests.py" timestamp="1540988843147">
-        <mark key="[" line="14" column="128" />
-        <mark key="]" line="14" column="128" />
-        <mark key="." line="14" column="128" />
-        <mark key="^" line="14" column="129" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_ut.py" timestamp="1554644477756">
-        <mark key="'" line="562" column="0" />
-        <mark key="[" line="510" column="0" />
-        <mark key="]" line="510" column="0" />
-        <mark key="." line="510" column="0" />
-        <mark key="^" line="509" column="14" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/daemon_tester/daemon_tester.py" timestamp="1549460573892">
-        <mark key="'" line="197" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/device_communication/pydcomm/general_android/android_device_utils.py" timestamp="1548931512809">
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="39" />
-        <mark key="." line="10" column="39" />
-        <mark key="^" line="10" column="39" />
       </file>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/general_android/connection/fixes/connected_usb_device_fixes.py" timestamp="1541070891115">
         <mark key="[" line="20" column="0" />
@@ -393,7 +399,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwLmNsb3NlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -405,7 +411,7 @@
         <text>replay_from_audiodata(songs_audio_data, dings_audio_data, configuration)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwLmNsb3NlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
@@ -414,28 +420,28 @@
         <text encoding="base64">ICAgICAgICBwLmNsb3NlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBweW1vYmlsZXByb2R1Y3QudXRpbHMuZGVsZXRlX29wcG9fbG9ncyBpbXBvcnQgY29sb3JhbWFfaW5pdAo=</text>
+        <text encoding="base64">ICAgICAgICBwLmNsb3NlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIGkgPT0gMDoK</text>
+        <text encoding="base64">ZnJvbSBweW1vYmlsZXByb2R1Y3QudXRpbHMuZGVsZXRlX29wcG9fbG9ncyBpbXBvcnQgY29sb3JhbWFfaW5pdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSByZXRyeWluZyBpbXBvcnQgCg==</text>
+        <text encoding="base64">ICAgIGlmIGkgPT0gMDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdyZXRyeWluZycK</text>
+        <text encoding="base64">ZnJvbSByZXRyeWluZyBpbXBvcnQgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdyZXRyeWluZycK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIHJlcGxheV9mcm9tX2F1ZGlvZGF0YShzb25nc19hdWRpb19kYXRhLCBkaW5nc19hdWRpb19kYXRhLCBjb25maWd1cmF0aW9uKQo=</text>
+        <text encoding="base64">ICAgIHRyeQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGFwcGx5X2luX3Byb2Nlc3MK</text>
+        <text encoding="base64">ICAgICMgcmV0dXJuIHJlcGxheV9mcm9tX2F1ZGlvZGF0YShzb25nc19hdWRpb19kYXRhLCBkaW5nc19hdWRpb19kYXRhLCBjb25maWd1cmF0aW9uKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
