@@ -160,12 +160,12 @@
         <mark key="^" line="57" column="41" />
         <mark key="." line="57" column="20" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" timestamp="1554738638019">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" timestamp="1554739716797">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="32" column="10" />
+        <mark key="[" line="34" column="12" />
+        <mark key="]" line="35" column="19" />
+        <mark key="." line="35" column="19" />
+        <mark key="^" line="35" column="19" />
       </file>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/impl/adb_connection_adapter.py" timestamp="1548931213824">
         <mark key="'" line="73" column="0" />
