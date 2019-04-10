@@ -73,11 +73,12 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/detectors/benchmarks/ut_splicing_eta.py" timestamp="1550050670583">
         <mark key="'" line="172" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" timestamp="1554886884442">
-        <mark key="[" line="50" column="14" />
-        <mark key="]" line="49" column="16" />
-        <mark key="." line="49" column="16" />
-        <mark key="^" line="49" column="16" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" timestamp="1554889397706">
+        <mark key="'" line="171" column="4" />
+        <mark key="[" line="26" column="25" />
+        <mark key="]" line="26" column="26" />
+        <mark key="^" line="26" column="26" />
+        <mark key="." line="26" column="26" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/generated/json_classes.py" timestamp="1549544232935">
         <mark key="[" line="362" column="6" />
@@ -97,11 +98,11 @@
         <mark key="." line="322" column="88" />
         <mark key="^" line="322" column="88" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_extended_matrix.py" timestamp="1554885000780">
-        <mark key="[" line="673" column="8" />
-        <mark key="]" line="673" column="15" />
-        <mark key="^" line="673" column="15" />
-        <mark key="." line="673" column="15" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_extended_matrix.py" timestamp="1554889009819">
+        <mark key="[" line="555" column="34" />
+        <mark key="]" line="555" column="34" />
+        <mark key="." line="555" column="34" />
+        <mark key="^" line="555" column="34" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/controller_replay.py" timestamp="1540838210872">
         <mark key="[" line="50" column="12" />
@@ -300,24 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="9" column="115" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
       <jump line="60" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
       <jump line="51" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
       <jump line="47" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
@@ -400,6 +383,24 @@
       <jump line="75" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
       <jump line="72" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
       <jump line="69" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="154" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" />
+      <jump line="157" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" />
+      <jump line="165" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" />
+      <jump line="166" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" />
+      <jump line="153" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" />
+      <jump line="146" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" />
+      <jump line="139" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" />
+      <jump line="137" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" />
+      <jump line="131" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" />
+      <jump line="128" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" />
+      <jump line="113" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" />
+      <jump line="106" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" />
+      <jump line="170" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -412,10 +413,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByb3dzCg==</text>
+        <text encoding="base64">ICAgIGNsYXNzIFN0b3BTdW1tYXJpemluZ1JvdyhFeGNlcHRpb24pOgogICAgICAgIHBhc3MKCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+        <text>teachsane</text>
       </register>
       <register name="/" type="4">
         <text>buga_con</text>
@@ -424,37 +425,38 @@
         <text>replay_from_audiodata(songs_audio_data, dings_audio_data, configuration)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByb3dzCg==</text>
+        <text encoding="base64">ICAgIGNsYXNzIFN0b3BTdW1tYXJpemluZ1JvdyhFeGNlcHRpb24pOgogICAgICAgIHBhc3MKCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICgnaXNfdXBwZXJfYm91bmQnLCBkZWxheV91cHBlcl9ib3VuZCksCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB1dWNfc29uZyA9CiAgICAgICAgICAgICAgICB1dWNfdm9sdW1lID0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgcmVjczoK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGFyY2hpdmUgPSBDQXJjaGl2ZSgpCg==</text>
+      <register name="4" type="8">
+        <text>param
+param</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG11c2kK</text>
+        <text encoding="base64">CiAgICBhcmMgPSBDQXJjaGl2ZSgpCiAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFyYy5yZWNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Rml4IG1lbW9yeSBsZWFrIGluIGJlbmNobWFyawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVyYXRpb25faW5fZWFyID0gdGltZV91bnRpbF9hY3Rpb25faW5fZ29fY291bnRkb3duKGRhdGFfYXJjaGl2ZS5yZWNzW1RTQy5vdXRfYm90aF9yZWNfaWR4XSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRTQy5vdXRfYm90aF9yZWFjdGlvbl9pZHgsIGRlbGF5X3VwcGVyX2JvdW5kKQogICAgICAgICAgICBpZiBkdXJhdGlvbl9pbl9lYXIgPCAwOgogICAgICAgICAgICAgICAgZnBfYm90aCA9IG5wLm5hbgogICAgICAgICAgICAgICAgb3V0X2JvdGhfMSA9IG5wLm5hbgoKICAgICAgICAgICAgcm93LmFwcGVuZCgoJ2ZwX2JvdGhfMScsIGZwX2JvdGgpKQogICAgICAgICAgICAjIGlmIGZwX2JvdGggPT0gIkZQIjoKICAgICAgICAgICAgIyByYWlzZSBTdG9wU3VtbWFyaXppbmdSb3cKICAgICAgICAgICAgcm93LmFwcGVuZCgoJ2R1cmF0aW9uX2luX2VhcicsIGR1cmF0aW9uX2luX2VhcikpCgogICAgICAgICAgICByb3cuYXBwZW5kKCgnb3V0X2JvdGhfMScsIG91dF9ib3RoXzEpKQoKICAgICAgICAgICAgIyBhcGwgbGVmdAogICAgICAgICAgICBhcGxfbGVmdF8xLCBmcGxfbGVmdF8xID0gY2FsY3VsYXRlX2F1dG9wbGF5X2RlbGF5X2FuZF9mYWxzZV9wbGF5KGRhdGFfYXJjaGl2ZVsncmVjcyddW1RTQy5hcGxfbGVmdF8xX3JlY19pZHhdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcGxheV9vdXRwdXRbVFNDLmFwbF9sZWZ0XzFfcmVjX2lkeF0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVFNDLmFwbF9yaWdodF8xX3JlYWN0aW9uX2lkeCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWxheV91cHBlcl9ib3VuZCkKICAgICAgICAgICAgcm93LmFwcGVuZCgoJ2FwbF9sZWZ0XzEnLCBhcGxfbGVmdF8xKSkKICAgICAgICAgICAgcm93LmFwcGVuZCgoJ2ZwbF9sZWZ0XzEnLCBmcGxfbGVmdF8xKSkKICAgICAgICAgICAgIyBhcGwgbGVmdAogICAgICAgICAgICBhcGxfcmlnaHRfMSwgZnBsX3JpZ2h0XzEgPSBjYWxjdWxhdGVfYXV0b3BsYXlfZGVsYXlfYW5kX2ZhbHNlX3BsYXkoCiAgICAgICAgICAgICAgICBkYXRhX2FyY2hpdmVbJ3JlY3MnXVtUU0MuYXBsX3JpZ2h0XzFfcmVjX2lkeF0sCiAgICAgICAgICAgICAgICByZXBsYXlfb3V0cHV0W1RTQy5hcGxfcmlnaHRfMV9yZWNfaWR4XSwKICAgICAgICAgICAgICAgIFRTQy5hcGxfcmlnaHRfMV9yZWFjdGlvbl9pZHgsCiAgICAgICAgICAgICAgICBkZWxheV91cHBlcl9ib3VuZCkKICAgICAgICAgICAgcm93LmFwcGVuZCgoJ2FwbF9yaWdodF8xJywgYXBsX3JpZ2h0XzEpKQogICAgICAgICAgICByb3cuYXBwZW5kKCgnZnBsX3JpZ2h0XzEnLCBmcGxfcmlnaHRfMSkpCgogICAgICAgICAgICAjIGZwc19sZWZ0CiAgICAgICAgICAgIF8sIGZwc19sZWZ0ID0gYXV0b3BhdXNlX3N1bW1hcnlfb2ZfbXNnX3Rha2VvZmZfcGVkYWwoZGF0YV9hcmNoaXZlWydyZWNzJ11bVFNDLmZwc19sZWZ0X2FuZF9yaWdodF9yZWNfaWR4XSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXBsYXlfb3V0cHV0W1RTQy5mcHNfbGVmdF9hbmRfcmlnaHRfcmVjX2lkeF0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVFNDLmZwc19sZWZ0X3JlYWN0aW9uX2lkeCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWxheV91cHBlcl9ib3VuZCkKICAgICAgICAgICAgIyBmcHNfcmlnaHQKCiAgICAgICAgICAgIF8sIGZwc19yaWdodCA9IGF1dG9wYXVzZV9zdW1tYXJ5X29mX21zZ190YWtlb2ZmX3BlZGFsKGRhdGFfYXJjaGl2ZVsncmVjcyddW1RTQy5mcHNfbGVmdF9hbmRfcmlnaHRfcmVjX2lkeF0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcGxheV9vdXRwdXRbVFNDLmZwc19sZWZ0X2FuZF9yaWdodF9yZWNfaWR4XSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVFNDLmZwc19yaWdodF9yZWFjdGlvbl9pZHgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlbGF5X3VwcGVyX2JvdW5kKQogICAgICAgICAgICByb3cuYXBwZW5kKCgnZnBzX2xlZnQnLCBmcHNfbGVmdCkpCiAgICAgICAgICAgIHJvdy5hcHBlbmQoKCdmcHNfcmlnaHQnLCBmcHNfcmlnaHQpKQoKICAgICAgICAgICAgIyBhcGxfbGVmdF8yCiAgICAgICAgICAgIGFwbF9sZWZ0XzIsIGZwbF9sZWZ0XzIgPSBjYWxjdWxhdGVfYXV0b3BsYXlfZGVsYXlfYW5kX2ZhbHNlX3BsYXkoZGF0YV9hcmNoaXZlWydyZWNzJ11bVFNDLmFwbF9sZWZ0XzJfcmVjX2lkeF0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVwbGF5X291dHB1dFtUU0MuYXBsX2xlZnRfMl9yZWNfaWR4XSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUU0MuYXBsX2xlZnRfMl9yZWFjdGlvbl9pZHgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVsYXlfdXBwZXJfYm91bmQpCiAgICAgICAgICAgIHJvdy5hcHBlbmQoKCdhcGxfbGVmdF8yJywgYXBsX2xlZnRfMikpCiAgICAgICAgICAgIHJvdy5hcHBlbmQoKCdmcGxfbGVmdF8yJywgZnBsX2xlZnRfMikpCiAgICAgICAgICAgICMgYXBsX3JpZ2h0XzIKICAgICAgICAgICAgYXBsX3JpZ2h0XzIsIGZwbF9yaWdodF8yID0gY2FsY3VsYXRlX2F1dG9wbGF5X2RlbGF5X2FuZF9mYWxzZV9wbGF5KAogICAgICAgICAgICAgICAgZGF0YV9hcmNoaXZlWydyZWNzJ11bVFNDLmFwbF9yaWdodF8yX3JlY19pZHhdLAogICAgICAgICAgICAgICAgcmVwbGF5X291dHB1dFtUU0MuYXBsX3JpZ2h0XzJfcmVjX2lkeF0sCiAgICAgICAgICAgICAgICBUU0MuYXBsX3JpZ2h0XzJfcmVhY3Rpb25faWR4LAogICAgICAgICAgICAgICAgZGVsYXlfdXBwZXJfYm91bmQpCiAgICAgICAgICAgIHJvdy5leHRlbmQoWygnYXBsX3JpZ2h0XzInLCBhcGxfcmlnaHRfMiksICgnZnBsX3JpZ2h0XzInLCBmcGxfcmlnaHRfMildKQoKICAgICAgICAgICAgIyBsb3cgdm9sdW1lCiAgICAgICAgICAgIHJvdy5hcHBlbmQoKCdsb3dfdm9sdW1lJywgZGF0YV9hcmNoaXZlWydyZWNzJ11bMTBdLm1ldGFkYXRhWyd2b2x1bWUnXSAqIDEwMCkpCgogICAgICAgICAgICAjIGZwX2JvdGhfMiAmIG91dAogICAgICAgICAgICBvdXRfYm90aF8yLCBmcF9ib3RoXzIgPSBhdXRvcGF1c2Vfc3VtbWFyeV9vZl9tc2dfdGFrZW9mZl9wZWRhbChkYXRhX2FyY2hpdmVbJ3JlY3MnXVsxMF0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcGxheV9vdXRwdXRbMTBdLCAyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWxheV91cHBlcl9ib3VuZCkKICAgICAgICAgICAgcm93LmV4dGVuZChbKCdmcF9ib3RoXzInLCBmcF9ib3RoXzIpLCAoJ291dF9ib3RoXzInLCBvdXRfYm90aF8yKV0pCgogICAgICAgICAgICAjIFRCRCBhZGQgZHVyYXRpb25faW5fZWFyXzIKCiAgICAgICAgICAgICMgYXBsX2xlZnRfMwogICAgICAgICAgICBhcGxfbGVmdF8zLCBmcGxfbGVmdF8zID0gY2FsY3VsYXRlX2F1dG9wbGF5X2RlbGF5X2FuZF9mYWxzZV9wbGF5KGRhdGFfYXJjaGl2ZVsncmVjcyddW1RTQy5hcGxfbGVmdF8zX3JlY19pZHhdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcGxheV9vdXRwdXRbVFNDLmFwbF9sZWZ0XzNfcmVjX2lkeF0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVFNDLmFwbF9sZWZ0XzNfcmVhY3Rpb25faWR4LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlbGF5X3VwcGVyX2JvdW5kKQogICAgICAgICAgICByb3cuZXh0ZW5kKFsoJ2FwbF9sZWZ0XzMnLCBhcGxfbGVmdF8zKSwgKCdmcGxfbGVmdF8zJywgZnBsX2xlZnRfMyldKQoKICAgICAgICAgICAgIyBhcGxfcmlnaHRfMwogICAgICAgICAgICBhcGxfcmlnaHRfMywgZnBsX3JpZ2h0XzMgPSBjYWxjdWxhdGVfYXV0b3BsYXlfZGVsYXlfYW5kX2ZhbHNlX3BsYXkoCiAgICAgICAgICAgICAgICBkYXRhX2FyY2hpdmVbJ3JlY3MnXVtUU0MuYXBsX3JpZ2h0XzNfcmVjX2lkeF0sCiAgICAgICAgICAgICAgICByZXBsYXlfb3V0cHV0W1RTQy5hcGxfcmlnaHRfM19yZWNfaWR4XSwKICAgICAgICAgICAgICAgIFRTQy5hcGxfcmlnaHRfM19yZWFjdGlvbl9pZHgsCiAgICAgICAgICAgICAgICBkZWxheV91cHBlcl9ib3VuZCkKICAgICAgICAgICAgcm93LmV4dGVuZChbKCdhcGxfcmlnaHRfMycsIGFwbF9yaWdodF8zKSwgKCdmcGxfcmlnaHRfMycsIGZwbF9yaWdodF8zKV0pCgogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICB3YXJuaW5ncy53YXJuKCJUaGUgc3VtbWFyeSBkaWRuJ3QgY29tcGxldGVkLiBlbmRlZCBhdCBjb2x1bW4ge30iLmZvcm1hdChsZW4obWV0YWRhdGEpKSkKCiAgICAjIGFkZCBlcnJvcgogICAgdHJ5OgogICAgICAgIG1heF9lcnJvciA9IG1heChbZGF0YV9hcmNoaXZlWydyZWNzJ11baV1bJ3N5bmNfZGF0YSddWydkZXZpY2VfcGNfdGltZV9lcnJvcl9ib3VuZCddLnRvdGFsX3NlY29uZHMoKQogICAgICAgICAgICAgICAgICAgICAgICAgZm9yIGkgaW4gZGF0YV9hcmNoaXZlWydyZWNzJ11dKQogICAgICAgIG1ldGFkYXRhLmFwcGVuZCgoJ21heF9jbG9ja3NfZXJyb3InLCBtYXhfZXJyb3IpKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICBwYXNzCgogICAgcmV0dXJuIHBhbmRhcy5EYXRhRnJhbWUoZGF0YT1bZGljdChtZXRhZGF0YSldLCBjb2x1bW5zPXppcCgqbWV0YWRhdGEpWzBdKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHggPSBqa2QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICgnaXNfdXBwZXJfYm91bmQnLCBkZWxheV91cHBlcl9ib3VuZCksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBweWJ1Z2EuaW5mcmEudXRpbHMucHJvY2Vzc191dGlscyBpbXBvcnQgYXBwbHlfaW5fcHJvY2Vzcwo=</text>
+        <text encoding="base64">ICAgICAgICByb3dzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -509,9 +511,9 @@
         <entry>Lw</entry>
         <entry>x</entry>
         <entry>buga_con</entry>
-        <entry>q</entry>
         <entry>d</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
