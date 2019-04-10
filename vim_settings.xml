@@ -73,7 +73,12 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/detectors/benchmarks/ut_splicing_eta.py" timestamp="1550050670583">
         <mark key="'" line="172" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" timestamp="1554741356996" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" timestamp="1554886633754">
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="35" column="49" />
+        <mark key="^" line="35" column="49" />
+        <mark key="." line="35" column="49" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/generated/json_classes.py" timestamp="1549544232935">
         <mark key="[" line="362" column="6" />
         <mark key="]" line="362" column="5" />
@@ -161,7 +166,9 @@
         <mark key="^" line="43" column="38" />
         <mark key="." line="43" column="38" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" timestamp="1554741355038" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" timestamp="1554886329438">
+        <mark key="'" line="69" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/general_android/connection/wireless_adb_connection.py" timestamp="1541584398236">
         <mark key="[" line="57" column="20" />
         <mark key="]" line="57" column="20" />
@@ -293,19 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="40" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
       <jump line="9" column="115" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
       <jump line="2" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
@@ -393,6 +387,19 @@
       <jump line="1799" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
       <jump line="1784" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="47" column="6" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="93" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="75" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="69" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -405,10 +412,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>eordered</text>
+        <text>data_archive</text>
       </register>
       <register name="-" type="4">
-        <text>eordered</text>
+        <text>data_archive</text>
       </register>
       <register name="/" type="4">
         <text>buga_con</text>
@@ -417,37 +424,37 @@
         <text>replay_from_audiodata(songs_audio_data, dings_audio_data, configuration)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICgnaXNfdXBwZXJfYm91bmQnLCBkZWxheV91cHBlcl9ib3VuZCksCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFyY2hpdmUgPSBDQXJjaGl2ZSgpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIG11c2kK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGFyY2hpdmUgPSBDQXJjaGl2ZSgpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG11c2kK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Rml4IG1lbW9yeSBsZWFrIGluIGJlbmNobWFyawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHggPSBqa2QK</text>
+        <text encoding="base64">Rml4IG1lbW9yeSBsZWFrIGluIGJlbmNobWFyawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBweWJ1Z2EuaW5mcmEudXRpbHMucHJvY2Vzc191dGlscyBpbXBvcnQgYXBwbHlfaW5fcHJvY2Vzcwo=</text>
+        <text encoding="base64">ICAgIHggPSBqa2QK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBweWJ1Z2EuaW5mcmEudXRpbHMucHJvY2Vzc191dGlscyBpbXBvcnQgYXBwbHlfaW5fcHJvY2Vzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIERhZUluc3Qob2JqZWN0KToKICAgICAgICBkZWYgX19pbml0X18oc2VsZiwgcGF0aCwgb3UpOgogICAgICAgICAgICBzZWxmLnBhdGggPSBwYXRoCiAgICAgICAgICAgIHNlbGYub3UgPSBvdQoKICAgICAgICBkZWYgaW5zdGFsbChzZWxmKToKICAgICAgICAgICAgc2VsZi5vdS5pbnN0YWxsX2RhZW1vbihzZWxmLnBhdGgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
