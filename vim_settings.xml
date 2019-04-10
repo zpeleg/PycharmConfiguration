@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/general_android/connection/fixers/get_user_attention_fixer.py" timestamp="1541414319291">
@@ -92,11 +92,11 @@
         <mark key="." line="322" column="88" />
         <mark key="^" line="322" column="88" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_extended_matrix.py" timestamp="1554741076028">
-        <mark key="[" line="496" column="31" />
-        <mark key="]" line="496" column="33" />
-        <mark key="^" line="496" column="33" />
-        <mark key="." line="496" column="33" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_extended_matrix.py" timestamp="1554883445636">
+        <mark key="[" line="531" column="13" />
+        <mark key="]" line="532" column="25" />
+        <mark key="^" line="532" column="25" />
+        <mark key="." line="532" column="25" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/controller_replay.py" timestamp="1540838210872">
         <mark key="[" line="50" column="12" />
