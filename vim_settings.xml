@@ -106,12 +106,12 @@
         <mark key="." line="322" column="88" />
         <mark key="^" line="322" column="88" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_extended_matrix.py" timestamp="1554921448387">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_extended_matrix.py" timestamp="1554924394113">
         <mark key="'" line="645" column="0" />
-        <mark key="[" line="549" column="111" />
-        <mark key="]" line="549" column="113" />
-        <mark key="^" line="549" column="113" />
-        <mark key="." line="549" column="113" />
+        <mark key="[" line="657" column="4" />
+        <mark key="]" line="657" column="19" />
+        <mark key="^" line="656" column="24" />
+        <mark key="." line="657" column="4" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/controller_replay.py" timestamp="1540838210872">
         <mark key="[" line="50" column="12" />
@@ -140,7 +140,7 @@
         <mark key="^" line="10" column="39" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/detectors/benchmarks/oppo_data.py" timestamp="1554914905971" />
-      <file name="/Python Console" timestamp="1554922537283">
+      <file name="/Python Console" timestamp="1554924067963">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1554918621524">
@@ -304,11 +304,11 @@
         <mark key="^" line="8" column="50" />
         <mark key="." line="8" column="50" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/extended_matrix_row_summary.py" timestamp="1554922517948">
-        <mark key="[" line="32" column="55" />
-        <mark key="]" line="32" column="55" />
-        <mark key="." line="32" column="55" />
-        <mark key="^" line="32" column="55" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/extended_matrix_row_summary.py" timestamp="1554924060852">
+        <mark key="[" line="96" column="119" />
+        <mark key="]" line="96" column="120" />
+        <mark key="." line="96" column="120" />
+        <mark key="^" line="90" column="118" />
       </file>
     </filemarks>
     <jumps>
@@ -424,16 +424,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>list</text>
+        <text>summary</text>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text>summary</text>
       </register>
       <register name="/" type="4">
         <text>buga_con</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHV1Y19zb25ncyA9IFt1IuW/g+WimSIsIHUiZ2V0X2x1Y2t5IiwgdSJhcm1zIl0KICAgIHV1Y192b2x1bWVzID0gW3UiMjAuMCIsIHUiNTAuMCIsIHUiMjAwLjAiXQo=</text>
+      <register name="0" type="4">
+        <text>raw_row_summary</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Rml4IGRvX3V0IGFuZCBNb2FiQXJjaGl2ZXMK</text>
