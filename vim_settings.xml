@@ -73,12 +73,12 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/detectors/benchmarks/ut_splicing_eta.py" timestamp="1550050670583">
         <mark key="'" line="172" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" timestamp="1554898206644">
-        <mark key="'" line="118" column="0" />
-        <mark key="[" line="95" column="53" />
-        <mark key="]" line="95" column="53" />
-        <mark key="." line="95" column="53" />
-        <mark key="^" line="95" column="53" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" timestamp="1554899643268">
+        <mark key="'" line="120" column="0" />
+        <mark key="[" line="99" column="77" />
+        <mark key="]" line="99" column="90" />
+        <mark key="." line="99" column="90" />
+        <mark key="^" line="99" column="90" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/generated/json_classes.py" timestamp="1549544232935">
         <mark key="[" line="362" column="6" />
@@ -132,13 +132,13 @@
         <mark key="." line="10" column="39" />
         <mark key="^" line="10" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1554643410280">
+      <file name="/Python Console" timestamp="1554899664459">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="/fragment.py" timestamp="1541410127055">
+      <file name="/fragment.py" timestamp="1554899487237">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -413,10 +413,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>ux_index + RECS_OFFSET + 1</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>ux_index + RECS_OFFSET + 1</text>
       </register>
       <register name="/" type="4">
         <text>buga_con</text>
@@ -425,37 +425,37 @@
         <text>autopause_count</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIHB5bW9iaWxlcHJvZHVjdC5kYXRhX2NvbGxlY3Rpb24uZXh0ZW5kZWRfbWF0cml4LmV4dGVuZGVkX21hdHJpeF9yb3dfc3VtbWFyeSBpbXBvcnQgbWFrZV9leG1fcm93X2Zyb21fYXJjaCwgY29udmVydF91eGV2ZW50c19yb3dfdG9fZGljdAo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgd2FybmluZ3Mud2FybigiVGhlIHN1bW1hcnkgZGlkbid0IGNvbXBsZXRlLiBlbmRlZCBhdCBjb2x1bW4ge30iLmZvcm1hdChsZW4obWV0YWRhdGEpKSkK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHJvdykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyb3cpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgQVBMCg==</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgQVAK</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgd2FybmluZ3Mud2FybigiVGhlIHN1bW1hcnkgZGlkbid0IGNvbXBsZXRlLiBlbmRlZCBhdCBjb2x1bW4ge30iLmZvcm1hdChsZW4obWV0YWRhdGEpKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHJvdykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgQVBMCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvdy5hcHBlbmQoKCIiKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgQVAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
