@@ -8,4 +8,15 @@
     <keyboard-shortcut first-keystroke="shift alt 7" />
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
+  <action id="MethodHierarchy" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
 </keymap>
