@@ -50,11 +50,11 @@
         <mark key="^" line="44" column="37" />
         <mark key="." line="44" column="37" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/archives.py" timestamp="1554916121467">
-        <mark key="[" line="30" column="47" />
-        <mark key="]" line="30" column="47" />
-        <mark key="." line="30" column="47" />
-        <mark key="^" line="40" column="80" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/archives.py" timestamp="1554918376832">
+        <mark key="[" line="42" column="50" />
+        <mark key="]" line="42" column="89" />
+        <mark key="." line="42" column="89" />
+        <mark key="^" line="42" column="89" />
       </file>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/tests/benchmarks/tester_raw_input_tests.py" timestamp="1541343800739">
         <mark key="[" line="19" column="29" />
@@ -106,12 +106,12 @@
         <mark key="." line="322" column="88" />
         <mark key="^" line="322" column="88" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_extended_matrix.py" timestamp="1554914763109">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_extended_matrix.py" timestamp="1554919687032">
         <mark key="'" line="645" column="0" />
-        <mark key="[" line="749" column="13" />
-        <mark key="]" line="750" column="28" />
-        <mark key="^" line="750" column="28" />
-        <mark key="." line="750" column="28" />
+        <mark key="[" line="23" column="108" />
+        <mark key="]" line="23" column="108" />
+        <mark key="^" line="25" column="20" />
+        <mark key="." line="23" column="108" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/controller_replay.py" timestamp="1540838210872">
         <mark key="[" line="50" column="12" />
@@ -125,12 +125,12 @@
         <mark key="." line="14" column="128" />
         <mark key="^" line="14" column="129" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_ut.py" timestamp="1554916019097">
-        <mark key="'" line="610" column="4" />
-        <mark key="[" line="34" column="5" />
-        <mark key="]" line="34" column="20" />
-        <mark key="." line="34" column="20" />
-        <mark key="^" line="34" column="20" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_ut.py" timestamp="1554919360801">
+        <mark key="'" line="595" column="46" />
+        <mark key="[" line="568" column="60" />
+        <mark key="]" line="568" column="71" />
+        <mark key="." line="568" column="71" />
+        <mark key="^" line="568" column="71" />
       </file>
       <file name="/do_extended_matrix.py" timestamp="1554908967603" />
       <file name="$USER_HOME$/Code/device_communication/pydcomm/general_android/android_device_utils.py" timestamp="1548931512809">
@@ -140,10 +140,10 @@
         <mark key="^" line="10" column="39" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/detectors/benchmarks/oppo_data.py" timestamp="1554914905971" />
-      <file name="/Python Console" timestamp="1554912318246">
+      <file name="/Python Console" timestamp="1554918634063">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1554907023688">
+      <file name="/fragment.py" timestamp="1554918621524">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -180,17 +180,23 @@
         <mark key="." line="20" column="20" />
         <mark key="^" line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/moab/teacher_sanity.py" timestamp="1554916002193">
-        <mark key="[" line="21" column="13" />
-        <mark key="]" line="21" column="28" />
-        <mark key="^" line="21" column="28" />
-        <mark key="." line="21" column="28" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/moab/teacher_sanity.py" timestamp="1554917392565">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
       </file>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/general_android/connection/common.py" timestamp="1541421720649">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="1" column="59" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" timestamp="1554917374016">
+        <mark key="[" line="348" column="20" />
+        <mark key="]" line="348" column="19" />
+        <mark key="." line="348" column="19" />
+        <mark key="^" line="348" column="19" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/general.py" timestamp="1554914706163">
         <mark key="[" line="3" column="0" />
@@ -231,7 +237,7 @@
         <mark key="." line="16" column="42" />
         <mark key="^" line="16" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554910021569">
+      <file name="/Dummy.txt" timestamp="1554919644605">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/daemon_tester/scenarios/insufficient_scenarios.py" timestamp="1546521000157">
@@ -298,15 +304,14 @@
         <mark key="^" line="8" column="50" />
         <mark key="." line="8" column="50" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/extended_matrix_row_summary.py" timestamp="1554914729194">
-        <mark key="[" line="127" column="33" />
-        <mark key="]" line="127" column="33" />
-        <mark key="." line="127" column="33" />
-        <mark key="^" line="127" column="32" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/extended_matrix_row_summary.py" timestamp="1554919319437">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/standalone_benchmark_runner.py" />
       <jump line="61" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/standalone_benchmark_runner.py" />
       <jump line="122" column="30" filename="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" />
       <jump line="1789" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
@@ -406,6 +411,7 @@
       <jump line="610" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_ut.py" />
       <jump line="68" column="33" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/teacher_sanity_benchmark.py" />
       <jump line="78" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/teacher_sanity_benchmark.py" />
+      <jump line="595" column="46" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_ut.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -417,52 +423,57 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW9hYkFyY2hpdmVzLlRTW3Nlcy5zZXNzaW9uXQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>MoabArchives.TS[ses.session]</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>buga_con</text>
       </register>
       <register name="0" type="4">
-        <text>MoabArchives.TS[ses.session]</text>
+        <text>make_exm_row_from_arch</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW9hYkFyY2hpdmVzLlRTW3Nlcy5zZXNzaW9uXQo=</text>
+        <text encoding="base64">Rml4IGRvX3V0IGFuZCBNb2FiQXJjaGl2ZXMK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="4">
-        <text>CArchive.load(archivename=ses.session,
-                                                     dirpath=ses.src_dir)</text>
+      <register name="2" type="2">
+        <text encoding="base64">Rml4IGRvX3V0IGFuZCBNb2FiQXJjaGl2ZXMK</text>
       </register>
-      <register name="3" type="4">
-        <text>CArchive.load(archivename=ses.session,
-                                                     dirpath=ses.src_dir)</text>
+      <register name="3" type="2">
+        <text encoding="base64">Rml4IGRvX3V0IGFuZCBNb2FiQXJjaGl2ZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImhpIikK</text>
+        <text encoding="base64">Rml4IGRvX3V0IGFuZCBNb2FiQXJjaGl2ZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiYmlidWJ1YnVidWJ1YiIpCiAgICAgICAgcHJpbnQoc2VsZi50ZW1wbGF0ZV9uYW1lKQo=</text>
+        <text encoding="base64">ICAgIHV1Y19zb25ncyA9IFt1IuW/g+WimSJdCiAgICB1dWNfdm9sdW1lcyA9IFt1IjUwLjAiXQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgia3VrdWt1a3VrdWt1ayIpCg==</text>
+      <register name="6" type="4">
+        <text>A lot of stuff
+* Move all moab archive loading to use MoabArchives.TS/EXM
+  This way we don't need to call normalize_archive everywhere.
+* Move raw_row summary generators to benchmarks.raw_row_summaries
+* Move get_ut_timeline to raw_row_summaries.general, make it general for ut and exm
+* Make generate_recs_scenario
+* Change MoabTSArchives to MoabArchives that matches a pattern
+* Add moab operational data filter</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRlbXBsYXRlX25hbWUgPSB0ZW1wbGF0ZV9uYW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbCBzZWxmLl9hcmNoaXZlc1tuYW1lXQogICAgICAgICAgICAgICAgZGVsYXR0cihzZWxmLCBuYW1lKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
