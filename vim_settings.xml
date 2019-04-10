@@ -92,11 +92,11 @@
         <mark key="." line="322" column="88" />
         <mark key="^" line="322" column="88" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_extended_matrix.py" timestamp="1554883445636">
-        <mark key="[" line="531" column="13" />
-        <mark key="]" line="532" column="25" />
-        <mark key="^" line="532" column="25" />
-        <mark key="." line="532" column="25" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_extended_matrix.py" timestamp="1554885000780">
+        <mark key="[" line="673" column="8" />
+        <mark key="]" line="673" column="15" />
+        <mark key="^" line="673" column="15" />
+        <mark key="." line="673" column="15" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/controller_replay.py" timestamp="1540838210872">
         <mark key="[" line="50" column="12" />
@@ -226,7 +226,7 @@
         <mark key="." line="16" column="42" />
         <mark key="^" line="16" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554740292914">
+      <file name="/Dummy.txt" timestamp="1554885167084">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/daemon_tester/scenarios/insufficient_scenarios.py" timestamp="1546521000157">
@@ -405,10 +405,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text>eordered</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>eordered</text>
       </register>
       <register name="/" type="4">
         <text>buga_con</text>
@@ -417,37 +417,37 @@
         <text>replay_from_audiodata(songs_audio_data, dings_audio_data, configuration)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Rml4IG1lbW9yeSBsZWFrIGluIGJlbmNobWFyawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHggPSBqa2QK</text>
+        <text encoding="base64">ICAgIGFyY2hpdmUgPSBDQXJjaGl2ZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBweWJ1Z2EuaW5mcmEudXRpbHMucHJvY2Vzc191dGlscyBpbXBvcnQgYXBwbHlfaW5fcHJvY2Vzcwo=</text>
+        <text encoding="base64">ICAgIG11c2kK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIERhZUluc3Qob2JqZWN0KToKICAgICAgICBkZWYgX19pbml0X18oc2VsZiwgcGF0aCwgb3UpOgogICAgICAgICAgICBzZWxmLnBhdGggPSBwYXRoCiAgICAgICAgICAgIHNlbGYub3UgPSBvdQoKICAgICAgICBkZWYgaW5zdGFsbChzZWxmKToKICAgICAgICAgICAgc2VsZi5vdS5pbnN0YWxsX2RhZW1vbihzZWxmLnBhdGgpCg==</text>
+        <text encoding="base64">Rml4IG1lbW9yeSBsZWFrIGluIGJlbmNobWFyawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgRGFlSW5zdChvYmplY3QpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHBhdGgsIG91KToKICAgICAgICBzZWxmLnBhdGggPSBwYXRoCiAgICAgICAgc2VsZi5vdSA9IG91CgogICAgZGVmIGluc3RhbGwoc2VsZik6CiAgICAgICAgc2VsZi5vdS5pbnN0YWxsX2RhZW1vbihzZWxmLnBhdGgpCg==</text>
+        <text encoding="base64">ICAgIHggPSBqa2QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBweWJ1Z2EuaW5mcmEudXRpbHMucHJvY2Vzc191dGlscyBpbXBvcnQgYXBwbHlfaW5fcHJvY2Vzcwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBkZWYgcmVhZGFibGVzKHNlbGYpOgogICAgICAgIHJldHVybiBbeFswXSBmb3IgeCBpbiBzZWxmLnZlcnNpb25zXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgIGNsYXNzIERhZUluc3Qob2JqZWN0KToKICAgICAgICBkZWYgX19pbml0X18oc2VsZiwgcGF0aCwgb3UpOgogICAgICAgICAgICBzZWxmLnBhdGggPSBwYXRoCiAgICAgICAgICAgIHNlbGYub3UgPSBvdQoKICAgICAgICBkZWYgaW5zdGFsbChzZWxmKToKICAgICAgICAgICAgc2VsZi5vdS5pbnN0YWxsX2RhZW1vbihzZWxmLnBhdGgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
