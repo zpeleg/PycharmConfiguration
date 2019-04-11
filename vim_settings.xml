@@ -15,7 +15,7 @@
         <mark key="." line="29" column="88" />
         <mark key="^" line="29" column="88" />
       </file>
-      <file name="/a.dummy" timestamp="1554914377039">
+      <file name="/a.dummy" timestamp="1554984835110">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/do_ut.py" timestamp="1549815457961">
@@ -125,11 +125,12 @@
         <mark key="." line="322" column="88" />
         <mark key="^" line="322" column="88" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_extended_matrix.py" timestamp="1554982581063">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_extended_matrix.py" timestamp="1554984812694">
         <mark key="'" line="644" column="0" />
-        <mark key="[" line="547" column="111" />
-        <mark key="]" line="547" column="111" />
-        <mark key="." line="547" column="111" />
+        <mark key="[" line="595" column="56" />
+        <mark key="]" line="595" column="79" />
+        <mark key="." line="595" column="79" />
+        <mark key="^" line="595" column="79" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/controller_replay.py" timestamp="1540838210872">
         <mark key="[" line="50" column="12" />
@@ -143,11 +144,12 @@
         <mark key="." line="14" column="128" />
         <mark key="^" line="14" column="129" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_ut.py" timestamp="1554974409118">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_ut.py" timestamp="1554984768297">
         <mark key="'" line="595" column="46" />
-        <mark key="[" line="489" column="0" />
-        <mark key="]" line="489" column="0" />
-        <mark key="." line="489" column="0" />
+        <mark key="[" line="477" column="56" />
+        <mark key="]" line="477" column="55" />
+        <mark key="." line="477" column="55" />
+        <mark key="^" line="477" column="55" />
       </file>
       <file name="/do_extended_matrix.py" timestamp="1554908967603" />
       <file name="$USER_HOME$/Code/device_communication/pydcomm/general_android/android_device_utils.py" timestamp="1548931512809">
@@ -454,11 +456,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QWRkIGV4Y2VwdGlvbiBjb2x1bW4gd2hlbiBiZW5jaG1hcmsgZmFpbHMuCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>buga_con</text>
