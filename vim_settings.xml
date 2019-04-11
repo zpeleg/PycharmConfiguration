@@ -259,6 +259,12 @@
         <mark key="." line="21" column="138" />
         <mark key="^" line="21" column="138" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/benchmark_core.py" timestamp="1554972972089">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="62" column="17" />
+      </file>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/tests/connection/connection_fixers_tests.py" timestamp="1540988731955">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -424,7 +430,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Rml4IGltcG9ydHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>summary</text>
@@ -436,16 +442,16 @@
         <text>raw_row_summary</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Rml4IGltcG9ydHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Rml4IGRvX3V0IGFuZCBNb2FiQXJjaGl2ZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Rml4IGRvX3V0IGFuZCBNb2FiQXJjaGl2ZXMK</text>
+        <text encoding="base64">Rml4IGltcG9ydHMK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Rml4IGRvX3V0IGFuZCBNb2FiQXJjaGl2ZXMK</text>
@@ -454,9 +460,18 @@
         <text encoding="base64">Rml4IGRvX3V0IGFuZCBNb2FiQXJjaGl2ZXMK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Rml4IGRvX3V0IGFuZCBNb2FiQXJjaGl2ZXMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Rml4IGRvX3V0IGFuZCBNb2FiQXJjaGl2ZXMK</text>
+      </register>
+      <register name="w" type="4">
+        <text />
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHV1Y19zb25ncyA9IFt1IuW/g+WimSJdCiAgICB1dWNfdm9sdW1lcyA9IFt1IjUwLjAiXQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>A lot of stuff
 * Move all moab archive loading to use MoabArchives.TS/EXM
   This way we don't need to call normalize_archive everywhere.
@@ -465,15 +480,6 @@
 * Make generate_recs_scenario
 * Change MoabTSArchives to MoabArchives that matches a pattern
 * Add moab operational data filter</text>
-      </register>
-      <register name="w" type="4">
-        <text />
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbCBzZWxmLl9hcmNoaXZlc1tuYW1lXQogICAgICAgICAgICAgICAgZGVsYXR0cihzZWxmLCBuYW1lKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
