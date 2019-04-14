@@ -110,12 +110,12 @@
         <mark key="." line="322" column="88" />
         <mark key="^" line="322" column="88" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_extended_matrix.py" timestamp="1554990095076">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_extended_matrix.py" timestamp="1555242632406">
         <mark key="'" line="45" column="0" />
-        <mark key="[" line="69" column="8" />
-        <mark key="]" line="69" column="71" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="41" column="113" />
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+        <mark key="^" line="6" column="20" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/controller_replay.py" timestamp="1540838210872">
         <mark key="[" line="50" column="12" />
@@ -137,12 +137,12 @@
         <mark key="^" line="24" column="111" />
       </file>
       <file name="/do_extended_matrix.py" timestamp="1554908967603" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" timestamp="1555241400782">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" timestamp="1555244359508">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="110" column="86" />
-        <mark key="]" line="111" column="21" />
-        <mark key="." line="111" column="21" />
-        <mark key="^" line="111" column="21" />
+        <mark key="[" line="120" column="33" />
+        <mark key="]" line="120" column="33" />
+        <mark key="." line="120" column="33" />
+        <mark key="^" line="74" column="34" />
       </file>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/general_android/android_device_utils.py" timestamp="1548931512809">
         <mark key="[" line="10" column="31" />
@@ -151,17 +151,17 @@
         <mark key="^" line="10" column="39" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/detectors/benchmarks/oppo_data.py" timestamp="1554914905971" />
-      <file name="/Python Console" timestamp="1555241384392">
+      <file name="/Python Console" timestamp="1555242239013">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users_sanity.yaml" timestamp="1555004106712">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users_sanity.yaml" timestamp="1555243919843">
         <mark key="'" line="60" column="20" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="^" line="92" column="46" />
-        <mark key="." line="88" column="0" />
+        <mark key="[" line="16" column="6" />
+        <mark key="]" line="16" column="7" />
+        <mark key="^" line="16" column="7" />
+        <mark key="." line="16" column="7" />
       </file>
-      <file name="/fragment.py" timestamp="1555241496040">
+      <file name="/fragment.py" timestamp="1555241914175">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -253,12 +253,12 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_many_users_sanity.py" timestamp="1555241257092">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_many_users_sanity.py" timestamp="1555244196760">
         <mark key="'" line="27" column="4" />
-        <mark key="[" line="47" column="9" />
-        <mark key="]" line="47" column="10" />
-        <mark key="^" line="47" column="35" />
-        <mark key="." line="47" column="10" />
+        <mark key="[" line="48" column="9" />
+        <mark key="]" line="48" column="10" />
+        <mark key="^" line="47" column="9" />
+        <mark key="." line="48" column="10" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/daemon_tester/scenarios/insufficient_scenarios.py" timestamp="1546521000157">
         <mark key="[" line="20" column="77" />
@@ -296,12 +296,12 @@
         <mark key="." line="319" column="19" />
         <mark key="^" line="319" column="19" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1555237613446">
-        <mark key="'" line="602" column="26" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="27" column="90" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1555243167792">
+        <mark key="'" line="603" column="26" />
+        <mark key="[" line="257" column="40" />
+        <mark key="]" line="258" column="32" />
+        <mark key="." line="258" column="32" />
+        <mark key="^" line="258" column="32" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/many_users_sanity/flow.py" timestamp="1554988142173" />
       <file name="$USER_HOME$/Code/device_communication/pydcomm/general_android/connection/fixes/connected_usb_device_fixes.py" timestamp="1541070891115">
@@ -437,10 +437,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>/homec/buga/tmp_dir/04-11 20:36:49_exm_run.pickle</text>
+        <text>$USER_HOME$/tmp_dir/04-11 20:36:49_exm_run.pickle</text>
       </register>
       <register name="-" type="4">
-        <text>/homec/buga/tmp_dir/04-11 20:36:49_exm_run.pickle</text>
+        <text>$USER_HOME$/tmp_dir/04-11 20:36:49_exm_run.pickle</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
@@ -449,37 +449,37 @@
         <text encoding="base64">ICAgIHV4ZXZlbnRzID0gcGlja2xlLmxvYWQob3BlbigiL2hvbWUvYnVnYS90bXBfZGlyLzA0LTExIDIwOjM2OjQ5X2V4bV9ydW4ucGlja2xlIikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHV1Y190aW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZyb20gcHByaW50IGltcG9ydCBwcHJpbnQKICAgIHBwcmludCh1eGV2ZW50cykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogVVQgc3VjY2VzcyBjb2x1bW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwbF9kZWxheSwgZmFsc2VwYXVzZSA9IGNhbGN1bGF0ZV9hdXRvcGxheV9kZWxheV9hbmRfZmFsc2VfcGxheShzY2VuYXJpb19hcmNoaXZlWyJyZWNzIl1baV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXhldmVudHNbaV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVFdPLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlbGF5X3VwcGVyX2JvdW5kKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">TW92ZSBnZW5lcmFsIGZ1bmN0aW9ucyB0byBnZW5lcmFsLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiLmV4dGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgZnJhbWUudG9fY2xpcGJvYXJkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIEF1dG9wbGF5IGZhaWxlZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGZyYW1lKQo=</text>
+        <text encoding="base64">ICAgIHV1Y190aW1lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZyYW1lID0gcGFuZGFzLkRhdGFGcmFtZShkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGQgPSBbeyJpZCI6IGksICJzeW5jIjogc2NlbmFyaW9bInJlY3MiXVtpXVsic3luY19kYXRhIl1bJ2RldmljZV9wY190aW1lX2Vycm9yX2JvdW5kJ10udG90YWxfc2Vjb25kcygpfSBmb3IgaSBpbiBzb3J0ZWQoc2NlbmFyaW9bInJlY3MiXS5rZXlzKCkpXQo=</text>
+        <text encoding="base64">ICAgICMgVE9ETzogVVQgc3VjY2VzcyBjb2x1bW4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBweW1vYmlsZXByb2R1Y3QuYmVuY2htYXJrcy5yYXdfcm93X3N1bW1hcmllcy5nZW5lcmFsIGltcG9ydCAK</text>
+        <text encoding="base64">TW92ZSBnZW5lcmFsIGZ1bmN0aW9ucyB0byBnZW5lcmFsLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
