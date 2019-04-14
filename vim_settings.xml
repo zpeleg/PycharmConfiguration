@@ -43,13 +43,6 @@
         <mark key="^" line="93" column="92" />
         <mark key="." line="96" column="16" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/archive_in_process.py" timestamp="1554644000302">
-        <mark key="'" line="8" column="39" />
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="44" />
-        <mark key="." line="8" column="44" />
-        <mark key="^" line="8" column="44" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/teacher_sanity_benchmark.py" timestamp="1555259539030">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="43" column="0" />
@@ -67,13 +60,6 @@
         <mark key="]" line="44" column="37" />
         <mark key="^" line="44" column="37" />
         <mark key="." line="44" column="37" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autogen_dummy_archive.py" timestamp="1554976384986">
-        <mark key="'" line="74" column="38" />
-        <mark key="[" line="92" column="38" />
-        <mark key="]" line="92" column="39" />
-        <mark key="^" line="92" column="37" />
-        <mark key="." line="92" column="39" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/archives.py" timestamp="1554986844916">
         <mark key="[" line="52" column="106" />
@@ -112,6 +98,12 @@
         <mark key="." line="127" column="66" />
         <mark key="^" line="127" column="66" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/summaries/many_users.py" timestamp="1555263048140">
+        <mark key="[" line="21" column="79" />
+        <mark key="]" line="21" column="78" />
+        <mark key="." line="21" column="78" />
+        <mark key="^" line="21" column="78" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" timestamp="1554912401731">
         <mark key="'" line="124" column="0" />
         <mark key="[" line="35" column="32" />
@@ -140,11 +132,11 @@
         <mark key="^" line="34" column="95" />
         <mark key="." line="42" column="12" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1555259867352">
-        <mark key="[" line="366" column="9" />
-        <mark key="]" line="366" column="24" />
-        <mark key="." line="366" column="24" />
-        <mark key="^" line="366" column="24" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1555262869297">
+        <mark key="[" line="273" column="0" />
+        <mark key="]" line="273" column="0" />
+        <mark key="." line="273" column="0" />
+        <mark key="^" line="277" column="59" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_extended_matrix.py" timestamp="1555242632406">
         <mark key="'" line="45" column="0" />
@@ -248,13 +240,6 @@
         <mark key="[" line="81" column="0" />
         <mark key="]" line="82" column="79" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/collect_dcomm_ux_stats.py" timestamp="1549460599373">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="48" column="33" />
-        <mark key="]" line="49" column="35" />
-        <mark key="." line="49" column="35" />
-        <mark key="^" line="49" column="35" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/buga_api/capi.py" timestamp="1549456984355">
         <mark key="[" line="355" column="8" />
         <mark key="]" line="355" column="26" />
@@ -266,13 +251,6 @@
         <mark key="]" line="43" column="32" />
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="28" />
-      </file>
-      <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" timestamp="1554659076411">
-        <mark key="'" line="160" column="4" />
-        <mark key="[" line="136" column="25" />
-        <mark key="]" line="137" column="18" />
-        <mark key="^" line="137" column="18" />
-        <mark key="." line="137" column="18" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/oppo_utils.py" timestamp="1542191819453">
         <mark key="[" line="1476" column="0" />
@@ -314,13 +292,6 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" timestamp="1551187564846">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="21" column="138" />
-        <mark key="]" line="21" column="138" />
-        <mark key="." line="21" column="138" />
-        <mark key="^" line="21" column="138" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/benchmark_core.py" timestamp="1555259953304">
         <mark key="[" line="54" column="63" />
         <mark key="]" line="54" column="90" />
@@ -333,25 +304,11 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="179" column="12" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" timestamp="1554724953713">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="54" column="24" />
-        <mark key="]" line="54" column="42" />
-        <mark key="." line="54" column="42" />
-        <mark key="^" line="54" column="42" />
-      </file>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/tests/benchmarks/raw_input_recorder_tests.py" timestamp="1541423906459">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="64" column="23" />
         <mark key="." line="57" column="73" />
         <mark key="^" line="57" column="73" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/upload_archives.py" timestamp="1550056477631">
-        <mark key="'" line="141" column="4" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="72" column="3" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/moab_recording_script.py" timestamp="1555002248675">
         <mark key="[" line="276" column="24" />
@@ -366,10 +323,10 @@
         <mark key="." line="327" column="93" />
         <mark key="^" line="327" column="93" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/summaries/teacher_sanity.py" timestamp="1555250302434">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/summaries/teacher_sanity.py" timestamp="1555262892042">
         <mark key="'" line="122" column="0" />
-        <mark key="[" line="123" column="4" />
-        <mark key="]" line="123" column="39" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="135" column="51" />
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
@@ -504,50 +461,52 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QWRkIG1hbnl1c2VyIHRvIGV4cG9ydC4K</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>music_player.fast_forward()</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
       </register>
       <register name="0" type="4">
-        <text>FinishedSuccessfully</text>
+        <text>convert_many_users_archive_to_pandas</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">QWRkIG1hbnl1c2VyIHRvIGV4cG9ydC4K</text>
+      <register name="1" type="4">
+        <text>CArchive.load(archivename=sess.session,
+                                                dirpath=sess.src_dir)</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIwo=</text>
+        <text encoding="base64">ICAgIHJvd3MgPSBbCiAgICAgICAgICAgIGsKICAgICAgICAgICAgZm9yIGlzX3VwcGVyIGluIChUcnVlLCBGYWxzZSldCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">QWRkIE1VIHRvIHN0YW5kYWxvbmVfYmVuY2htYXJrX3J1bm5lcgo=</text>
+      <register name="3" type="4">
+        <text>make_mu_row_from_arch(CArchive.load(archivename=sess.session,
+                                                dirpath=sess.src_dir), sess.uxevents, )</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHN1YnByb2Nlc3MuY2hlY2tfY2FsbChbInB5dGhvbiIsIG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAic3RhbmRhbG9uZV9iZW5jaG1hcmtfcnVubmVyLnB5IiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIi0tYWN0aW9uIiwgInRlYWNoZXJzYW5lIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiLS12ZXJzaW9uc19kaXIiLCBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKG5leHRfdmVyc2lvbl9wYXRoLCAiLi4iKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIi0tdmVyc2lvbl9udW1iZXIiLCBvcy5wYXRoLmJhc2VuYW1lKG5leHRfdmVyc2lvbl9wYXRoKS5zcGxpdCgiXyIpWzBdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICItLWRhdGVfc3RyIiwgZGF0ZV9zdHJpbmcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBdKQogICAgICAgIGV4Y2VwdCBzdWJwcm9jZXNzLkNhbGxlZFByb2Nlc3NFcnJvciBhcyBlOgogICAgICAgICAgICBwcmludCgiRXJyb3Igd2hlbiBydW5uaW5nIFRlYWNoZXJTYW5lIGJlbmNobWFyazoge30iLmZvcm1hdChlLm1lc3NhZ2UpKQogICAgICAgICAgICBwcmludF9leGMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHNlc3MgaW4gYXJjaF90ZWFjaHNhbmUuc2Vzc2lvbnMudmFsdWVzKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IEV4dHJhY3QgCg==</text>
+        <text encoding="base64">ZGVmIGNvbnZlcnRfbWFueV91c2Vyc19hcmNoaXZlX3RvX3BhbmRhcyhhcmdzKToKICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">QWRkIG1hbnl1c2VyIHRvIGV4cG9ydC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqampqamoK</text>
+        <text encoding="base64">QWRkIE1VIHRvIHN0YW5kYWxvbmVfYmVuY2htYXJrX3J1bm5lcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHN1YnByb2Nlc3MuY2hlY2tfY2FsbChbInB5dGhvbiIsIG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAic3RhbmRhbG9uZV9iZW5jaG1hcmtfcnVubmVyLnB5IiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIi0tYWN0aW9uIiwgInRlYWNoZXJzYW5lIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiLS12ZXJzaW9uc19kaXIiLCBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKG5leHRfdmVyc2lvbl9wYXRoLCAiLi4iKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIi0tdmVyc2lvbl9udW1iZXIiLCBvcy5wYXRoLmJhc2VuYW1lKG5leHRfdmVyc2lvbl9wYXRoKS5zcGxpdCgiXyIpWzBdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICItLWRhdGVfc3RyIiwgZGF0ZV9zdHJpbmcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBdKQogICAgICAgIGV4Y2VwdCBzdWJwcm9jZXNzLkNhbGxlZFByb2Nlc3NFcnJvciBhcyBlOgogICAgICAgICAgICBwcmludCgiRXJyb3Igd2hlbiBydW5uaW5nIFRlYWNoZXJTYW5lIGJlbmNobWFyazoge30iLmZvcm1hdChlLm1lc3NhZ2UpKQogICAgICAgICAgICBwcmludF9leGMoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
