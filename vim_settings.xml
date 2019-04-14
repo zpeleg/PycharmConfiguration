@@ -43,11 +43,12 @@
         <mark key="^" line="93" column="92" />
         <mark key="." line="96" column="16" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/teacher_sanity_benchmark.py" timestamp="1555259539030">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/teacher_sanity_benchmark.py" timestamp="1555264305959">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="77" column="28" />
-        <mark key="^" line="52" column="62" />
+        <mark key="[" line="75" column="4" />
+        <mark key="]" line="75" column="25" />
+        <mark key="." line="75" column="25" />
+        <mark key="^" line="75" column="25" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/tests/daemon/actions.py" timestamp="1542128182018">
         <mark key="[" line="3" column="0" />
@@ -165,11 +166,9 @@
         <mark key="^" line="24" column="111" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" timestamp="1555257805417">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="86" column="34" />
-        <mark key="]" line="87" column="30" />
-        <mark key="^" line="87" column="30" />
-        <mark key="." line="87" column="30" />
+        <mark key="]" line="12" column="30" />
+        <mark key="^" line="12" column="30" />
+        <mark key="." line="12" column="30" />
       </file>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/general_android/android_device_utils.py" timestamp="1548931512809">
         <mark key="[" line="10" column="31" />
@@ -264,21 +263,21 @@
         <mark key="." line="16" column="42" />
         <mark key="^" line="16" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555262007977">
+      <file name="/Dummy.txt" timestamp="1555264234716">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_many_users_sanity.py" timestamp="1555253723051">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="21" column="58" />
-        <mark key="]" line="21" column="80" />
-        <mark key="." line="21" column="80" />
-        <mark key="^" line="21" column="80" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="61" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/daemon_tester/scenarios/insufficient_scenarios.py" timestamp="1546521000157">
         <mark key="[" line="20" column="77" />
         <mark key="]" line="20" column="64" />
         <mark key="^" line="20" column="64" />
         <mark key="." line="20" column="64" />
+      </file>
+      <file name="/teacher_sanity_benchmark.py" timestamp="1555264302815">
+        <mark key="[" line="75" column="4" />
+        <mark key="]" line="75" column="25" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/many_users.py" timestamp="1555260010512">
         <mark key="[" line="3" column="5" />
@@ -462,51 +461,51 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>_save_timelines</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>_save_timelines</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
       </register>
       <register name="0" type="4">
-        <text>convert_many_users_archive_to_pandas</text>
+        <text>_save_additional_stuff</text>
       </register>
-      <register name="1" type="4">
-        <text>CArchive.load(archivename=sess.session,
-                                                dirpath=sess.src_dir)</text>
+      <register name="1" type="2">
+        <text encoding="base64">UHJpbnQgZmluaXNoZWQgc3VjY2Vzc2Z1bGx5IHdoZW4gZmluaXNoZWQgaW5zdGVhZCBvZiBjcmFzaGluZy4K</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>CArchive.load(archivename=sess.session,
+                                                dirpath=sess.src_dir)</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHJvd3MgPSBbCiAgICAgICAgICAgIGsKICAgICAgICAgICAgZm9yIGlzX3VwcGVyIGluIChUcnVlLCBGYWxzZSldCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>make_mu_row_from_arch(CArchive.load(archivename=sess.session,
                                                 dirpath=sess.src_dir), sess.uxevents, )</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIHNlc3MgaW4gYXJjaF90ZWFjaHNhbmUuc2Vzc2lvbnMudmFsdWVzKCkK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZGVmIGNvbnZlcnRfbWFueV91c2Vyc19hcmNoaXZlX3RvX3BhbmRhcyhhcmdzKToKICAgIHBhc3MK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">QWRkIG1hbnl1c2VyIHRvIGV4cG9ydC4K</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIwo=</text>
+        <text encoding="base64">QWRkIG1hbnl1c2VyIHRvIGV4cG9ydC4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QWRkIE1VIHRvIHN0YW5kYWxvbmVfYmVuY2htYXJrX3J1bm5lcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHN1YnByb2Nlc3MuY2hlY2tfY2FsbChbInB5dGhvbiIsIG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAic3RhbmRhbG9uZV9iZW5jaG1hcmtfcnVubmVyLnB5IiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIi0tYWN0aW9uIiwgInRlYWNoZXJzYW5lIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiLS12ZXJzaW9uc19kaXIiLCBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKG5leHRfdmVyc2lvbl9wYXRoLCAiLi4iKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIi0tdmVyc2lvbl9udW1iZXIiLCBvcy5wYXRoLmJhc2VuYW1lKG5leHRfdmVyc2lvbl9wYXRoKS5zcGxpdCgiXyIpWzBdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICItLWRhdGVfc3RyIiwgZGF0ZV9zdHJpbmcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBdKQogICAgICAgIGV4Y2VwdCBzdWJwcm9jZXNzLkNhbGxlZFByb2Nlc3NFcnJvciBhcyBlOgogICAgICAgICAgICBwcmludCgiRXJyb3Igd2hlbiBydW5uaW5nIFRlYWNoZXJTYW5lIGJlbmNobWFyazoge30iLmZvcm1hdChlLm1lc3NhZ2UpKQogICAgICAgICAgICBwcmludF9leGMoKQo=</text>
+        <text encoding="base64">QWRkIE1VIHRvIHN0YW5kYWxvbmVfYmVuY2htYXJrX3J1bm5lcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -563,8 +562,8 @@
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>d</entry>
         <entry>Lw</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
