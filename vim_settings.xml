@@ -137,12 +137,12 @@
         <mark key="^" line="24" column="111" />
       </file>
       <file name="/do_extended_matrix.py" timestamp="1554908967603" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" timestamp="1555237441188">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" timestamp="1555237819562">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="12" column="91" />
-        <mark key="]" line="12" column="116" />
-        <mark key="." line="79" column="20" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
         <mark key="^" line="75" column="37" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/general_android/android_device_utils.py" timestamp="1548931512809">
         <mark key="[" line="10" column="31" />
@@ -216,12 +216,12 @@
         <mark key="]" line="207" column="19" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/general.py" timestamp="1555235711854">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/general.py" timestamp="1555237780574">
         <mark key="'" line="180" column="4" />
-        <mark key="[" line="90" column="8" />
-        <mark key="]" line="90" column="35" />
-        <mark key="^" line="22" column="23" />
-        <mark key="." line="22" column="23" />
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="20" />
+        <mark key="^" line="21" column="20" />
+        <mark key="." line="21" column="20" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/buga_api/capi.py" timestamp="1549456984355">
         <mark key="[" line="355" column="8" />
@@ -247,15 +247,18 @@
         <mark key="." line="16" column="42" />
         <mark key="^" line="16" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555237715676">
+      <file name="/Dummy.txt" timestamp="1555239728836">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="33" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_many_users_sanity.py" timestamp="1555237578536">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_many_users_sanity.py" timestamp="1555237924784">
         <mark key="'" line="25" column="4" />
-        <mark key="[" line="49" column="26" />
-        <mark key="]" line="50" column="41" />
+        <mark key="[" line="50" column="16" />
+        <mark key="]" line="50" column="17" />
         <mark key="^" line="50" column="41" />
-        <mark key="." line="50" column="41" />
+        <mark key="." line="50" column="17" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/daemon_tester/scenarios/insufficient_scenarios.py" timestamp="1546521000157">
         <mark key="[" line="20" column="77" />
@@ -433,11 +436,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">TW92ZSBnZW5lcmFsIGZ1bmN0aW9ucyB0byBnZW5lcmFsLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
@@ -446,37 +449,37 @@
         <text>print_error_bounds=False):</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBweW1vYmlsZXByb2R1Y3QuYmVuY2htYXJrcy5yYXdfcm93X3N1bW1hcmllcy5nZW5lcmFsIGltcG9ydCAK</text>
+        <text encoding="base64">TW92ZSBnZW5lcmFsIGZ1bmN0aW9ucyB0byBnZW5lcmFsLgo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoImViYV97fV97fSIuZm9ybWF0KHNpZGUsIGN5Y2xlX251bSksIHNjZW5hcmlvX2FyY2hpdmVbInJlY3MiXVtpXVsic3luY19kYXRhIl1bImRldmljZV9wY190aW1lX2Vycm9yX2JvdW5kIl0udG90YWxfc2Vjb25kcygpKSwK</text>
+        <text encoding="base64">ICAgICMgZnJhbWUudG9fY2xpcGJvYXJkKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoImVycF97fV97fSIuZm9ybWF0KHNpZGUsIGN5Y2xlX251bSksIHNjZW5hcmlvX2FyY2hpdmVbInJlY3MiXVtpICsgdGhpbmddWyJzeW5jX2RhdGEiXVsiZGV2aWNlX3BjX3RpbWVfZXJyb3JfYm91bmQiXS50b3RhbF9zZWNvbmRzKCkpLAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGZyYW1lKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBiLmFwcGVuZCgoJ2RlbGF5X3VwcGVyX2JvdW5kJywgc2NlbmFyaW9fYXJjaGl2ZVsicmVjcyJdWzFdWyJzeW5jX2RhdGEiXVsiZGV2aWNlX3BjX3RpbWVfZXJyb3JfYm91bmQiXS50b3RhbF9zZWNvbmRzKCkpKQo=</text>
+        <text encoding="base64">ICAgIGZyYW1lID0gcGFuZGFzLkRhdGFGcmFtZShkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoImVyYV97fV97fSIuZm9ybWF0KHNpZGUsIGN5Y2xlX251bSksIHNjZW5hcmlvX2FyY2hpdmVbInJlY3MiXVtpXVsic3luY19kYXRhIl1bImRldmljZV9wY190aW1lX2Vycm9yX2JvdW5kIl0udG90YWxfc2Vjb25kcygpKSwK</text>
+        <text encoding="base64">ICAgIGQgPSBbeyJpZCI6IGksICJzeW5jIjogc2NlbmFyaW9bInJlY3MiXVtpXVsic3luY19kYXRhIl1bJ2RldmljZV9wY190aW1lX2Vycm9yX2JvdW5kJ10udG90YWxfc2Vjb25kcygpfSBmb3IgaSBpbiBzb3J0ZWQoc2NlbmFyaW9bInJlY3MiXS5rZXlzKCkpXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
+        <text encoding="base64">ZnJvbSBweW1vYmlsZXByb2R1Y3QuYmVuY2htYXJrcy5yYXdfcm93X3N1bW1hcmllcy5nZW5lcmFsIGltcG9ydCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFsbCA9IFtjb2x1bW5zICsgYm91bmRzWzBdLCBjb2x1bW5zICsgYm91bmRzWzFdXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoImViYV97fV97fSIuZm9ybWF0KHNpZGUsIGN5Y2xlX251bSksIHNjZW5hcmlvX2FyY2hpdmVbInJlY3MiXVtpXVsic3luY19kYXRhIl1bImRldmljZV9wY190aW1lX2Vycm9yX2JvdW5kIl0udG90YWxfc2Vjb25kcygpKSwK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiLmFwcGVuZCgoJ2RlbGF5X3VwcGVyX2JvdW5kJywgZGVsYXlfdXBwZXJfYm91bmQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoImVycF97fV97fSIuZm9ybWF0KHNpZGUsIGN5Y2xlX251bSksIHNjZW5hcmlvX2FyY2hpdmVbInJlY3MiXVtpICsgdGhpbmddWyJzeW5jX2RhdGEiXVsiZGV2aWNlX3BjX3RpbWVfZXJyb3JfYm91bmQiXS50b3RhbF9zZWNvbmRzKCkpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG91dF9ib3RoX3NlY3MsIF8gPSBjYWxjdWxhdGVfYXV0b3BhdXNlX2RlbGF5X2FuZF9mYWxzZV9wYXVzZShzY2VuYXJpb19hcmNoaXZlWyJyZWNzIl1bMV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXhldmVudHNbMV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVFdPLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlbGF5X3VwcGVyX2JvdW5kPVRydWUpCiAgICBjb2x1bW5zLmFwcGVuZCgoJ2Fwc19ib3RoJywgb3V0X2JvdGhfc2VjcykpCg==</text>
+        <text encoding="base64">ICAgICAgICBiLmFwcGVuZCgoJ2RlbGF5X3VwcGVyX2JvdW5kJywgc2NlbmFyaW9fYXJjaGl2ZVsicmVjcyJdWzFdWyJzeW5jX2RhdGEiXVsiZGV2aWNlX3BjX3RpbWVfZXJyb3JfYm91bmQiXS50b3RhbF9zZWNvbmRzKCkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -533,8 +536,8 @@
         <entry>d</entry>
         <entry>Q</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
