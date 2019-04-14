@@ -137,12 +137,12 @@
         <mark key="^" line="477" column="55" />
       </file>
       <file name="/do_extended_matrix.py" timestamp="1554908967603" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" timestamp="1555235253566">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" timestamp="1555235787807">
         <mark key="'" line="28" column="61" />
-        <mark key="[" line="97" column="22" />
-        <mark key="]" line="97" column="22" />
-        <mark key="." line="97" column="22" />
-        <mark key="^" line="97" column="56" />
+        <mark key="[" line="72" column="136" />
+        <mark key="]" line="72" column="151" />
+        <mark key="." line="72" column="151" />
+        <mark key="^" line="72" column="151" />
       </file>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/general_android/android_device_utils.py" timestamp="1548931512809">
         <mark key="[" line="10" column="31" />
@@ -216,10 +216,10 @@
         <mark key="]" line="207" column="19" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/general.py" timestamp="1555231959574">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/general.py" timestamp="1555235711854">
         <mark key="'" line="180" column="4" />
-        <mark key="[" line="21" column="13" />
-        <mark key="]" line="22" column="23" />
+        <mark key="[" line="90" column="8" />
+        <mark key="]" line="90" column="35" />
         <mark key="^" line="22" column="23" />
         <mark key="." line="22" column="23" />
       </file>
@@ -433,8 +433,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>, columns=zip(*d)[0]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoImVyYl97fV97fSIuZm9ybWF0KHNpZGUsIGN5Y2xlX251bSksc2NlbmFyaW9fYXJjaGl2ZVsicmVjcyJdW2ldWyJzeW5jX2RhdGEiXVsiZGV2aWNlX3BjX3RpbWVfZXJyb3JfYm91bmQiXSksCg==</text>
       </register>
       <register name="-" type="4">
         <text>, columns=zip(*d)[0]</text>
@@ -442,8 +442,8 @@
       <register name="/" type="4">
         <text>impo</text>
       </register>
-      <register name="0" type="4">
-        <text>'device_pc_time_error_bound'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoImVyYl97fV97fSIuZm9ybWF0KHNpZGUsIGN5Y2xlX251bSksc2NlbmFyaW9fYXJjaGl2ZVsicmVjcyJdW2ldWyJzeW5jX2RhdGEiXVsiZGV2aWNlX3BjX3RpbWVfZXJyb3JfYm91bmQiXSksCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludAo=</text>
@@ -533,8 +533,8 @@
         <entry>d</entry>
         <entry>Q</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
