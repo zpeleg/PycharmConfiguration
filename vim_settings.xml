@@ -104,12 +104,12 @@
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1555319843206">
-        <mark key="'" line="344" column="0" />
-        <mark key="[" line="273" column="0" />
-        <mark key="]" line="273" column="0" />
-        <mark key="." line="273" column="0" />
-        <mark key="^" line="277" column="59" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1555330545577">
+        <mark key="'" line="347" column="0" />
+        <mark key="[" line="332" column="30" />
+        <mark key="]" line="332" column="42" />
+        <mark key="." line="332" column="42" />
+        <mark key="^" line="332" column="42" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_extended_matrix.py" timestamp="1555242632406">
         <mark key="'" line="45" column="0" />
@@ -233,12 +233,12 @@
         <mark key="." line="319" column="19" />
         <mark key="^" line="319" column="19" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1555316731380">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1555329660359">
         <mark key="'" line="603" column="26" />
-        <mark key="[" line="566" column="11" />
-        <mark key="]" line="566" column="64" />
-        <mark key="." line="566" column="64" />
-        <mark key="^" line="566" column="64" />
+        <mark key="[" line="653" column="75" />
+        <mark key="]" line="653" column="74" />
+        <mark key="." line="653" column="74" />
+        <mark key="^" line="653" column="74" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/summaries/teacher_sanity.py" timestamp="1555262892042">
         <mark key="'" line="122" column="0" />
@@ -367,10 +367,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>concat</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>concat</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
@@ -466,8 +466,8 @@
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>d</entry>
         <entry>Lw</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
