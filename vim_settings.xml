@@ -198,12 +198,12 @@
         <mark key="." line="54" column="42" />
         <mark key="^" line="54" column="42" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/upload_archives.py" timestamp="1550056477631">
-        <mark key="'" line="141" column="4" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="72" column="3" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/upload_archives.py" timestamp="1555342129449">
+        <mark key="'" line="166" column="4" />
+        <mark key="[" line="70" column="32" />
+        <mark key="]" line="71" column="15" />
+        <mark key="." line="71" column="15" />
+        <mark key="^" line="71" column="15" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/moab_recording_script.py" timestamp="1555002248675">
         <mark key="[" line="276" column="24" />
@@ -340,49 +340,49 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">UmV2ZXJzZSBmcGwsIGZwcy4K</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb2xvcmFtYS5Gb3JlLkxJR0hUQkxVRV9FWCArIGNvbG9yYW1hLkJhY2suUkVEICsgIiAiICogbGVuKG1lc3NhZ2UpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>MoabArchives.MU[ses.session]</text>
+        <text encoding="base64">ICsgIlxuIiArICIgIiAqIGxlbihtZXNzYWdlKSArIGNvbG9yYW1hLkZvcmUuUkVTRVQgKyBjb2xvcmFtYS5CYWNrLlJFU0VUKQ==</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
       </register>
-      <register name="0" type="4">
-        <text>generate_many_user_scenario</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChjb2xvcmFtYS5Gb3JlLkxJR0hUQkxVRV9FWCArIGNvbG9yYW1hLkJhY2suUkVEICsgIiAiICogbGVuKG1lc3NhZ2UpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UmV2ZXJzZSBmcGwsIGZwcy4K</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb2xvcmFtYS5Gb3JlLllFTExPVyArIGNvbG9yYW1hLkJhY2suUkVEICsgImJ1Z2Ffc3RvcmFnZSBpcyBub3QgbW91bnRlZCBvbiB5b3VyIGNvbXB1dGVyLiBDYW4ndCB1cGxvYWQuIikKICAgICAgICByZXR1cm4gRmFsc2UK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QWRkIHJldmlzaW9uIHRvIHN1bW1hcnkuCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoImZwbF97fV97fSIuZm9ybWF0KHNpZGUsIGN5Y2xlX251bSksIGZhbHNlcGxheSksCg==</text>
+        <text encoding="base64">ICAgIG1vdW50X291dHB1dCA9IHN1YnByb2Nlc3MuY2hlY2tfb3V0cHV0KCJtb3VudCIpCiAgICBpZiAiL21udC9idWdhX3N0b3JhZ2UiIG5vdCBpbiBtb3VudF9vdXRwdXQ6CiAgICAgICAgcHJpbnQoY29sb3JhbWEuRm9yZS5ZRUxMT1cgKyBjb2xvcmFtYS5CYWNrLlJFRCArICJidWdhX3N0b3JhZ2UgaXMgbm90IG1vdW50ZWQgb24geW91ciBjb21wdXRlci4gQ2FuJ3QgdXBsb2FkLiIpCiAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoImZwc197fV97fSIuZm9ybWF0KHNpZGUsIGN5Y2xlX251bSksIGZhbHNlcGF1c2UpLAo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJoaSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QW1vcnRpemUgdXQgc2VhcmNoLgo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJoaSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QW1vcnRpemUgdXQgc2VhcmNoLgo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJoaSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJoaSIpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3UK</text>
+        <text encoding="base64">ICAgIHByaW50KCJoaSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbW9ydGl6ZV9yZXN1bHRzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJoaSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
