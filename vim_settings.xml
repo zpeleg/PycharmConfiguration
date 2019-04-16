@@ -156,8 +156,12 @@
         <mark key="." line="14" column="128" />
         <mark key="^" line="14" column="129" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_ut.py" timestamp="1555333644119">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_ut.py" timestamp="1555406207605">
         <mark key="'" line="114" column="29" />
+        <mark key="[" line="382" column="17" />
+        <mark key="]" line="382" column="25" />
+        <mark key="^" line="382" column="25" />
+        <mark key="." line="382" column="25" />
       </file>
       <file name="/do_extended_matrix.py" timestamp="1554908967603" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" timestamp="1555401916841">
@@ -215,9 +219,6 @@
         <mark key="]" line="43" column="38" />
         <mark key="^" line="43" column="38" />
         <mark key="." line="43" column="38" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" timestamp="1554897908377">
-        <mark key="'" line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/general_android/connection/wireless_adb_connection.py" timestamp="1541584398236">
         <mark key="[" line="57" column="20" />
@@ -499,11 +500,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBweW1vYmlsZXByb2R1Y3QuYmVuY2htYXJrcy5zdW1tYXJpZXMudGVhY2hlcl9zYW5pdHkgaW1wb3J0IGNvbnZlcnRfbXVfYXJjaGl2ZV90b19wYW5kYXMK</text>
+      <register name="&quot;" type="4">
+        <text>ti</text>
       </register>
       <register name="-" type="4">
-        <text>TeacherSanity</text>
+        <text>ti</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
