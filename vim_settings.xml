@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/uxevents_new.yaml" timestamp="1555423363417">
+        <mark key="[" line="49" column="43" />
+        <mark key="]" line="49" column="43" />
+        <mark key="." line="49" column="43" />
+        <mark key="^" line="49" column="43" />
+      </file>
       <file name="/do_many_users_sanity.py" timestamp="1555344004130" />
       <file name="/a.dummy" timestamp="1555249369130">
         <mark key="[" line="0" column="0" />
@@ -333,11 +339,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Rml4IHN0dWZmLgo=</text>
+      <register name="&quot;" type="4">
+        <text>None</text>
       </register>
       <register name="-" type="4">
-        <text>ti</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
@@ -433,8 +439,8 @@
         <entry>d</entry>
         <entry>Lw</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
