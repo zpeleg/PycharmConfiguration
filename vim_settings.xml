@@ -361,12 +361,12 @@
         <mark key="." line="319" column="19" />
         <mark key="^" line="319" column="19" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1555513584032">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1555518302322">
         <mark key="'" line="610" column="24" />
-        <mark key="[" line="531" column="32" />
-        <mark key="]" line="531" column="33" />
-        <mark key="^" line="233" column="34" />
-        <mark key="." line="531" column="33" />
+        <mark key="[" line="234" column="39" />
+        <mark key="]" line="236" column="94" />
+        <mark key="^" line="236" column="94" />
+        <mark key="." line="236" column="94" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/summaries/teacher_sanity.py" timestamp="1555402492560">
         <mark key="'" line="124" column="0" />
