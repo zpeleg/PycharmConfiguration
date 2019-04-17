@@ -119,11 +119,12 @@
       <file name="/Python Console" timestamp="1555404873538">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users_sanity.yaml" timestamp="1555343358657">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users_sanity.yaml" timestamp="1555487323253">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+        <mark key="[" line="61" column="69" />
+        <mark key="]" line="61" column="73" />
+        <mark key="." line="61" column="73" />
+        <mark key="^" line="61" column="73" />
       </file>
       <file name="/fragment.py" timestamp="1555319319370">
         <mark key="[" line="0" column="0" />
@@ -166,8 +167,8 @@
       <file name="/Dummy.txt" timestamp="1555412134429">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_many_users_sanity.py" timestamp="1555405522598">
-        <mark key="'" line="5" column="11" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_many_users_sanity.py" timestamp="1555486929472">
+        <mark key="'" line="35" column="11" />
         <mark key="[" line="44" column="50" />
         <mark key="]" line="45" column="28" />
         <mark key="." line="45" column="28" />
@@ -229,7 +230,6 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/moab/dummy_archive_test.py" timestamp="1554976465099" />
     </filemarks>
     <jumps>
-      <jump line="180" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/general.py" />
       <jump line="602" column="26" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" />
       <jump line="105" column="15" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" />
       <jump line="99" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" />
@@ -329,6 +329,7 @@
       <jump line="600" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_ut.py" />
       <jump line="577" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_ut.py" />
       <jump line="42" column="22" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/uxevents_new.yaml" />
+      <jump line="35" column="11" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_many_users_sanity.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -341,16 +342,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>None</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFRlYWNoU2FuZSA9IEFyY2hpdmVMb2FkZXJDQXJjaGl2ZSgnQmVuY2htYXJrUmVzdWx0c19UZWFjaGVyU2FuaXR5JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3VhcmQ6IGV2ZW50LmV2ZW50Lm5hbWUgPT0gInNvbmdFbmQiIGFuZCBjdXJyZW50X2F1dG9wbGF5IDwgQVVUT1BMQVlfQ09VTlQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Rml4IHN0dWZmLgo=</text>
@@ -440,8 +441,8 @@
         <entry>d</entry>
         <entry>Lw</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
