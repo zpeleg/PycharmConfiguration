@@ -119,11 +119,11 @@
       <file name="/Python Console" timestamp="1555404873538">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users_sanity.yaml" timestamp="1555487323253">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users_sanity.yaml" timestamp="1555488698578">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="61" column="69" />
-        <mark key="]" line="61" column="73" />
-        <mark key="." line="61" column="73" />
+        <mark key="[" line="58" column="20" />
+        <mark key="]" line="58" column="29" />
+        <mark key="." line="58" column="20" />
         <mark key="^" line="61" column="73" />
       </file>
       <file name="/fragment.py" timestamp="1555319319370">
@@ -342,16 +342,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>Falseplay</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>Falseplay</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ3VhcmQ6IGV2ZW50LmV2ZW50Lm5hbWUgPT0gInNvbmdFbmQiIGFuZCBjdXJyZW50X2F1dG9wbGF5IDwgQVVUT1BMQVlfQ09VTlQK</text>
+      <register name="0" type="4">
+        <text>FalsePlay</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Rml4IHN0dWZmLgo=</text>
