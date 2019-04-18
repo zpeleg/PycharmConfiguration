@@ -361,11 +361,12 @@
         <mark key="." line="319" column="19" />
         <mark key="^" line="319" column="19" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1555590745595">
-        <mark key="[" line="279" column="33" />
-        <mark key="]" line="279" column="33" />
-        <mark key="^" line="225" column="31" />
-        <mark key="." line="279" column="33" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1555593155195">
+        <mark key="j" line="226" column="20" />
+        <mark key="[" line="275" column="81" />
+        <mark key="]" line="275" column="81" />
+        <mark key="^" line="275" column="94" />
+        <mark key="." line="275" column="81" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/summaries/teacher_sanity.py" timestamp="1555402492560">
         <mark key="'" line="124" column="0" />
@@ -508,10 +509,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
@@ -520,37 +521,37 @@
         <text>self.interp.context['music_player']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Rml4IGEgYnVnIHdoZXJlIGF1ZGlvIHdhcyB3cml0dGVuIHdoZW4gbm8gb25lIHdhcyByZWFkaW5nIGZyb20gdGhlIGJ1Z2FzdHJlYW0uCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBoYXNobGliCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzZWxmLmludGVycC5jb250ZXh0WydtdXNpY19wbGF5ZXInXS5yZXNldCgpCg==</text>
+        <text encoding="base64">ICAgIGhhc2hsaWIubWQ1KHNlbmRkYXRhKS5oZXhkaWdlc3QoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Rml4IGEgYnVnIHdoZXJlIGF1ZGlvIHdhcyB3cml0dGVuIHdoZW4gbm8gb25lIHdhcyByZWFkaW5nIGZyb20gdGhlIGJ1Z2FzdHJlYW0uCg==</text>
+        <text encoding="base64">ICAgIHByaW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBweW1vYmlsZXByb2R1Y3QuYmVuY2htYXJrcy5yYXdfcm93X3N1bW1hcmllcy5nZW5lcmFsIGltcG9ydCBwcmludF90YWdzX2FuZF91eF9ldmVudHMsIGdldF90aW1lbGluZQo=</text>
+        <text encoding="base64">Rml4IGEgYnVnIHdoZXJlIGF1ZGlvIHdhcyB3cml0dGVuIHdoZW4gbm8gb25lIHdhcyByZWFkaW5nIGZyb20gdGhlIGJ1Z2FzdHJlYW0uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzZWxmLmludGVycC5jb250ZXh0WydtdXNpY19wbGF5ZXInXS5yZXNldCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UoNSk6Cg==</text>
+        <text encoding="base64">Rml4IGEgYnVnIHdoZXJlIGF1ZGlvIHdhcyB3cml0dGVuIHdoZW4gbm8gb25lIHdhcyByZWFkaW5nIGZyb20gdGhlIGJ1Z2FzdHJlYW0uCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGZvciBpIGluIHJhbmdlKDEpXQojIGZvciB4IGluIHJldDoKIyAgICAgcHJpbnQoeA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBweW1vYmlsZXByb2R1Y3QuYmVuY2htYXJrcy5yYXdfcm93X3N1bW1hcmllcy5nZW5lcmFsIGltcG9ydCBwcmludF90YWdzX2FuZF91eF9ldmVudHMsIGdldF90aW1lbGluZQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFuZGFzX2NvbmZpZ19mb3JfYmVuY2goKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfd3JpdGVfdG9fYnVnYXN0cmVhbShzZWxmLCBuYW1lLCBzZW5kZGF0YSk6CiAgICAgICAgd3JpdGVfc3RhdGUgPSAibm90IHdyaXR0ZW4iCiAgICAgICAgd2l0aCBzZWxmLmxvY2s6CiAgICAgICAgICAgIGlmIHNlbGYucmVjb3Jkc3RyZWFtOgogICAgICAgICAgICAgICAgaWYgbmFtZSAhPSBzZWxmLnByZXZfbmFtZToKICAgICAgICAgICAgICAgICAgICBwcmludCgiQnVnYVN0cmVhbTo6d3JpdGUgIiArIG5hbWUpCiAgICAgICAgICAgICAgICAgICAgc2VsZi5wcmV2X25hbWUgPSBuYW1lCiAgICAgICAgICAgICAgICBpZiBzZWxmLnB1c2hDb3VudCA9PSAwOgogICAgICAgICAgICAgICAgICAgIHNlbGYucmVjb3Jkc3RyZWFtLndyaXRlKCIiKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBzZWxmLnJlY29yZHN0cmVhbS53cml0ZShzZW5kZGF0YSkKICAgICAgICAgICAgICAgIHdyaXRlX3N0YXRlID0gInBlbmRpbmcgcmVhZCIKCiAgICAgICAgICAgICAgICBpZiBzZWxmLmludGVycDoKICAgICAgICAgICAgICAgICAgICBzZWxmLmludGVycC5xdWV1ZShFdmVudCgicHVzaGVkQXVkaW9EYXRhIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtdXNpY19wbGF5ZXI9c2VsZi5uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvcz1zZWxmLnBvcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbmRfcG9zPXNlbGYucG9zICsgc2VsZi53cml0ZV9zaXplKSkKICAgICAgICAgICAgICAgICAgICBzZWxmLnB1c2hDb3VudCArPSAxCgogICAgICAgICAgICAgICAgc2VsZi5wb3MgKz0gc2VsZi53cml0ZV9zaXplCgogICAgICAgIGlmIHdyaXRlX3N0YXRlID09ICJwZW5kaW5nIHJlYWQiOgogICAgICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICAgICAgd2l0aCBzZWxmLmxvY2s6CiAgICAgICAgICAgICAgICAgICAgaWYgbm90IHNlbGYucmVjb3Jkc3RyZWFtOgogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4KICAgICAgICAgICAgICAgICAgICBlbGlmIHNlbGYucmVjb3Jkc3RyZWFtLmlzX2VtcHR5KCk6CiAgICAgICAgICAgICAgICAgICAgICAgIHdyaXRlX3N0YXRlID0gInBlbmRpbmcgc2Vjb25kIHJlYWQiCiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucmVjb3Jkc3RyZWFtLndyaXRlKCIiKQogICAgICAgICAgICAgICAgICAgICAgICBicmVhawoKICAgICAgICBpZiB3cml0ZV9zdGF0ZSA9PSAicGVuZGluZyBzZWNvbmQgcmVhZCI6CiAgICAgICAgICAgIHRpbWVvdXQgPSAxMDAwMDAKICAgICAgICAgICAgd2hpbGUgVHJ1ZToKICAgICAgICAgICAgICAgIHRpbWVvdXQgLT0gMQogICAgICAgICAgICAgICAgaWYgdGltZW91dCA9PSAwOgogICAgICAgICAgICAgICAgICAgIHJldHVybgogICAgICAgICAgICAgICAgd2l0aCBzZWxmLmxvY2s6CiAgICAgICAgICAgICAgICAgICAgaWYgbm90IHNlbGYucmVjb3Jkc3RyZWFtIG9yIHNlbGYucmVjb3Jkc3RyZWFtLmlzX2VtcHR5KCk6CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UoNSk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -607,8 +608,8 @@
         <entry>d</entry>
         <entry>Lw</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
