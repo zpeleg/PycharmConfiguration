@@ -104,12 +104,12 @@
         <mark key="^" line="378" column="18" />
       </file>
       <file name="/do_extended_matrix.py" timestamp="1554908967603" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" timestamp="1555401916841">
-        <mark key="'" line="94" column="26" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
-        <mark key="." line="158" column="0" />
-        <mark key="^" line="12" column="123" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" timestamp="1556441260022">
+        <mark key="'" line="125" column="81" />
+        <mark key="[" line="44" column="38" />
+        <mark key="]" line="44" column="53" />
+        <mark key="." line="44" column="53" />
+        <mark key="^" line="44" column="53" />
       </file>
       <file name="/None" timestamp="1555316610971">
         <mark key="[" line="0" column="0" />
@@ -202,7 +202,6 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/moab/dummy_archive_test.py" timestamp="1554976465099" />
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/teacher_sanity_benchmark.py" />
       <jump line="13" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/teacher_sanity_benchmark.py" />
       <jump line="26" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/teacher_sanity_benchmark.py" />
       <jump line="27" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/many_users_benchmark.py" />
@@ -302,6 +301,7 @@
       <jump line="251" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" />
       <jump line="262" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" />
       <jump line="135" column="46" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" />
+      <jump line="125" column="81" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -313,11 +313,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Rml4IGEgYnVnIHdoZXJlIGF1ZGlvIHdhcyB3cml0dGVuIHdoZW4gbm8gb25lIHdhcyByZWFkaW5nIGZyb20gdGhlIGJ1Z2FzdHJlYW0uCg==</text>
+      <register name="&quot;" type="4">
+        <text>scenario_archive</text>
       </register>
       <register name="-" type="4">
-        <text>115200</text>
+        <text>scenario_archive</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
