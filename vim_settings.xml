@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/uxevents_new.yaml" timestamp="1555504792578">
@@ -30,11 +30,11 @@
       <file name="/False" timestamp="1555316610968">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/archives.py" timestamp="1554986844916">
-        <mark key="[" line="52" column="106" />
-        <mark key="]" line="52" column="130" />
-        <mark key="." line="52" column="130" />
-        <mark key="^" line="52" column="130" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/archives.py" timestamp="1556452709225">
+        <mark key="[" line="58" column="13" />
+        <mark key="]" line="50" column="16" />
+        <mark key="." line="50" column="16" />
+        <mark key="^" line="50" column="16" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/archive_structure.py" timestamp="1554976164847">
         <mark key="[" line="73" column="36" />
@@ -152,7 +152,7 @@
       <file name="/Dummy.txt" timestamp="1556450063750">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_many_users_sanity.py" timestamp="1556450621640">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_many_users_sanity.py" timestamp="1556452548420">
         <mark key="'" line="36" column="37" />
         <mark key="[" line="110" column="110" />
         <mark key="]" line="111" column="29" />
@@ -177,13 +177,13 @@
         <mark key="." line="319" column="19" />
         <mark key="^" line="319" column="19" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1556449796955">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1556452330353">
         <mark key="'" line="445" column="17" />
         <mark key="j" line="226" column="20" />
-        <mark key="[" line="263" column="19" />
-        <mark key="]" line="263" column="53" />
-        <mark key="^" line="263" column="53" />
-        <mark key="." line="263" column="53" />
+        <mark key="[" line="654" column="11" />
+        <mark key="]" line="650" column="0" />
+        <mark key="^" line="650" column="0" />
+        <mark key="." line="650" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/summaries/teacher_sanity.py" timestamp="1555402492560">
         <mark key="'" line="124" column="0" />
@@ -314,10 +314,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>self.__dict__</text>
+        <text>get_folder(&quot;/mnt/kaki/baki&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>self.__dict__</text>
+        <text>get_folder(&quot;/mnt/kaki/baki&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
@@ -414,8 +414,8 @@ c.bugatone_api_config.resolution=64</text>
         <entry>d</entry>
         <entry>Lw</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
