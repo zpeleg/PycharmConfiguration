@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/uxevents_new.yaml" timestamp="1555504792578">
@@ -84,7 +84,7 @@
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_extended_matrix.py" timestamp="1556442694767">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_extended_matrix.py" timestamp="1556532740991">
         <mark key="[" line="1" column="138" />
         <mark key="]" line="1" column="136" />
         <mark key="." line="1" column="136" />
@@ -152,7 +152,7 @@
       <file name="/Dummy.txt" timestamp="1556450063750">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_many_users_sanity.py" timestamp="1556452548420">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_many_users_sanity.py" timestamp="1556532724219">
         <mark key="'" line="36" column="37" />
         <mark key="[" line="110" column="110" />
         <mark key="]" line="111" column="29" />
@@ -177,7 +177,7 @@
         <mark key="." line="319" column="19" />
         <mark key="^" line="319" column="19" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1556452330353">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1556532707176">
         <mark key="'" line="445" column="17" />
         <mark key="j" line="226" column="20" />
         <mark key="[" line="654" column="11" />
