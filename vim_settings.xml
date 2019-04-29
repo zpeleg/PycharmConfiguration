@@ -9,7 +9,7 @@
         <mark key="^" line="3" column="47" />
         <mark key="." line="3" column="47" />
       </file>
-      <file name="/a.dummy" timestamp="1554643456900">
+      <file name="/a.dummy" timestamp="1554724688789">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/do_ut.py" timestamp="1549815457961">
@@ -57,6 +57,13 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/standalone_benchmark_runner.py" timestamp="1554652798856">
+        <mark key="'" line="62" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+      </file>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/general_android/connection/connection_factory.py" timestamp="1541585565061">
         <mark key="[" line="90" column="81" />
         <mark key="]" line="91" column="11" />
@@ -65,6 +72,12 @@
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/detectors/benchmarks/ut_splicing_eta.py" timestamp="1550050670583">
         <mark key="'" line="172" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" timestamp="1554886633754">
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="35" column="49" />
+        <mark key="^" line="35" column="49" />
+        <mark key="." line="35" column="49" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/generated/json_classes.py" timestamp="1549544232935">
         <mark key="[" line="362" column="6" />
@@ -78,6 +91,18 @@
         <mark key="^" line="34" column="95" />
         <mark key="." line="42" column="12" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1554714117026">
+        <mark key="[" line="322" column="89" />
+        <mark key="]" line="322" column="88" />
+        <mark key="." line="322" column="88" />
+        <mark key="^" line="322" column="88" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_extended_matrix.py" timestamp="1554885000780">
+        <mark key="[" line="673" column="8" />
+        <mark key="]" line="673" column="15" />
+        <mark key="^" line="673" column="15" />
+        <mark key="." line="673" column="15" />
+      </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/controller_replay.py" timestamp="1540838210872">
         <mark key="[" line="50" column="12" />
         <mark key="]" line="50" column="89" />
@@ -90,12 +115,12 @@
         <mark key="." line="14" column="128" />
         <mark key="^" line="14" column="129" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_ut.py" timestamp="1554644477756">
-        <mark key="'" line="562" column="0" />
-        <mark key="[" line="510" column="0" />
-        <mark key="]" line="510" column="0" />
-        <mark key="." line="510" column="0" />
-        <mark key="^" line="509" column="14" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_ut.py" timestamp="1554714079578">
+        <mark key="'" line="557" column="0" />
+        <mark key="[" line="505" column="0" />
+        <mark key="]" line="505" column="0" />
+        <mark key="." line="505" column="0" />
+        <mark key="^" line="504" column="14" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/daemon_tester/daemon_tester.py" timestamp="1549460573892">
         <mark key="'" line="197" column="0" />
@@ -141,17 +166,21 @@
         <mark key="^" line="43" column="38" />
         <mark key="." line="43" column="38" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" timestamp="1554886329438">
+        <mark key="'" line="69" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/general_android/connection/wireless_adb_connection.py" timestamp="1541584398236">
         <mark key="[" line="57" column="20" />
         <mark key="]" line="57" column="20" />
         <mark key="^" line="57" column="41" />
         <mark key="." line="57" column="20" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" timestamp="1554646750424">
-        <mark key="[" line="40" column="60" />
-        <mark key="]" line="40" column="60" />
-        <mark key="." line="40" column="60" />
-        <mark key="^" line="40" column="60" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" timestamp="1554740287188">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="50" column="16" />
+        <mark key="]" line="50" column="16" />
+        <mark key="." line="50" column="16" />
+        <mark key="^" line="50" column="29" />
       </file>
       <file name="$USER_HOME$/Code/device_communication/pydcomm/impl/adb_connection_adapter.py" timestamp="1548931213824">
         <mark key="'" line="73" column="0" />
@@ -185,8 +214,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" timestamp="1554643512397">
-        <mark key="'" line="159" column="4" />
+      <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" timestamp="1554659076411">
+        <mark key="'" line="160" column="4" />
+        <mark key="[" line="136" column="25" />
+        <mark key="]" line="137" column="18" />
+        <mark key="^" line="137" column="18" />
+        <mark key="." line="137" column="18" />
       </file>
       <file name="$USER_HOME$/Code/mobileproduct/pymobileproduct/utils/oppo_utils.py" timestamp="1542191819453">
         <mark key="[" line="1476" column="0" />
@@ -200,11 +233,8 @@
         <mark key="." line="16" column="42" />
         <mark key="^" line="16" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551187870384">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1554885167084">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/daemon_tester/scenarios/insufficient_scenarios.py" timestamp="1546521000157">
         <mark key="[" line="20" column="77" />
@@ -231,13 +261,13 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="179" column="12" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" timestamp="1549990266463">
-        <mark key="[" line="874" column="0" />
-        <mark key="]" line="874" column="0" />
-        <mark key="." line="874" column="0" />
-        <mark key="^" line="874" column="43" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" timestamp="1554724953713">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="54" column="24" />
+        <mark key="]" line="54" column="42" />
+        <mark key="." line="54" column="42" />
+        <mark key="^" line="54" column="42" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/detectors/benchmarks/fft_usage.py" timestamp="1554642405088" />
       <file name="$USER_HOME$/Code/device_communication/pydcomm/tests/benchmarks/raw_input_recorder_tests.py" timestamp="1541423906459">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="64" column="23" />
@@ -270,46 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="219" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="217" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="212" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="206" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="200" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="190" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="180" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="173" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="161" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="155" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="149" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="146" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="142" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="136" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="117" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="101" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="116" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="106" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="102" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="99" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="96" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="91" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="81" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="40" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
       <jump line="9" column="115" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
       <jump line="2" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
@@ -370,6 +360,46 @@
       <jump line="545" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_ut.py" />
       <jump line="547" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_ut.py" />
       <jump line="557" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_ut.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/standalone_benchmark_runner.py" />
+      <jump line="61" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/standalone_benchmark_runner.py" />
+      <jump line="122" column="30" filename="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" />
+      <jump line="1789" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="1681" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="1699" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="1708" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="1717" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="1730" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="1732" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="1745" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="1753" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="1756" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="1766" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="1771" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="1798" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="1815" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="1831" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="1841" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="1832" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="1829" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="1816" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="1811" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="1799" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="1784" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="47" column="6" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="93" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="75" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
+      <jump line="69" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity_row_summary.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -382,10 +412,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>do thing</text>
+        <text>data_archive</text>
       </register>
       <register name="-" type="4">
-        <text>do thing</text>
+        <text>data_archive</text>
       </register>
       <register name="/" type="4">
         <text>buga_con</text>
@@ -394,37 +424,37 @@
         <text>replay_from_audiodata(songs_audio_data, dings_audio_data, configuration)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIGkgPT0gMDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICgnaXNfdXBwZXJfYm91bmQnLCBkZWxheV91cHBlcl9ib3VuZCksCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSByZXRyeWluZyBpbXBvcnQgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdyZXRyeWluZycK</text>
+        <text encoding="base64">ICAgIGFyY2hpdmUgPSBDQXJjaGl2ZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeQo=</text>
+        <text encoding="base64">ICAgIG11c2kK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIHJlcGxheV9mcm9tX2F1ZGlvZGF0YShzb25nc19hdWRpb19kYXRhLCBkaW5nc19hdWRpb19kYXRhLCBjb25maWd1cmF0aW9uKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QGFwcGx5X2luX3Byb2Nlc3MK</text>
+        <text encoding="base64">Rml4IG1lbW9yeSBsZWFrIGluIGJlbmNobWFyawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHggPSBqa2QK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIENBcmNoaXZlLmxvYWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBweWJ1Z2EuaW5mcmEudXRpbHMucHJvY2Vzc191dGlscyBpbXBvcnQgYXBwbHlfaW5fcHJvY2Vzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -435,7 +465,7 @@
       <last-offset />
       <last-pattern>buga_con</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute encoding="base64">XDxfcnVuX2FkYl9mb3Jfc3BlY2lmaWNfZGV2aWNlXD4=</last-substitute>
+      <last-substitute>buga_con</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
