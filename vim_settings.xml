@@ -29,11 +29,11 @@
       <file name="/a.dummy" timestamp="1555249369130">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/bla.py" timestamp="1556623833925">
-        <mark key="[" line="18" column="26" />
-        <mark key="]" line="18" column="26" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/bla.py" timestamp="1556625095952">
+        <mark key="[" line="19" column="125" />
+        <mark key="]" line="19" column="126" />
         <mark key="^" line="18" column="26" />
-        <mark key="." line="18" column="26" />
+        <mark key="." line="19" column="126" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/general_replay.py" timestamp="1554986468366">
         <mark key="[" line="591" column="0" />
