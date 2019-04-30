@@ -29,7 +29,7 @@
       <file name="/a.dummy" timestamp="1555249369130">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/bla.py" timestamp="1556627400958">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/bla.py" timestamp="1556629880632">
         <mark key="[" line="20" column="125" />
         <mark key="]" line="20" column="126" />
         <mark key="." line="20" column="126" />
@@ -168,12 +168,12 @@
         <mark key="." line="44" column="53" />
         <mark key="^" line="44" column="53" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1556627272767">
-        <mark key="'" line="302" column="53" />
-        <mark key="[" line="478" column="0" />
-        <mark key="]" line="478" column="0" />
-        <mark key="^" line="476" column="40" />
-        <mark key="." line="478" column="0" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1556630378320">
+        <mark key="'" line="237" column="86" />
+        <mark key="[" line="237" column="87" />
+        <mark key="]" line="237" column="86" />
+        <mark key="^" line="237" column="86" />
+        <mark key="." line="237" column="86" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/summaries/teacher_sanity.py" timestamp="1555402492560">
         <mark key="'" line="124" column="0" />
@@ -193,7 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="55" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/many_users_benchmark.py" />
       <jump line="48" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/many_users_benchmark.py" />
       <jump line="126" column="0" filename="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" />
       <jump line="107" column="26" filename="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" />
@@ -293,6 +292,7 @@
       <jump line="210" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" />
       <jump line="713" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" />
       <jump line="302" column="53" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" />
+      <jump line="237" column="86" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -305,7 +305,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRlcmxlYXZlZCA9IEF1ZGlvRGF0YSgqYXVkaW9kYXRhWzosIHNlbGYucG9zOnNlbGYucG9zICsgc2VsZi53cml0ZV9zaXplXSkK</text>
       </register>
       <register name="-" type="4">
         <text>datetime.datetime.now().isoformat()</text>
@@ -313,8 +313,8 @@
       <register name="/" type="4">
         <text>impo</text>
       </register>
-      <register name="0" type="4">
-        <text>, generate_recs_scenario=generate_many_user_scenario, test_statechart=_test_statechart)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpbnRlcmxlYXZlZCA9IEF1ZGlvRGF0YSgqYXVkaW9kYXRhWzosIHNlbGYucG9zOnNlbGYucG9zICsgc2VsZi53cml0ZV9zaXplXSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
