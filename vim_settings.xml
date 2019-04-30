@@ -29,11 +29,10 @@
       <file name="/a.dummy" timestamp="1555249369130">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/bla.py" timestamp="1556625095952">
-        <mark key="[" line="19" column="125" />
-        <mark key="]" line="19" column="126" />
-        <mark key="^" line="18" column="26" />
-        <mark key="." line="19" column="126" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/bla.py" timestamp="1556627400958">
+        <mark key="[" line="20" column="125" />
+        <mark key="]" line="20" column="126" />
+        <mark key="." line="20" column="126" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/general_replay.py" timestamp="1554986468366">
         <mark key="[" line="591" column="0" />
@@ -169,12 +168,12 @@
         <mark key="." line="44" column="53" />
         <mark key="^" line="44" column="53" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1556617496204">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1556627272767">
         <mark key="'" line="302" column="53" />
-        <mark key="[" line="602" column="79" />
-        <mark key="]" line="602" column="91" />
+        <mark key="[" line="478" column="0" />
+        <mark key="]" line="478" column="0" />
         <mark key="^" line="476" column="40" />
-        <mark key="." line="602" column="79" />
+        <mark key="." line="478" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/summaries/teacher_sanity.py" timestamp="1555402492560">
         <mark key="'" line="124" column="0" />
@@ -305,11 +304,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dC5pbnRlcnZhbCwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dC5pbnRlcnZhbCwg</text>
+        <text>datetime.datetime.now().isoformat()</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
@@ -318,38 +317,38 @@
         <text>, generate_recs_scenario=generate_many_user_scenario, test_statechart=_test_statechart)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJwLmprZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJwLgo=</text>
+        <text encoding="base64">ZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkuaXNvZm9ybWF0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgwLjAwMDEpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>c = PhoneInterpreterConfiguration()
-c.bugatone_api_config.resolution=64</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJwLmprZGQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBidWdhdG9uZV9hcGlfY29uZmlnPWRlZmF1bHRfYnVnYXRvbmVfYXBpX2NvbmZpZywKICAgICAgICAgICAgICAgICBkYWVtb25fc3RhcnRfZGV0ZWN0X211c2ljX2RldGVjdGlvbl9jb25maWc9ZGVmYXVsdF9kYWVtb25fc3RhcnRfZGV0ZWN0X211c2ljX2RldGVjdGlvbl9jb25maWcsCiAgICAgICAgICAgICAgICAgZGFlbW9uX3N0YXJ0X2RldGVjdF9zcGVjaWFsX3NpZ19jb25maWc9ZGVmYXVsdF9kYWVtb25fc3RhcnRfZGV0ZWN0X3NwZWNpYWxfc2lnX2NvbmZpZywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJwLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9uIGVudHJ5OiBpbml0aWF0ZV9mdCgpOyBwcmVzc2VkUGxheSgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IiIiCiIiIgo=</text>
+      <register name="7" type="4">
+        <text>c = PhoneInterpreterConfiguration()
+c.bugatone_api_config.resolution=64</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGNwZXRpb25fZXJyb3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBidWdhdG9uZV9hcGlfY29uZmlnPWRlZmF1bHRfYnVnYXRvbmVfYXBpX2NvbmZpZywKICAgICAgICAgICAgICAgICBkYWVtb25fc3RhcnRfZGV0ZWN0X211c2ljX2RldGVjdGlvbl9jb25maWc9ZGVmYXVsdF9kYWVtb25fc3RhcnRfZGV0ZWN0X211c2ljX2RldGVjdGlvbl9jb25maWcsCiAgICAgICAgICAgICAgICAgZGFlbW9uX3N0YXJ0X2RldGVjdF9zcGVjaWFsX3NpZ19jb25maWc9ZGVmYXVsdF9kYWVtb25fc3RhcnRfZGV0ZWN0X3NwZWNpYWxfc2lnX2NvbmZpZywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGNwZXRpb25fZXJyb3IK</text>
+        <text encoding="base64">ICAgIG9uIGVudHJ5OiBpbml0aWF0ZV9mdCgpOyBwcmVzc2VkUGxheSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -406,8 +405,8 @@ c.bugatone_api_config.resolution=64</text>
         <entry>d</entry>
         <entry>Lw</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
