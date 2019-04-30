@@ -168,12 +168,12 @@
         <mark key="." line="44" column="53" />
         <mark key="^" line="44" column="53" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1556632687153">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1556635750942">
         <mark key="'" line="237" column="86" />
-        <mark key="[" line="248" column="39" />
-        <mark key="]" line="248" column="50" />
-        <mark key="^" line="248" column="50" />
-        <mark key="." line="248" column="50" />
+        <mark key="[" line="267" column="30" />
+        <mark key="]" line="267" column="37" />
+        <mark key="^" line="267" column="37" />
+        <mark key="." line="267" column="37" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/summaries/teacher_sanity.py" timestamp="1555402492560">
         <mark key="'" line="124" column="0" />
@@ -305,10 +305,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>finish push</text>
+        <text>finish</text>
       </register>
       <register name="-" type="4">
-        <text>finish push</text>
+        <text>finish</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
@@ -351,7 +351,7 @@ c.bugatone_api_config.resolution=64</text>
         <text encoding="base64">ICAgICAgICAgICAgICAgICBidWdhdG9uZV9hcGlfY29uZmlnPWRlZmF1bHRfYnVnYXRvbmVfYXBpX2NvbmZpZywKICAgICAgICAgICAgICAgICBkYWVtb25fc3RhcnRfZGV0ZWN0X211c2ljX2RldGVjdGlvbl9jb25maWc9ZGVmYXVsdF9kYWVtb25fc3RhcnRfZGV0ZWN0X211c2ljX2RldGVjdGlvbl9jb25maWcsCiAgICAgICAgICAgICAgICAgZGFlbW9uX3N0YXJ0X2RldGVjdF9zcGVjaWFsX3NpZ19jb25maWc9ZGVmYXVsdF9kYWVtb25fc3RhcnRfZGV0ZWN0X3NwZWNpYWxfc2lnX2NvbmZpZywK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
     <search>
@@ -404,9 +404,9 @@ c.bugatone_api_config.resolution=64</text>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>d</entry>
         <entry>Lw</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
