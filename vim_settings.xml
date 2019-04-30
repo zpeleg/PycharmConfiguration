@@ -29,7 +29,7 @@
       <file name="/a.dummy" timestamp="1555249369130">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/bla.py" timestamp="1556629880632">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/bla.py" timestamp="1556636921944">
         <mark key="[" line="20" column="125" />
         <mark key="]" line="20" column="126" />
         <mark key="." line="20" column="126" />
@@ -168,12 +168,12 @@
         <mark key="." line="44" column="53" />
         <mark key="^" line="44" column="53" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1556635750942">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1556636796318">
         <mark key="'" line="237" column="86" />
-        <mark key="[" line="267" column="30" />
-        <mark key="]" line="267" column="37" />
-        <mark key="^" line="267" column="37" />
-        <mark key="." line="267" column="37" />
+        <mark key="[" line="280" column="0" />
+        <mark key="]" line="280" column="8" />
+        <mark key="^" line="278" column="23" />
+        <mark key="." line="280" column="8" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/summaries/teacher_sanity.py" timestamp="1555402492560">
         <mark key="'" line="124" column="0" />
@@ -304,11 +304,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>finish</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="-" type="4">
-        <text>finish</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
@@ -317,41 +317,41 @@
         <text encoding="base64">ICAgICAgICBpbnRlcmxlYXZlZCA9IEF1ZGlvRGF0YSgqYXVkaW9kYXRhWzosIHNlbGYucG9zOnNlbGYucG9zICsgc2VsZi53cml0ZV9zaXplXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkuaXNvZm9ybWF0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgwLjAwMDEpCg==</text>
+        <text encoding="base64">ZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkuaXNvZm9ybWF0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJwLmprZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgwLjAwMDEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJwLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJwLmprZGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJwLgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="4">
         <text>c = PhoneInterpreterConfiguration()
 c.bugatone_api_config.resolution=64</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBidWdhdG9uZV9hcGlfY29uZmlnPWRlZmF1bHRfYnVnYXRvbmVfYXBpX2NvbmZpZywKICAgICAgICAgICAgICAgICBkYWVtb25fc3RhcnRfZGV0ZWN0X211c2ljX2RldGVjdGlvbl9jb25maWc9ZGVmYXVsdF9kYWVtb25fc3RhcnRfZGV0ZWN0X211c2ljX2RldGVjdGlvbl9jb25maWcsCiAgICAgICAgICAgICAgICAgZGFlbW9uX3N0YXJ0X2RldGVjdF9zcGVjaWFsX3NpZ19jb25maWc9ZGVmYXVsdF9kYWVtb25fc3RhcnRfZGV0ZWN0X3NwZWNpYWxfc2lnX2NvbmZpZywK</text>
-      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -404,9 +404,9 @@ c.bugatone_api_config.resolution=64</text>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>d</entry>
         <entry>Lw</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>w</entry>
-        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
