@@ -29,11 +29,11 @@
       <file name="/a.dummy" timestamp="1555249369130">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/bla.py" timestamp="1556616752092">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="8" />
-        <mark key="^" line="18" column="32" />
-        <mark key="." line="22" column="8" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/bla.py" timestamp="1556623833925">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="26" />
+        <mark key="^" line="18" column="26" />
+        <mark key="." line="18" column="26" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/general_replay.py" timestamp="1554986468366">
         <mark key="[" line="591" column="0" />
@@ -406,8 +406,8 @@ c.bugatone_api_config.resolution=64</text>
         <entry>d</entry>
         <entry>Lw</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
