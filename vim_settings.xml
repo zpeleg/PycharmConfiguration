@@ -168,12 +168,12 @@
         <mark key="." line="44" column="53" />
         <mark key="^" line="44" column="53" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1556631360864">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1556632687153">
         <mark key="'" line="237" column="86" />
-        <mark key="[" line="478" column="49" />
-        <mark key="]" line="479" column="26" />
-        <mark key="^" line="479" column="26" />
-        <mark key="." line="479" column="26" />
+        <mark key="[" line="248" column="39" />
+        <mark key="]" line="248" column="50" />
+        <mark key="^" line="248" column="50" />
+        <mark key="." line="248" column="50" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/summaries/teacher_sanity.py" timestamp="1555402492560">
         <mark key="'" line="124" column="0" />
@@ -304,11 +304,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>finish push</text>
       </register>
       <register name="-" type="4">
-        <text>datetime.datetime.now().isoformat()</text>
+        <text>finish push</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
