@@ -41,11 +41,11 @@
         <mark key="." line="591" column="0" />
         <mark key="^" line="690" column="104" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" timestamp="1556615144282">
-        <mark key="[" line="54" column="20" />
-        <mark key="]" line="54" column="20" />
-        <mark key="." line="54" column="20" />
-        <mark key="^" line="54" column="20" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" timestamp="1556729335047">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+        <mark key="^" line="6" column="20" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/moab/teacher_sanity.py" timestamp="1554975231322">
         <mark key="[" line="21" column="13" />
@@ -66,11 +66,11 @@
       <file name="/False" timestamp="1555316610968">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" timestamp="1556728148661">
-        <mark key="[" line="99" column="45" />
-        <mark key="]" line="99" column="46" />
-        <mark key="." line="99" column="46" />
-        <mark key="^" line="99" column="46" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" timestamp="1556729327563">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+        <mark key="^" line="5" column="20" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/archives.py" timestamp="1556452709225">
         <mark key="[" line="58" column="13" />
@@ -78,12 +78,12 @@
         <mark key="." line="50" column="16" />
         <mark key="^" line="50" column="16" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_teacher_sanity.py" timestamp="1556724325065">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_teacher_sanity.py" timestamp="1556729222409">
         <mark key="'" line="24" column="4" />
-        <mark key="[" line="16" column="59" />
-        <mark key="]" line="16" column="57" />
-        <mark key="^" line="16" column="57" />
-        <mark key="." line="16" column="57" />
+        <mark key="[" line="22" column="91" />
+        <mark key="]" line="22" column="122" />
+        <mark key="^" line="22" column="122" />
+        <mark key="." line="22" column="122" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/archive_structure.py" timestamp="1554976164847">
         <mark key="[" line="73" column="36" />
@@ -119,6 +119,10 @@
         <mark key="." line="21" column="78" />
         <mark key="^" line="21" column="78" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_many_users_sanity.py" timestamp="1556729204895">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="159" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/extended_matrix/extended_matrix_row_summary.py" timestamp="1554912401731">
         <mark key="'" line="124" column="0" />
         <mark key="[" line="35" column="32" />
@@ -141,19 +145,17 @@
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" timestamp="1556642613233">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_extended_matrix.py" timestamp="1556532740991">
         <mark key="[" line="1" column="138" />
         <mark key="]" line="1" column="136" />
         <mark key="." line="1" column="136" />
         <mark key="^" line="1" column="136" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1556702167244">
-        <mark key="[" line="339" column="0" />
-        <mark key="]" line="339" column="0" />
-        <mark key="." line="339" column="0" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1556729929242">
+        <mark key="[" line="220" column="33" />
+        <mark key="]" line="220" column="40" />
+        <mark key="." line="220" column="40" />
+        <mark key="^" line="220" column="40" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/upload_archives.py" timestamp="1555342129449">
         <mark key="'" line="166" column="4" />
@@ -325,16 +327,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>_from_moab_session</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>_from_moab_session</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFwbF9yaWdodF8zX3JlYWN0aW9uX2lkeCA9IDIK</text>
+        <text encoding="base64">cmVwbGF5X211X2Zyb21fbW9hYl9zZXNzaW9uID0gZnVuY3Rvb2xzLnBhcnRpYWwocmVwbGF5X2Zyb21fbW9hYl9zZXNzaW9uLCBnZW5lcmF0ZV9yZWNzX3NjZW5hcmlvPWdlbmVyYXRlX21hbnlfdXNlcl9zY2VuYXJpbywgdGVzdF9zdGF0ZWNoYXJ0PV90ZXN0X3N0YXRlY2hhcnQpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgInNvbmciOiBzcGVjaWFsX3NpZ25hbCwKICAgICAgICAgICAgImR1cmF0aW9uX3NlY3MiOiAxNS4sCiAgICAgICAgICAgICJwcmVwYXJhdGlvbiI6IHsKICAgICAgICAgICAgICAgICJtc2ciOiAiVGVzdCBBdXRvcGxheSBCT1RIXG4iCiAgICAgICAgICAgICAgICAgICAgICAgIltMOiBPVVQsIFI6IE9VVF0gLS0tKDUgc2VjcyktLS0+ICBbTDogSU4sIFI6IElOXSIKICAgICAgICAgICAgICAgICAgICAgICAiXG5TdGFydCBzcGVjaWFsIHNpZ25hbCB3aXRoIEJPVEggZWFycGhvbmVzIGluIHRoZSBhaXIsICIKICAgICAgICAgICAgICAgICAgICAgICAidGhlbiBwdXQgaW4gQk9USCBlYXJwaG9uZXMiLAogICAgICAgICAgICAgICAgImlucHV0IjogIkZPT1RfUFJFU1MiCg==</text>
