@@ -62,20 +62,18 @@
       <file name="/False" timestamp="1555316610968">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" timestamp="1556720846807" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/general.py" timestamp="1556641034982" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/archives.py" timestamp="1556452709225">
         <mark key="[" line="58" column="13" />
         <mark key="]" line="50" column="16" />
         <mark key="." line="50" column="16" />
         <mark key="^" line="50" column="16" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_teacher_sanity.py" timestamp="1556720373900">
-        <mark key="'" line="13" column="39" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="13" column="39" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_teacher_sanity.py" timestamp="1556722147472">
+        <mark key="'" line="24" column="4" />
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="5" />
+        <mark key="^" line="4" column="5" />
+        <mark key="." line="4" column="5" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/archive_structure.py" timestamp="1554976164847">
         <mark key="[" line="73" column="36" />
@@ -83,7 +81,7 @@
         <mark key="^" line="74" column="54" />
         <mark key="." line="73" column="36" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/extended_matrix.yaml" timestamp="1554992610546">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/extended_matrix.yaml" timestamp="1556722825826">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="43" column="32" />
         <mark key="." line="1" column="28" />
@@ -131,7 +129,6 @@
         <mark key="^" line="20" column="11" />
         <mark key="." line="20" column="11" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" timestamp="1556716120449" />
       <file name="/" timestamp="1555316613083">
         <mark key="[" line="0" column="0" />
       </file>
@@ -207,8 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" />
       <jump line="61" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" />
       <jump line="65" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" />
       <jump line="67" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" />
@@ -307,6 +302,8 @@
       <jump line="57" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users_sanity.yaml" />
       <jump line="9" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users_sanity.yaml" />
       <jump line="13" column="39" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_teacher_sanity.py" />
+      <jump line="18" column="91" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_teacher_sanity.py" />
+      <jump line="22" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_teacher_sanity.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
