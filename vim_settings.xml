@@ -88,7 +88,7 @@
         <mark key="^" line="25" column="20" />
         <mark key="." line="25" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556701304408">
+      <file name="/Dummy.txt" timestamp="1556702269989">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmarks.py" timestamp="1555261575864">
@@ -146,6 +146,11 @@
         <mark key="." line="1" column="136" />
         <mark key="^" line="1" column="136" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1556702167244">
+        <mark key="[" line="339" column="0" />
+        <mark key="]" line="339" column="0" />
+        <mark key="." line="339" column="0" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/upload_archives.py" timestamp="1555342129449">
         <mark key="'" line="166" column="4" />
         <mark key="[" line="70" column="32" />
@@ -166,17 +171,18 @@
         <mark key="." line="378" column="18" />
         <mark key="^" line="378" column="18" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" timestamp="1556442073178">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" timestamp="1556702262007">
+        <mark key="a" line="44" column="42" />
         <mark key="'" line="125" column="81" />
         <mark key="[" line="44" column="38" />
-        <mark key="]" line="44" column="53" />
-        <mark key="." line="44" column="53" />
-        <mark key="^" line="44" column="53" />
+        <mark key="]" line="44" column="54" />
+        <mark key="." line="44" column="38" />
+        <mark key="^" line="44" column="42" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1556701271113">
-        <mark key="[" line="227" column="89" />
-        <mark key="]" line="228" column="9" />
-        <mark key="." line="228" column="9" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1556702354919">
+        <mark key="[" line="291" column="0" />
+        <mark key="]" line="291" column="40" />
+        <mark key="." line="291" column="0" />
         <mark key="^" line="228" column="9" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/summaries/teacher_sanity.py" timestamp="1555402492560">
@@ -309,49 +315,49 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Q2xlYW51cHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIk11c2ljUGxheWVyLnJlc2V0KCkiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZG9uZSBzbyB0aGUg</text>
+        <text>scenario_archive</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2Vzc2lvbiA9IG1vYWJfYXJjaGl2ZXNfZm9sZGVyWyJUUzAwMV8yMDE5MDQxNF8xNjUwMDhfTWFueVVzZXJzU2FuaXR5TU9BQlNjcmlwdF9CdWdhTGFiWjIiXQo=</text>
+      <register name="0" type="4">
+        <text>original_archive</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q2xlYW51cHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIk11c2ljUGxheWVyLnJlc2V0KCkiKQo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICAKICAgICAgICA6cGFyYW0gbmFtZTogCiAgICAgICAgOnBhcmFtIHNlbmRkYXRhOiAKICAgICAgICA6cmV0dXJuOiAKICAgICAgICAiIiIK</text>
+        <text encoding="base64">UmVtb3ZlIHN0dWZmIG5vdCByZWxhdGVkIHRvIHRoZSBQUi4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlX3N0YXRlID0gInBlbmRpbmcgcmVhZCIK</text>
+        <text encoding="base64">RG9jcyBhbmQgcmVtb3ZlIHB1c2hDb3VudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd3JpdGVfc3RhdGUgPSAicGVuZGluZyBzZWNvbmQgcmVhZCIK</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGZyb21fbG9jYWwoY2xzKToKICAgICAgICByZXR1cm4gY2xzKFBob25lSW50ZXJwcmV0ZXJDb25maWd1cmF0aW9uKCksIE5vbmUpCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnB1c2hDb3VudCArPSAxCg==</text>
+        <text encoding="base64">Q2xlYW51cHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnB1c2hDb3VudCA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICAKICAgICAgICA6cGFyYW0gbmFtZTogCiAgICAgICAgOnBhcmFtIHNlbmRkYXRhOiAKICAgICAgICA6cmV0dXJuOiAKICAgICAgICAiIiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnB1c2hDb3VudCA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlX3N0YXRlID0gInBlbmRpbmcgcmVhZCIK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Rml4IGEgYnVnIHdoZXJlIGF1ZGlvIHdhcyB3cml0dGVuIHdoZW4gbm8gb25lIHdhcyByZWFkaW5nIGZyb20gdGhlIGJ1Z2FzdHJlYW0uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd3JpdGVfc3RhdGUgPSAicGVuZGluZyBzZWNvbmQgcmVhZCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW50ZXJwLmNvbmZpZ3VyYXRpb25bMzpdKQogICAgICAgICAgICBwcmludChpbnRlcnAuY29udGV4dFsibXVzaWNfcGxheWVyIl0pCiAgICAgICAgICAgIHRpbWUuc2xlZXAoMC4wMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnB1c2hDb3VudCArPSAxCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
