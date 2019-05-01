@@ -59,14 +59,18 @@
         <mark key="." line="169" column="53" />
         <mark key="^" line="169" column="53" />
       </file>
+      <file name="/teacher_sanity_row_summary.py" timestamp="1556728134761">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="32" />
+      </file>
       <file name="/False" timestamp="1555316610968">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" timestamp="1556724695541">
-        <mark key="[" line="49" column="27" />
-        <mark key="]" line="49" column="28" />
-        <mark key="." line="49" column="28" />
-        <mark key="^" line="45" column="27" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" timestamp="1556728148661">
+        <mark key="[" line="99" column="45" />
+        <mark key="]" line="99" column="46" />
+        <mark key="." line="99" column="46" />
+        <mark key="^" line="99" column="46" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/archives.py" timestamp="1556452709225">
         <mark key="[" line="58" column="13" />
@@ -320,17 +324,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNvbmciOiBzcGVjaWFsX3NpZ25hbCwKICAgICAgICAgICAgImR1cmF0aW9uX3NlY3MiOiAxNS4sCiAgICAgICAgICAgICJwcmVwYXJhdGlvbiI6IHsKICAgICAgICAgICAgICAgICJtc2ciOiAiVGVzdCBBdXRvcGxheSBCT1RIXG4iCiAgICAgICAgICAgICAgICAgICAgICAgIltMOiBPVVQsIFI6IE9VVF0gLS0tKDUgc2VjcyktLS0+ICBbTDogSU4sIFI6IElOXSIKICAgICAgICAgICAgICAgICAgICAgICAiXG5TdGFydCBzcGVjaWFsIHNpZ25hbCB3aXRoIEJPVEggZWFycGhvbmVzIGluIHRoZSBhaXIsICIKICAgICAgICAgICAgICAgICAgICAgICAidGhlbiBwdXQgaW4gQk9USCBlYXJwaG9uZXMiLAogICAgICAgICAgICAgICAgImlucHV0IjogIkZPT1RfUFJFU1MiCg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJcbiIuam9pbihyLnRhZ3NbMF0ucHJpbnRlZF9tc2cuc3BsaXRsaW5lcygpWzBdIGZvciByIGluIHJlY3MpKQo=</text>
+        <text encoding="base64">ICAgIGFwbF9yaWdodF8zX3JlYWN0aW9uX2lkeCA9IDIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgInNvbmciOiBzcGVjaWFsX3NpZ25hbCwKICAgICAgICAgICAgImR1cmF0aW9uX3NlY3MiOiAxNS4sCiAgICAgICAgICAgICJwcmVwYXJhdGlvbiI6IHsKICAgICAgICAgICAgICAgICJtc2ciOiAiVGVzdCBBdXRvcGxheSBCT1RIXG4iCiAgICAgICAgICAgICAgICAgICAgICAgIltMOiBPVVQsIFI6IE9VVF0gLS0tKDUgc2VjcyktLS0+ICBbTDogSU4sIFI6IElOXSIKICAgICAgICAgICAgICAgICAgICAgICAiXG5TdGFydCBzcGVjaWFsIHNpZ25hbCB3aXRoIEJPVEggZWFycGhvbmVzIGluIHRoZSBhaXIsICIKICAgICAgICAgICAgICAgICAgICAgICAidGhlbiBwdXQgaW4gQk9USCBlYXJwaG9uZXMiLAogICAgICAgICAgICAgICAgImlucHV0IjogIkZPT1RfUFJFU1MiCg==</text>
@@ -420,8 +424,8 @@
         <entry>d</entry>
         <entry>Lw</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
