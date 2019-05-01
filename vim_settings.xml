@@ -13,12 +13,12 @@
         <mark key="." line="27" column="14" />
         <mark key="^" line="27" column="3" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/uxevents_new.yaml" timestamp="1555504792578">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/uxevents_new.yaml" timestamp="1556699706080">
         <mark key="'" line="43" column="22" />
-        <mark key="[" line="5" column="82" />
-        <mark key="]" line="6" column="43" />
-        <mark key="." line="6" column="43" />
-        <mark key="^" line="6" column="43" />
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+        <mark key="^" line="6" column="18" />
       </file>
       <file name="/fragment.py" timestamp="1555319319370">
         <mark key="[" line="0" column="0" />
@@ -88,7 +88,7 @@
         <mark key="^" line="25" column="20" />
         <mark key="." line="25" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556638759518">
+      <file name="/Dummy.txt" timestamp="1556699716865">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmarks.py" timestamp="1555261575864">
@@ -173,12 +173,7 @@
         <mark key="." line="44" column="53" />
         <mark key="^" line="44" column="53" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1556638785607">
-        <mark key="'" line="237" column="86" />
-        <mark key="[" line="479" column="0" />
-        <mark key="]" line="479" column="0" />
-        <mark key="." line="479" column="0" />
-      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" timestamp="1556699671405" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/summaries/teacher_sanity.py" timestamp="1555402492560">
         <mark key="'" line="124" column="0" />
         <mark key="[" line="3" column="8" />
@@ -309,10 +304,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgwLjAxKQo=</text>
+        <text encoding="base64">Rml4IGEgYnVnIHdoZXJlIGF1ZGlvIHdhcyB3cml0dGVuIHdoZW4gbm8gb25lIHdhcyByZWFkaW5nIGZyb20gdGhlIGJ1Z2FzdHJlYW0uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>TS001_20190414_165008_ManyUsersSanityMOABScript_BugaLabZ2</text>
+        <text>Avocado</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
@@ -321,37 +316,37 @@
         <text encoding="base64">c2Vzc2lvbiA9IG1vYWJfYXJjaGl2ZXNfZm9sZGVyWyJUUzAwMV8yMDE5MDQxNF8xNjUwMDhfTWFueVVzZXJzU2FuaXR5TU9BQlNjcmlwdF9CdWdhTGFiWjIiXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgwLjAxKQo=</text>
+        <text encoding="base64">Rml4IGEgYnVnIHdoZXJlIGF1ZGlvIHdhcyB3cml0dGVuIHdoZW4gbm8gb25lIHdhcyByZWFkaW5nIGZyb20gdGhlIGJ1Z2FzdHJlYW0uCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIHNlbGYucG9zID09IDk2MDA6CiAgICAgICAgIyAgICAgIyBpbnRlcmxlYXZlZCA9IEF1ZGlvRGF0YSgqbnAuemVyb3MoOTYwMCw0KSkKICAgICAgICAjICAgICBzZWxmLnJlc2V0KCkKICAgICAgICAjIGludGVybGVhdmVkID0gQXVkaW9EYXRhKCphdWRpb2RhdGFbOiwgbWF4KDAsIHNlbGYucG9zICsgOTYwMCk6bWF4KDAsIHNlbGYucG9zICsgc2VsZi53cml0ZV9zaXplICsgOTYwMCldKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW50ZXJwLmNvbmZpZ3VyYXRpb25bMzpdKQogICAgICAgICAgICBwcmludChpbnRlcnAuY29udGV4dFsibXVzaWNfcGxheWVyIl0pCiAgICAgICAgICAgIHRpbWUuc2xlZXAoMC4wMSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">CiAgICBkZWYgX19zdHJfXyhzZWxmKToKICAgICAgICByZXR1cm4gc3RyKGRpY3QocG9zPXNlbGYucG9zLCBpbmRleD1zZWxmLmluZGV4KSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBwcmludCgiRmFpbGVkIHJlc2V0IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlN1Y2Nlc3MgcmVzZXQiKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHByaW50KCJGYWlsZWQgcmVzZXQiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkuaXNvZm9ybWF0KCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiQXZvY2FkbyBmaW5pc2ggcmVndWxhciBwdXNoIHt9IHt9Ii5mb3JtYXQoc2VsZi5wdXNoQ291bnQsIG5hbWUpKQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCgwLjAwMDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoIkF2b2NhZG8gZmluaXNoIG5vdCByZWNvcmRzdHJlYW0gcHVzaCB7fSB7fSIuZm9ybWF0KHNlbGYucHVzaENvdW50LCBuYW1lKSkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJwLmprZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiQXZvY2FkbyB0aW1lb3V0IHt9IHt9Ii5mb3JtYXQoc2VsZi5wdXNoQ291bnQsIG5hbWUpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJwLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoIkF2b2NhZG8gcGVuZGluZyByZWFkIHt9IHt9Ii5mb3JtYXQoc2VsZi5wdXNoQ291bnQsIG5hbWUpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
