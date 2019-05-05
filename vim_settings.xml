@@ -65,12 +65,12 @@
         <mark key="." line="51" column="7" />
         <mark key="^" line="51" column="75" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_teacher_sanity.py" timestamp="1557061002233">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_teacher_sanity.py" timestamp="1557064499358">
         <mark key="'" line="24" column="4" />
-        <mark key="[" line="25" column="95" />
-        <mark key="]" line="25" column="95" />
+        <mark key="[" line="6" column="56" />
+        <mark key="]" line="6" column="56" />
         <mark key="^" line="22" column="122" />
-        <mark key="." line="25" column="95" />
+        <mark key="." line="6" column="56" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/archive_structure.py" timestamp="1554976164847">
         <mark key="[" line="73" column="36" />
@@ -91,7 +91,7 @@
         <mark key="^" line="25" column="20" />
         <mark key="." line="25" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557063240006">
+      <file name="/Dummy.txt" timestamp="1557064294746">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmarks.py" timestamp="1555261575864">
@@ -318,11 +318,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+      <register name="&quot;" type="4">
+        <text>replay_from_moab_session</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>replay_from_moab_session</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
