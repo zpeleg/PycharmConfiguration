@@ -6,7 +6,7 @@
       <file name="/Python Console" timestamp="1556724328208">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users_sanity.yaml" timestamp="1557132187708">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users_sanity.yaml" timestamp="1557133511881">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="14" column="54" />
         <mark key="]" line="14" column="77" />
@@ -61,10 +61,10 @@
         <mark key="." line="22" column="32" />
         <mark key="^" line="22" column="32" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_many_users_sanity.py" timestamp="1557130460288">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="1" column="38" />
-        <mark key="." line="1" column="38" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_many_users_sanity.py" timestamp="1557133777769">
+        <mark key="[" line="85" column="29" />
+        <mark key="]" line="85" column="44" />
+        <mark key="." line="85" column="29" />
         <mark key="^" line="1" column="38" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/foreground_teacher/flow.py" timestamp="1557129827532">
@@ -249,16 +249,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>ts_archive</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>ts_archive</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ0ZWFjaGVyX2FyY2hpdmUiOiB0c19hcmNoaXZlbmFtZSwK</text>
+      <register name="0" type="4">
+        <text>teacher_archive</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Q2xlYXJlciBkb2N1bWVudGFpdG9uCg==</text>
