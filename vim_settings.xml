@@ -112,12 +112,12 @@
         <mark key="^" line="600" column="73" />
         <mark key="." line="600" column="73" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" timestamp="1557128747399">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" timestamp="1557145333474">
         <mark key="a" line="44" column="42" />
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="4" />
-        <mark key="." line="16" column="4" />
-        <mark key="^" line="29" column="62" />
+        <mark key="[" line="48" column="40" />
+        <mark key="]" line="48" column="66" />
+        <mark key="." line="48" column="66" />
+        <mark key="^" line="48" column="66" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/summaries/teacher_sanity.py" timestamp="1557061761269">
         <mark key="'" line="124" column="0" />
@@ -255,10 +255,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>BenchmarkLoader</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>BenchmarkLoader</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
