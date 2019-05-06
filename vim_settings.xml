@@ -13,7 +13,7 @@
         <mark key="." line="27" column="14" />
         <mark key="^" line="27" column="3" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/many_users_sanity/many_users_sanity.py" timestamp="1557149469552" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/many_users_sanity/many_users_sanity.py" timestamp="1557151573495" />
       <file name="/a.dummy" timestamp="1556716578055">
         <mark key="[" line="0" column="0" />
       </file>
@@ -52,7 +52,7 @@
         <mark key="^" line="25" column="20" />
         <mark key="." line="25" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557129115576">
+      <file name="/Dummy.txt" timestamp="1557151582610">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/migrate_transpose_benchmarks.py" timestamp="1557128438208">
@@ -114,10 +114,10 @@
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" timestamp="1557145333474">
         <mark key="a" line="44" column="42" />
-        <mark key="[" line="48" column="40" />
-        <mark key="]" line="48" column="66" />
-        <mark key="." line="48" column="66" />
-        <mark key="^" line="48" column="66" />
+        <mark key="[" line="47" column="40" />
+        <mark key="]" line="47" column="66" />
+        <mark key="." line="47" column="66" />
+        <mark key="^" line="47" column="66" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/summaries/teacher_sanity.py" timestamp="1557061761269">
         <mark key="'" line="124" column="0" />
