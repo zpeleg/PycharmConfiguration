@@ -94,6 +94,11 @@
         <mark key="." line="75" column="30" />
         <mark key="^" line="75" column="30" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1557134398534">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/moab_recording_script.py" timestamp="1557130437315">
         <mark key="[" line="276" column="24" />
         <mark key="]" line="276" column="35" />
@@ -249,10 +254,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ts_archive</text>
+        <text>BenchmarkLoader</text>
       </register>
       <register name="-" type="4">
-        <text>ts_archive</text>
+        <text>BenchmarkLoader</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
