@@ -160,11 +160,11 @@
         <mark key="^" line="7" column="90" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" timestamp="1557244598792" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/benchmark_core.py" timestamp="1557156573276">
-        <mark key="[" line="61" column="99" />
-        <mark key="]" line="61" column="110" />
-        <mark key="." line="61" column="110" />
-        <mark key="^" line="61" column="110" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/benchmark_core.py" timestamp="1557249444804">
+        <mark key="[" line="66" column="52" />
+        <mark key="]" line="66" column="67" />
+        <mark key="." line="66" column="67" />
+        <mark key="^" line="66" column="67" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity.py" timestamp="1557221714543">
         <mark key="[" line="19" column="40" />
@@ -314,11 +314,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q2hhbmdlIG9yZGVyIG9mIHBhcmFtZXRlcnMgaW4gUGhvbmVJbnRlcnByZXRlckNvbmZpZ3VyYXRpb24uCg==</text>
+      <register name="&quot;" type="4">
+        <text>benchmarks_results_folder</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>benchmarks_results_folder</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
