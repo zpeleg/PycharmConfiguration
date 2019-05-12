@@ -172,17 +172,18 @@
         <mark key="^" line="7" column="90" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" timestamp="1557244598792" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity.py" timestamp="1557221714543">
-        <mark key="[" line="19" column="40" />
-        <mark key="]" line="19" column="38" />
-        <mark key="^" line="19" column="38" />
-        <mark key="." line="19" column="38" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity.py" timestamp="1557649261953">
+        <mark key="'" line="8" column="8" />
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/moab_recording_script.py" timestamp="1557130437315">
-        <mark key="[" line="276" column="24" />
-        <mark key="]" line="276" column="35" />
-        <mark key="." line="319" column="19" />
-        <mark key="^" line="319" column="19" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/moab_recording_script.py" timestamp="1557648710409">
+        <mark key="[" line="709" column="38" />
+        <mark key="]" line="709" column="120" />
+        <mark key="." line="709" column="120" />
+        <mark key="^" line="709" column="120" />
       </file>
       <file name="/default_daemon_start_detect_music_detection_config" timestamp="1557245313814">
         <mark key="[" line="0" column="0" />
@@ -202,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" />
       <jump line="132" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" />
       <jump line="129" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" />
       <jump line="111" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" />
@@ -302,6 +302,7 @@
       <jump line="45" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" />
       <jump line="478" column="25" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" />
       <jump line="117" column="23" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" />
+      <jump line="6" column="8" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -313,17 +314,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBweW1vYmlsZXByb2R1Y3QubW9hYi5hcmNoaXZlcyBpbXBvcnQgTW9hYlNlc3Npb25Mb2FkZXIsIE1vYWJBcmNoaXZlcwo=</text>
+      <register name="&quot;" type="4">
+        <text>generate_recs_scenario, summary_function</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>create_this_thing</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkFMTCI6IGxhbWJkYSBzZWxmOiBNb2FiRm9sZGVyQXJjaGl2ZXMoZm9sZGVyLCB0ZW1wbGF0ZV9uYW1lPSIiKSwKICAgICAgICAgICAgIlRTIjogbGFtYmRhIHNlbGY6IE1vYWJGb2xkZXJBcmNoaXZlcyhmb2xkZXIsIHRlbXBsYXRlX25hbWU9IlVUU2FuaXR5TU9BQlNjcmlwdCIpLAogICAgICAgICAgICAiRVhNIjogbGFtYmRhIHNlbGY6IE1vYWJGb2xkZXJBcmNoaXZlcyhmb2xkZXIsIHRlbXBsYXRlX25hbWU9IkV4dGVuZGVkTWF0cml4TU9BQlNjcmlwdCIpLAogICAgICAgICAgICAiRlQiOiBsYW1iZGEgc2VsZjogTW9hYkZvbGRlckFyY2hpdmVzKGZvbGRlciwgdGVtcGxhdGVfbmFtZT0iRlRNT0FCU2NyaXB0IikK</text>
+      <register name="0" type="4">
+        <text>generate_recs_scenario, summary_function</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBweW1vYmlsZXByb2R1Y3QubW9hYi5hcmNoaXZlcyBpbXBvcnQgTW9hYlNlc3Npb25Mb2FkZXIsIE1vYWJBcmNoaXZlcwo=</text>
