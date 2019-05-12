@@ -142,11 +142,11 @@
         <mark key="." line="47" column="118" />
         <mark key="^" line="47" column="118" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" timestamp="1557061873882">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="128" />
-        <mark key="." line="82" column="127" />
-        <mark key="^" line="82" column="127" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" timestamp="1557653457078">
+        <mark key="[" line="63" column="78" />
+        <mark key="]" line="63" column="82" />
+        <mark key="." line="63" column="82" />
+        <mark key="^" line="63" column="82" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/general.py" timestamp="1557218723589" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_teacher_sanity.py" timestamp="1557318937336">
