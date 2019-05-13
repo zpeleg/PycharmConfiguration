@@ -88,12 +88,12 @@
         <mark key="." line="72" column="13" />
         <mark key="^" line="72" column="13" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1557227050792">
-        <mark key="'" line="430" column="4" />
-        <mark key="[" line="275" column="106" />
-        <mark key="]" line="275" column="110" />
-        <mark key="^" line="275" column="110" />
-        <mark key="." line="275" column="110" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1557744740407">
+        <mark key="'" line="427" column="4" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="89" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="20" column="40" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/normal_benchmark.py" timestamp="1557156774486">
         <mark key="'" line="50" column="0" />
@@ -171,7 +171,7 @@
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557737455288">
+      <file name="/Dummy.txt" timestamp="1557744748027">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_many_users_sanity.py" timestamp="1557318931293">
@@ -372,10 +372,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">X19hbGxfXyA9IFsnQmVuY2htYXJrTG9hZGVyJywgJ01vYWJUZXN0cycsICdSb3dTdW1tYXJpZXNHZW5lcmF0b3InLCAnQmVuY2htYXJrQ3N2TG9hZGVyJ10K</text>
       </register>
       <register name="-" type="4">
-        <text>20</text>
+        <text>convert_mu_archive_to_pandas</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
@@ -384,41 +384,37 @@
         <text>(arc, uxevents_no_calib)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">X19hbGxfXyA9IFsnQmVuY2htYXJrTG9hZGVyJywgJ01vYWJUZXN0cycsICdSb3dTdW1tYXJpZXNHZW5lcmF0b3InLCAnQmVuY2htYXJrQ3N2TG9hZGVyJ10K</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">X19hbGxfXyA9IFsnQmVuY2htYXJrTG9hZGVyJywgJ01vYWJUZXN0cycsICdSb3dTdW1tYXJpZXNHZW5lcmF0b3InLCAnQmVuY2htYXJrQ3N2TG9hZGVyJ10K</text>
       </register>
-      <register name="3" type="4">
-        <text>None				total_duration	total_duration	setup_time	ai_latency	unapproved_rec_time	total_user_time	unexplained_time	time_waiting_for_first_response	time_waiting_for_approval	unapproved_rec_portion
-None				count	mean	mean	mean	mean	mean	mean	mean	mean	mean
-operator	tester_is_operator	network_name	is_complete
-sefi	True	Bugatone 5	True	1	955.738658	147.649305	47.285009999999986	0.0	133.67532400000002		58.877202000000004	53.284427	0.0
-tzippy	True	Bugatone 5	True	5	1583.9599148000002	932.5333742	54.3034066	0.0	98.2561652		41.971239000000004	42.809913800000004	0.0</text>
+      <register name="3" type="2">
+        <text encoding="base64">X19hbGxfXyA9IFsnQmVuY2htYXJrTG9hZGVyJywgJ01vYWJUZXN0cycsICdSb3dTdW1tYXJpZXNHZW5lcmF0b3InLCAnQmVuY2htYXJrQ3N2TG9hZGVyJ10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwpwcmludChzeXMucGF0aCkKCg==</text>
+        <text encoding="base64">ZnJvbSBweW1vYmlsZXByb2R1Y3QubW9hYi5jb3JlLmRvX3JlcGxheSBpbXBvcnQgcmVwbGF5X2Zyb21fbW9hYl9zY2VuYXJpbwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q3JlYXRlcyBhIHRhYmxlIG9mIHJlY29yZGluZwo=</text>
+        <text encoding="base64">ZnJvbSBweW1vYmlsZXByb2R1Y3QubW9hYi50ZWFjaGVyX3Nhbml0eS50ZWFjaGVyX3Nhbml0eV9xdWVyaWVzIGltcG9ydCBjb252ZXJ0X3RlYWNoX3NhbmVfYXJjaGl2ZV90b19wYW5kYXMsIGNvbnZlcnRfbXVfYXJjaGl2ZV90b19wYW5kYXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UFJvY2Vzc2kK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VtbWFyeV9ub19jYWxpYiA9IGNvcG11dGVfc3VtbWFyeShhcmMsIHV4ZXZlbnRzX25vX2NhbGliKQo=</text>
+        <text encoding="base64">ZnJvbSBweW1vYmlsZXByb2R1Y3QubW9hYi50ZWFjaGVyX3Nhbml0eS50ZWFjaGVyX3Nhbml0eV9xdWVyaWVzIGltcG9ydCAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VtbWFyeV93aXRoX2NhbGliID0gY29wbXV0ZV9zdW1tYXJ5KGFyYywgdXhldmVudHNfd2l0aF9jYWxpYikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -475,8 +471,8 @@ tzippy	True	Bugatone 5	True	5	1583.9599148000002	932.5333742	54.3034066	0.0	98.2
         <entry encoding="base64">JzwsJz53</entry>
         <entry>Q</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
