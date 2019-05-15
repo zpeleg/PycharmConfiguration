@@ -12,11 +12,11 @@
         <mark key="." line="38" column="58" />
         <mark key="^" line="38" column="58" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/build.py" timestamp="1557919096860">
-        <mark key="[" line="67" column="91" />
-        <mark key="]" line="68" column="34" />
-        <mark key="." line="68" column="34" />
-        <mark key="^" line="68" column="34" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/build.py" timestamp="1557921699097">
+        <mark key="[" line="48" column="17" />
+        <mark key="]" line="48" column="19" />
+        <mark key="." line="48" column="19" />
+        <mark key="^" line="48" column="19" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/teacher_sanity/teacher_sanity_queries.py" timestamp="1557765118754">
         <mark key="[" line="133" column="35" />
@@ -167,7 +167,7 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1557919299052">
+      <file name="/Python Console" timestamp="1557921545653">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1557765015129">
@@ -185,12 +185,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/make.py" timestamp="1557918247762">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/make.py" timestamp="1557920801157">
         <mark key="'" line="164" column="0" />
-        <mark key="[" line="146" column="84" />
-        <mark key="]" line="146" column="84" />
-        <mark key="." line="146" column="84" />
-        <mark key="^" line="146" column="76" />
+        <mark key="[" line="148" column="82" />
+        <mark key="]" line="148" column="98" />
+        <mark key="." line="148" column="98" />
+        <mark key="^" line="148" column="98" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" timestamp="1556729335047">
         <mark key="[" line="6" column="5" />
@@ -216,7 +216,7 @@
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557919271294">
+      <file name="/Dummy.txt" timestamp="1557921541793">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_many_users_sanity.py" timestamp="1557318931293">
@@ -252,11 +252,11 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/export.py" timestamp="1557919737741">
-        <mark key="[" line="119" column="55" />
-        <mark key="]" line="119" column="63" />
-        <mark key="^" line="119" column="63" />
-        <mark key="." line="119" column="63" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/export.py" timestamp="1557920881778">
+        <mark key="[" line="41" column="19" />
+        <mark key="]" line="41" column="19" />
+        <mark key="^" line="147" column="103" />
+        <mark key="." line="41" column="19" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity.py" timestamp="1557745085284">
         <mark key="[" line="15" column="87" />
@@ -418,10 +418,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>bugatone</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>bugatone</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
