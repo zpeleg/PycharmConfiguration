@@ -255,11 +255,11 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/export.py" timestamp="1557920881778">
-        <mark key="[" line="41" column="19" />
-        <mark key="]" line="41" column="19" />
-        <mark key="^" line="147" column="103" />
-        <mark key="." line="41" column="19" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/export.py" timestamp="1557928755366">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="^" line="142" column="3" />
+        <mark key="." line="148" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity.py" timestamp="1557745085284">
         <mark key="[" line="15" column="87" />
@@ -421,7 +421,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QnVpbGQgYXV0aCB0YXJnZXQgd2hlbiBzcGVjaWZ5aW5nIC13IGF1dGgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -433,37 +433,37 @@
         <text encoding="base64">ICAgIHByaW50KCJYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QnVpbGQgYXV0aCB0YXJnZXQgd2hlbiBzcGVjaWZ5aW5nIC13IGF1dGgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBDb2xvcmFtYQo=</text>
+        <text encoding="base64">ICAgIGJ1aWxkX3BsYXRmb3JtcyhbImxpbnV4Il0sICJyZWxlYXNlIiwgWyJhbGwiXSwgcHJvamVjdCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnbGliL2FybTY0L3tidWlsZHR5cGV9L2xpYmJ1Z2F0b25le2FwcF9tb2R9LnNvJy5mb3JtYXQoCg==</text>
+        <text encoding="base64">ICAgICMgQ29weSBsaW51eCBhcnRpZmFjdHMgdG8gb3V0cHV0IGZvbGRlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QnVpbGQgYXV0aCB0YXJnZXQgd2hlbiBzcGVjaWZ5aW5nIC13IGF1dGgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">IyBDb2xvcmFtYQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhcnNlcgo=</text>
+        <text encoding="base64">ICAgICAgICAnbGliL2FybTY0L3tidWlsZHR5cGV9L2xpYmJ1Z2F0b25le2FwcF9tb2R9LnNvJy5mb3JtYXQoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QWRkIHRlc3QgdG8gZWFjaCBzdW1tYXJ5IHRoYXQgZG9lcyBhIHNhbml0eQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgICogRGV2aWNlIGFuZCB1c2VyIGFyZSBhcyBleHBlY3RlZAo=</text>
+        <text encoding="base64">ICAgIHBhcnNlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
