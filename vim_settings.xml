@@ -12,12 +12,6 @@
         <mark key="." line="38" column="58" />
         <mark key="^" line="38" column="58" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/build.py" timestamp="1557930265939">
-        <mark key="[" line="70" column="71" />
-        <mark key="]" line="70" column="83" />
-        <mark key="." line="70" column="83" />
-        <mark key="^" line="70" column="83" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/teacher_sanity/teacher_sanity_queries.py" timestamp="1557765118754">
         <mark key="[" line="133" column="35" />
         <mark key="]" line="134" column="57" />
@@ -80,13 +74,6 @@
         <mark key="]" line="4" column="29" />
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmarks.py" timestamp="1557932603813">
-        <mark key="'" line="26" column="13" />
-        <mark key="[" line="24" column="1" />
-        <mark key="]" line="26" column="13" />
-        <mark key="^" line="26" column="13" />
-        <mark key="." line="26" column="13" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/foreground_teacher/flow.py" timestamp="1557744903075">
         <mark key="[" line="4" column="70" />
