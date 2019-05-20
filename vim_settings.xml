@@ -232,6 +232,12 @@
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="28" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/swig/generate_swig_file.py" timestamp="1558369182931">
+        <mark key="[" line="36" column="51" />
+        <mark key="]" line="36" column="64" />
+        <mark key="^" line="36" column="64" />
+        <mark key="." line="36" column="64" />
+      </file>
       <file name="/Dummy.txt" timestamp="1558346913575">
         <mark key="[" line="0" column="0" />
       </file>
@@ -303,6 +309,12 @@
         <mark key="]" line="3" column="5" />
         <mark key="." line="3" column="5" />
         <mark key="^" line="3" column="5" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/swig/templates/swig_template.tmpl" timestamp="1558369297368">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+        <mark key="^" line="9" column="22" />
       </file>
       <file name="/default_daemon_start_detect_music_detection_config" timestamp="1557245313814">
         <mark key="[" line="0" column="0" />
@@ -444,8 +456,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Extracts the all the approved audio data from a Teacher Sanity session.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">JWluY2x1ZGUgInN0ZF9tYXAuaSIK</text>
       </register>
       <register name="-" type="4">
         <text>Extracts the all the approved audio data from a Teacher Sanity session.</text>
@@ -454,7 +466,7 @@
         <text>impo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgIGFjdGlvbjogcmFpc2UgRmluaXNoZWRTdWNjZXNzZnVsbHkoKQo=</text>
+        <text encoding="base64">JWluY2x1ZGUgInN0ZF9tYXAuaSIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QWRkIGZ0IG9ubHkgcmVwbGF5Cg==</text>
