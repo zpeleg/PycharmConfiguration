@@ -108,25 +108,11 @@
       <file name="/" timestamp="1557245313805">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1557821084488">
-        <mark key="'" line="252" column="42" />
-        <mark key="[" line="434" column="0" />
-        <mark key="]" line="434" column="0" />
-        <mark key="." line="434" column="0" />
-        <mark key="^" line="249" column="59" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_extended_matrix.py" timestamp="1557318923239">
         <mark key="[" line="72" column="13" />
         <mark key="]" line="72" column="13" />
         <mark key="." line="72" column="13" />
         <mark key="^" line="72" column="13" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/moab/teacher_sanity_summary_test.py" timestamp="1557821116665">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="46" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/swig/templates/to_json_cpp.tmpl" timestamp="1558023207968">
         <mark key="[" line="7" column="0" />
@@ -208,6 +194,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="148" column="98" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/src/states/authentication_state.cpp" timestamp="1558370081116">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="94" column="0" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" timestamp="1556729335047">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="20" />
@@ -238,7 +230,7 @@
         <mark key="^" line="36" column="64" />
         <mark key="." line="36" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558346913575">
+      <file name="/Dummy.txt" timestamp="1558370044858">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_many_users_sanity.py" timestamp="1557318931293">
@@ -290,13 +282,6 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="73" />
         <mark key="^" line="8" column="76" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/do_many_users_sanity.py" timestamp="1557760824574">
-        <mark key="'" line="128" column="3" />
-        <mark key="[" line="66" column="7" />
-        <mark key="]" line="69" column="77" />
-        <mark key="^" line="69" column="77" />
-        <mark key="." line="69" column="77" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/moab_recording_script.py" timestamp="1557745447756">
         <mark key="[" line="4" column="63" />
@@ -456,11 +441,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">JWluY2x1ZGUgInN0ZF9tYXAuaSIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="-" type="4">
-        <text>Extracts the all the approved audio data from a Teacher Sanity session.</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
@@ -468,38 +453,38 @@
       <register name="0" type="2">
         <text encoding="base64">JWluY2x1ZGUgInN0ZF9tYXAuaSIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">QWRkIGZ0IG9ubHkgcmVwbGF5Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgoKCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RE8gTk9UIE1FUkdFLiBQYXRjaCBzb2x1dGlvbiB0byBnZXR0aW5nIGNhbGlicmF0aW9ucyBmcm9tIHJlcGxheS4gRE8gTk9UIE1FUkdFCg==</text>
+        <text encoding="base64">CgoKCgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgIGFjdGlvbjogc2xlZXAoMSk7IHJhaXNlIEZpbmlzaGVkU3VjY2Vzc2Z1bGx5KCkK</text>
+        <text encoding="base64">QWRkIGZ0IG9ubHkgcmVwbGF5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSBuYW1lOiBCbGEKICAgICAgICB0cmFuc2l0aW9uczoKICAgICAgICAgIC0gdGFyZ2V0OiByb290CiAgICAgICAgICAgIGV2ZW50OiBldmVudCBjb25zdW1lZAogICAgICAgICAgICBndWFyZDogZXZlbnQuZXZlbnQubmFtZSA9PSAic29uZ0VuZCIKICAgICAgICAgICAgYWN0aW9uOiByYWlzZSBGaW5pc2hlZFN1Y2Nlc3NmdWxseSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uOiAK</text>
+        <text encoding="base64">RE8gTk9UIE1FUkdFLiBQYXRjaCBzb2x1dGlvbiB0byBnZXR0aW5nIGNhbGlicmF0aW9ucyBmcm9tIHJlcGxheS4gRE8gTk9UIE1FUkdFCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQK</text>
+        <text encoding="base64">IyAgICAgICAgICAgIGFjdGlvbjogc2xlZXAoMSk7IHJhaXNlIEZpbmlzaGVkU3VjY2Vzc2Z1bGx5KCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uOiByYWlzZSBGaW5pc2hlZFN1Y2Nlc3NmdWxseSgpCg==</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBCbGEKICAgICAgICB0cmFuc2l0aW9uczoKICAgICAgICAgIC0gdGFyZ2V0OiByb290CiAgICAgICAgICAgIGV2ZW50OiBldmVudCBjb25zdW1lZAogICAgICAgICAgICBndWFyZDogZXZlbnQuZXZlbnQubmFtZSA9PSAic29uZ0VuZCIKICAgICAgICAgICAgYWN0aW9uOiByYWlzZSBGaW5pc2hlZFN1Y2Nlc3NmdWxseSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiMSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uOiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
