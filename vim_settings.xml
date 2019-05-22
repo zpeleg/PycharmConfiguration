@@ -120,11 +120,6 @@
         <mark key="." line="72" column="13" />
         <mark key="^" line="72" column="13" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/swig/templates/to_json_cpp.tmpl" timestamp="1558023207968">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_users_sanity_ft.yaml" timestamp="1558345729323">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="13" column="45" />
@@ -236,8 +231,8 @@
         <mark key="^" line="36" column="64" />
         <mark key="." line="36" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558440709308">
-        <mark key="[" line="4" column="15" />
+      <file name="/Dummy.txt" timestamp="1558515117768">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
