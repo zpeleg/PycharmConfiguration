@@ -152,11 +152,12 @@
         <mark key="^" line="600" column="73" />
         <mark key="." line="547" column="4" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/dummy_grpc_streaming_server.py" timestamp="1558868592597">
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="16" column="60" />
-        <mark key="^" line="16" column="60" />
-        <mark key="." line="16" column="60" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/dummy_grpc_streaming_server.py" timestamp="1558871455659">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="300" column="9" />
+        <mark key="]" line="300" column="12" />
+        <mark key="^" line="300" column="12" />
+        <mark key="." line="300" column="12" />
       </file>
       <file name="/None" timestamp="1557245313825">
         <mark key="[" line="0" column="0" />
@@ -173,10 +174,8 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/device_communication/pydcomm/rpc/gen/buga_rpc_pb2_grpc.py" timestamp="1558864561924">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="44" />
-      </file>
+      <file name="$USER_HOME$/device_communication/cpp/rpc_proto/buga_rpc.proto" timestamp="1558871586401" />
+      <file name="$USER_HOME$/device_communication/pydcomm/rpc/gen/buga_rpc_pb2_grpc.py" timestamp="1558869706250" />
       <file name="/Python Console" timestamp="1558439710124">
         <mark key="[" line="0" column="0" />
       </file>
@@ -353,12 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="256" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" />
-      <jump line="249" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/many_user_row_summary.py" />
-      <jump line="235" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" />
-      <jump line="228" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" />
-      <jump line="206" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" />
-      <jump line="214" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" />
       <jump line="217" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" />
       <jump line="225" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" />
       <jump line="227" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" />
@@ -453,6 +446,12 @@
       <jump line="164" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/make.py" />
       <jump line="26" column="13" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmarks.py" />
       <jump line="16" column="45" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/ft/ft.yaml" />
+      <jump line="288" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/dummy_grpc_streaming_server.py" />
+      <jump line="302" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/dummy_grpc_streaming_server.py" />
+      <jump line="3" column="25" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/dummy_grpc_streaming_server.py" />
+      <jump line="293" column="40" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/dummy_grpc_streaming_server.py" />
+      <jump line="297" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/dummy_grpc_streaming_server.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/dummy_grpc_streaming_server.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -465,10 +464,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>add_RouteGuideServicer_to_server</text>
+        <text>False</text>
       </register>
       <register name="-" type="4">
-        <text>add_RouteGuideServicer_to_server</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
@@ -477,37 +476,37 @@
         <text>buga_rpc_pb2_grpc</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBweWRjb21tLnJwYy5nZW4uYnVnYV9ycGNfcGIyX2dycGMgaW1wb3J0IERldmljZVJwY1N0cmVhbWluZ1NlcnZpY2VyCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIHRyYWNlYmFjayBpbXBvcnQgcHJpbnRfZXhjCiAgICAgICAgcHJpbnRfZXhjKCkK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBncnBjLmZyYW1ld29yay4K</text>
+        <text encoding="base64">Y2xhc3MgQnVnYUVjaG9FeGVjdXRvcihSZW1vdGVQcm9jZWR1cmVFeGVjdXRvcik6CiAgICAiIiJBIHNpbXBsZSBlY2hvIGV4ZWN1dG9yIiIiCgogICAgZGVmIGV4ZWN1dGVfcHJvY2VkdXJlKHNlbGYsIHByb2NlZHVyZV9uYW1lLCBwYXJhbXMpOgogICAgICAgIHJldHVybiBwYXJhbXMKCiAgICBkZWYgZ2V0X3ZlcnNpb24oc2VsZik6CiAgICAgICAgcmV0dXJuICIxLjAiCgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0Lgo=</text>
+        <text encoding="base64">CiAgICBhc3luY19zZXJ2ZXIud2FpdGluZ19jYWxscwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAidGVzdC1maWxlcyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FsbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF90b3VjaChvcy5wYXRoLmpvaW4ob3MuZ2V0Y3dkKCksICIuLiIsICJzcmMiLCAiYXV0aCIsICJhdXRoX21haW4uY3BwIikpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QWRkIGZ1bmN0aW9uIHRoYXQgcmV0dXJucyB0aGUgY2FsaWJyYXRpb24gZm9yIGEgZ2l2ZW4gZGV2aWNlIGFuZCBlYXJwaG9uZQo=</text>
+        <text encoding="base64">Y2xhc3MgU2VydmVySW1wbChidWdhX3JwY19wYjJfZ3JwYy5EZXZpY2VScGNTdHJlYW1pbmdTZXJ2aWNlcik6CiAgICBkZWYgY2FsbFN0cmVhbWluZyhzZWxmLCByZXF1ZXN0LCBjb250ZXh0KToKICAgICAgICBpZiByZXF1ZXN0Lm5hbWUgPT0gImVjaG8iOgogICAgICAgICAgICBwcmludChyZXF1ZXN0LmJ1ZikKICAgICAgICBjb250ZXh0LnNldF9jb2RlKGdycGMuU3RhdHVzQ29kZS5PSykKICAgICAgICBmb3IgcyBpbiByZXF1ZXN0LmJ1ZjoKICAgICAgICAgICAgeWllbGQgcwoKZGVmIHNlcnZlKCk6CiAgc2VydmVyID0gZ3JwYy5zZXJ2ZXIoZnV0dXJlcy5UaHJlYWRQb29sRXhlY3V0b3IobWF4X3dvcmtlcnM9MTApKQogIGJ1Z2FfcnBjX3BiMl9ncnBjLmFkZF9EZXZpY2VScGNTdHJlYW1pbmdTZXJ2aWNlcl90b19zZXJ2ZXIoCiAgICAgIFNlcnZlckltcGwoKSwgc2VydmVyKQogIHNlcnZlci5hZGRfaW5zZWN1cmVfcG9ydCgnWzo6XTo1MDA1MScpCiAgc2VydmVyLnN0YXJ0KCkKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBzZXJ2ZSgpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">aW1wb3J0IGdycGMKZnJvbSBjb25jdXJyZW50IGltcG9ydCBmdXR1cmVzCgpmcm9tICBweWRjb21tLnJwYy5nZW4gaW1wb3J0IGJ1Z2FfcnBjX3BiMl9ncnBjCgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgoKCgo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZnJvbSBweWRjb21tLnJwYy5nZW4uYnVnYV9ycGNfcGIyX2dycGMgaW1wb3J0IERldmljZVJwY1N0cmVhbWluZ1NlcnZpY2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
