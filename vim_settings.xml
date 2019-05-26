@@ -137,11 +137,11 @@
         <mark key="^" line="27" column="52" />
         <mark key="." line="27" column="52" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/replay_ui.py" timestamp="1558879661153">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-        <mark key="^" line="106" column="111" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/replay_ui.py" timestamp="1558881071648">
+        <mark key="[" line="88" column="29" />
+        <mark key="]" line="88" column="32" />
+        <mark key="." line="88" column="32" />
+        <mark key="^" line="88" column="32" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_ut.py" timestamp="1557661759019">
         <mark key="[" line="547" column="4" />
@@ -449,11 +449,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFyY2hpdmVzID0gbGlzdChhcmNoaXZlcykK</text>
+      <register name="&quot;" type="4">
+        <text>item</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>item</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
