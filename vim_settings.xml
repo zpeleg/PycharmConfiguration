@@ -68,6 +68,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/dependencies/device_communication_common/rpc_proto/buga_rpc.proto" timestamp="1558873515057" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/__init__.py" timestamp="1557746578236">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="24" column="8" />
