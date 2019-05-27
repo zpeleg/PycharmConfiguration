@@ -76,7 +76,8 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" timestamp="1558968551731">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" timestamp="1558970334619">
+        <mark key="'" line="153" column="15" />
         <mark key="[" line="20" column="27" />
         <mark key="]" line="20" column="44" />
         <mark key="." line="20" column="44" />
@@ -163,7 +164,7 @@
       </file>
       <file name="$USER_HOME$/device_communication/cpp/rpc_proto/buga_rpc.proto" timestamp="1558871586401" />
       <file name="$USER_HOME$/device_communication/pydcomm/rpc/gen/buga_rpc_pb2_grpc.py" timestamp="1558869706250" />
-      <file name="/Python Console" timestamp="1558439710124">
+      <file name="/Python Console" timestamp="1558970280904">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1557765015129">
@@ -314,9 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="217" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" />
-      <jump line="225" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" />
-      <jump line="227" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" />
       <jump line="234" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" />
       <jump line="240" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" />
       <jump line="243" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" />
@@ -414,6 +412,9 @@
       <jump line="293" column="40" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/dummy_grpc_streaming_server.py" />
       <jump line="297" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/dummy_grpc_streaming_server.py" />
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/dummy_grpc_streaming_server.py" />
+      <jump line="8" column="34" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
+      <jump line="140" column="15" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
+      <jump line="153" column="15" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -432,7 +433,7 @@
         <text encoding="base64">dXhldmVudHM9dXhldmVudHMsIA==</text>
       </register>
       <register name="/" type="4">
-        <text>impo</text>
+        <text>path</text>
       </register>
       <register name="0" type="4">
         <text>encoding=&quot;utf-8&quot;</text>
@@ -475,9 +476,9 @@
       </register>
     </registers>
     <search>
-      <last-search>impo</last-search>
+      <last-search>path</last-search>
       <last-offset />
-      <last-pattern>impo</last-pattern>
+      <last-pattern>path</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>buga_con</last-substitute>
       <last-dir>1</last-dir>
@@ -485,8 +486,6 @@
     </search>
     <history>
       <history-search>
-        <entry>def detect</entry>
-        <entry>:g</entry>
         <entry>ref</entry>
         <entry>ref_enabled</entry>
         <entry>silence</entry>
@@ -505,6 +504,8 @@
         <entry encoding="base64">XDxfcnVuX2FkYl9mb3Jfc3BlY2lmaWNfZGV2aWNlXD4=</entry>
         <entry>buga_con</entry>
         <entry>impo</entry>
+        <entry>repl</entry>
+        <entry>path</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu 0</entry>
