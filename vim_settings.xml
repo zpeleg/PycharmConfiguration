@@ -121,11 +121,11 @@
         <mark key="^" line="27" column="52" />
         <mark key="." line="27" column="52" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/replay_ui.py" timestamp="1558958548925">
-        <mark key="[" line="138" column="88" />
-        <mark key="]" line="138" column="105" />
-        <mark key="." line="138" column="105" />
-        <mark key="^" line="138" column="105" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/replay_ui.py" timestamp="1558959747661">
+        <mark key="[" line="70" column="44" />
+        <mark key="]" line="70" column="45" />
+        <mark key="." line="70" column="45" />
+        <mark key="^" line="70" column="45" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_ut.py" timestamp="1557661759019">
         <mark key="[" line="547" column="4" />
@@ -211,7 +211,7 @@
         <mark key="^" line="36" column="64" />
         <mark key="." line="36" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558955445126">
+      <file name="/Dummy.txt" timestamp="1558959850943">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
@@ -420,16 +420,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>S</text>
+        <text>, encoding=&quot;utf-8&quot;))</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>, encoding=&quot;utf-8&quot;))</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
       </register>
       <register name="0" type="4">
-        <text>buga_rpc_pb2_grpc</text>
+        <text>encoding=&quot;utf-8&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGFyY2hpdmVzID0gbGlzdChhcmNoaXZlcykK</text>
