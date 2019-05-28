@@ -75,13 +75,6 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" timestamp="1559057620327">
-        <mark key="'" line="26" column="50" />
-        <mark key="[" line="58" column="8" />
-        <mark key="]" line="58" column="8" />
-        <mark key="." line="58" column="8" />
-        <mark key="^" line="58" column="8" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/foreground_teacher/flow.py" timestamp="1557744903075">
         <mark key="[" line="4" column="70" />
         <mark key="]" line="5" column="0" />
@@ -208,7 +201,6 @@
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="28" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/uxevents.yaml" timestamp="1559055584999" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/swig/generate_swig_file.py" timestamp="1558369182931">
         <mark key="[" line="36" column="51" />
         <mark key="]" line="36" column="64" />
