@@ -75,6 +75,11 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" timestamp="1559117547827">
+        <mark key="[" line="58" column="8" />
+        <mark key="]" line="58" column="8" />
+        <mark key="." line="58" column="8" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/foreground_teacher/flow.py" timestamp="1557744903075">
         <mark key="[" line="4" column="70" />
         <mark key="]" line="5" column="0" />
@@ -207,11 +212,11 @@
         <mark key="^" line="36" column="64" />
         <mark key="." line="36" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558959850943">
+      <file name="/Dummy.txt" timestamp="1559117834688">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="59" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_many_users_sanity.py" timestamp="1557318931293">
         <mark key="[" line="135" column="16" />
@@ -415,8 +420,10 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>Fix bug where run_benchmarks created an empty timelines.tar.gz
+
+The format of the output archive has changed and the code in</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cHJpbnQgJ3NldCBwb3Mge30nLmZvcm1hdChwb3MpOyA=</text>
@@ -427,38 +434,42 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0cmFuc2l0aW9uczoKICAgICAgICAgIC0gZXZlbnQ6IHNvbmdFbmQKICAgICAgICAgICAgYWN0aW9uOiBtdXNpY19wbGF5ZXIuZmFzdF9mb3J3YXJkKCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="1" type="4">
+        <text>Fix bug where run_benchmarks created an empty timelines.tar.gz
+
+The format of the output archive has changed and the code in</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG0K</text>
+      <register name="2" type="8">
+        <text>#
+#
+#</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFyY2hpdmVzID0gbGlzdChhcmNoaXZlcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHRyYWNlYmFjayBpbXBvcnQgcHJpbnRfZXhjCiAgICAgICAgcHJpbnRfZXhjKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgQnVnYUVjaG9FeGVjdXRvcihSZW1vdGVQcm9jZWR1cmVFeGVjdXRvcik6CiAgICAiIiJBIHNpbXBsZSBlY2hvIGV4ZWN1dG9yIiIiCgogICAgZGVmIGV4ZWN1dGVfcHJvY2VkdXJlKHNlbGYsIHByb2NlZHVyZV9uYW1lLCBwYXJhbXMpOgogICAgICAgIHJldHVybiBwYXJhbXMKCiAgICBkZWYgZ2V0X3ZlcnNpb24oc2VsZik6CiAgICAgICAgcmV0dXJuICIxLjAiCgoK</text>
+        <text encoding="base64">ICAgIGFyY2hpdmVzID0gbGlzdChhcmNoaXZlcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIHRyYWNlYmFjayBpbXBvcnQgcHJpbnRfZXhjCiAgICAgICAgcHJpbnRfZXhjKCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBhc3luY19zZXJ2ZXIud2FpdGluZ19jYWxscwo=</text>
+        <text encoding="base64">Y2xhc3MgQnVnYUVjaG9FeGVjdXRvcihSZW1vdGVQcm9jZWR1cmVFeGVjdXRvcik6CiAgICAiIiJBIHNpbXBsZSBlY2hvIGV4ZWN1dG9yIiIiCgogICAgZGVmIGV4ZWN1dGVfcHJvY2VkdXJlKHNlbGYsIHByb2NlZHVyZV9uYW1lLCBwYXJhbXMpOgogICAgICAgIHJldHVybiBwYXJhbXMKCiAgICBkZWYgZ2V0X3ZlcnNpb24oc2VsZik6CiAgICAgICAgcmV0dXJuICIxLjAiCgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FsbAo=</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
