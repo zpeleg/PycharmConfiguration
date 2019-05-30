@@ -51,11 +51,11 @@
         <mark key="^" line="288" column="71" />
         <mark key="." line="288" column="71" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils_utils/version_installer.py" timestamp="1559221597488">
-        <mark key="[" line="25" column="76" />
-        <mark key="]" line="25" column="76" />
-        <mark key="^" line="25" column="76" />
-        <mark key="." line="25" column="76" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils_utils/version_installer.py" timestamp="1559224562867">
+        <mark key="[" line="40" column="114" />
+        <mark key="]" line="41" column="70" />
+        <mark key="^" line="41" column="70" />
+        <mark key="." line="41" column="70" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/vents_uuc/flow.py" timestamp="1557745093163">
         <mark key="[" line="2" column="21" />
@@ -267,12 +267,12 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/export.py" timestamp="1559216256924">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/export.py" timestamp="1559224299920">
         <mark key="'" line="124" column="42" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="114" column="45" />
-        <mark key="." line="97" column="0" />
+        <mark key="[" line="119" column="147" />
+        <mark key="]" line="119" column="147" />
+        <mark key="^" line="119" column="147" />
+        <mark key="." line="119" column="147" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity.py" timestamp="1557745085284">
         <mark key="[" line="15" column="87" />
@@ -451,8 +451,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;/mnt/buga_storage/mobile_product/auth/versions/&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJhbmRyb2lkX2FwcHMvQnVnYXRvbmVBdXRoZW50aWNhdGlvbkRlbW8vYXBwL2J1aWxkL291dHB1dHMvYXBrL2RlYnVnL2FwcC1kZWJ1Zy5hcGsiCg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;/mnt/buga_storage/mobile_product/auth/versions/&quot;</text>
@@ -460,44 +460,42 @@
       <register name="/" type="4">
         <text>impo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIGdldCBhbGwgdmVyc2lvbiBmb2xkZXJzCiAgICAgICAgc3ViX2RpcnMgPSBbbmFtZSBmb3IgbmFtZSBpbiBvcy5saXN0ZGlyKHZlcnNpb25zX2ZvbGRlcikKICAgICAgICAgICAgICAgICAgICBpZiBvcy5wYXRoLmlzZGlyKG9zLnBhdGguam9pbih2ZXJzaW9uc19mb2xkZXIsIG5hbWUpKV0KICAgICAgICBwcmVmaXggPSAie31fIi5mb3JtYXQodmVyc2lvbl9udW1iZXIpCiAgICAgICAgdHJ5OgogICAgICAgICAgICBzdWJfZGlyID0gW3N1Yl9kaXIgZm9yIHN1Yl9kaXIgaW4gc3ViX2RpcnMgaWYgc3ViX2Rpci5zdGFydHN3aXRoKHByZWZpeCldWzBdCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBwcmludCgiRXJyb3IhIHZlcnNpb24ge30gZG9lcyBub3QgZXhpc3QhIi5mb3JtYXQodmVyc2lvbl9udW1iZXIpKQogICAgICAgICAgICByZXR1cm4KICAgICAgICBzZWxmLl9pbnN0YWxsX3ZlcnNpb25fZnJvbV9mb2xkZXIob3MucGF0aC5qb2luKHZlcnNpb25zX2ZvbGRlciwgc3ViX2RpciksIGFwaywgdW5pbnN0YWxsX2lmX25vX2FwcF9zdXBwb3J0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhc2tfdG9fcmVib290X2lmX25lZWRlZCkK</text>
+      <register name="0" type="4">
+        <text>&quot;android_apps/BugatoneAuthenticationDemo/app/build/outputs/apk/debug/app-debug.apk&quot;</text>
       </register>
-      <register name="1" type="4">
-        <text>os.path.join(versions_folder, sub_dir), apk, uninstall_if_no_app_support,
-                                          ask_to_reboot_if_needed</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJhbmRyb2lkX2FwcHMvQnVnYXRvbmVBdXRoZW50aWNhdGlvbkRlbW8vYXBwL2J1aWxkL291dHB1dHMvYXBrL2RlYnVnL2FwcC1kZWJ1Zy5hcGsiCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGdldCBhbGwgdmVyc2lvbiBmb2xkZXJzCg==</text>
+        <text encoding="base64">ICAgICIvbW50L2J1Z2Ffc3RvcmFnZS9tb2JpbGVfcHJvZHVjdC9hdXRoL3ZlcnNpb25zLyIK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5wdXNoX2xpYmJ1Z2F0b25lKHBjX3BhdGg9bGliYnVnYXRvbmVfcGF0aCwgaXNfY2hpbGRfc2NyaXB0PUZhbHNlKToKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCJQdXNoIHRvIGRldmljZSBmYWlsZWQgIiArIGNtZF9yZXNbLTFdKQo=</text>
+      <register name="3" type="4">
+        <text>os.path.join(versions_folder, sub_dir), apk, uninstall_if_no_app_support,
+                                          ask_to_reboot_if_needed</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHB1c2ggbGlicnBjX2J1Z2F0b25lX21haW4uc28gYXMgdGhlIG1haW4gbGliYnVnYXRvbmUuc28K</text>
+        <text encoding="base64">ICAgICAgICAjIGdldCBhbGwgdmVyc2lvbiBmb2xkZXJzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5wdXNoX2xpYmJ1Z2F0b25lKHBjX3BhdGg9bGliYnVnYXRvbmVfcGF0aCwgaXNfY2hpbGRfc2NyaXB0PUZhbHNlKToKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCJQdXNoIHRvIGRldmljZSBmYWlsZWQgIiArIGNtZF9yZXNbLTFdKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHB1c2ggcnBjIHJlbGF0ZWQgc28ncwo=</text>
+        <text encoding="base64">ICAgICAgICAjIHB1c2ggbGlicnBjX2J1Z2F0b25lX21haW4uc28gYXMgdGhlIG1haW4gbGliYnVnYXRvbmUuc28K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHB1c2ggYXV0aCBzbwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="8">
-        <text>&quot;../device_communication/cpp/lib/arm64/Release/
-&quot;../device_communication/cpp/lib/arm64/Release/
-&quot;../device_communication/cpp/lib/arm64/Release/</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAjIHB1c2ggcnBjIHJlbGF0ZWQgc28ncwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlc190b19wdXNoID0gWwogICAgICAgICAgICAibGlicHJvdG8uc28iLAogICAgICAgICAgICAibGlicnBjX3NlcnZlci5zbyIsCiAgICAgICAgICAgICJsaWJycGNfYnVnYXRvbmVfcHJveHkuc28iLAogICAgICAgICAgICAibGliYnVnYXRvbmVfcmVhbC5zbyIKICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHB1c2ggYXV0aCBzbwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -554,8 +552,8 @@
         <entry>Q</entry>
         <entry>q</entry>
         <entry>Lw</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
