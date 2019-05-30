@@ -51,11 +51,11 @@
         <mark key="^" line="288" column="71" />
         <mark key="." line="288" column="71" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils_utils/version_installer.py" timestamp="1559218405757">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="28" column="75" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils_utils/version_installer.py" timestamp="1559221597488">
+        <mark key="[" line="25" column="76" />
+        <mark key="]" line="25" column="76" />
+        <mark key="^" line="25" column="76" />
+        <mark key="." line="25" column="76" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/vents_uuc/flow.py" timestamp="1557745093163">
         <mark key="[" line="2" column="21" />
@@ -286,12 +286,12 @@
         <mark key="." line="66" column="54" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/patch_binary_file.py" timestamp="1559206727106" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" timestamp="1559217105921">
-        <mark key="'" line="235" column="0" />
-        <mark key="[" line="33" column="5" />
-        <mark key="]" line="33" column="5" />
-        <mark key="^" line="33" column="5" />
-        <mark key="." line="33" column="5" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" timestamp="1559221264065">
+        <mark key="'" line="952" column="62" />
+        <mark key="[" line="35" column="5" />
+        <mark key="]" line="35" column="20" />
+        <mark key="^" line="35" column="20" />
+        <mark key="." line="35" column="20" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/moab_recording_script.py" timestamp="1557745447756">
         <mark key="[" line="4" column="63" />
@@ -340,7 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" />
       <jump line="248" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" />
       <jump line="100" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/extended_matrix_row_summary.py" />
       <jump line="106" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/extended_matrix_row_summary.py" />
@@ -440,6 +439,7 @@
       <jump line="235" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
       <jump line="24" column="26" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils_utils/version_installer.py" />
       <jump line="28" column="12" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils_utils/version_installer.py" />
+      <jump line="952" column="62" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -451,52 +451,53 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5wdXNoX2xpYmJ1Z2F0b25lKHBjX3BhdGg9bGliYnVnYXRvbmVfcGF0aCwgaXNfY2hpbGRfc2NyaXB0PUZhbHNlKToKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCJQdXNoIHRvIGRldmljZSBmYWlsZWQgIiArIGNtZF9yZXNbLTFdKQo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;/mnt/buga_storage/mobile_product/auth/versions/&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>os.path.join(fo)</text>
+        <text>&quot;/mnt/buga_storage/mobile_product/auth/versions/&quot;</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
       </register>
-      <register name="0" type="4">
-        <text>libauthdemo.so</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAjIGdldCBhbGwgdmVyc2lvbiBmb2xkZXJzCiAgICAgICAgc3ViX2RpcnMgPSBbbmFtZSBmb3IgbmFtZSBpbiBvcy5saXN0ZGlyKHZlcnNpb25zX2ZvbGRlcikKICAgICAgICAgICAgICAgICAgICBpZiBvcy5wYXRoLmlzZGlyKG9zLnBhdGguam9pbih2ZXJzaW9uc19mb2xkZXIsIG5hbWUpKV0KICAgICAgICBwcmVmaXggPSAie31fIi5mb3JtYXQodmVyc2lvbl9udW1iZXIpCiAgICAgICAgdHJ5OgogICAgICAgICAgICBzdWJfZGlyID0gW3N1Yl9kaXIgZm9yIHN1Yl9kaXIgaW4gc3ViX2RpcnMgaWYgc3ViX2Rpci5zdGFydHN3aXRoKHByZWZpeCldWzBdCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBwcmludCgiRXJyb3IhIHZlcnNpb24ge30gZG9lcyBub3QgZXhpc3QhIi5mb3JtYXQodmVyc2lvbl9udW1iZXIpKQogICAgICAgICAgICByZXR1cm4KICAgICAgICBzZWxmLl9pbnN0YWxsX3ZlcnNpb25fZnJvbV9mb2xkZXIob3MucGF0aC5qb2luKHZlcnNpb25zX2ZvbGRlciwgc3ViX2RpciksIGFwaywgdW5pbnN0YWxsX2lmX25vX2FwcF9zdXBwb3J0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhc2tfdG9fcmVib290X2lmX25lZWRlZCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5wdXNoX2xpYmJ1Z2F0b25lKHBjX3BhdGg9bGliYnVnYXRvbmVfcGF0aCwgaXNfY2hpbGRfc2NyaXB0PUZhbHNlKToKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCJQdXNoIHRvIGRldmljZSBmYWlsZWQgIiArIGNtZF9yZXNbLTFdKQo=</text>
+      <register name="1" type="4">
+        <text>os.path.join(versions_folder, sub_dir), apk, uninstall_if_no_app_support,
+                                          ask_to_reboot_if_needed</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHB1c2ggbGlicnBjX2J1Z2F0b25lX21haW4uc28gYXMgdGhlIG1haW4gbGliYnVnYXRvbmUuc28K</text>
+        <text encoding="base64">ICAgICAgICAjIGdldCBhbGwgdmVyc2lvbiBmb2xkZXJzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5wdXNoX2xpYmJ1Z2F0b25lKHBjX3BhdGg9bGliYnVnYXRvbmVfcGF0aCwgaXNfY2hpbGRfc2NyaXB0PUZhbHNlKToKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCJQdXNoIHRvIGRldmljZSBmYWlsZWQgIiArIGNtZF9yZXNbLTFdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHB1c2ggcnBjIHJlbGF0ZWQgc28ncwo=</text>
+        <text encoding="base64">ICAgICAgICAjIHB1c2ggbGlicnBjX2J1Z2F0b25lX21haW4uc28gYXMgdGhlIG1haW4gbGliYnVnYXRvbmUuc28K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHB1c2ggYXV0aCBzbwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="8">
-        <text>&quot;../device_communication/cpp/lib/arm64/Release/
-&quot;../device_communication/cpp/lib/arm64/Release/
-&quot;../device_communication/cpp/lib/arm64/Release/</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIHB1c2ggcnBjIHJlbGF0ZWQgc28ncwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlc190b19wdXNoID0gWwogICAgICAgICAgICAibGlicHJvdG8uc28iLAogICAgICAgICAgICAibGlicnBjX3NlcnZlci5zbyIsCiAgICAgICAgICAgICJsaWJycGNfYnVnYXRvbmVfcHJveHkuc28iLAogICAgICAgICAgICAibGliYnVnYXRvbmVfcmVhbC5zbyIKICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHB1c2ggYXV0aCBzbwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAibGliYnVnYXRvbmVfcmVhbC5zbyIK</text>
+      <register name="8" type="8">
+        <text>&quot;../device_communication/cpp/lib/arm64/Release/
+&quot;../device_communication/cpp/lib/arm64/Release/
+&quot;../device_communication/cpp/lib/arm64/Release/</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImxpYmJ1Z2F0b25lX3JlYWwuc28iCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlc190b19wdXNoID0gWwogICAgICAgICAgICAibGlicHJvdG8uc28iLAogICAgICAgICAgICAibGlicnBjX3NlcnZlci5zbyIsCiAgICAgICAgICAgICJsaWJycGNfYnVnYXRvbmVfcHJveHkuc28iLAogICAgICAgICAgICAibGliYnVnYXRvbmVfcmVhbC5zbyIKICAgICAgICBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
