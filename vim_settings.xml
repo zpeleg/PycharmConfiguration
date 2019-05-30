@@ -255,12 +255,12 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/export.py" timestamp="1559206273105">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/export.py" timestamp="1559212689676">
         <mark key="'" line="124" column="42" />
-        <mark key="[" line="122" column="33" />
-        <mark key="]" line="123" column="47" />
-        <mark key="^" line="123" column="47" />
-        <mark key="." line="123" column="47" />
+        <mark key="[" line="114" column="42" />
+        <mark key="]" line="114" column="45" />
+        <mark key="^" line="114" column="45" />
+        <mark key="." line="114" column="45" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity.py" timestamp="1557745085284">
         <mark key="[" line="15" column="87" />
@@ -538,8 +538,8 @@
         <entry>Q</entry>
         <entry>q</entry>
         <entry>Lw</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
