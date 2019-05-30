@@ -51,11 +51,23 @@
         <mark key="^" line="288" column="71" />
         <mark key="." line="288" column="71" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils_utils/version_installer.py" timestamp="1559218405757">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="28" column="75" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/vents_uuc/flow.py" timestamp="1557745093163">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/device_communication/pydcomm/impl/adb_connection_factory.py" timestamp="1559217651403">
+        <mark key="[" line="25" column="80" />
+        <mark key="]" line="25" column="80" />
+        <mark key="^" line="25" column="80" />
+        <mark key="." line="25" column="80" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/teacher_sanity/teacher_sanity_row_summary.py" timestamp="1557765845997">
         <mark key="[" line="60" column="0" />
@@ -255,12 +267,12 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/export.py" timestamp="1559212689676">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/export.py" timestamp="1559216256924">
         <mark key="'" line="124" column="42" />
-        <mark key="[" line="114" column="42" />
-        <mark key="]" line="114" column="45" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
         <mark key="^" line="114" column="45" />
-        <mark key="." line="114" column="45" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/teacher_sanity.py" timestamp="1557745085284">
         <mark key="[" line="15" column="87" />
@@ -274,11 +286,12 @@
         <mark key="." line="66" column="54" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/patch_binary_file.py" timestamp="1559206727106" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" timestamp="1559205389150">
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="247" column="102" />
-        <mark key="^" line="201" column="23" />
-        <mark key="." line="175" column="0" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" timestamp="1559217105921">
+        <mark key="'" line="235" column="0" />
+        <mark key="[" line="33" column="5" />
+        <mark key="]" line="33" column="5" />
+        <mark key="^" line="33" column="5" />
+        <mark key="." line="33" column="5" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/moab_recording_script.py" timestamp="1557745447756">
         <mark key="[" line="4" column="63" />
@@ -327,9 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" />
-      <jump line="234" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" />
-      <jump line="240" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" />
       <jump line="243" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" />
       <jump line="248" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" />
       <jump line="100" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/extended_matrix_row_summary.py" />
@@ -427,6 +437,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/dummy_grpc_streaming_server.py" />
       <jump line="406" column="8" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/export.py" />
       <jump line="124" column="42" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/export.py" />
+      <jump line="235" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="24" column="26" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils_utils/version_installer.py" />
+      <jump line="28" column="12" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils_utils/version_installer.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -439,49 +452,51 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJ2ZXJzaW9uIHN0cmluZyBpcyAne30nIi5mb3JtYXQoKSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5wdXNoX2xpYmJ1Z2F0b25lKHBjX3BhdGg9bGliYnVnYXRvbmVfcGF0aCwgaXNfY2hpbGRfc2NyaXB0PUZhbHNlKToKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCJQdXNoIHRvIGRldmljZSBmYWlsZWQgIiArIGNtZF9yZXNbLTFdKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;/system/lib64/libbugatone_real.so&quot;</text>
+        <text>os.path.join(fo)</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
       </register>
       <register name="0" type="4">
-        <text>'../device_communication/cpp/lib/arm64/Release/librpc_bugatone_main.so'</text>
+        <text>libauthdemo.so</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJ2ZXJzaW9uIHN0cmluZyBpcyAne30nIi5mb3JtYXQoKSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5wdXNoX2xpYmJ1Z2F0b25lKHBjX3BhdGg9bGliYnVnYXRvbmVfcGF0aCwgaXNfY2hpbGRfc2NyaXB0PUZhbHNlKToKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCJQdXNoIHRvIGRldmljZSBmYWlsZWQgIiArIGNtZF9yZXNbLTFdKQo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBwZGIK</text>
+        <text encoding="base64">ICAgICAgICAjIHB1c2ggbGlicnBjX2J1Z2F0b25lX21haW4uc28gYXMgdGhlIG1haW4gbGliYnVnYXRvbmUuc28K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UmVmYWN0b3IuIEFkZCB0ZXN0IHRoYXQgZXhpc3RpbmcgYXJjaGl2ZXMgYXJlIHRoZSBzYW1lLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">X19hbGxfXyA9IFsncHJlcGFyZV9leHBvcnQnLCAnZXhwb3J0X3ZlcnNpb24nXQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHB1c2ggcnBjIHJlbGF0ZWQgc28ncwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAjIHB1c2ggYXV0aCBzbwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHNodXRpbC5jb3B5KCkK</text>
+      <register name="6" type="8">
+        <text>&quot;../device_communication/cpp/lib/arm64/Release/
+&quot;../device_communication/cpp/lib/arm64/Release/
+&quot;../device_communication/cpp/lib/arm64/Release/</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICMgcHVzaCBsaWJycGNfYnVnYXRvbmVfbWFpbi5zbyBhcyB0aGUgbWFpbiBsaWJidWdhdG9uZS5zbwogICAgbGliYnVnYXRvbmVfcGF0aCA9ICcuLi9kZXZpY2VfY29tbXVuaWNhdGlvbi9jcHAvbGliL2FybTY0L1JlbGVhc2UvbGlicnBjX2J1Z2F0b25lX21haW4uc28nCiAgICAjIHNodXRpbC5jb3B5KCJsaWIvYXJtNjQvRGVidWcvbGliYXV0aC5zbyIsIG9zLnBhdGguam9pbihuZXh0X3ZlcnNpb25fcGF0aCwgImxpYmF1dGhfZGVidWcuc28iKSkKICAgIGxpbnV4X2RpciA9IG9zLnBhdGguam9pbihuZXh0X3ZlcnNpb25fcGF0aCwgImxpbnV4IikKICAgICMgb3MubWtkaXIobGludXhfZGlyKQogICAgIyBzaHV0aWwuY29weSgibGliL2xpbnV4X3g4Ni9SZWxlYXNlL2xpYmF1dGguc28iLCBvcy5wYXRoLmpvaW4obGludXhfZGlyLCAibGliYXV0aF9yZWxlYXNlLnNvIikpCiAgICAjIHNodXRpbC5jb3B5KCJsaWIvbGludXhfeDg2L0RlYnVnL2xpYmF1dGguc28iLCBvcy5wYXRoLmpvaW4obGludXhfZGlyLCAibGliYXV0aF9kZWJ1Zy5zbyIpKQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmaWxlc190b19wdXNoID0gWwogICAgICAgICAgICAibGlicHJvdG8uc28iLAogICAgICAgICAgICAibGlicnBjX3NlcnZlci5zbyIsCiAgICAgICAgICAgICJsaWJycGNfYnVnYXRvbmVfcHJveHkuc28iLAogICAgICAgICAgICAibGliYnVnYXRvbmVfcmVhbC5zbyIKICAgICAgICBdCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgcHVzaCBhdXRoIHNvCg==</text>
+        <text encoding="base64">ICAgICAgICAibGliYnVnYXRvbmVfcmVhbC5zbyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNodXRpbC5jb3B5KCJsaWIvYXJtNjQvUmVsZWFzZS9saWJhdXRoZGVtby5zbyIsIG5leHRfdmVyc2lvbl9wYXRoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImxpYmJ1Z2F0b25lX3JlYWwuc28iCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -538,8 +553,8 @@
         <entry>Q</entry>
         <entry>q</entry>
         <entry>Lw</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
