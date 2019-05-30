@@ -12,12 +12,6 @@
         <mark key="." line="42" column="24" />
         <mark key="^" line="38" column="58" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/build.py" timestamp="1559206574105">
-        <mark key="[" line="48" column="42" />
-        <mark key="]" line="48" column="52" />
-        <mark key="." line="48" column="52" />
-        <mark key="^" line="48" column="52" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/teacher_sanity/teacher_sanity_queries.py" timestamp="1557765118754">
         <mark key="[" line="133" column="35" />
         <mark key="]" line="134" column="57" />
@@ -52,10 +46,10 @@
         <mark key="." line="288" column="71" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils_utils/version_installer.py" timestamp="1559224562867">
-        <mark key="[" line="40" column="114" />
-        <mark key="]" line="41" column="70" />
-        <mark key="^" line="41" column="70" />
-        <mark key="." line="41" column="70" />
+        <mark key="[" line="41" column="114" />
+        <mark key="]" line="42" column="70" />
+        <mark key="^" line="42" column="70" />
+        <mark key="." line="42" column="70" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/vents_uuc/flow.py" timestamp="1557745093163">
         <mark key="[" line="2" column="21" />
@@ -231,7 +225,7 @@
         <mark key="^" line="36" column="64" />
         <mark key="." line="36" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559206897625">
+      <file name="/Dummy.txt" timestamp="1559234239652">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_many_users_sanity.py" timestamp="1557318931293">
@@ -286,12 +280,12 @@
         <mark key="." line="66" column="54" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/patch_binary_file.py" timestamp="1559206727106" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" timestamp="1559221264065">
-        <mark key="'" line="952" column="62" />
-        <mark key="[" line="35" column="5" />
-        <mark key="]" line="35" column="20" />
-        <mark key="^" line="35" column="20" />
-        <mark key="." line="35" column="20" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" timestamp="1559234204150">
+        <mark key="'" line="912" column="0" />
+        <mark key="[" line="34" column="5" />
+        <mark key="]" line="34" column="20" />
+        <mark key="^" line="34" column="20" />
+        <mark key="." line="34" column="20" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/moab_recording_script.py" timestamp="1557745447756">
         <mark key="[" line="4" column="63" />
@@ -340,8 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/teacher_sanity_row_summary.py" />
-      <jump line="100" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/extended_matrix_row_summary.py" />
       <jump line="106" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/extended_matrix_row_summary.py" />
       <jump line="111" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/extended_matrix_row_summary.py" />
       <jump line="115" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/extended_matrix_row_summary.py" />
@@ -440,6 +432,8 @@
       <jump line="24" column="26" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils_utils/version_installer.py" />
       <jump line="28" column="12" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils_utils/version_installer.py" />
       <jump line="952" column="62" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="898" column="13" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
+      <jump line="912" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -452,7 +446,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJhbmRyb2lkX2FwcHMvQnVnYXRvbmVBdXRoZW50aWNhdGlvbkRlbW8vYXBwL2J1aWxkL291dHB1dHMvYXBrL2RlYnVnL2FwcC1kZWJ1Zy5hcGsiCg==</text>
+        <text encoding="base64">Q29weSBjb3JyZWN0IGZpbGVzIHRvIGV4cG9ydCBkaXJlY3RvcnkgaW4gYXV0aGRlbW8gZXhwb3J0Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;/mnt/buga_storage/mobile_product/auth/versions/&quot;</text>
@@ -464,38 +458,38 @@
         <text>&quot;android_apps/BugatoneAuthenticationDemo/app/build/outputs/apk/debug/app-debug.apk&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJhbmRyb2lkX2FwcHMvQnVnYXRvbmVBdXRoZW50aWNhdGlvbkRlbW8vYXBwL2J1aWxkL291dHB1dHMvYXBrL2RlYnVnL2FwcC1kZWJ1Zy5hcGsiCg==</text>
+        <text encoding="base64">Q29weSBjb3JyZWN0IGZpbGVzIHRvIGV4cG9ydCBkaXJlY3RvcnkgaW4gYXV0aGRlbW8gZXhwb3J0Cg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGRlZiBpbnN0YWxsX3ZlcnNpb25fYXV0aChzZWxmLCB2ZXJzaW9uX251bWJlciwgdmVyc2lvbnNfZm9sZGVyPU5vbmUpOgogICAgICAgIA==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJhbmRyb2lkX2FwcHMvQnVnYXRvbmVBdXRoZW50aWNhdGlvbkRlbW8vYXBwL2J1aWxkL291dHB1dHMvYXBrL2RlYnVnL2FwcC1kZWJ1Zy5hcGsiCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICIvbW50L2J1Z2Ffc3RvcmFnZS9tb2JpbGVfcHJvZHVjdC9hdXRoL3ZlcnNpb25zLyIK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>os.path.join(versions_folder, sub_dir), apk, uninstall_if_no_app_support,
                                           ask_to_reboot_if_needed</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAjIGdldCBhbGwgdmVyc2lvbiBmb2xkZXJzCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5wdXNoX2xpYmJ1Z2F0b25lKHBjX3BhdGg9bGliYnVnYXRvbmVfcGF0aCwgaXNfY2hpbGRfc2NyaXB0PUZhbHNlKToKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCJQdXNoIHRvIGRldmljZSBmYWlsZWQgIiArIGNtZF9yZXNbLTFdKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHB1c2ggbGlicnBjX2J1Z2F0b25lX21haW4uc28gYXMgdGhlIG1haW4gbGliYnVnYXRvbmUuc28K</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5wdXNoX2xpYmJ1Z2F0b25lKHBjX3BhdGg9bGliYnVnYXRvbmVfcGF0aCwgaXNfY2hpbGRfc2NyaXB0PUZhbHNlKToKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCJQdXNoIHRvIGRldmljZSBmYWlsZWQgIiArIGNtZF9yZXNbLTFdKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHB1c2ggcnBjIHJlbGF0ZWQgc28ncwo=</text>
+        <text encoding="base64">ICAgICAgICAjIHB1c2ggbGlicnBjX2J1Z2F0b25lX21haW4uc28gYXMgdGhlIG1haW4gbGliYnVnYXRvbmUuc28K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHB1c2ggYXV0aCBzbwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -552,8 +546,8 @@
         <entry>Q</entry>
         <entry>q</entry>
         <entry>Lw</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
