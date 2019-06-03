@@ -81,12 +81,12 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" timestamp="1559577801272">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" timestamp="1559580055870">
         <mark key="'" line="48" column="60" />
-        <mark key="[" line="63" column="25" />
-        <mark key="]" line="63" column="26" />
-        <mark key="." line="63" column="26" />
-        <mark key="^" line="63" column="26" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="63" column="27" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/foreground_teacher/flow.py" timestamp="1557744903075">
         <mark key="[" line="4" column="70" />
@@ -173,17 +173,17 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1559573173719">
+      <file name="/Python Console" timestamp="1559578609979">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1559571009003">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.yaml" timestamp="1559574097261">
-        <mark key="[" line="40" column="48" />
-        <mark key="]" line="40" column="48" />
-        <mark key="." line="40" column="48" />
-        <mark key="^" line="40" column="48" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.yaml" timestamp="1559580040247">
+        <mark key="[" line="28" column="34" />
+        <mark key="]" line="28" column="34" />
+        <mark key="." line="28" column="34" />
+        <mark key="^" line="28" column="34" />
       </file>
       <file name="/authentication.py" timestamp="1559564832087">
         <mark key="[" line="3" column="0" />
@@ -237,11 +237,11 @@
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="28" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/uxevents.yaml" timestamp="1559130986621">
-        <mark key="[" line="5" column="52" />
-        <mark key="]" line="5" column="52" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/uxevents.yaml" timestamp="1559579209186">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
         <mark key="^" line="5" column="63" />
-        <mark key="." line="5" column="52" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/swig/generate_swig_file.py" timestamp="1558369182931">
         <mark key="[" line="36" column="51" />
@@ -249,8 +249,8 @@
         <mark key="^" line="36" column="64" />
         <mark key="." line="36" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559577694472">
-        <mark key="[" line="0" column="4" />
+      <file name="/Dummy.txt" timestamp="1559578594208">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -464,10 +464,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Rml4IGRvX21hbnlfdXNlcnMgYW5kIHJlbGF0ZWQgdGVzdHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>bla</text>
+        <text encoding="base64">IHJhaXNlIEV4Y2VwdGlvbigiU3RvcCB0ZXN0Iik=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
@@ -476,37 +476,37 @@
         <text encoding="base64">ICAgICAgICAgICAgaiA9IHJlYWRlcl93cml0ZXIucmVhZCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Rml4IGRvX21hbnlfdXNlcnMgYW5kIHJlbGF0ZWQgdGVzdHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oImJsYSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaiA9IHJlYWRlcl93cml0ZXIucmVhZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICByYWkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oIlN0b3AgdGVzdCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgIm1lc3NhZ2UiIGluIG1lc3NhZ2U6Cg==</text>
+        <text encoding="base64">ICAgIHRyYW5zaXRpb25zOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBIb3BlZnVsbHkgdGhpcyB3b24ndCBoYXBwZW4gYSBiaWxsaW9uIHRpbWVzCg==</text>
+        <text encoding="base64">ICAgIHRyYW5zaXRpb25zOgogICAgICAtIGV2ZW50OiBldmVudCBjb25zdW1lZAogICAgICAgIGd1YXJkOiBldmVudC5ldmVudC5uYW1lID09ICJjdXN0b21fdXhldmVudCIKICAgICAgICBhY3Rpb246IGFwcGVuZF9kYXRhKGV2ZW50LmV2ZW50LmV2ZW50X25hbWUsIHBvcywgZXZlbnQuZXZlbnQuZXh0cmFfZGF0YSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImt1a3VrdWt1a3VrdSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFN0b3BJdGVyYXRpb246CiAgICAgICAgICAgICAgICByYWlzZQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgICAgICBwcmludCgiT01HIioyMCkKICAgICAgICAgICAgICAgIGZyb20gdHJhY2ViYWNrIGltcG9ydCBwcmludF9leGMKICAgICAgICAgICAgICAgIHByaW50X2V4YygpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbWVzc2FnZVsic3VjY2VzcyJdID09IFRydWU6CiAgICAgICAgICAgICAgICBwcmludCgia3VrdWt1a3VrdWt1IikKICAgICAgICAgICAgICAgICMgSG9wZWZ1bGx5IHRoaXMgd29uJ3QgaGFwcGVuIGEgYmlsbGlvbiB0aW1lcwogICAgICAgICAgICAgICAgc2VsZi5pbnRlcnByZXRlci5xdWV1ZSgicnBjQ29ubmVjdGVkIikKICAgICAgICAgICAgICAgIHNlbGYucXVldWVfdXhldmVudCgiZ290Q29ubmVjdGVkIikKICAgICAgICAgICAgaWYgbm90IG1lc3NhZ2VbInN1Y2Nlc3MiXToKICAgICAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbigiSSBkb24ndCBrbm93IHdoYXQgdG8gZG8gaGVyZSIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -563,8 +563,8 @@
         <entry>Q</entry>
         <entry>Lw</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
