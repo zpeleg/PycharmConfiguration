@@ -87,11 +87,11 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" timestamp="1559737787011">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" timestamp="1559738452152">
         <mark key="'" line="114" column="36" />
-        <mark key="[" line="115" column="108" />
-        <mark key="]" line="115" column="108" />
-        <mark key="." line="115" column="108" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="4" />
+        <mark key="." line="143" column="4" />
         <mark key="^" line="134" column="17" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/foreground_teacher/flow.py" timestamp="1557744903075">
@@ -230,7 +230,7 @@
         <mark key="^" line="36" column="64" />
         <mark key="." line="36" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559737770249">
+      <file name="/Dummy.txt" timestamp="1559739196601">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="71" />
         <mark key="^" line="3" column="71" />
@@ -261,7 +261,7 @@
         <mark key="." line="7" column="90" />
         <mark key="^" line="7" column="90" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" timestamp="1559736833749">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" timestamp="1559739778775">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="127" />
         <mark key="." line="7" column="0" />
