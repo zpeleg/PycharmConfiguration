@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/a.dummy" timestamp="1557932325638">
@@ -82,12 +82,12 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" timestamp="1559583280415">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" timestamp="1559720585195">
         <mark key="'" line="48" column="60" />
-        <mark key="[" line="108" column="109" />
-        <mark key="]" line="108" column="110" />
-        <mark key="." line="108" column="110" />
-        <mark key="^" line="29" column="31" />
+        <mark key="[" line="108" column="108" />
+        <mark key="]" line="108" column="108" />
+        <mark key="." line="108" column="108" />
+        <mark key="^" line="134" column="24" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/foreground_teacher/flow.py" timestamp="1557744903075">
         <mark key="[" line="4" column="70" />
@@ -187,7 +187,7 @@
         <mark key="." line="28" column="34" />
         <mark key="^" line="28" column="34" />
       </file>
-      <file name="/authentication.py" timestamp="1559564832087">
+      <file name="/authentication.py" timestamp="1559720225773">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="72" />
       </file>
@@ -466,10 +466,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>[:1]</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>[:1]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
