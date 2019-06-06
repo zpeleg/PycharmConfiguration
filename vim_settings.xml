@@ -45,11 +45,11 @@
       <file name="/False" timestamp="1555316610968">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/raw_row_summary.py" timestamp="1557765044639">
-        <mark key="[" line="288" column="65" />
-        <mark key="]" line="288" column="71" />
-        <mark key="^" line="288" column="71" />
-        <mark key="." line="288" column="71" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/raw_row_summary.py" timestamp="1559825183098">
+        <mark key="[" line="71" column="22" />
+        <mark key="]" line="71" column="22" />
+        <mark key="." line="71" column="22" />
+        <mark key="^" line="71" column="22" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils_utils/version_installer.py" timestamp="1559468672978">
         <mark key="[" line="68" column="41" />
@@ -176,7 +176,7 @@
         <mark key="^" line="4" column="13" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_users_sanity_ft_only_falseplay.yaml" timestamp="1559736279241" />
-      <file name="/Python Console" timestamp="1559824256432">
+      <file name="/Python Console" timestamp="1559825032136">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/detectors/cdetectors.py" timestamp="1559581728488" />
@@ -500,53 +500,51 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>thing</text>
       </register>
       <register name="-" type="4">
-        <text>session</text>
+        <text>thing</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBIQVNfVFFETToKICAgICAgICAgICAgYXJjcyA9IHRxZG0udHFkbShzZWxmLl9hcmNoaXZlcywgdG90YWw9bGVuKHNlbGYua2V5cygpKSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBhcmNzID0gc2VsZi5fYXJjaGl2ZXMK</text>
+      <register name="0" type="4">
+        <text>'print_data_ts'</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>lambda x: x.get('print_data_ts') if x.get('print_data_ts') is not None else x[
+            'data_timestamp'].total_seconds()</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uID0gbW9hYl9hcmNoaXZlc19mb2xkZXJbYXJjaGl2ZV9uYW1lXQo=</text>
+        <text encoding="base64">ICAgIGRlZiB0c19mcm9tX3RoaW5nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFyY2hpdmVzID0gdHFkbS50cWRtKGFyY2hpdmVzLCB0b3RhbD1sZW4oYXJjaGl2ZXMpKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgibG9hZGluZyB2YWx1ZXMiKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uID0gbW9hYl9hcmNoaXZlc19mb2xkZXJbYXJjaGl2ZV9uYW1lXQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIGRlZiB2YWx1ZXMoc2VsZik6CiAgICAgICAgcmV0dXJuIFtzZWxmLl9sb2FkZmlsZShrZXkpIGZvciBrZXkgaW4gc2VsZi5fYXJjaGl2ZXNd</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGFyY2hpdmVzID0gdHFkbS50cWRtKGFyY2hpdmVzLCB0b3RhbD1sZW4oYXJjaGl2ZXMpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJCZWZvcmUgdmFsdWVzIikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgibG9hZGluZyB2YWx1ZXMiKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJBZnRlciB2YWx1ZXMiKQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIGRlZiB2YWx1ZXMoc2VsZik6CiAgICAgICAgcmV0dXJuIFtzZWxmLl9sb2FkZmlsZShrZXkpIGZvciBrZXkgaW4gc2VsZi5fYXJjaGl2ZXNd</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGtqago=</text>
+        <text encoding="base64">ICAgIHByaW50KCJCZWZvcmUgdmFsdWVzIikK</text>
       </register>
-      <register name="9" type="4">
-        <text>Make all test statechart use the new attach
-
-This means that events in the statecharts can be the actual events
-and not &quot;event consumed&quot;. This makes the statecharts much more reVadable.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJBZnRlciB2YWx1ZXMiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -603,8 +601,8 @@ and not &quot;event consumed&quot;. This makes the statecharts much more reVadab
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>x</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
