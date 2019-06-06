@@ -126,6 +126,12 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="127" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/timeline.py" timestamp="1559832582457">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="28" />
+        <mark key="." line="24" column="28" />
+        <mark key="^" line="24" column="28" />
+      </file>
       <file name="/default_daemon_start_detect_music_detection_config" timestamp="1557245313814">
         <mark key="[" line="0" column="0" />
       </file>
@@ -249,50 +255,50 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>thing</text>
+        <text>uxevents</text>
       </register>
       <register name="-" type="4">
-        <text>thing</text>
+        <text>uxevents</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>'print_data_ts'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNQaWNrbGUuZHVtcHModXhldmVudHMpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>lambda x: x.get('print_data_ts') if x.get('print_data_ts') is not None else x[
-            'data_timestamp'].total_seconds()</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHBpY2tsZQo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiB0c19mcm9tX3RoaW5nCg==</text>
+      <register name="2" type="4">
+        <text>lambda x: x.get('print_data_ts') if x.get('print_data_ts') is not None else x[
+            'data_timestamp'].total_seconds()</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlZiB0c19mcm9tX3RoaW5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uID0gbW9hYl9hcmNoaXZlc19mb2xkZXJbYXJjaGl2ZV9uYW1lXQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFyY2hpdmVzID0gdHFkbS50cWRtKGFyY2hpdmVzLCB0b3RhbD1sZW4oYXJjaGl2ZXMpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uID0gbW9hYl9hcmNoaXZlc19mb2xkZXJbYXJjaGl2ZV9uYW1lXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgibG9hZGluZyB2YWx1ZXMiKQo=</text>
+        <text encoding="base64">ICAgIGFyY2hpdmVzID0gdHFkbS50cWRtKGFyY2hpdmVzLCB0b3RhbD1sZW4oYXJjaGl2ZXMpKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGRlZiB2YWx1ZXMoc2VsZik6CiAgICAgICAgcmV0dXJuIFtzZWxmLl9sb2FkZmlsZShrZXkpIGZvciBrZXkgaW4gc2VsZi5fYXJjaGl2ZXNd</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgibG9hZGluZyB2YWx1ZXMiKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJCZWZvcmUgdmFsdWVzIikK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGRlZiB2YWx1ZXMoc2VsZik6CiAgICAgICAgcmV0dXJuIFtzZWxmLl9sb2FkZmlsZShrZXkpIGZvciBrZXkgaW4gc2VsZi5fYXJjaGl2ZXNd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJBZnRlciB2YWx1ZXMiKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJCZWZvcmUgdmFsdWVzIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -349,8 +355,8 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>x</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
