@@ -172,10 +172,10 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1559206926809">
+      <file name="/Python Console" timestamp="1560269538810">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1557765015129">
+      <file name="/fragment.py" timestamp="1560269577397">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/run_replay_after_rec.py" timestamp="1557745239880">
@@ -195,6 +195,10 @@
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
         <mark key="^" line="94" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/daemon_tester/scenarios/play_pause_craziness.py" timestamp="1560269667747">
+        <mark key="[" line="99" column="11" />
+        <mark key="]" line="99" column="53" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/teacher_sanity.py" timestamp="1556729335047">
         <mark key="[" line="6" column="5" />
@@ -226,7 +230,7 @@
         <mark key="^" line="36" column="64" />
         <mark key="." line="36" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560156491833">
+      <file name="/Dummy.txt" timestamp="1560269904431">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_many_users_sanity.py" timestamp="1557318931293">
@@ -291,6 +295,13 @@
         <mark key="." line="9" column="22" />
         <mark key="^" line="9" column="22" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/timeline.py" timestamp="1560269900328">
+        <mark key="'" line="62" column="12" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="29" column="27" />
+      </file>
       <file name="/default_daemon_start_detect_music_detection_config" timestamp="1557245313814">
         <mark key="[" line="0" column="0" />
       </file>
@@ -320,9 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/extended_matrix_row_summary.py" />
-      <jump line="120" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/extended_matrix_row_summary.py" />
-      <jump line="122" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/raw_row_summaries/extended_matrix_row_summary.py" />
       <jump line="707" column="78" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/do_replay.py" />
       <jump line="23" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/migrate_transpose_benchmarks.py" />
       <jump line="28" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/migrate_transpose_benchmarks.py" />
@@ -420,6 +428,9 @@
       <jump line="912" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" />
       <jump line="86" column="47" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" />
       <jump line="96" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" />
+      <jump line="30" column="64" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/timeline.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/timeline.py" />
+      <jump line="62" column="12" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/timeline.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -432,50 +443,49 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QWRkIGluc3RhbGxfYXV0aF92ZXJzaW9uCg==</text>
+        <text encoding="base64">TWFrZSB0aW1lbGluZSBiYWNrd2FyZHMgY29tcGxpYW50IGFnYWluCg==</text>
       </register>
       <register name="-" type="4">
-        <text>action_</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;android_apps/BugatoneAuthenticationDemo/app/build/outputs/apk/debug/app-debug.apk&quot;</text>
+        <text>[item for sublist in l for item in sublist]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QWRkIGluc3RhbGxfYXV0aF92ZXJzaW9uCg==</text>
+        <text encoding="base64">TWFrZSB0aW1lbGluZSBiYWNrd2FyZHMgY29tcGxpYW50IGFnYWluCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5ta2RpcigpCg==</text>
+        <text encoding="base64">ICAgICMgaW1wb3J0IHBpY2tsZQogICAgIyBkZWYgYXJjX3RvX2RpY3QoYXJjKToKICAgICMgICAgIGZyb20gcHlidWdhLmluZnJhLmRhdGEuY2FyY2hpdmUgaW1wb3J0IENBcmNoaXZlCiAgICAjICAgICByZXR1cm4gZGljdChbKGtleSwgYXJjX3RvX2RpY3QoYXJjW2tleV0pIGlmIHR5cGUoYXJjW2tleV0pIGlzIENBcmNoaXZlIG9yIHR5cGUoYXJjW2tleV0pIGlzIGRpY3QgZWxzZSBhcmNba2V5XSkgZm9yIGtleSBpbiBhcmMua2V5cygpXSkKICAgICMKICAgICMgcGlja2xlLmR1bXAoYXJjX3RvX2RpY3Qoc2Vzc2lvbiksCiAgICAjICAgICAgICAgICAgIG9wZW4oIi9ob21lL2J1Z2EvdG1wX2Rpci9zZXNzaW9uX3t9LnBpY2tsZSIuZm9ybWF0KHNlc3Npb25bJ3JlY3MnXVsxXS5hcmNoaXZlbmFtZSksICJ3IikpCiAgICAjIHBpY2tsZS5kdW1wKHV4ZXZlbnRzLAogICAgIyAgICAgICAgICAgICBvcGVuKCIvaG9tZS9idWdhL3RtcF9kaXIvdXhldmVudHNfe30ucGlja2xlIi5mb3JtYXQoc2Vzc2lvblsncmVjcyddWzFdLmFyY2hpdmVuYW1lKSwgInciKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q29weSBjb3JyZWN0IGZpbGVzIHRvIGV4cG9ydCBkaXJlY3RvcnkgaW4gYXV0aGRlbW8gZXhwb3J0Cg==</text>
+        <text encoding="base64">ICAgICMgcGlja2xlLmR1bXAodGltZWxpbmVfZGYsCiAgICAjICAgICAgICAgICAgIG9wZW4oIi9ob21lL2J1Z2EvdG1wX2Rpci90aW1lbGluZV97fS5waWNrbGUiLmZvcm1hdChzZXNzaW9uWydyZWNzJ11bMV0uYXJjaGl2ZW5hbWUpLCAidyIpKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIGRlZiBpbnN0YWxsX3ZlcnNpb25fYXV0aChzZWxmLCB2ZXJzaW9uX251bWJlciwgdmVyc2lvbnNfZm9sZGVyPU5vbmUpOgogICAgICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">CgpkZWYgcHJpbnRfdGFnc19hbmRfdXhfZXZlbnRzKHJlYywgZXZlbnRzKToKICAgIHlpZWxkIChOb25lLCBOb25lLCBOb25lKQogICAgeWllbGQgKE5vbmUsIE5vbmUsIE5vbmUpCiAgICB5aWVsZCAoJ1RpdGxlJywgTm9uZSwgcmVjWydtZXRhZGF0YSddWydyZWNfdHlwZSddKQogICAgaWYgcmVjWydtZXRhZGF0YSddWydyZWNfdHlwZSddID09ICdTT05HJzoKICAgICAgICB5aWVsZCAoJ1NvbmcnLCBOb25lLCByZWNbJ21ldGFkYXRhJ11bJ3NvbmcnXSArICIgLSAiICsgc3RyKHJlY1snbWV0YWRhdGEnXVsndm9sdW1lJ10pKQogICAgc29ydGVkX2RhdGEgPSBzb3J0ZWQoCiAgICAgICAgcmVjWyd0YWdzJ10udmFsdWVzKCkgKyBldmVudHMsCiAgICAgICAga2V5PWxhbWJkYSB4OiB4LmdldCgncHJpbnRfZGF0YV90cycpIGlmIHguZ2V0KCdwcmludF9kYXRhX3RzJykgaXMgbm90IE5vbmUgZWxzZSAoCiAgICAgICAgICAgICAgICB4WydkYXRhX3RpbWVzdGFtcCddIG9yIGRhdGV0aW1lLnRpbWVkZWx0YSgwKSkudG90YWxfc2Vjb25kcygpKQogICAgZm9yIHggaW4gc29ydGVkX2RhdGE6CiAgICAgICAgaWYgeC5nZXQoJ3ByaW50X2RhdGFfdHMnKSBpcyBub3QgTm9uZToKICAgICAgICAgICAgeWllbGQgKCdQcmludGVkIG1zZycsIHhbJ3ByaW50X2RhdGFfdHMnXSwgeFsncHJpbnRlZF9tc2cnXSkKICAgICAgICAgICAgaWYgJ3JlYWN0aW9uX2RhdGFfdHMnIGluIHggYW5kIHhbJ3JlYWN0aW9uX2RhdGFfdHMnXSBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIHlpZWxkICgnUmVhY3Rpb24nLCB4WydyZWFjdGlvbl9kYXRhX3RzJ10sIHhbJ3JlYWN0aW9uX3ZhbHVlJ10pCiAgICAgICAgZWxzZToKICAgICAgICAgICAgeWllbGQgKCdVWCBFdmVudCcsICh4WydkYXRhX3RpbWVzdGFtcCddIG9yIGRhdGV0aW1lLnRpbWVkZWx0YSgwKSkudG90YWxfc2Vjb25kcygpLCB4WyduYW1lJ10pCgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJhbmRyb2lkX2FwcHMvQnVnYXRvbmVBdXRoZW50aWNhdGlvbkRlbW8vYXBwL2J1aWxkL291dHB1dHMvYXBrL2RlYnVnL2FwcC1kZWJ1Zy5hcGsiCg==</text>
+        <text encoding="base64">Rml4IGF1dGhlbnRpY2F0aW9uIGJlbmNobWFyawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIvbW50L2J1Z2Ffc3RvcmFnZS9tb2JpbGVfcHJvZHVjdC9hdXRoL3ZlcnNpb25zLyIK</text>
+        <text encoding="base64">ICAgIFtpdGVtIGZvciBzdWJsaXN0IGluIGwgZm9yIGl0ZW0gaW4gc3VibGlzdF0K</text>
       </register>
-      <register name="7" type="4">
-        <text>os.path.join(versions_folder, sub_dir), apk, uninstall_if_no_app_support,
-                                          ask_to_reboot_if_needed</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGFsbF9rZXlzID0gc2V0KGl0ZXJ0b29scy5jaGFpbihmbGF0dGVuKFtdKSkpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGdldCBhbGwgdmVyc2lvbiBmb2xkZXJzCg==</text>
+        <text encoding="base64">QWRkIGluc3RhbGxfYXV0aF92ZXJzaW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5wdXNoX2xpYmJ1Z2F0b25lKHBjX3BhdGg9bGliYnVnYXRvbmVfcGF0aCwgaXNfY2hpbGRfc2NyaXB0PUZhbHNlKToKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCJQdXNoIHRvIGRldmljZSBmYWlsZWQgIiArIGNtZF9yZXNbLTFdKQo=</text>
+        <text encoding="base64">ICAgICAgICBvcy5ta2RpcigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
