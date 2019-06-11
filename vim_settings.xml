@@ -76,17 +76,11 @@
         <mark key="^" line="6" column="47" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559824153483">
+      <file name="/Dummy.txt" timestamp="1560238857239">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
-      </file>
-      <file name="$USER_HOME$/Bugatone-Space/python/infra/data/recordings.py" timestamp="1559749451897">
-        <mark key="[" line="171" column="54" />
-        <mark key="]" line="171" column="57" />
-        <mark key="." line="171" column="57" />
-        <mark key="^" line="171" column="57" />
       </file>
       <file name="$USER_HOME$/.local/lib/python2.7/site-packages/grpc/_channel.py" timestamp="1559727626065" />
       <file name="/default_bugatone_api_config" timestamp="1557245315848">
