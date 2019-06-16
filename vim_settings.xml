@@ -16,7 +16,7 @@
         <mark key="^" line="28" column="34" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/auth_many_users.py" timestamp="1560680174836" />
-      <file name="/a.dummy" timestamp="1557932325638">
+      <file name="/a.dummy" timestamp="1560680347251">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/uxevents.yaml" timestamp="1559725667488">
@@ -45,6 +45,12 @@
         <mark key="^" line="6" column="47" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1560686727508">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+      </file>
       <file name="/Dummy.txt" timestamp="1560677411705">
         <mark key="[" line="0" column="0" />
       </file>
@@ -66,11 +72,6 @@
       </file>
       <file name="/" timestamp="1559831585730">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/teacher_sanity/do_teacher_sanity.py" timestamp="1559735422718">
-        <mark key="'" line="17" column="32" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="104" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/do_many_users_sanity.py" timestamp="1559556123960">
         <mark key="[" line="50" column="99" />
