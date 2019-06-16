@@ -44,11 +44,8 @@
         <mark key="^" line="6" column="47" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560238857239">
+      <file name="/Dummy.txt" timestamp="1560677411705">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="30" />
-        <mark key="^" line="0" column="30" />
-        <mark key="." line="0" column="30" />
       </file>
       <file name="/default_bugatone_api_config" timestamp="1557245315848">
         <mark key="[" line="0" column="0" />
@@ -102,10 +99,11 @@
       <file name="/None" timestamp="1557245313825">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/moab/moab_recording_test.py" timestamp="1560677401837">
+        <mark key="'" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
       <jump line="128" column="8" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/buga_api/capi.py" />
@@ -204,6 +202,8 @@
       <jump line="49" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
       <jump line="61" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
       <jump line="4" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
+      <jump line="51" column="40" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/moab/moab_recording_test.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/moab/moab_recording_test.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -215,8 +215,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>uxevents</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">TG9hZCBhdXRoIHZlcnNpb25zIGZyb20gc3RvcmFnZQo=</text>
       </register>
       <register name="-" type="4">
         <text>uxevents</text>
@@ -228,38 +228,38 @@
         <text encoding="base64">ICAgIGNQaWNrbGUuZHVtcHModXhldmVudHMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBpY2tsZQo=</text>
+        <text encoding="base64">TG9hZCBhdXRoIHZlcnNpb25zIGZyb20gc3RvcmFnZQo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHBpY2tsZQo=</text>
+      </register>
+      <register name="3" type="4">
         <text>lambda x: x.get('print_data_ts') if x.get('print_data_ts') is not None else x[
             'data_timestamp'].total_seconds()</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGRlZiB0c19mcm9tX3RoaW5nCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBzZXNzaW9uID0gbW9hYl9hcmNoaXZlc19mb2xkZXJbYXJjaGl2ZV9uYW1lXQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGFyY2hpdmVzID0gdHFkbS50cWRtKGFyY2hpdmVzLCB0b3RhbD1sZW4oYXJjaGl2ZXMpKQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgibG9hZGluZyB2YWx1ZXMiKQo=</text>
+        <text encoding="base64">ICAgIGFyY2hpdmVzID0gdHFkbS50cWRtKGFyY2hpdmVzLCB0b3RhbD1sZW4oYXJjaGl2ZXMpKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGRlZiB2YWx1ZXMoc2VsZik6CiAgICAgICAgcmV0dXJuIFtzZWxmLl9sb2FkZmlsZShrZXkpIGZvciBrZXkgaW4gc2VsZi5fYXJjaGl2ZXNd</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgibG9hZGluZyB2YWx1ZXMiKQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJCZWZvcmUgdmFsdWVzIikK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGRlZiB2YWx1ZXMoc2VsZik6CiAgICAgICAgcmV0dXJuIFtzZWxmLl9sb2FkZmlsZShrZXkpIGZvciBrZXkgaW4gc2VsZi5fYXJjaGl2ZXNd</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
