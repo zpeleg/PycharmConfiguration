@@ -50,7 +50,7 @@
         <mark key="^" line="45" column="77" />
         <mark key="." line="45" column="77" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560677411705">
+      <file name="/Dummy.txt" timestamp="1560702742469">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" timestamp="1560690149049" />
@@ -217,8 +217,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>CBugatone</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">RGlzYWJsZSBNT0FCVmVudHNVVUNSZWNvcmRpbmdTY3JpcHRUZXN0IHdoaWNoIGJyZWFrcyBpbiB0aGUgQ0kK</text>
       </register>
       <register name="-" type="4">
         <text>CBugatone</text>
@@ -230,38 +230,38 @@
         <text encoding="base64">ICAgIGNQaWNrbGUuZHVtcHModXhldmVudHMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgICAgICAgICAgc3VwZXIoQ0J1Z2F0b25lLCBzZWxmKS5fX2luaXRfXyhGYWxzZSkK</text>
+        <text encoding="base64">RGlzYWJsZSBNT0FCVmVudHNVVUNSZWNvcmRpbmdTY3JpcHRUZXN0IHdoaWNoIGJyZWFrcyBpbiB0aGUgQ0kK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TG9hZCBhdXRoIHZlcnNpb25zIGZyb20gc3RvcmFnZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgICAgICAgICAgc3VwZXIoQ0J1Z2F0b25lLCBzZWxmKS5fX2luaXRfXyhGYWxzZSkK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">TG9hZCBhdXRoIHZlcnNpb25zIGZyb20gc3RvcmFnZQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHBpY2tsZQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>lambda x: x.get('print_data_ts') if x.get('print_data_ts') is not None else x[
             'data_timestamp'].total_seconds()</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGRlZiB0c19mcm9tX3RoaW5nCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uID0gbW9hYl9hcmNoaXZlc19mb2xkZXJbYXJjaGl2ZV9uYW1lXQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFyY2hpdmVzID0gdHFkbS50cWRtKGFyY2hpdmVzLCB0b3RhbD1sZW4oYXJjaGl2ZXMpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uID0gbW9hYl9hcmNoaXZlc19mb2xkZXJbYXJjaGl2ZV9uYW1lXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgibG9hZGluZyB2YWx1ZXMiKQo=</text>
+        <text encoding="base64">ICAgIGFyY2hpdmVzID0gdHFkbS50cWRtKGFyY2hpdmVzLCB0b3RhbD1sZW4oYXJjaGl2ZXMpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
