@@ -45,11 +45,11 @@
         <mark key="^" line="6" column="47" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1560690208207">
-        <mark key="[" line="8" column="59" />
-        <mark key="]" line="9" column="73" />
-        <mark key="^" line="9" column="73" />
-        <mark key="." line="9" column="73" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1560691713861">
+        <mark key="[" line="45" column="75" />
+        <mark key="]" line="45" column="77" />
+        <mark key="^" line="45" column="77" />
+        <mark key="." line="45" column="77" />
       </file>
       <file name="/Dummy.txt" timestamp="1560677411705">
         <mark key="[" line="0" column="0" />
@@ -219,10 +219,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>moab.normal_authentication.do_authentication import replay_main, AuthVersionDescriptor</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>moab.normal_authentication.do_authentication import replay_main, AuthVersionDescriptor</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
@@ -319,8 +319,8 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>x</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
