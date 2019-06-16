@@ -45,15 +45,16 @@
         <mark key="^" line="6" column="47" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1560686727508">
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="20" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="20" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1560690208207">
+        <mark key="[" line="8" column="59" />
+        <mark key="]" line="9" column="73" />
+        <mark key="^" line="9" column="73" />
+        <mark key="." line="9" column="73" />
       </file>
       <file name="/Dummy.txt" timestamp="1560677411705">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" timestamp="1560690149049" />
       <file name="/default_bugatone_api_config" timestamp="1557245315848">
         <mark key="[" line="0" column="0" />
       </file>
@@ -217,11 +218,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">TG9hZCBhdXRoIHZlcnNpb25zIGZyb20gc3RvcmFnZQo=</text>
+      <register name="&quot;" type="4">
+        <text>moab.normal_authentication.do_authentication import replay_main, AuthVersionDescriptor</text>
       </register>
       <register name="-" type="4">
-        <text>uxevents</text>
+        <text>moab.normal_authentication.do_authentication import replay_main, AuthVersionDescriptor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
