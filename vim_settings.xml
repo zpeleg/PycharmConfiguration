@@ -81,15 +81,19 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmarks.py" timestamp="1560762766333">
-        <mark key="[" line="66" column="75" />
-        <mark key="]" line="66" column="87" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmarks.py" timestamp="1560786956005">
+        <mark key="[" line="141" column="34" />
+        <mark key="]" line="141" column="34" />
         <mark key="^" line="64" column="82" />
-        <mark key="." line="66" column="75" />
+        <mark key="." line="141" column="34" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" timestamp="1560690149049" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1560771045223">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1560786989627">
         <mark key="'" line="115" column="4" />
+        <mark key="[" line="105" column="13" />
+        <mark key="]" line="105" column="28" />
+        <mark key="^" line="105" column="28" />
+        <mark key="." line="105" column="28" />
       </file>
       <file name="/run_benchmark.py" timestamp="1560704586587">
         <mark key="[" line="56" column="0" />
@@ -148,9 +152,6 @@
       </file>
       <file name="/None" timestamp="1557245313825">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/moab/moab_recording_test.py" timestamp="1560677401837">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_user_row_summary.py" timestamp="1560706132512" />
     </filemarks>
@@ -266,17 +267,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Tm90aWZ5IGlmIG1vcmUgdGhhdCBvbmUgInBsZWFzZSB0YWtlIG9mZiIgbm90ZSBpcyBpbiB0aGUgc2FtZSByZWMK</text>
+      <register name="&quot;" type="4">
+        <text>versions_dir</text>
       </register>
       <register name="-" type="4">
-        <text>, encoding=&quot;utf-8&quot;))</text>
+        <text>versions_dir</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>script_name</text>
+        <text>--date-str</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Tm90aWZ5IGlmIG1vcmUgdGhhdCBvbmUgInBsZWFzZSB0YWtlIG9mZiIgbm90ZSBpcyBpbiB0aGUgc2FtZSByZWMK</text>
