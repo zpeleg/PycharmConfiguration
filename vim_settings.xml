@@ -13,6 +13,10 @@
         <mark key="." line="58" column="61" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/teacher_sanity/teacher_sanity_queries.py" timestamp="1560789355319" />
+      <file name="/uxevents.yaml" timestamp="1559725667488">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="70" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/scenario.py" timestamp="1560777253074">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -45,6 +49,11 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1560763360375" />
       <file name="/" timestamp="1559831585730">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/flow.py" timestamp="1560849158172">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1560791108302">
         <mark key="[" line="2" column="5" />
@@ -85,17 +94,16 @@
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/Jenkinsfile" timestamp="1560849645661">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="83" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1560790372297">
         <mark key="[" line="8" column="9" />
         <mark key="]" line="8" column="35" />
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/swig/generate_files.py" timestamp="1560848625195">
-        <mark key="[" line="107" column="97" />
-        <mark key="]" line="108" column="115" />
-        <mark key="." line="108" column="115" />
-        <mark key="^" line="108" column="115" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/do_authentication.py" timestamp="1560847725602">
         <mark key="[" line="89" column="32" />
@@ -128,6 +136,14 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="/Jenkinsfile" timestamp="1560849643483">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="83" />
+      </file>
+      <file name="/run_benchmark.py" timestamp="1560704586587">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="63" />
+      </file>
       <file name="/default_bugatone_api_config" timestamp="1557245315848">
         <mark key="[" line="0" column="0" />
       </file>
@@ -155,6 +171,10 @@
         <mark key="]" line="157" column="97" />
         <mark key="^" line="156" column="28" />
         <mark key="." line="156" column="28" />
+      </file>
+      <file name="/version_descriptor.py" timestamp="1559736831794">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="127" />
       </file>
       <file name="/default_daemon_start_detect_music_detection_config" timestamp="1557245313814">
         <mark key="[" line="0" column="0" />
@@ -280,7 +300,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBsYXp5X3Byb3BlcnR5Cg==</text>
+        <text encoding="base64">CQkJCUFORFJPSURfU0RLX1JPT1Q9L2hvbWUvdWJ1bnR1L2FuZHJvaWQtc2RrIDsgZXhwb3J0IEFORFJPSURfU0RLX1JPT1QK</text>
       </register>
       <register name="-" type="4">
         <text>json_classes becoming diff</text>
@@ -289,40 +309,40 @@
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBsYXp5X3Byb3BlcnR5KGR1cmF0aW9uPTUqNjApICAjIDUgbWludXRlIG1lbW9yeQo=</text>
+        <text encoding="base64">CQkJCUFORFJPSURfU0RLX1JPT1Q9L2hvbWUvdWJ1bnR1L2FuZHJvaWQtc2RrIDsgZXhwb3J0IEFORFJPSURfU0RLX1JPT1QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBsYXp5X3Byb3BlcnR5Cg==</text>
+        <text encoding="base64">CiAgICAgICAgIyBhbGxvdyBtb3JlIGNvbXBsZXggc2NyaXB0cywgd2l0aCBzZXZlcmFsIHRlc3RlcnMKICAgICAgICBzZWxmLmFkZGl0aW9uYWxfdGVzdGVycyA9IDAK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBAbGF6eV9wcm9wZXJ0eQogICAgZGVmIEFVVEgoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX2xvYWRfdGVtcGxhdGUoIkF1dGhlbnRpY2F0aW9uTU9BQlNjcmlwdCIpCg==</text>
+        <text encoding="base64">ICAgIEBsYXp5X3Byb3BlcnR5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">CiAgICBAbGF6eV9wcm9wZXJ0eQogICAgZGVmIEFVVEgoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX2xvYWRfdGVtcGxhdGUoIkF1dGhlbnRpY2F0aW9uTU9BQlNjcmlwdCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgIiIiCg==</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgID4+PiBpbnRpZnlfY29udGFpbmVyKFtdKQogICAgW10K</text>
+        <text encoding="base64">ICAgICIiIgogICAgIiIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBjb250YWluZXI6CiAgICA6cmV0dXJuOgo=</text>
+        <text encoding="base64">ICAgID4+PiBpbnRpZnlfY29udGFpbmVyKFtdKQogICAgW10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC9saWIvbGludXhfeDg2L1JlbGVhc2UKICAgIAo=</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBjb250YWluZXI6CiAgICA6cmV0dXJuOgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgID4+PiBpbnRpZnlfY29udGFpbmVyKFtdKQogICAgW10K</text>
+        <text encoding="base64">ICAgIC9saWIvbGludXhfeDg2L1JlbGVhc2UKICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2lwCg==</text>
+        <text encoding="base64">ICAgID4+PiBpbnRpZnlfY29udGFpbmVyKFtdKQogICAgW10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
