@@ -8,10 +8,6 @@
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/general_benchmark.py" timestamp="1560865984828" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/teacher_sanity/teacher_sanity_queries.py" timestamp="1560789355319" />
-      <file name="/uxevents.yaml" timestamp="1559725667488">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="70" />
-      </file>
       <file name="/make.py" timestamp="1560856018789" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/scenario.py" timestamp="1560777253074">
         <mark key="[" line="0" column="0" />
@@ -28,7 +24,7 @@
         <mark key="." line="23" column="24" />
         <mark key="^" line="23" column="24" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/normal_authentication_summary.py" timestamp="1560932144984">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/normal_authentication_summary.py" timestamp="1560933781542">
         <mark key="'" line="95" column="60" />
         <mark key="[" line="42" column="15" />
         <mark key="]" line="45" column="20" />
@@ -63,18 +59,18 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1560931700438">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1560933773779">
         <mark key="'" line="481" column="4" />
-        <mark key="[" line="2" column="112" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+        <mark key="[" line="482" column="0" />
+        <mark key="]" line="484" column="53" />
+        <mark key="." line="484" column="53" />
+        <mark key="^" line="484" column="53" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/daemon_flow_single_player.yaml" timestamp="1560763342908" />
       <file name="/None" timestamp="1557245313825">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1560847828506">
+      <file name="/Python Console" timestamp="1560933786183">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1560847254530">
@@ -152,14 +148,6 @@
         <mark key="^" line="174" column="61" />
         <mark key="." line="174" column="61" />
       </file>
-      <file name="/Jenkinsfile" timestamp="1560849643483">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="83" />
-      </file>
-      <file name="/run_benchmark.py" timestamp="1560704586587">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="63" />
-      </file>
       <file name="/default_bugatone_api_config" timestamp="1557245315848">
         <mark key="[" line="0" column="0" />
       </file>
@@ -193,10 +181,6 @@
         <mark key="]" line="157" column="97" />
         <mark key="^" line="156" column="28" />
         <mark key="." line="156" column="28" />
-      </file>
-      <file name="/version_descriptor.py" timestamp="1559736831794">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="127" />
       </file>
       <file name="/default_daemon_start_detect_music_detection_config" timestamp="1557245313814">
         <mark key="[" line="0" column="0" />
