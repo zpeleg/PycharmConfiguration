@@ -99,16 +99,11 @@
         <mark key="^" line="101" column="27" />
         <mark key="." line="101" column="27" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/Jenkinsfile" timestamp="1560849645661">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="83" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1560790372297">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="35" />
-        <mark key="." line="8" column="35" />
-        <mark key="^" line="8" column="35" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1560939157037">
+        <mark key="[" line="40" column="25" />
+        <mark key="]" line="40" column="25" />
+        <mark key="." line="40" column="25" />
+        <mark key="^" line="40" column="27" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/do_authentication.py" timestamp="1560935739838">
         <mark key="[" line="107" column="0" />
@@ -122,7 +117,7 @@
         <mark key="." line="248" column="15" />
         <mark key="^" line="248" column="15" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/uxevents.yaml" timestamp="1559726211964">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/uxevents.yaml" timestamp="1560938324993">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="6" column="47" />
@@ -311,11 +306,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Fix RowSummariesGenerator.AuthManyUsers that created HappyAuth scenarios
-¯\_(ツ)_/¯</text>
+        <text>end_</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>end_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
@@ -412,8 +406,8 @@
         <entry>x</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
