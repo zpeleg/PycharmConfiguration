@@ -52,11 +52,12 @@
         <mark key="^" line="105" column="28" />
         <mark key="." line="105" column="28" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1561020032166">
-        <mark key="[" line="621" column="23" />
-        <mark key="]" line="622" column="39" />
-        <mark key="." line="622" column="39" />
-        <mark key="^" line="622" column="39" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1561039413171">
+        <mark key="'" line="648" column="12" />
+        <mark key="[" line="5" column="109" />
+        <mark key="]" line="5" column="131" />
+        <mark key="." line="5" column="131" />
+        <mark key="^" line="5" column="131" />
       </file>
       <file name="/" timestamp="1559831585730">
         <mark key="[" line="0" column="0" />
@@ -107,11 +108,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/do_authentication.py" timestamp="1561037524261">
-        <mark key="[" line="152" column="44" />
-        <mark key="]" line="152" column="44" />
-        <mark key="^" line="133" column="3" />
-        <mark key="." line="152" column="44" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/do_authentication.py" timestamp="1561038817383">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="4" column="20" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/buga_api/capi.py" timestamp="1560700897495">
         <mark key="[" line="247" column="36" />
@@ -125,9 +127,12 @@
         <mark key="^" line="6" column="47" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1561037219292">
-        <mark key="'" line="65" column="0" />
-        <mark key="]" line="64" column="0" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1561039565796">
+        <mark key="'" line="32" column="8" />
+        <mark key="[" line="159" column="46" />
+        <mark key="]" line="159" column="48" />
+        <mark key="^" line="159" column="48" />
+        <mark key="." line="159" column="48" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/find_teacher.py" timestamp="1561023387809">
         <mark key="'" line="65" column="24" />
@@ -136,8 +141,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561034801813">
+      <file name="/Dummy.txt" timestamp="1561039446376">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/Bugatone-Space/python/infra/data/recordings.py" timestamp="1560863920620">
         <mark key="[" line="174" column="62" />
@@ -191,46 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="60" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
-      <jump line="77" column="18" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
-      <jump line="89" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
-      <jump line="103" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
-      <jump line="107" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
-      <jump line="100" column="21" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
-      <jump line="98" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
-      <jump line="16" column="11" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
-      <jump line="105" column="46" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
-      <jump line="17" column="32" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/teacher_sanity/do_teacher_sanity.py" />
-      <jump line="140" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
-      <jump line="143" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
-      <jump line="146" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
-      <jump line="149" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
-      <jump line="152" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
-      <jump line="160" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
-      <jump line="114" column="36" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/buga_api/authentication.py" />
-      <jump line="143" column="28" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
-      <jump line="188" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
-      <jump line="183" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
-      <jump line="162" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
-      <jump line="93" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
-      <jump line="112" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
-      <jump line="121" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
-      <jump line="130" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
-      <jump line="158" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
-      <jump line="161" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
       <jump line="172" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
       <jump line="182" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
       <jump line="189" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
@@ -244,7 +212,6 @@
       <jump line="51" column="40" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/moab/moab_recording_test.py" />
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/moab/moab_recording_test.py" />
       <jump line="10" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
-      <jump line="57" column="18" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
       <jump line="70" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
       <jump line="67" column="5" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" />
       <jump line="115" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" />
@@ -280,7 +247,6 @@
       <jump line="14" column="17" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/moab/raw_row_summary_test.py" />
       <jump line="41" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
       <jump line="46" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
-      <jump line="32" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
       <jump line="36" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
       <jump line="43" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
       <jump line="48" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
@@ -291,6 +257,48 @@
       <jump line="294" column="56" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
       <jump line="503" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
       <jump line="249" column="9" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="62" column="13" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="12" column="19" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/do_authentication.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/do_authentication.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/do_authentication.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/do_authentication.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="188" column="8" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="115" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="116" column="19" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="121" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="127" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="134" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="136" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="167" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="183" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="193" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="199" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="201" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="114" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="106" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="75" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
+      <jump line="156" column="6" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
+      <jump line="643" column="12" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
+      <jump line="32" column="8" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -303,49 +311,49 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>[:2]</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>[:2]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlY3MgPSBkaWN0KHJlY3NfZnQgKyByZWNzX2F1dGhzZXNzaW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHwgd2hlcmUobGFtYmRhIGF1dGhfc2Vzc2lvbjogbGVuKGF1dGhfc2Vzc2lvbi5yZWNzLmtleXMoKSkgPiAwIGFuZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuY2xpZW50LmNhbGwoImF1dGhlbnRpY2F0ZSIsIHIie30iKQogICAgICAgICMgc2VsZi5xdWV1ZV91eGV2ZW50KCJzZW5kQXV0aGVudGljYXRlIikK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">X19hbGxfXyA9IFsnQmVuY2htYXJrTG9hZGVyJywgJ01vYWJUZXN0cycsICdSb3dTdW1tYXJpZXNHZW5lcmF0b3InLCAnQmVuY2htYXJrQ3N2TG9hZGVyJywgJ0JlbmNobWFya0xvYWRQb2xpY3knXQo=</text>
+        <text encoding="base64">Rml4IGJ1ZyBjYXVzZWQgYnkgcGVvcGxlIGNoYW5naW5nIHN0dWZmIHdpdGhvdXQgdW5kZXJzdGFuZGluZyB0aGUgY29uc2VxdWVuY2VzIGFuZCBydW5uaW5nIHRoZWlyIGNvZGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG90aGVyX3VzZXJfcmVjcyA9IGxpc3QoZW51bWVyYXRlKFt4IGZvciBzdWIgaW4gc29ydGVkX3Nlc3Npb25zIGZvciB4IGluIGZpbHRlcl9hdXRoX3JlY3Moc3ViLnJlY3MpWzppdGVyYXRpb25zX3Blcl9hcmNoaXZlXV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsZW4oYXV0aF9zZXNzaW9uLnJlY3MuaXRlbXMoKSkgKyAxKSkK</text>
+        <text encoding="base64">Y2xhc3MgVUlScGMob2JqZWN0KToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBnZW5fcnBjKToKICAgICAgICBzZWxmLmludGVycHJldGVyID0gTm9uZQogICAgICAgIHNlbGYuY2xpZW50ID0gTm9uZQogICAgICAgIHNlbGYuZ2VuX3JwYyA9IGdlbl9ycGMKCiAgICBkZWYgY29ubmVjdChzZWxmKToKICAgICAgICBwcmludCgiW1VJUnBjXSBjb25uZWN0aW5nIHRvIHJwYyIpCiAgICAgICAgYXNzZXJ0IHNlbGYuY2xpZW50IGlzIE5vbmUsICJSUEMgY2xpZW50IGFscmVhZHkgc3RhcnRlZCIKICAgICAgICBzZWxmLmNvbm5lY3QgPSBsYW1iZGEgKmFyZ3M6IE5vbmUKICAgICAgICBzZWxmLmNsaWVudCA9IHNlbGYuZ2VuX3JwYygpCgogICAgICAgIGZyb20gdGhyZWFkaW5nIGltcG9ydCBUaHJlYWQsIEV2ZW50CiAgICAgICAgY29ubmVjdGVkX2V2ZW50ID0gRXZlbnQoKQogICAgICAgIHRocmVhZCA9IFRocmVhZCh0YXJnZXQ9c2VsZi5yZXZlcnNlX3JwYywgYXJncz0oY29ubmVjdGVkX2V2ZW50LCkpCiAgICAgICAgdGhyZWFkLmRhZW1vbiA9IFRydWUKICAgICAgICB0aHJlYWQuc3RhcnQoKQogICAgICAgIGNvbm5lY3RlZF9ldmVudC53YWl0KCkKCiAgICBkZWYgcmV2ZXJzZV9ycGMoc2VsZiwgY29ubmVjdGVkX2V2ZW50KToKCiAgICAgICAgcmVhZGVyX3dyaXRlciA9IHNlbGYuY2xpZW50LmNhbGxfc3RyZWFtaW5nKCJjcmVhdGVCYWNrY2hhbm5lbCIsICIiKQogICAgICAgIGogPSByZWFkZXJfd3JpdGVyLnJlYWQoKQogICAgICAgIGNvbm5lY3RlZF9ldmVudC5zZXQoKQogICAgICAgICMgY29ubmVjdGVkX2V2ZW50ID0gTm9uZQogICAgICAgIHN1Y2Nlc3MgPSBjYm9yLmxvYWRzKGopCiAgICAgICAgaWYgc3VjY2Vzc1sic3VjY2VzcyJdID09IFRydWU6CiAgICAgICAgICAgIHNlbGYuaW50ZXJwcmV0ZXIucXVldWUoInJwY0Nvbm5lY3RlZCIpCiAgICAgICAgICAgIHNlbGYucXVldWVfdXhldmVudCgiZ290Q29ubmVjdGVkIikKICAgICAgICBlbHNlOgogICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oIk5ldmVyIGV2ZXIgZ29ubmEgaGFwcGVuIikKICAgICAgICB0cnk6CiAgICAgICAgICAgIHdoaWxlIFRydWU6CiAgICAgICAgICAgICAgICBqID0gcmVhZGVyX3dyaXRlci5yZWFkKCkKICAgICAgICAgICAgICAgIHByb2NlZHVyZSA9IGoKICAgICAgICAgICAgICAgIGogPSByZWFkZXJfd3JpdGVyLnJlYWQoKQogICAgICAgICAgICAgICAgcGFyYW1zID0gY2Jvci5sb2FkcyhqKQogICAgICAgICAgICAgICAgcHJpbnQoIltVSVJwY10gZ290IG1lc3NhZ2U6IiwgcHJvY2VkdXJlLCBwYXJhbXMpCiAgICAgICAgICAgICAgICBpZiBwcm9jZWR1cmUgPT0gIm5vdGlmeUVucm9sbG1lbnRQcm9ncmVzcyI6CiAgICAgICAgICAgICAgICAgICAgc2VsZi5pbnRlcnByZXRlci5xdWV1ZShFdmVudCgidWlTaG93IiwgbWVzc2FnZT1wYXJhbXMpKQogICAgICAgICAgICAgICAgICAgIHNlbGYucXVldWVfdXhldmVudCgibm90aWZ5RW5yb2xsbWVudFByb2dyZXNzIiwgZXh0cmFfZGF0YT1wYXJhbXMpCiAgICAgICAgICAgICAgICBlbGlmIHByb2NlZHVyZSA9PSAibm90aWZ5VXNlcnNBdXRoZWQiOgogICAgICAgICAgICAgICAgICAgIHByaW50KCJGb3VuZCB1c2VyczogIiArIHN0cihwYXJhbXMpKQogICAgICAgICAgICAgICAgICAgIHNlbGYuaW50ZXJwcmV0ZXIucXVldWUoRXZlbnQoInVpRm91bmRVc2VycyIsIHVzZXJzPXBhcmFtcykpCiAgICAgICAgICAgICAgICAgICAgc2VsZi5xdWV1ZV91eGV2ZW50KCJnb3RGb3VuZFVzZXJzIiwgZXh0cmFfZGF0YT17InVzZXJzIjogW3VbIm5hbWUiXSBmb3IgdSBpbiBwYXJhbXNbInVzZXJzIl1dfSkKICAgICAgICAgICAgICAgIGVsaWYgcHJvY2VkdXJlID09ICJFbnJvbGxtZW50RG9uZSI6CiAgICAgICAgICAgICAgICAgICAgc2VsZi5pbnRlcnByZXRlci5xdWV1ZSgiZW5yb2xsbWVudERvbmUiKQogICAgICAgICAgICAgICAgICAgIHNlbGYucXVldWVfdXhldmVudCgiZ290RW5yb2xsbWVudERvbmUiKQogICAgICAgICAgICAgICAgcmVhZGVyX3dyaXRlci53cml0ZShjYm9yLmR1bXBzKHt9KSkKICAgICAgICBleGNlcHQgU3RvcEl0ZXJhdGlvbjoKICAgICAgICAgICAgcGFzcwoKICAgIGRlZiBzZW5kX2NsaWNrZWRfZW5yb2xsKHNlbGYsIG5hbWUpOgogICAgICAgIHByaW50KCJbVUlScGNdIHNlbmRpbmcgY2xpY2tlZCBlbnJvbGwiKQogICAgICAgIHBhcmFtcyA9IHsKICAgICAgICAgICAgdSJ1c2VyIjogewogICAgICAgICAgICAgICAgdSJuYW1lIjogbmFtZSwKICAgICAgICAgICAgICAgIHUiY29sb3IiOiA2LAogICAgICAgICAgICAgICAgdSJnZW5yZSI6IHUicG9zdCBhcG9jYWx5cHRpYyBtZXRhbCIKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXQgPSBzZWxmLmNsaWVudC5jYWxsKCJzdGFydEVucm9sbFVzZXIiLCBjYm9yLmR1bXBzKHBhcmFtcykpCiAgICAgICAgcmV0X2RpY3QgPSBjYm9yLmxvYWRzKHJldCkKICAgICAgICBpZiBub3QgcmV0X2RpY3RbInN1Y2Nlc3MiXToKICAgICAgICAgICAgc2VsZi5xdWV1ZV91eGV2ZW50KCJjbGlja2VkRW5yb2xsRmFpbGVkIikKICAgICAgICAgICAgcmFpc2UgVGVzdEZhaWxlZCgiY2xpY2tlZEVucm9sbEZhaWxlZCByZXR1cm5lZCBlcnJvcjogIiArIHJldF9kaWN0WyJlcnJvciJdKQogICAgICAgIHNlbGYucXVldWVfdXhldmVudCgic2VuZENsaWNrZWRFbnJvbGwiKQoKICAgIGRlZiBzZW5kX2NsaWNrZWRfcmVhZHkoc2VsZik6CiAgICAgICAgc2VsZi5zZW5kX2NsaWNrZWRfcmVhZHkgPSBsYW1iZGEgKmFyZ3M6IE5vbmUKICAgICAgICBwcmludCgiW1VJUnBjXSBzZW5kaW5nIGNsaWNrZWQgcmVhZHkiKQogICAgICAgIHJldCA9IHNlbGYuY2xpZW50LmNhbGwoInJlYWR5VG9MZWFybkVhcnMiLCBjYm9yLmR1bXBzKHt9KSkKICAgICAgICByZXRfZGljdCA9IGNib3IubG9hZHMocmV0KQogICAgICAgIGlmIG5vdCByZXRfZGljdFsic3VjY2VzcyJdOgogICAgICAgICAgICBzZWxmLnF1ZXVlX3V4ZXZlbnQoInJlYWR5VG9MZWFybkVhcnNGYWlsZWQiKQogICAgICAgICAgICByYWlzZSBUZXN0RmFpbGVkKCJyZWFkeVRvTGVhcm5FYXJzRmFpbGVkIHJldHVybmVkIGVycm9yOiAiICsgcmV0X2RpY3RbImVycm9yIl0pCiAgICAgICAgc2VsZi5xdWV1ZV91eGV2ZW50KCJzZW5kVXNlckNvbmZpcm1lZEVhcnBob25lc0luIikKCiAgICBkZWYgc2VuZF9hdXRoZW50aWNhdGUoc2VsZik6CiAgICAgICAgcHJpbnQoIltVSVJwY10gc2VuZGluZyBhdXRoZW50aWNhdGUiKQogICAgICAgIHByaW50KCJbVUlScGNdIEFjdHVhbGx5IGRvaW5nIG5vdGhpbmciKQogICAgICAgICMgc2VsZi5jbGllbnQuY2FsbCgiYXV0aGVudGljYXRlIiwgciJ7fSIpCiAgICAgICAgIyBzZWxmLnF1ZXVlX3V4ZXZlbnQoInNlbmRBdXRoZW50aWNhdGUiKQoKICAgIGRlZiBxdWV1ZV91eGV2ZW50KHNlbGYsIG5hbWUsIGV4dHJhX2RhdGE9Tm9uZSk6CiAgICAgICAgc2VsZi5pbnRlcnByZXRlci5xdWV1ZShFdmVudCgiY3VzdG9tX3V4ZXZlbnQiLCBldmVudF9uYW1lPW5hbWUsIGV4dHJhX2RhdGE9ZXh0cmFfZGF0YSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QWRkIHBvcnQgcmFuZG9taXphdGlvbiB0byBhdXRoZW50aWNhdGlvbiByZXBsYXkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVyCg==</text>
+        <text encoding="base64">ZGVmIGZpbHRlcl9hdXRoX3JlY3MocmVjcyk6CiAgICByZXR1cm4gW3ggZm9yIHggaW4gcmVjcy52YWx1ZXMoKSBpZiB4Lm1ldGFkYXRhWydzb25nJ10gbm90IGluIFsndGhlX3BpcHMnLCAnd2hpdGVfbm9pc2UnXV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Q2hhbmdlIHBhcmFsbGVsaXphdGlvbiB0byB1cGRhdGUgYXJjaGl2ZSBhbmQgc3VtbWFyaWVzIGluIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIGZ0X3Nlc3Npb24gPSBnZXRfZnRfYXJjaGl2ZShhdXRoX3Nlc3Npb24pCiAgICB1c2VyX25hbWUgPSBhdXRoX3Nlc3Npb25bJ3JlY3MnXVswXVsnbWV0YWRhdGEnXVsndGVzdGVyJ10KCiAgICByZWNzX2Z0ID0gWygwLCBmdF9zZXNzaW9uLnJlY3NbMF0pXQogICAgcmVjc19maWx0ZXJlZCA9IGZpbHRlcl9hdXRoX3JlY3MoYXV0aF9zZXNzaW9uLnJlY3MpCiAgICByZWNzX2F1dGhzZXNzaW9uID0gWyhpLCByZWMpIGZvciBpLCByZWMgaW4gZW51bWVyYXRlKHNvcnRlZChyZWNzX2ZpbHRlcmVkKSwgMSldCgogICAgcmVjcyA9IGRpY3QocmVjc19mdCArIHJlY3NfYXV0aHNlc3Npb24pCgogICAgcG9ydCA9IHJhbmRvbS5yYW5kaW50KDI5OTk5LCA1MDAwMCkKICAgIHdoaWxlIG5vdCBpc19wb3J0X29wZW4ocG9ydCk6CiAgICAgICAgcG9ydCA9IHJhbmRvbS5yYW5kaW50KDI5OTk5LCA1MDAwMCkKCiAgICBkZWYgc2V0X2Vudl9wb3J0KCk6CiAgICAgICAgcHJpbnQoIlNldHRpbmcgZW52IHBvcnQgdG8ge30iLmZvcm1hdChwb3J0KSkKICAgICAgICBvcy5lbnZpcm9uWyJCVUdBX1JQQ19QT1JUIl0gPSBzdHIocG9ydCkKCiAgICBzY2VuYXJpbyA9IE1vYWJTY2VuYXJpbygKICAgICAgICBzZXNzaW9uX2FyY2hpdmVuYW1lPWF1dGhfc2Vzc2lvbi5hcmNoaXZlbmFtZSwKICAgICAgICByZWNzPWRpY3QocmVjcz1yZWNzKSwKICAgICAgICBzZXNzaW9uX21ldGFkYXRhPWF1dGhfc2Vzc2lvbi5tZXRhZGF0YSwKICAgICAgICB0ZXN0X3N0YXRlY2hhcnQ9Ii9ob21lL2J1Z2EvbW9iaWxlcHJvZHVjdC9weW1vYmlsZXByb2R1Y3QvbW9hYi9ub3JtYWxfYXV0aGVudGljYXRpb24vYXV0aGVudGljYXRpb24ueWFtbCIsCiAgICAgICAgc2NlbmFyaW9fbWV0YWRhdGE9e30sCiAgICAgICAgdGVzdF9jb250ZXh0PWRpY3QoCiAgICAgICAgICAgIHVpcnBjPVVJUnBjKGxhbWJkYTogR1JlbW90ZVByb2NlZHVyZVN0cmVhbWluZ0NsaWVudCgiMTI3LjAuMC4xOnt9Ii5mb3JtYXQocG9ydCkpKSwKICAgICAgICAgICAgZmlyc3RfaW5fdGltZXN0YW1wPWludChyZWNzX2F1dGhzZXNzaW9uWzBdWzFdLnRhZ3NbN11bJ3JlYWN0aW9uX2RhdGFfdHMnXSAqIDQ4MDAwKSwKICAgICAgICAgICAgdXNlcl9uYW1lcz1bdXNlcl9uYW1lLmRlY29kZSgidXRmLTgiKV0KICAgICAgICApLAogICAgICAgIHByZV9yZXBsYXlfYWN0aW9uPXNldF9lbnZfcG9ydAogICAgKQogICAgcmV0dXJuIHNjZW5hcmlv</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QWxzbywgdG9ucyBvZiBjbGVhbnVwIGluIHJlcGxheV9vbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdWlycGM9VUlScGMobGFtYmRhOiBHUmVtb3RlUHJvY2VkdXJlU3RyZWFtaW5nQ2xpZW50KCIxMjcuMC4wLjE6Mjk5OTkiKSksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGRlZiBtYWluKCk6CiAgICAgICAgaW1wb3J0IGl0ZXJ0b29scwogICAgICAgIGZyb20gcHltb2JpbGVwcm9kdWN0Lm1vYWIubm9ybWFsX2F1dGhlbnRpY2F0aW9uLmRvX2F1dGhlbnRpY2F0aW9uIGltcG9ydCBBdXRoVmVyc2lvbkRlc2NyaXB0b3IKICAgICAgICBjb25mID0gQXV0aFZlcnNpb25EZXNjcmlwdG9yLmZyb21fbG9jYWxfcmVsZWFzZSgpCiAgICAgICAgc3VtbWFyaWVzID0gTW9hYlRlc3RzLkhhcHB5QXV0aCBcCiAgICAgICAgICAgIC53aXRoX2NvbmZpZ3VyYXRpb24oY29uZikgXAogICAgICAgICAgICAucmVwbGF5X29uKGl0ZXJ0b29scy5pc2xpY2UoKHggZm9yIHggaW4gTW9hYkFyY2hpdmVzLkFVVEgudmFsdWVzKCkgaWYgeC5tZXRhZGF0YS5jb21wbGV0ZWQpLCA0KSwgdGhyZWFkcz00LAogICAgICAgICAgICAgICAgICAgICAgIHByb2Nlc3NpemU9VHJ1ZSkKICAgICAgICBwcmludChzdW1tYXJpZXMpCiAgICAgICAgc3VtbWFyaWVzWzFdLnRvX2NsaXBib2FyZChlbmNvZGluZz0idXRmLTgiKQoKCiAgICBtYWluKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -402,8 +410,8 @@
         <entry>x</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
