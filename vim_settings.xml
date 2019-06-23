@@ -34,11 +34,11 @@
         <mark key="^" line="101" column="27" />
         <mark key="." line="101" column="27" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/general_benchmark.py" timestamp="1561301001080">
-        <mark key="[" line="61" column="109" />
-        <mark key="]" line="61" column="110" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/general_benchmark.py" timestamp="1561302492015">
+        <mark key="[" line="61" column="112" />
+        <mark key="]" line="61" column="113" />
         <mark key="^" line="61" column="110" />
-        <mark key="." line="61" column="110" />
+        <mark key="." line="61" column="113" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/teacher_sanity/teacher_sanity_queries.py" timestamp="1561034627141">
         <mark key="'" line="138" column="29" />
@@ -91,7 +91,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561281378936">
+      <file name="/Dummy.txt" timestamp="1561303051903">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmarks.py" timestamp="1561046269011">
@@ -105,12 +105,12 @@
         <mark key="." line="174" column="61" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/core/cstreamers.py" timestamp="1561282105314" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1561279834281">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1561302478368">
         <mark key="'" line="117" column="4" />
-        <mark key="[" line="111" column="26" />
-        <mark key="]" line="112" column="26" />
-        <mark key="." line="112" column="26" />
-        <mark key="^" line="112" column="26" />
+        <mark key="[" line="97" column="80" />
+        <mark key="]" line="97" column="80" />
+        <mark key="." line="97" column="80" />
+        <mark key="^" line="97" column="23" />
       </file>
       <file name="/default_bugatone_api_config" timestamp="1557245315848">
         <mark key="[" line="0" column="0" />
@@ -296,11 +296,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">VXBkYXRlIHJ1bl9iZW5jaG1hcmtzCg==</text>
+      <register name="&quot;" type="4">
+        <text>one</text>
       </register>
       <register name="-" type="4">
-        <text>cpu_count() if parallel_count is None else parallel_count))</text>
+        <text>one</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
@@ -309,25 +309,25 @@
         <text>manyuserauth</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VXBkYXRlIHJ1bl9iZW5jaG1hcmtzCg==</text>
+        <text encoding="base64">QWRkIHRoZSBhYmlsaXR5IHRvIHNldCBwYXJhbGxlbGl6YXRpb24gaW4gcnVuX2JlbmNobWFyawo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzLm5vX3BhcmFsbGVsCg==</text>
+        <text encoding="base64">VXBkYXRlIHJ1bl9iZW5jaG1hcmtzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICdhdXRobW9hYicgaW4ga2luZHM6CiAgICAgICAgcnVuX2JlbmNobWFya19pbl9zZXBhcmF0ZV9wcm9jZXNzKGRhdGVfc3RyaW5nLCBuZXh0X3ZlcnNpb25fcGF0aCwgImF1dGhtb2FiIikK</text>
+        <text encoding="base64">ICAgICAgICBhcmdzLm5vX3BhcmFsbGVsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICItLW1heC1zZXNzaW9ucyIsICI1MCIK</text>
+        <text encoding="base64">ICAgIGlmICdhdXRobW9hYicgaW4ga2luZHM6CiAgICAgICAgcnVuX2JlbmNobWFya19pbl9zZXBhcmF0ZV9wcm9jZXNzKGRhdGVfc3RyaW5nLCBuZXh0X3ZlcnNpb25fcGF0aCwgImF1dGhtb2FiIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gdGhyZWFkczogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICItLW1heC1zZXNzaW9ucyIsICI1MCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gYmVuY2htYXJrX2xvY2F0aW9uOiAK</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gdGhyZWFkczogCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICA6cGFyYW0gYmVuY2htYXJrX2xvY2F0aW9uOiAK</text>
@@ -336,10 +336,10 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuY2xpZW50LmNhbGwoImF1dGhlbnRpY2F0ZSIsIHIie30iKQogICAgICAgICMgc2VsZi5xdWV1ZV91eGV2ZW50KCJzZW5kQXV0aGVudGljYXRlIikK</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gYmVuY2htYXJrX2xvY2F0aW9uOiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Rml4IGJ1ZyBjYXVzZWQgYnkgcGVvcGxlIGNoYW5naW5nIHN0dWZmIHdpdGhvdXQgdW5kZXJzdGFuZGluZyB0aGUgY29uc2VxdWVuY2VzIGFuZCBydW5uaW5nIHRoZWlyIGNvZGUK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuY2xpZW50LmNhbGwoImF1dGhlbnRpY2F0ZSIsIHIie30iKQogICAgICAgICMgc2VsZi5xdWV1ZV91eGV2ZW50KCJzZW5kQXV0aGVudGljYXRlIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
