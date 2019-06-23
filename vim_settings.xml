@@ -110,12 +110,7 @@
         <mark key="." line="101" column="27" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/swig/generate_files.py" timestamp="1561282033474" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/configuration/configs_in_c_base.py" timestamp="1561307974302">
-        <mark key="[" line="65" column="59" />
-        <mark key="]" line="66" column="15" />
-        <mark key="." line="66" column="15" />
-        <mark key="^" line="66" column="15" />
-      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/configuration/configs_in_c_base.py" timestamp="1561309676529" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/buga_api/capi.py" timestamp="1560700897495">
         <mark key="[" line="247" column="36" />
         <mark key="]" line="248" column="15" />
@@ -193,12 +188,7 @@
         <mark key="^" line="53" column="23" />
         <mark key="." line="53" column="23" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/swig/templates/config_py_bindings_cpp.tmpl" timestamp="1561308414882">
-        <mark key="[" line="26" column="11" />
-        <mark key="]" line="26" column="16" />
-        <mark key="." line="26" column="16" />
-        <mark key="^" line="26" column="16" />
-      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/swig/templates/config_py_bindings_cpp.tmpl" timestamp="1561309612288" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/moab/moab_recording_test.py" timestamp="1561307025181" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_user_row_summary.py" timestamp="1561305436573">
         <mark key="[" line="149" column="25" />
@@ -319,10 +309,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text>.value</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>.value</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
