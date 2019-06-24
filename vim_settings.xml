@@ -63,10 +63,10 @@
         <mark key="^" line="5" column="131" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/authentication.py" timestamp="1561363991314">
-        <mark key="[" line="1154" column="54" />
-        <mark key="]" line="1154" column="66" />
-        <mark key="." line="1154" column="66" />
-        <mark key="^" line="1154" column="66" />
+        <mark key="[" line="691" column="54" />
+        <mark key="]" line="691" column="66" />
+        <mark key="." line="691" column="66" />
+        <mark key="^" line="691" column="66" />
       </file>
       <file name="/" timestamp="1559831585730">
         <mark key="[" line="0" column="0" />
@@ -144,7 +144,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561307577947">
+      <file name="/Dummy.txt" timestamp="1561367691042">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Bugatone-Space/python/infra/data/recordings.py" timestamp="1560863920620">
@@ -322,8 +322,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>not args.no_proccesize)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Rml4IGZhaWxpbmcgdGVzdAo=</text>
       </register>
       <register name="-" type="4">
         <text>not args.no_proccesize)</text>
@@ -335,16 +335,16 @@
         <text encoding="base64">ICAgIHByaW50ZigiMSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFyZ3MucHJvY2Vzc2l6ZSkKICAgIHJhaXNlIEV4Y2VwdGlvbigpCg==</text>
+        <text encoding="base64">Rml4IGZhaWxpbmcgdGVzdAo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHV4ZXZlbnRzID0gCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGFyZ3MucHJvY2Vzc2l6ZSkKICAgIHJhaXNlIEV4Y2VwdGlvbigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiMSIpOwo=</text>
+        <text encoding="base64">ICAgIHV4ZXZlbnRzID0gCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIHByaW50ZigiMSIpOwo=</text>
@@ -356,16 +356,16 @@
         <text encoding="base64">ICAgIHByaW50ZigiMSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaW50ZigiMSIpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QWRkIHByaW50cyB0byBkZWJ1ZyBiZW5jaG1hcmsgZnJlZXppbmcgYXQgdGhlIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWRkIHByaW50cyB0byBkZWJ1ZyBiZW5jaG1hcmsgZnJlZXppbmcgYXQgdGhlIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
