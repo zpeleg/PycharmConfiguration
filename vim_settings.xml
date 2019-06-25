@@ -10,20 +10,6 @@
       <file name="/a.dummy" timestamp="1560707351010">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/general_benchmark.py" timestamp="1561305031639">
-        <mark key="'" line="74" column="4" />
-        <mark key="[" line="52" column="12" />
-        <mark key="]" line="53" column="42" />
-        <mark key="^" line="53" column="42" />
-        <mark key="." line="53" column="42" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/teacher_sanity/teacher_sanity_queries.py" timestamp="1561034627141">
-        <mark key="'" line="138" column="29" />
-        <mark key="[" line="147" column="21" />
-        <mark key="]" line="147" column="21" />
-        <mark key="." line="147" column="21" />
-        <mark key="^" line="139" column="33" />
-      </file>
       <file name="/False" timestamp="1555316610968">
         <mark key="[" line="0" column="0" />
       </file>
@@ -42,12 +28,12 @@
         <mark key="^" line="97" column="23" />
       </file>
       <file name="/do_replay.py" timestamp="1561394572050" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1561394837255">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1561471408483">
         <mark key="'" line="645" column="12" />
-        <mark key="[" line="375" column="24" />
-        <mark key="]" line="375" column="32" />
-        <mark key="^" line="375" column="32" />
-        <mark key="." line="375" column="32" />
+        <mark key="[" line="278" column="26" />
+        <mark key="]" line="278" column="27" />
+        <mark key="^" line="266" column="25" />
+        <mark key="." line="278" column="27" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/authentication.py" timestamp="1561465216509">
         <mark key="[" line="333" column="48" />
@@ -57,13 +43,6 @@
       </file>
       <file name="/" timestamp="1559831585730">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/moab/raw_row_summary_test.py" timestamp="1561034351586">
-        <mark key="'" line="14" column="17" />
-        <mark key="[" line="95" column="29" />
-        <mark key="]" line="95" column="30" />
-        <mark key="^" line="99" column="54" />
-        <mark key="." line="95" column="30" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/run_one.py" timestamp="1561382325880">
         <mark key="[" line="2" column="0" />
@@ -122,13 +101,6 @@
         <mark key="]" line="179" column="0" />
         <mark key="." line="179" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/find_teacher.py" timestamp="1561023387809">
-        <mark key="'" line="65" column="24" />
-        <mark key="[" line="0" column="119" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1561394575295">
         <mark key="[" line="0" column="0" />
       </file>
@@ -146,13 +118,6 @@
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
         <mark key="[" line="2" column="24" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" timestamp="1560790875957">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="47" column="51" />
-        <mark key="]" line="47" column="51" />
-        <mark key="." line="47" column="51" />
-        <mark key="^" line="47" column="64" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/benchmark_core.py" timestamp="1561365730721">
         <mark key="[" line="24" column="0" />
@@ -178,8 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
-      <jump line="67" column="5" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" />
       <jump line="115" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" />
       <jump line="325" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
       <jump line="471" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
@@ -278,6 +241,8 @@
       <jump line="60" column="12" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" />
       <jump line="36" column="36" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" />
       <jump line="40" column="58" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" />
+      <jump line="256" column="26" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
+      <jump line="645" column="12" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -289,17 +254,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxpYmNhcCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgidG1wX2RpciIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNsZWVwKDAuMDE3KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmxpYmNhcCgpCg==</text>
