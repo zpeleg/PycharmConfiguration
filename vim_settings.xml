@@ -60,17 +60,17 @@
         <mark key="^" line="106" column="76" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1561536555790">
-        <mark key="'" line="210" column="4" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="^" line="115" column="7" />
-        <mark key="." line="115" column="0" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1561549266416">
+        <mark key="'" line="200" column="4" />
+        <mark key="[" line="119" column="67" />
+        <mark key="]" line="119" column="74" />
+        <mark key="^" line="119" column="74" />
+        <mark key="." line="119" column="74" />
       </file>
       <file name="/Dummy.txt" timestamp="1561547784484">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1561536563758">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1561549246023">
         <mark key="'" line="118" column="4" />
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="59" />
@@ -89,12 +89,12 @@
         <mark key="^" line="71" column="21" />
         <mark key="." line="71" column="21" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1561542291670">
-        <mark key="'" line="662" column="12" />
-        <mark key="[" line="615" column="21" />
-        <mark key="]" line="615" column="29" />
-        <mark key="." line="615" column="29" />
-        <mark key="^" line="615" column="29" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1561549960157">
+        <mark key="'" line="625" column="37" />
+        <mark key="[" line="646" column="8" />
+        <mark key="]" line="647" column="19" />
+        <mark key="." line="647" column="19" />
+        <mark key="^" line="647" column="19" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
         <mark key="[" line="2" column="24" />
@@ -144,7 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="310" column="139" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
       <jump line="482" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
       <jump line="309" column="33" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
       <jump line="337" column="7" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
@@ -244,6 +243,7 @@
       <jump line="118" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" />
       <jump line="270" column="19" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
       <jump line="662" column="12" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
+      <jump line="625" column="37" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -255,52 +255,61 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QWRkIHRoZSBhYmlsaXR5IHRvIHR1cm4gb2ZmIHByb2Nlc3NpemUgaW4gcmVwbGF5X21haW4K</text>
+      <register name="&quot;" type="4">
+        <text>cad_end_time-cad_start_time</text>
       </register>
       <register name="-" type="4">
-        <text>loopback</text>
+        <text>cad_end_time-cad_start_time</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZWMudW5zeW5jZWQubG9vcGJhY2suY2xlYW5fbWVtb3J5KCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAoImNvbGxlY3RfYXVkaW9fZGF0YV90aW1lID0ge30iLmZvcm1hdChjYWRfZW5kX3RpbWUtY2FkX3N0YXJ0X3RpbWUpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">QWRkIHRoZSBhYmlsaXR5IHRvIHR1cm4gb2ZmIHByb2Nlc3NpemUgaW4gcmVwbGF5X21haW4K</text>
+      <register name="1" type="4">
+        <text>def f():
+        if scenario.pre_replay_action:
+            scenario.pre_replay_action()
+        cad_start_time = time.time()
+        audio_data_playlist = collect_audio_data(scenario.recs)  # type: list[tuple[str,np.ndarray]]
+        cad_end_time = time.time()
+        uxevents, calibrations = replay_from_audiodata(
+            audio_data_playlist, scenario.test_statechart, configuration, test_context=scenario.test_context
+        )
+        replay_end_time = time.time()
+        print (&quot;collect_audio_data_time = {}&quot;.format(cad_end_time-cad_start_time))
+        print (&quot;replay time = {}&quot;.format(</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QWRkIHRoZSBhYmlsaXR5IHRvIHR1cm4gb2ZmIHByb2Nlc3NpemUgaW4gcmVwbGF5X21haW4K</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYIGVuZCByZXBsYXlfZnJvbV9hdWRpb19kYXRhICIgKyBzY2VuYXJpby5zZXNzaW9uX2FyY2hpdmVuYW1lKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QWRkIHRoZSBhYmlsaXR5IHRvIHR1cm4gb2ZmIHByb2Nlc3NpemUgaW4gcmVwbGF5X21haW4K</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYIGVuZCBjb2xsZWN0X2F1ZGlvX2RhdGEgIiArIHNjZW5hcmlvLnNlc3Npb25fYXJjaGl2ZW5hbWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYIHN0YXJ0IGNvbGxlY3RfYXVkaW9fZGF0YSAiICsgc2NlbmFyaW8uc2Vzc2lvbl9hcmNoaXZlbmFtZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW9hYkFyY2hpdmVzLkFVVEgudmFsdWVzKCkK</text>
       </register>
-      <register name="6" type="4">
-        <text>(_get_rec_title(rec),
-             np.vstack((rec.unsynced.loopback.arr,
-                        rec.unsynced.recording.arr)))</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMC4wMSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMC4wMSkK</text>
+        <text encoding="base64">QWRkIHRoZSBhYmlsaXR5IHRvIHR1cm4gb2ZmIHByb2Nlc3NpemUgaW4gcmVwbGF5X21haW4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAsCg==</text>
+        <text encoding="base64">QWRkIHRoZSBhYmlsaXR5IHRvIHR1cm4gb2ZmIHByb2Nlc3NpemUgaW4gcmVwbGF5X21haW4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -357,8 +366,8 @@
         <entry>x</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
