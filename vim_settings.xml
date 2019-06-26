@@ -67,11 +67,8 @@
         <mark key="^" line="115" column="7" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561542645128">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+      <file name="/Dummy.txt" timestamp="1561547784484">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1561536563758">
         <mark key="'" line="118" column="4" />
@@ -101,12 +98,6 @@
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
         <mark key="[" line="2" column="24" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/authentication.py" timestamp="1561479265648">
-        <mark key="[" line="333" column="48" />
-        <mark key="]" line="333" column="58" />
-        <mark key="." line="333" column="58" />
-        <mark key="^" line="333" column="58" />
       </file>
       <file name="/" timestamp="1559831585730">
         <mark key="[" line="0" column="0" />
@@ -283,33 +274,33 @@
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QWRkIHRoZSBhYmlsaXR5IHRvIHR1cm4gb2ZmIHByb2Nlc3NpemUgaW4gcmVwbGF5X21haW4K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">QWRkIHRoZSBhYmlsaXR5IHRvIHR1cm4gb2ZmIHByb2Nlc3NpemUgaW4gcmVwbGF5X21haW4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>(_get_rec_title(rec),
              np.vstack((rec.unsynced.loopback.arr,
                         rec.unsynced.recording.arr)))</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMC4wMSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMC4wMSkK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMC4wMSkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMC4wMSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QWRkIHRoZSBhYmlsaXR5IHRvIHR1cm4gb2ZmIHByb2Nlc3NpemUgaW4gcmVwbGF5X21haW4K</text>
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
