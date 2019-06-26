@@ -83,11 +83,12 @@
         <mark key="^" line="71" column="21" />
         <mark key="." line="71" column="21" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1561538824143">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1561541113702">
         <mark key="'" line="662" column="12" />
-        <mark key="[" line="282" column="0" />
-        <mark key="]" line="282" column="0" />
-        <mark key="." line="282" column="0" />
+        <mark key="[" line="615" column="21" />
+        <mark key="]" line="615" column="29" />
+        <mark key="." line="615" column="29" />
+        <mark key="^" line="615" column="29" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
         <mark key="[" line="2" column="24" />
@@ -254,50 +255,52 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMC4wMSkK</text>
+      <register name="&quot;" type="4">
+        <text>loopback</text>
       </register>
       <register name="-" type="4">
-        <text>, time</text>
+        <text>loopback</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMC4xKQo=</text>
+        <text encoding="base64">ICAgICAgICByZWMudW5zeW5jZWQubG9vcGJhY2suY2xlYW5fbWVtb3J5KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMC4wMSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMC4wMSkK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAsCg==</text>
+      <register name="3" type="4">
+        <text>(_get_rec_title(rec),
+             np.vstack((rec.unsynced.loopback.arr,
+                        rec.unsynced.recording.arr)))</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMC4wMSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QWRkIHRoZSBhYmlsaXR5IHRvIHR1cm4gb2ZmIHByb2Nlc3NpemUgaW4gcmVwbGF5X21haW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMC4wMSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiSm9pbmluZyBsb2FkIG5leHQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiSm9pbmVkIGxvYWQgbmV4dCIpCg==</text>
+        <text encoding="base64">QWRkIHRoZSBhYmlsaXR5IHRvIHR1cm4gb2ZmIHByb2Nlc3NpemUgaW4gcmVwbGF5X21haW4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJBdm9jYWRvNSIpCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -354,8 +357,8 @@
         <entry>x</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
