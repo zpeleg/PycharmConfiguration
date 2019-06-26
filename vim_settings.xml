@@ -89,12 +89,12 @@
         <mark key="^" line="71" column="21" />
         <mark key="." line="71" column="21" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1561549960157">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1561551997634">
         <mark key="'" line="625" column="37" />
-        <mark key="[" line="646" column="8" />
-        <mark key="]" line="647" column="19" />
-        <mark key="." line="647" column="19" />
-        <mark key="^" line="647" column="19" />
+        <mark key="[" line="638" column="73" />
+        <mark key="]" line="638" column="80" />
+        <mark key="." line="638" column="80" />
+        <mark key="^" line="638" column="80" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
         <mark key="[" line="2" column="24" />
@@ -256,16 +256,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>cad_end_time-cad_start_time</text>
+        <text>Doing</text>
       </register>
       <register name="-" type="4">
-        <text>cad_end_time-cad_start_time</text>
+        <text>Doing</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAoImNvbGxlY3RfYXVkaW9fZGF0YV90aW1lID0ge30iLmZvcm1hdChjYWRfZW5kX3RpbWUtY2FkX3N0YXJ0X3RpbWUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiRG9pbmcgY29sbGVjdF9hdWRpb19kYXRhIikK</text>
       </register>
       <register name="1" type="4">
         <text>def f():
