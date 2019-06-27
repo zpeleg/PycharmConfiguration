@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1561559152190">
+      <file name="/Python Console" timestamp="1561622446180">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/detectors/cdetectors.py" timestamp="1561395332417">
@@ -129,12 +129,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/read_timings_file.py" timestamp="1561564604192">
-        <mark key="'" line="231" column="4" />
-        <mark key="[" line="249" column="64" />
-        <mark key="]" line="253" column="9" />
-        <mark key="." line="253" column="9" />
-        <mark key="^" line="253" column="9" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/read_timings_file.py" timestamp="1561622525467">
+        <mark key="'" line="234" column="4" />
+        <mark key="[" line="252" column="0" />
+        <mark key="]" line="252" column="0" />
+        <mark key="." line="252" column="0" />
+        <mark key="^" line="266" column="88" />
       </file>
       <file name="/None" timestamp="1557245313825">
         <mark key="[" line="0" column="0" />
@@ -268,54 +268,50 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>session_loader</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKGdlbmVyYXRlX3ZhbHVlcykgPiAxOgogICAgICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>session_loader</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>BenchmarkTimingHelper</text>
+        <text>frame[frame[&quot;what&quot;] == &quot;Loading&quot;][&quot;diff&quot;].values</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QWRkIGFiaWxpdHkgdG8gcnVuIG1hbnl1c2VyYXV0aCBmcm9tIGxvY2FsIGRhdGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKGdlbmVyYXRlX3ZhbHVlcykgPiAxOgogICAgICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IiIiCiIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGdlbmVyYXRlX3ZhbHVlczoKICAgICAgICAgICAgICAgICAgICBnZW5lcmF0ZV90aW1lID0gZ2VuZXJhdGVfdmFsdWVzWzBdCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIGdlbmVyYXRlX3RpbWUgPSAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QWRkIHNjcmlwdCB0byByZWFkIHRpbWluZ3MgZmlsZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2VuZXJhdGVfdmFsdWVzID0gZnJhbWVbZnJhbWVbIndoYXQiXSA9PSAiR2VuZXJhdGUgc2NlbmFyaW8iXVsiZGlmZiJdLnZhbHVlcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiZGF0YSBkaXIgaXMgIHt9Ii5mb3JtYXQoZGF0YV9kaXIpKQo=</text>
+        <text encoding="base64">QWRkIGFiaWxpdHkgdG8gcnVuIG1hbnl1c2VyYXV0aCBmcm9tIGxvY2FsIGRhdGEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VGltZSB0aGUgcnVubmluZyBvZiBiZW5jaG1hcmtzIGFuZCBsb2FkaW5nIG9mIHJlY3MK</text>
+        <text encoding="base64">IiIiCiIiIgo=</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">SW4gWzYyXTogCiAgICAuLi46IAogICAgLi4uOiAKICAgIC4uLjogCiAgICAuLi46IAogICAgLi4uOiAKICAgIC4uLjog</text>
+      <register name="6" type="2">
+        <text encoding="base64">QWRkIHNjcmlwdCB0byByZWFkIHRpbWluZ3MgZmlsZXMK</text>
       </register>
-      <register name="7" type="4">
-        <text>for name, bla in [(h[0], h[1].reset_index().groupby(&quot;ppid&quot;)) for h in hello]:
-    running_values = bla[bla[&quot;what&quot;]==&quot;Running&quot;][&quot;diff&quot;].values
-    loading_values = bla[bla[&quot;what&quot;]==&quot;Loading&quot;][&quot;diff&quot;].values
-    if running_values and loading_values:
-        print(running_values[0] - loading_values[0], key, name)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiZGF0YSBkaXIgaXMgIHt9Ii5mb3JtYXQoZGF0YV9kaXIpKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VGltZSB0aGUgcnVubmluZyBvZiBiZW5jaG1hcmtzIGFuZCBsb2FkaW5nIG9mIHJlY3MK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="8">
+        <text encoding="base64">SW4gWzYyXTogCiAgICAuLi46IAogICAgLi4uOiAKICAgIC4uLjogCiAgICAuLi46IAogICAgLi4uOiAKICAgIC4uLjog</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
