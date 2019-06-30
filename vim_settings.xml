@@ -51,11 +51,11 @@
         <mark key="^" line="106" column="76" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1561908160949">
-        <mark key="[" line="198" column="63" />
-        <mark key="]" line="198" column="62" />
-        <mark key="." line="198" column="62" />
-        <mark key="^" line="198" column="62" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1561910461273">
+        <mark key="[" line="216" column="8" />
+        <mark key="]" line="216" column="8" />
+        <mark key="." line="216" column="8" />
+        <mark key="^" line="224" column="9" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/find_teacher.py" timestamp="1561559375996">
         <mark key="[" line="141" column="0" />
@@ -266,11 +266,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>pass</text>
       </register>
       <register name="-" type="4">
-        <text>key, value</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
@@ -279,7 +279,7 @@
         <text>buga_config.jointo.tmp_dir_path(&quot;exm_logs&quot; + archive_name + &quot;.log&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdW5zeW5jZWQgPSByZWMudW5zeW5jZWRbeF0K</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
@@ -288,15 +288,18 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIHNjZW5hcmlvLnNraXAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">X19hbGxfXyA9IFsnY29tcHV0ZV9yZXBsYXlfYW5kX3N1bW1hcnknLCAncmVwbGF5X21haW4nXQo=</text>
+        <text encoding="base64">ICAgIGlmIHNjZW5hcmlvLnNraXAK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">X19hbGxfXyA9IFsnY29tcHV0ZV9yZXBsYXlfYW5kX3N1bW1hcnknLCAncmVwbGF5X21haW4nXQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">QWRkIGFiaWxpdHkgdG8gcnVuIG1hbnl1c2VyYXV0aCBmcm9tIGxvY2FsIGRhdGEK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>TS001_20190519_144247_AuthenticationMOABScript_BugaEinat: 211
 TS001_20190530_154056_AuthenticationMOABScript_BugaEinat: 282
 TS001_20190522_163222_AuthenticationMOABScript_BugaEinat: 81
@@ -513,17 +516,14 @@ TS001_20190611_150414_AuthenticationMOABScript_BugaLab11: 105
 TS001_20190523_102231_AuthenticationMOABScript_BugaEinat: 89
 TS001_20190606_120000_AuthenticationMOABScript_BugaEinat: 211</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKGdlbmVyYXRlX3ZhbHVlcykgPiAxOgogICAgICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uCg==</text>
-      </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGdlbmVyYXRlX3ZhbHVlczoKICAgICAgICAgICAgICAgICAgICBnZW5lcmF0ZV90aW1lID0gZ2VuZXJhdGVfdmFsdWVzWzBdCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIGdlbmVyYXRlX3RpbWUgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKGdlbmVyYXRlX3ZhbHVlcykgPiAxOgogICAgICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2VuZXJhdGVfdmFsdWVzID0gZnJhbWVbZnJhbWVbIndoYXQiXSA9PSAiR2VuZXJhdGUgc2NlbmFyaW8iXVsiZGlmZiJdLnZhbHVlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGdlbmVyYXRlX3ZhbHVlczoKICAgICAgICAgICAgICAgICAgICBnZW5lcmF0ZV90aW1lID0gZ2VuZXJhdGVfdmFsdWVzWzBdCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIGdlbmVyYXRlX3RpbWUgPSAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -580,8 +580,8 @@ TS001_20190606_120000_AuthenticationMOABScript_BugaEinat: 211</text>
         <entry>x</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
