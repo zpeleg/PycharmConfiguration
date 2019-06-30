@@ -28,7 +28,7 @@
         <mark key="." line="12" column="17" />
         <mark key="^" line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/scripts/do_auth_many_users.py" timestamp="1561883239616">
+      <file name="$USER_HOME$/mobileproduct/scripts/do_auth_many_users.py" timestamp="1561907400667">
         <mark key="'" line="119" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/general_benchmark.py" timestamp="1561554485228">
@@ -51,11 +51,11 @@
         <mark key="^" line="106" column="76" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1561626050394">
-        <mark key="[" line="152" column="53" />
-        <mark key="]" line="152" column="53" />
-        <mark key="^" line="152" column="82" />
-        <mark key="." line="152" column="53" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1561908160949">
+        <mark key="[" line="198" column="63" />
+        <mark key="]" line="198" column="62" />
+        <mark key="." line="198" column="62" />
+        <mark key="^" line="198" column="62" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/find_teacher.py" timestamp="1561559375996">
         <mark key="[" line="141" column="0" />
@@ -90,11 +90,10 @@
         <mark key="^" line="14" column="52" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1561905260416">
-        <mark key="[" line="582" column="41" />
-        <mark key="]" line="582" column="42" />
-        <mark key="." line="582" column="42" />
-        <mark key="^" line="571" column="73" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1561907481480">
+        <mark key="[" line="603" column="0" />
+        <mark key="]" line="603" column="0" />
+        <mark key="." line="603" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
         <mark key="[" line="2" column="24" />
@@ -268,10 +267,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">X19hbGxfXyA9IFsnY29tcHV0ZV9yZXBsYXlfYW5kX3N1bW1hcnknLCAncmVwbGF5X21haW4nXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>date</text>
+        <text>key, value</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
@@ -280,15 +279,24 @@
         <text>buga_config.jointo.tmp_dir_path(&quot;exm_logs&quot; + archive_name + &quot;.log&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">X19hbGxfXyA9IFsnY29tcHV0ZV9yZXBsYXlfYW5kX3N1bW1hcnknLCAncmVwbGF5X21haW4nXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmIHNjZW5hcmlvLnNraXAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">X19hbGxfXyA9IFsnY29tcHV0ZV9yZXBsYXlfYW5kX3N1bW1hcnknLCAncmVwbGF5X21haW4nXQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">QWRkIGFiaWxpdHkgdG8gcnVuIG1hbnl1c2VyYXV0aCBmcm9tIGxvY2FsIGRhdGEK</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>TS001_20190519_144247_AuthenticationMOABScript_BugaEinat: 211
 TS001_20190530_154056_AuthenticationMOABScript_BugaEinat: 282
 TS001_20190522_163222_AuthenticationMOABScript_BugaEinat: 81
@@ -505,26 +513,17 @@ TS001_20190611_150414_AuthenticationMOABScript_BugaLab11: 105
 TS001_20190523_102231_AuthenticationMOABScript_BugaEinat: 89
 TS001_20190606_120000_AuthenticationMOABScript_BugaEinat: 211</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKGdlbmVyYXRlX3ZhbHVlcykgPiAxOgogICAgICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGdlbmVyYXRlX3ZhbHVlczoKICAgICAgICAgICAgICAgICAgICBnZW5lcmF0ZV90aW1lID0gZ2VuZXJhdGVfdmFsdWVzWzBdCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIGdlbmVyYXRlX3RpbWUgPSAwCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2VuZXJhdGVfdmFsdWVzID0gZnJhbWVbZnJhbWVbIndoYXQiXSA9PSAiR2VuZXJhdGUgc2NlbmFyaW8iXVsiZGlmZiJdLnZhbHVlcwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">QWRkIGFiaWxpdHkgdG8gcnVuIG1hbnl1c2VyYXV0aCBmcm9tIGxvY2FsIGRhdGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKGdlbmVyYXRlX3ZhbHVlcykgPiAxOgogICAgICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IiIiCiIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGdlbmVyYXRlX3ZhbHVlczoKICAgICAgICAgICAgICAgICAgICBnZW5lcmF0ZV90aW1lID0gZ2VuZXJhdGVfdmFsdWVzWzBdCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIGdlbmVyYXRlX3RpbWUgPSAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QWRkIHNjcmlwdCB0byByZWFkIHRpbWluZ3MgZmlsZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2VuZXJhdGVfdmFsdWVzID0gZnJhbWVbZnJhbWVbIndoYXQiXSA9PSAiR2VuZXJhdGUgc2NlbmFyaW8iXVsiZGlmZiJdLnZhbHVlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
