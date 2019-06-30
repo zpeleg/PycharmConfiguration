@@ -37,6 +37,11 @@
         <mark key="^" line="81" column="69" />
         <mark key="." line="81" column="69" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/scripts/do_auth_demo.py" timestamp="1561904920173">
+        <mark key="[" line="72" column="23" />
+        <mark key="]" line="72" column="23" />
+        <mark key="." line="72" column="23" />
+      </file>
       <file name="/False" timestamp="1555316610968">
         <mark key="[" line="0" column="0" />
       </file>
@@ -85,6 +90,12 @@
         <mark key="^" line="14" column="52" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1561905260416">
+        <mark key="[" line="582" column="41" />
+        <mark key="]" line="582" column="42" />
+        <mark key="." line="582" column="42" />
+        <mark key="^" line="571" column="73" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
         <mark key="[" line="2" column="24" />
       </file>
@@ -106,11 +117,12 @@
         <mark key="^" line="7" column="64" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/replay_ui.py" timestamp="1561625571196">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="11" />
-        <mark key="." line="2" column="11" />
-        <mark key="^" line="2" column="11" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/replay_ui.py" timestamp="1561905140776">
+        <mark key="'" line="205" column="8" />
+        <mark key="[" line="2" column="55" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="/default_daemon_start_detect_music_detection_config" timestamp="1557245313814">
         <mark key="[" line="0" column="0" />
@@ -144,8 +156,6 @@
       <file name="/read_timings_file.py" timestamp="1561625141584" />
     </filemarks>
     <jumps>
-      <jump line="1" column="14" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/moab/raw_row_summary_test.py" />
-      <jump line="14" column="17" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/moab/raw_row_summary_test.py" />
       <jump line="41" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
       <jump line="46" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
       <jump line="36" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
@@ -244,6 +254,8 @@
       <jump line="107" column="0" filename="$USER_HOME$/mobileproduct/scripts/do_auth_many_users.py" />
       <jump line="110" column="0" filename="$USER_HOME$/mobileproduct/scripts/do_auth_many_users.py" />
       <jump line="119" column="0" filename="$USER_HOME$/mobileproduct/scripts/do_auth_many_users.py" />
+      <jump line="150" column="108" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/replay_ui.py" />
+      <jump line="207" column="8" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/replay_ui.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -255,25 +267,28 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">X19hbGxfXyA9IFsnY29tcHV0ZV9yZXBsYXlfYW5kX3N1bW1hcnknLCAncmVwbGF5X21haW4nXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>date</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>frame[frame[&quot;what&quot;] == &quot;Loading&quot;][&quot;diff&quot;].values</text>
+        <text>buga_config.jointo.tmp_dir_path(&quot;exm_logs&quot; + archive_name + &quot;.log&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QWRkIGFiaWxpdHkgdG8gcnVuIG1hbnl1c2VyYXV0aCBmcm9tIGxvY2FsIGRhdGEK</text>
+        <text encoding="base64">X19hbGxfXyA9IFsnY29tcHV0ZV9yZXBsYXlfYW5kX3N1bW1hcnknLCAncmVwbGF5X21haW4nXQo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">QWRkIGFiaWxpdHkgdG8gcnVuIG1hbnl1c2VyYXV0aCBmcm9tIGxvY2FsIGRhdGEK</text>
+      </register>
+      <register name="3" type="4">
         <text>TS001_20190519_144247_AuthenticationMOABScript_BugaEinat: 211
 TS001_20190530_154056_AuthenticationMOABScript_BugaEinat: 282
 TS001_20190522_163222_AuthenticationMOABScript_BugaEinat: 81
@@ -490,29 +505,26 @@ TS001_20190611_150414_AuthenticationMOABScript_BugaLab11: 105
 TS001_20190523_102231_AuthenticationMOABScript_BugaEinat: 89
 TS001_20190606_120000_AuthenticationMOABScript_BugaEinat: 211</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKGdlbmVyYXRlX3ZhbHVlcykgPiAxOgogICAgICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGdlbmVyYXRlX3ZhbHVlczoKICAgICAgICAgICAgICAgICAgICBnZW5lcmF0ZV90aW1lID0gZ2VuZXJhdGVfdmFsdWVzWzBdCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIGdlbmVyYXRlX3RpbWUgPSAwCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZ2VuZXJhdGVfdmFsdWVzID0gZnJhbWVbZnJhbWVbIndoYXQiXSA9PSAiR2VuZXJhdGUgc2NlbmFyaW8iXVsiZGlmZiJdLnZhbHVlcwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">QWRkIGFiaWxpdHkgdG8gcnVuIG1hbnl1c2VyYXV0aCBmcm9tIGxvY2FsIGRhdGEK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">IiIiCiIiIgo=</text>
+        <text encoding="base64">QWRkIGFiaWxpdHkgdG8gcnVuIG1hbnl1c2VyYXV0aCBmcm9tIGxvY2FsIGRhdGEK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QWRkIHNjcmlwdCB0byByZWFkIHRpbWluZ3MgZmlsZXMK</text>
+        <text encoding="base64">IiIiCiIiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiZGF0YSBkaXIgaXMgIHt9Ii5mb3JtYXQoZGF0YV9kaXIpKQo=</text>
+        <text encoding="base64">QWRkIHNjcmlwdCB0byByZWFkIHRpbWluZ3MgZmlsZXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -569,8 +581,8 @@ TS001_20190606_120000_AuthenticationMOABScript_BugaEinat: 211</text>
         <entry>x</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
