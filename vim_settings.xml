@@ -61,6 +61,12 @@
         <mark key="." line="29" column="12" />
         <mark key="^" line="3" column="10" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" timestamp="1561982415143">
+        <mark key="[" line="26" column="26" />
+        <mark key="]" line="26" column="24" />
+        <mark key="." line="26" column="24" />
+        <mark key="^" line="26" column="24" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1561976429243">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="225" column="98" />
@@ -74,11 +80,8 @@
         <mark key="^" line="143" column="45" />
         <mark key="." line="141" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561981181241">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="2" />
+      <file name="/Dummy.txt" timestamp="1561983332691">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1561554047788">
         <mark key="[" line="104" column="44" />
@@ -125,6 +128,12 @@
         <mark key="]" line="69" column="50" />
         <mark key="^" line="69" column="50" />
         <mark key="." line="69" column="50" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1561983324580">
+        <mark key="[" line="390" column="27" />
+        <mark key="]" line="390" column="69" />
+        <mark key="^" line="390" column="69" />
+        <mark key="." line="390" column="69" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/run_one.py" timestamp="1561382325880">
         <mark key="[" line="2" column="0" />
@@ -288,49 +297,49 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Add logs to</text>
+        <text>Archive failed</text>
       </register>
       <register name="-" type="4">
-        <text>Add logs to</text>
+        <text>Archive failed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvbmVfYXJjID0gbmV4dChzb25nX21hdGNoaW5nX2FyY3MpCg==</text>
+      <register name="0" type="4">
+        <text>summary, uxevents, archive.archivename, archive.dirpath</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TWFrZSBsb2cK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2FybmluZ3Mud2FybigiQXJjaGl2ZSBmYWlsZWQ6ICIgKyBhcmNoaXZlLmFyY2hpdmVuYW1lKQo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VXBkYXRlIHJlYWQgdGltaW5nIHNjcmlwdCB0byBzaG93IGdlbmVyYXRlIHNjZW5hcmlvIHRpbWUgYW5kIHVwZGF0ZSByZWMgbnVtYmVycyBmb3IgbmV3IHNlc3Npb25zCg==</text>
+        <text encoding="base64">d2lwd2lwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VXBkYXRlIHJlYWQgdGltaW5nIHNjcmlwdCB0byBzaG93IGdlbmVyYXRlIHNjZW5hcmlvIHRpbWUgYW5kIHVwZGF0ZSByZWMgbnVtYmVycyBmb3IgbmV3IHNlc3Npb25zCg==</text>
+        <text encoding="base64">TWFrZSBsb2dzIGZyb20gcmVwbGF5X21haW4gdXNhYmxlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBweW1vYmlsZXByb2R1Y3QubW9hYi5hdXRoX2RlbW8uZG9fYXV0aF9kZW1vIGltcG9ydCBnZW5lcmF0ZV9hdXRoZW50aWNhdGlvbl9kZW1vX3NjZW5hcmlvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0KHNvbmdfbWF0Y2hpbmdfYXJjcykKICAgICAgICBuZXh0KHNvbmdfbWF0Y2hpbmdfYXJjcykKICAgICAgICBuZXh0KHNvbmdfbWF0Y2hpbmdfYXJjcykKICAgICAgICBuZXh0KHNvbmdfbWF0Y2hpbmdfYXJjcykKICAgICAgICBuZXh0KHNvbmdfbWF0Y2hpbmdfYXJjcykKICAgICAgICBuZXh0KHNvbmdfbWF0Y2hpbmdfYXJjcykK</text>
+        <text encoding="base64">IyBFbnJvbGwgSU4gIzEgKEdldCBSZWFkeQlFbnJvbGwgSW4gRWFyICMxCUVucm9sbCBPdXQgb2YgRWFyICMxCUVucm9sbCBJbiBFYXIgIzIJCUVucm9sbCBUYWtlIE9mZiAjMglFbnJvbGwgSW4gRWFyICMzCQlFbnJvbGwgVGFrZSBPZmYgIzMJRW5yb2xsIEluIEVhciAjNAkJRW5yb2xsIFRha2UgT2ZmICM0CUVucm9sbCBJbiBFYXIgIzUJCWF1dGhlbnRpY2F0ZSAjMQkJRGUtQXV0aCAjMQlhdXRoZW50aWNhdGUgIzIJCURlLUF1dGggIzIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAK</text>
+        <text encoding="base64">ICAgIHV4ZXZlbnQ9Tm9uZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0KHNvbmdfbWF0Y2hpbmdfYXJjcykKICAgICAgICBuZXh0KHNvbmdfbWF0Y2hpbmdfYXJjcykKICAgICAgICBuZXh0KHNvbmdfbWF0Y2hpbmdfYXJjcykKICAgICAgICBuZXh0KHNvbmdfbWF0Y2hpbmdfYXJjcykKICAgICAgICBuZXh0KHNvbmdfbWF0Y2hpbmdfYXJjcykKICAgICAgICBuZXh0KHNvbmdfbWF0Y2hpbmdfYXJjcykK</text>
+        <text encoding="base64">CgoKCgoK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">b25lX2FyYyA9IApvbmVfYXJjID0gCm9uZV9hcmMgPSAKb25lX2FyYyA9IApvbmVfYXJjID0gCm9uZV9hcmMgPSA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGEgPSBhcmNzWzBdCg==</text>
+        <text encoding="base64">ICAgIHBoYXNlID0gIkVOUk9MTElORyIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
