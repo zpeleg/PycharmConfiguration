@@ -51,11 +51,8 @@
         <mark key="^" line="106" column="76" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1561967851928">
-        <mark key="[" line="217" column="0" />
-        <mark key="]" line="217" column="0" />
-        <mark key="^" line="216" column="90" />
-        <mark key="." line="217" column="0" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1561972802606">
+        <mark key="[" line="224" column="31" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/find_teacher.py" timestamp="1561559375996">
         <mark key="[" line="141" column="0" />
@@ -90,10 +87,10 @@
         <mark key="^" line="14" column="52" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1561910911706">
-        <mark key="[" line="604" column="76" />
-        <mark key="]" line="605" column="36" />
-        <mark key="." line="605" column="36" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1561971928369">
+        <mark key="[" line="605" column="0" />
+        <mark key="]" line="605" column="0" />
+        <mark key="." line="605" column="0" />
         <mark key="^" line="605" column="36" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
@@ -266,50 +263,54 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>TS001_20190624_190016_AuthenticationMOABScript_BugaLab11</text>
       </register>
       <register name="-" type="4">
-        <text># Bad archive</text>
+        <text>TS001_20190624_190016_AuthenticationMOABScript_BugaLab11</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhcmMgPSBNb2FiQXJjaGl2ZXMuQVVUSC5UUzAwMV8yMDE5MDYyNF8xNzIwNDdfQXV0aGVudGljYXRpb25NT0FCU2NyaXB0X0J1Z2FMYWIxMQo=</text>
+      <register name="0" type="4">
+        <text>TS001_20190627_104221_AuthenticationDemoMOABScript_BugaLab11</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkkgZG9uJ3QgdW5kZXJzdGFuZCIpCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHB5bW9iaWxlcHJvZHVjdC5tb2FiLmNvcmUuZG9fcmVwbGF5IGltcG9ydCByZXBsYXlfZnJvbV9tb2FiX3NjZW5hcmlvCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGFyYyA9IE1vYWJBcmNoaXZlcy5BVVRILlRTMDAxXzIwMTkwNjI0XzE3MjA0N19BdXRoZW50aWNhdGlvbk1PQUJTY3JpcHRfQnVnYUxhYjExICMgQmFkIGFyY2hpdmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXBsYXlfZnJvbV9tb2FiX3NjZW5hcmlvLi4ucHltb2JpbGVwcm9kdWN0Lm1vYWIuY29yZS5kb19yZXBsYXkK</text>
+        <text encoding="base64">ICAgICAgICBUUzAwMV8yMDE5MDYyNF8xNzIwNDdfQXV0aGVudGljYXRpb25NT0FCU2NyaXB0X0J1Z2FMYWIxMQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAlIGZpbmRzeW1ib2wK</text>
+      <register name="4" type="8">
+        <text>',
+',
+',
+',
+'</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdW5zeW5jZWQgPSByZWMudW5zeW5jZWRbeF0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIHB5bW9iaWxlcHJvZHVjdC5tb2FiLmNvcmUuZG9fcmVwbGF5IGltcG9ydCByZXBsYXlfZnJvbV9tb2FiX3NjZW5hcmlvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXBsYXlfZnJvbV9tb2FiX3NjZW5hcmlvLi4ucHltb2JpbGVwcm9kdWN0Lm1vYWIuY29yZS5kb19yZXBsYXkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIHNjZW5hcmlvLnNraXAK</text>
+        <text encoding="base64">ICAgICAgICAlIGZpbmRzeW1ib2wK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">X19hbGxfXyA9IFsnY29tcHV0ZV9yZXBsYXlfYW5kX3N1bW1hcnknLCAncmVwbGF5X21haW4nXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdW5zeW5jZWQgPSByZWMudW5zeW5jZWRbeF0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
