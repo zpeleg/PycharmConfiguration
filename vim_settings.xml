@@ -39,6 +39,7 @@
         <mark key="." line="39" column="30" />
         <mark key="^" line="39" column="30" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/do_auth_demo.py" timestamp="1562098149090" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/test_archives_volume.py" timestamp="1561974137732">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="29" column="0" />
@@ -52,7 +53,7 @@
         <mark key="." line="26" column="24" />
         <mark key="^" line="26" column="24" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1562089374487">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1562097514328">
         <mark key="'" line="107" column="0" />
         <mark key="[" line="108" column="32" />
         <mark key="]" line="109" column="42" />
@@ -67,7 +68,7 @@
         <mark key="]" line="64" column="85" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1562073957048">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1562097910781">
         <mark key="'" line="101" column="25" />
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="0" />
@@ -96,10 +97,11 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/authentication.py" timestamp="1562073438306">
         <mark key="'" line="287" column="22" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" timestamp="1562097857560" />
       <file name="/" timestamp="1559831585730">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/benchmark_core.py" timestamp="1562095960283">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/benchmark_core.py" timestamp="1562097919708">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="12" />
         <mark key="." line="24" column="12" />
