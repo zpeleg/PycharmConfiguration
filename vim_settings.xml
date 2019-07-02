@@ -136,12 +136,12 @@
         <mark key="^" line="69" column="50" />
         <mark key="." line="69" column="50" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1562075102724">
-        <mark key="'" line="536" column="4" />
-        <mark key="[" line="387" column="49" />
-        <mark key="]" line="388" column="25" />
-        <mark key="^" line="388" column="25" />
-        <mark key="." line="388" column="25" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1562078840228">
+        <mark key="'" line="386" column="25" />
+        <mark key="[" line="388" column="116" />
+        <mark key="]" line="389" column="24" />
+        <mark key="^" line="389" column="24" />
+        <mark key="." line="389" column="24" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/run_one.py" timestamp="1561382325880">
         <mark key="[" line="2" column="0" />
@@ -193,8 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="19" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/do_authentication.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/do_authentication.py" />
       <jump line="23" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/do_authentication.py" />
       <jump line="30" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/do_authentication.py" />
       <jump line="1" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
@@ -293,6 +291,8 @@
       <jump line="287" column="22" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/authentication.py" />
       <jump line="22" column="28" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/authentication_benchmark.py" />
       <jump line="49" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/authentication_benchmark.py" />
+      <jump line="385" column="57" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
+      <jump line="386" column="25" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -304,52 +304,50 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Rml4IHByb2JsZW0gdGhhdCBoYXBwZW5lZCBpZiBhbiBhcmNoaXZlIHRocmV3IGFuIGV4Y2VwdGlvbiBpbiB0aGUgc3VtbWFyeSBhbmQgdHVybiBvbiBsb2dnaW5nIGFnYWluCg==</text>
+      <register name="&quot;" type="4">
+        <text>None</text>
       </register>
       <register name="-" type="4">
-        <text>IOError</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG91dHB1dF9hcmNoLmFyY2hpdmVuYW1lIGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgICAgIG91dHB1dF9hcmNoLnNhdmUob3ZlcndyaXRlPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiRmFpbGVkIGluIGZpbmFsIHNhdmUgb2YgYXJjaGl2ZS4gR2l2aW5nIHVwLiBUSEUgT1VUUFVUIEFSQ0hJVkUgSVMgSU5DT1JSRUNUIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Rml4IHByb2JsZW0gdGhhdCBoYXBwZW5lZCBpZiBhbiBhcmNoaXZlIHRocmV3IGFuIGV4Y2VwdGlvbiBpbiB0aGUgc3VtbWFyeSBhbmQgdHVybiBvbiBsb2dnaW5nIGFnYWluCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiRmFpbGVkIGluIGZpbmFsIHNhdmUgb2YgYXJjaGl2ZS4gR2l2aW5nIHVwLiBUSEUgT1VUUFVUIEFSQ0hJVkUgSVMgSU5DT1JSRUNUIiwgZmlsZT1zeXMuc3RkZXJyKQo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHJhaXNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tZGF0ZS1zdHIiLCBkZWZhdWx0PU5vbmUsCiAgICAgICAgICAgICAgICAgICAgICAgIGhlbHA9IkRhdGUgc3RyaW5nIHRvIHVzZSBpbiBmaWxlIG5hbWUuIElmIG5vdCBnaXZlbiB1c2VzIGN1cnJlbnQgdGltZS4iKQo=</text>
+        <text encoding="base64">Rml4IHByb2JsZW0gdGhhdCBoYXBwZW5lZCBpZiBhbiBhcmNoaXZlIHRocmV3IGFuIGV4Y2VwdGlvbiBpbiB0aGUgc3VtbWFyeSBhbmQgdHVybiBvbiBsb2dnaW5nIGFnYWluCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwbGF0Zm9ybTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="8">
-        <text>output_
-output_
-output_</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tZGF0ZS1zdHIiLCBkZWZhdWx0PU5vbmUsCiAgICAgICAgICAgICAgICAgICAgICAgIGhlbHA9IkRhdGUgc3RyaW5nIHRvIHVzZSBpbiBmaWxlIG5hbWUuIElmIG5vdCBnaXZlbiB1c2VzIGN1cnJlbnQgdGltZS4iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
