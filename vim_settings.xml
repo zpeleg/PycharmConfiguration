@@ -20,11 +20,11 @@
         <mark key="." line="74" column="94" />
         <mark key="^" line="74" column="94" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1562251355681">
-        <mark key="[" line="45" column="49" />
-        <mark key="]" line="45" column="77" />
-        <mark key="." line="45" column="77" />
-        <mark key="^" line="45" column="77" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1562253007046">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="62" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="46" column="77" />
       </file>
       <file name="$USER_HOME$/Bugatone-Space/python/infra/data/carchive.py" timestamp="1562069079787">
         <mark key="'" line="0" column="0" />
@@ -58,7 +58,7 @@
         <mark key="." line="194" column="107" />
         <mark key="^" line="194" column="107" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562251546682">
+      <file name="/Dummy.txt" timestamp="1562253335140">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmarks.py" timestamp="1562083409498">
@@ -135,6 +135,10 @@
       </file>
       <file name="/None" timestamp="1557245313825">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_users_sanity.yaml" timestamp="1562253005673">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="62" />
       </file>
     </filemarks>
     <jumps>
@@ -249,8 +253,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>; rec_index += 1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZyb20gcHltb2JpbGVwcm9kdWN0Lm1vYWIuY29yZS5kb19yZXBsYXkgaW1wb3J0IFRlc3RGYWlsZWQK</text>
       </register>
       <register name="-" type="4">
         <text>; rec_index += 1</text>
@@ -259,7 +263,7 @@
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50OiBub3RpZnlFbnJvbGxtZW50UHJvZ3Jlc3MKICAgICAgICAgICAgICAgIGd1YXJkOiBldmVudC5tZXNzYWdlLmdldCgicHJvZ3Jlc3MiLCAwKSA9PSAxMDAgIyBwb3NzaWJseSBub3QgLm1lc3NhZ2UK</text>
+        <text encoding="base64">ICAgIGZyb20gcHltb2JpbGVwcm9kdWN0Lm1vYWIuY29yZS5kb19yZXBsYXkgaW1wb3J0IFRlc3RGYWlsZWQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50Ogo=</text>
@@ -349,8 +353,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>Lw</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
