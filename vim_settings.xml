@@ -15,7 +15,7 @@
       <file name="$USER_HOME$/mobileproduct/scripts/do_auth_many_users.py" timestamp="1561907400667">
         <mark key="'" line="119" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/general_benchmark.py" timestamp="1562158817186">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/general_benchmark.py" timestamp="1562242476063">
         <mark key="]" line="74" column="94" />
         <mark key="." line="74" column="94" />
         <mark key="^" line="74" column="94" />
@@ -104,11 +104,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/bla.py" timestamp="1562239135244">
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="12" column="29" />
-        <mark key="^" line="12" column="29" />
-        <mark key="." line="12" column="29" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/bla.py" timestamp="1562242656988">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="58" column="75" />
+        <mark key="]" line="60" column="85" />
+        <mark key="^" line="60" column="85" />
+        <mark key="." line="60" column="85" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/replay_ui.py" timestamp="1562156019044">
         <mark key="'" line="208" column="8" />
@@ -130,11 +131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
-      <jump line="193" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
-      <jump line="199" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
-      <jump line="201" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
-      <jump line="114" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
       <jump line="106" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
       <jump line="99" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
       <jump line="83" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
@@ -230,6 +226,11 @@
       <jump line="408" column="59" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
       <jump line="137" column="37" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
+      <jump line="41" column="12" filename="$USER_HOME$/mobileproduct/pymobileproduct/bla.py" />
+      <jump line="47" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/bla.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/bla.py" />
+      <jump line="51" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/bla.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/bla.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -241,8 +242,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>AuthManyUsers</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YXJjID0gQmVuY2htYXJrTG9hZGVyLkF1dGhEZW1vLmZyb21fcGF0aCgKICAgICIvbW50L2J1Z2Ffc3RvcmFnZS9tb2JpbGVfcHJvZHVjdC9hdXRoL2JlbmNobWFya19yZXN1bHRzLzMyL2RlbW9hdXRoLyIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>AuthManyUsers</text>
@@ -251,7 +252,7 @@
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbl9sb2FkZXIgPSBNb2FiU2Vzc2lvbkxvYWRlcihkYXRhX2RpcikgaWYgZGF0YV9kaXIgaXMgbm90IE5vbmUgZWxzZSBNb2FiQXJjaGl2ZXMKICAgICAgICAgICAgc2Vzc2lvbl9sb2FkZXIgPSBkaWN0KHNlc3Npb25fbG9hZGVyLkFVVEguaXRlbXMoKSkK</text>
+        <text encoding="base64">YXJjID0gQmVuY2htYXJrTG9hZGVyLkF1dGhEZW1vLmZyb21fcGF0aCgKICAgICIvbW50L2J1Z2Ffc3RvcmFnZS9tb2JpbGVfcHJvZHVjdC9hdXRoL2JlbmNobWFya19yZXN1bHRzLzMyL2RlbW9hdXRoLyIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJyZWFrCg==</text>
@@ -260,31 +261,31 @@
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGl0Lgo=</text>
+        <text encoding="base64">ICAgIGJyZWFrCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGl0Lgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text encoding="base64">ICAgIC4uLjoKICAgIC4uLjoKICAgIC4uLjoKICAgIC4uLjoKICAgIC4uLjo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">d2lwd2lwCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCJGYWlsZWQgdG8gZ2VuZXJhdGUgc3VtbWFyeSBmb3IgYXJjaGl2ZSAne30nIi5mb3JtYXQoc2Vzcy5zZXNzaW9uKSkK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">QWRkIG11bHRpcHJvY2Vzc2luZy5Qb29sIHRvIHJlcGxheV9vbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCJGYWlsZWQgdG8gZ2VuZXJhdGUgc3VtbWFyeSBmb3IgYXJjaGl2ZSAne30nIi5mb3JtYXQoc2Vzcy5zZXNzaW9uKSkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHUiZW5yb2xsX2Fib3J0ZWQiCg==</text>
+        <text encoding="base64">QWRkIG11bHRpcHJvY2Vzc2luZy5Qb29sIHRvIHJlcGxheV9vbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByb3dbInUnd2FzX2Vucm9sbF9hYm9ydGVkIl0gPSAK</text>
+        <text encoding="base64">ICAgIHUiZW5yb2xsX2Fib3J0ZWQiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -341,8 +342,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>Lw</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
