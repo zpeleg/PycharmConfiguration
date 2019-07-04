@@ -20,10 +20,11 @@
         <mark key="." line="74" column="94" />
         <mark key="^" line="74" column="94" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1562245477299">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1562249146136">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="7" column="16" />
       </file>
       <file name="$USER_HOME$/Bugatone-Space/python/infra/data/carchive.py" timestamp="1562069079787">
         <mark key="'" line="0" column="0" />
@@ -249,10 +250,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>int(recs_auth_session[0][1].tags[7]['reaction_data_ts'] * 48000),</text>
+        <text>[enroll_index</text>
       </register>
       <register name="-" type="4">
-        <text>int(recs_auth_session[0][1].tags[7]['reaction_data_ts'] * 48000),</text>
+        <text>[enroll_index</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
