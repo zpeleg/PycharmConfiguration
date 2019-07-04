@@ -110,11 +110,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/bla.py" timestamp="1562231498199">
-        <mark key="[" line="21" column="23" />
-        <mark key="]" line="22" column="8" />
-        <mark key="^" line="22" column="8" />
-        <mark key="." line="22" column="8" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/bla.py" timestamp="1562233467509">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="24" column="12" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/replay_ui.py" timestamp="1562156019044">
         <mark key="'" line="208" column="8" />
@@ -247,11 +247,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>MoabArchives.AUTH</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJyZWFrCg==</text>
       </register>
       <register name="-" type="4">
-        <text>MoabArchives.AUTH</text>
+        <text>print</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
@@ -260,37 +260,37 @@
         <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbl9sb2FkZXIgPSBNb2FiU2Vzc2lvbkxvYWRlcihkYXRhX2RpcikgaWYgZGF0YV9kaXIgaXMgbm90IE5vbmUgZWxzZSBNb2FiQXJjaGl2ZXMKICAgICAgICAgICAgc2Vzc2lvbl9sb2FkZXIgPSBkaWN0KHNlc3Npb25fbG9hZGVyLkFVVEguaXRlbXMoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJyZWFrCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAgIC4uLjoKICAgIC4uLjoKICAgIC4uLjoKICAgIC4uLjoKICAgIC4uLjo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGl0Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2lwd2lwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCJGYWlsZWQgdG8gZ2VuZXJhdGUgc3VtbWFyeSBmb3IgYXJjaGl2ZSAne30nIi5mb3JtYXQoc2Vzcy5zZXNzaW9uKSkK</text>
+      <register name="4" type="8">
+        <text encoding="base64">ICAgIC4uLjoKICAgIC4uLjoKICAgIC4uLjoKICAgIC4uLjoKICAgIC4uLjo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QWRkIG11bHRpcHJvY2Vzc2luZy5Qb29sIHRvIHJlcGxheV9vbgo=</text>
+        <text encoding="base64">d2lwd2lwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHUiZW5yb2xsX2Fib3J0ZWQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCJGYWlsZWQgdG8gZ2VuZXJhdGUgc3VtbWFyeSBmb3IgYXJjaGl2ZSAne30nIi5mb3JtYXQoc2Vzcy5zZXNzaW9uKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByb3dbInUnd2FzX2Vucm9sbF9hYm9ydGVkIl0gPSAK</text>
+        <text encoding="base64">QWRkIG11bHRpcHJvY2Vzc2luZy5Qb29sIHRvIHJlcGxheV9vbgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgIGd1YXJkOiBldmVudC5tZXNzYWdlLmdldCgicHJvZ3Jlc3MiLCAwKSA9PSA4MAo=</text>
+        <text encoding="base64">ICAgIHUiZW5yb2xsX2Fib3J0ZWQiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uOiB1aXJwYy5zZW5kX2Fib3J0X2Vucm9sbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICByb3dbInUnd2FzX2Vucm9sbF9hYm9ydGVkIl0gPSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
