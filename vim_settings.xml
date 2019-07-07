@@ -73,12 +73,12 @@
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1562514522070">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1562515932868">
         <mark key="'" line="89" column="16" />
-        <mark key="[" line="644" column="0" />
-        <mark key="]" line="644" column="0" />
-        <mark key="." line="644" column="0" />
-        <mark key="^" line="621" column="102" />
+        <mark key="[" line="610" column="19" />
+        <mark key="]" line="610" column="20" />
+        <mark key="." line="610" column="20" />
+        <mark key="^" line="610" column="20" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
         <mark key="[" line="2" column="24" />
@@ -119,6 +119,7 @@
       <file name="/default_daemon_start_detect_music_detection_config" timestamp="1557245313814">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmarking_utils.py" timestamp="1562515798118" />
       <file name="/None" timestamp="1557245313825">
         <mark key="[" line="0" column="0" />
       </file>
@@ -243,11 +244,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBteV9saXN0LmFwcGVuZCgiYXNkYXNkYXNkIikK</text>
+      <register name="&quot;" type="4">
+        <text>ret</text>
       </register>
       <register name="-" type="4">
-        <text>, my_list=[]):</text>
+        <text>ret</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
