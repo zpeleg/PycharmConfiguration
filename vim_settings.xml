@@ -12,9 +12,6 @@
       <file name="/a.dummy" timestamp="1561974150256">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/scripts/do_auth_many_users.py" timestamp="1561907400667">
-        <mark key="'" line="119" column="0" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/general_benchmark.py" timestamp="1562242476063">
         <mark key="]" line="74" column="94" />
         <mark key="." line="74" column="94" />
@@ -25,9 +22,6 @@
         <mark key="]" line="3" column="62" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="46" column="77" />
-      </file>
-      <file name="$USER_HOME$/Bugatone-Space/python/infra/data/carchive.py" timestamp="1562069079787">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="/False" timestamp="1555316610968">
         <mark key="[" line="0" column="0" />
@@ -49,7 +43,7 @@
         <mark key="." line="29" column="12" />
         <mark key="^" line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" timestamp="1562236718356">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" timestamp="1562504198511">
         <mark key="[" line="290" column="14" />
         <mark key="]" line="290" column="23" />
         <mark key="." line="290" column="23" />
@@ -62,13 +56,8 @@
         <mark key="." line="194" column="107" />
         <mark key="^" line="194" column="107" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562501969196">
+      <file name="/Dummy.txt" timestamp="1562505584100">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmarks.py" timestamp="1562083409498">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="64" column="85" />
-        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1562097910781">
         <mark key="'" line="101" column="25" />
@@ -83,9 +72,6 @@
       <file name="/default_daemon_start_detect_special_sig_config" timestamp="1557245313816">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/authentication_benchmark.py" timestamp="1562073458760">
-        <mark key="'" line="49" column="4" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1562094509883">
         <mark key="'" line="89" column="16" />
         <mark key="[" line="605" column="0" />
@@ -96,9 +82,6 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/authentication.py" timestamp="1562073438306">
-        <mark key="'" line="287" column="22" />
-      </file>
       <file name="/" timestamp="1559831585730">
         <mark key="[" line="0" column="0" />
       </file>
@@ -108,12 +91,18 @@
         <mark key="." line="24" column="12" />
         <mark key="^" line="70" column="54" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1562501429080">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/teacher_sanity/do_teacher_sanity.py" timestamp="1562503231540">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="11" column="44" />
+        <mark key="^" line="11" column="64" />
+        <mark key="." line="11" column="44" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1562505581111">
         <mark key="'" line="555" column="56" />
-        <mark key="[" line="578" column="66" />
-        <mark key="]" line="578" column="108" />
-        <mark key="^" line="578" column="108" />
-        <mark key="." line="578" column="108" />
+        <mark key="[" line="514" column="38" />
+        <mark key="]" line="514" column="41" />
+        <mark key="^" line="514" column="41" />
+        <mark key="." line="514" column="41" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/bla.py" timestamp="1562242688868">
         <mark key="'" line="20" column="0" />
@@ -259,49 +248,49 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">TWlzc2luZyBjb2RlIGZvciBhYm9ydCBlbnJvbGwK</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBjb3VudGVyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>BaseMoabTestObject</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>AuthCachingMoabTestObject</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IFsoJ2FyY2hpdmVfbmFtZScsIHNjZW5hcmlvLnNlc3Npb25fYXJjaGl2ZW5hbWUpLAogICAgICAgICAgICAgICAgICAgICgnaXNfZXhjZXB0aW9uJywgZXhjZXB0aW9uX21lc3NhZ2UpXQogICAgICAgICAgICByZXR1cm4gcGQuRGF0YUZyYW1lKGRhdGE9W09yZGVyZWREaWN0KGRhdGEpXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TWlzc2luZyBjb2RlIGZvciBhYm9ydCBlbnJvbGwK</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBjb3VudGVyCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBjb3VudGVyCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIGltcG9ydCByYW5kb20KICAgIGlmIHJhbmRvbS5yYW5kaW50</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBwaG9uZV9jb25maWcpOgogICAgICAgIHN1cGVyKEhhcHB5QXV0aE1vYWJUZXN0T2JqZWN0LCBzZWxmKS5fX2luaXRfXyhwaG9uZV9jb25maWcpCiAgICAgICAgc2VsZi5zZXNzaW9uX2xvYWRlciA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZ2V0X3Nlc3Npb25fbG9hZGVyKHNlbGYpOgogICAgICAgIGlmIHNlbGYuc2Vzc2lvbl9sb2FkZXIgaXMgTm9uZToKICAgICAgICAgICAgc2VsZi5zZXNzaW9uX2xvYWRlciA9IGRpY3QoTW9hYkFyY2hpdmVzLkFVVEguaXRlbXMoKSkKICAgICAgICByZXR1cm4gc2VsZi5zZXNzaW9uX2xvYWRlcgo=</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBwaG9uZV9jb25maWcpOgogICAgICAgIHN1cGVyKEhhcHB5QXV0aE1vYWJUZXN0T2JqZWN0LCBzZWxmKS5fX2luaXRfXyhwaG9uZV9jb25maWcpCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHN1bW1hcnkgPSBwZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlc3Npb25fbG9hZGVyID0gZGljdChNb2FiQXJjaGl2ZXMuQVVUSC52YQo=</text>
+        <text encoding="base64">TWlzc2luZyBjb2RlIGZvciBhYm9ydCBlbnJvbGwK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d2lwd2lwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
