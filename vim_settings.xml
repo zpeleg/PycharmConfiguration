@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/a.dummy" timestamp="1562576933220">
@@ -158,6 +158,12 @@
         <mark key="^" line="60" column="85" />
         <mark key="." line="60" column="85" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/moab_recording_script.py" timestamp="1562757856442">
+        <mark key="[" line="303" column="8" />
+        <mark key="]" line="303" column="7" />
+        <mark key="^" line="303" column="7" />
+        <mark key="." line="303" column="7" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/analyze_archives.py" timestamp="1562590511832" />
       <file name="/default_daemon_start_detect_music_detection_config" timestamp="1557245313814">
         <mark key="[" line="0" column="0" />
@@ -282,8 +288,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>duration</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb21taXRfaWRzID0ge30K</text>
       </register>
       <register name="-" type="4">
         <text>duration</text>
@@ -307,37 +313,37 @@
 &quot;is_exception&quot;] = s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdldF9iZW5jaG1hcmtfbWV0YWRhdGFfZnJvbV9wYXRoKCIvbW50L2J1Z2Ffc3RvcmFnZS9tb2JpbGVfcHJvZHVjdC9hdXRoL2JlbmNobWFya19yZXN1bHRzLzMyL21hbnl1c2VyYXV0aCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb21taXRfaWRzID0ge30K</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJudW1fcmVjcyIsCg==</text>
+        <text encoding="base64">ICAgIGdldF9iZW5jaG1hcmtfbWV0YWRhdGFfZnJvbV9wYXRoKCIvbW50L2J1Z2Ffc3RvcmFnZS9tb2JpbGVfcHJvZHVjdC9hdXRoL2JlbmNobWFya19yZXN1bHRzLzMyL21hbnl1c2VyYXV0aCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByb3dbXQo=</text>
+        <text encoding="base64">ICAgICJudW1fcmVjcyIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QWRkIF9mcm9tX3BhdGggdG8gbWV0YWRhdGEgZnVuY3Rpb25zCg==</text>
+        <text encoding="base64">ICAgICAgICByb3dbXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJvd1sidG90YWxfY29tcHV0ZV90aW1lIl0gPSAK</text>
+        <text encoding="base64">QWRkIF9mcm9tX3BhdGggdG8gbWV0YWRhdGEgZnVuY3Rpb25zCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJkYXRhX2RpciIsCg==</text>
+        <text encoding="base64">ICAgIHJvd1sidG90YWxfY29tcHV0ZV90aW1lIl0gPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJjb21wdXRlcl9uYW1lIiwK</text>
+        <text encoding="base64">ICAgICJkYXRhX2RpciIsCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJ2ZXJzaW9uIiwK</text>
+        <text encoding="base64">ICAgICJjb21wdXRlcl9uYW1lIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ0aW1lbGluZV9jb3VudCIK</text>
+        <text encoding="base64">ICAgICJ2ZXJzaW9uIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -394,8 +400,8 @@
         <entry>q</entry>
         <entry>Lw</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
