@@ -8,11 +8,12 @@
         <mark key="[" line="714" column="0" />
         <mark key="]" line="715" column="28" />
       </file>
-      <file name="$USER_HOME$/device_communication/pydcomm/benchmarks/benchmark_utils.py" timestamp="1562856715085">
-        <mark key="[" line="201" column="19" />
-        <mark key="]" line="201" column="21" />
-        <mark key="." line="201" column="21" />
-        <mark key="^" line="201" column="21" />
+      <file name="$USER_HOME$/device_communication/pydcomm/benchmarks/benchmark_utils.py" timestamp="1562861768224">
+        <mark key="'" line="185" column="0" />
+        <mark key="[" line="192" column="32" />
+        <mark key="]" line="192" column="32" />
+        <mark key="." line="192" column="32" />
+        <mark key="^" line="192" column="32" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/algo/utils.py" timestamp="1562847837777">
         <mark key="[" line="3" column="0" />
@@ -53,7 +54,13 @@
       <file name="/" timestamp="1559831585730">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1562850275504" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1562861990728">
+        <mark key="'" line="589" column="0" />
+        <mark key="[" line="481" column="56" />
+        <mark key="]" line="481" column="56" />
+        <mark key="." line="481" column="56" />
+        <mark key="^" line="481" column="56" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" timestamp="1562759038991">
         <mark key="'" line="89" column="75" />
         <mark key="[" line="147" column="0" />
@@ -76,7 +83,7 @@
       <file name="/None" timestamp="1557245313825">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" timestamp="1562859580396">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" timestamp="1562861255088">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
@@ -138,7 +145,7 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/benchmark_core.py" timestamp="1562743561150">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/benchmark_core.py" timestamp="1562860558570">
         <mark key="[" line="63" column="12" />
         <mark key="]" line="64" column="48" />
         <mark key="." line="64" column="48" />
@@ -158,6 +165,7 @@
         <mark key="." line="60" column="85" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/moab_recording_script.py" timestamp="1562758514156" />
+      <file name="$USER_HOME$/Bugatone-Space/pybuga/infra/data/carchive.py" timestamp="1562861939471" />
       <file name="$USER_HOME$/Bugatone-Space/pybuga/tests/utils/test_helpers.py" timestamp="1562858853931">
         <mark key="[" line="28" column="32" />
         <mark key="]" line="28" column="32" />
@@ -175,28 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/bla.py" />
-      <jump line="51" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/bla.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/bla.py" />
-      <jump line="555" column="56" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/detectors/benchmarks/utils.py" />
-      <jump line="7" column="14" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" />
-      <jump line="73" column="46" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" />
-      <jump line="95" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" />
-      <jump line="125" column="13" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" />
-      <jump line="103" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" />
-      <jump line="99" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" />
-      <jump line="589" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" />
       <jump line="103" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" />
       <jump line="105" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" />
       <jump line="121" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" />
@@ -275,6 +261,28 @@
       <jump line="489" column="41" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
       <jump line="196" column="12" filename="$USER_HOME$/device_communication/pydcomm/benchmarks/benchmark_utils.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Bugatone-Space/python/infra/utils/buga_utils.py" />
+      <jump line="185" column="0" filename="$USER_HOME$/device_communication/pydcomm/benchmarks/benchmark_utils.py" />
+      <jump line="474" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
+      <jump line="407" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
+      <jump line="417" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
+      <jump line="419" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
+      <jump line="421" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
+      <jump line="449" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
+      <jump line="460" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
+      <jump line="466" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
+      <jump line="473" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
+      <jump line="487" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
+      <jump line="498" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
+      <jump line="509" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
+      <jump line="513" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
+      <jump line="552" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
+      <jump line="565" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
+      <jump line="568" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
+      <jump line="582" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
+      <jump line="585" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
+      <jump line="599" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
+      <jump line="595" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
+      <jump line="589" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -287,49 +295,49 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmbHVzaCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZXZudWxsLmNsb3NlKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>out</text>
+        <text>WonderfulLogger(stdout=open(&quot;/dev/null&quot;), stderr=open(&quot;/dev/null&quot;)):</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzeXMuc3Rkb3V0LmZsdXNoKCkK</text>
+        <text encoding="base64">ICAgICAgICBkZXZudWxsID0gb3BlbigiL2Rldi9udWxsIiwgInciKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmbHVzaCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZXZudWxsLmNsb3NlKCkK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmbHVzaCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIFdvbmRlcmZ1bExvZ2dlcihzdGRvdXQ9b3BlbigiL2Rldi9udWxsIiksIHN0ZGVycj1vcGVuKCIvZGV2L251bGwiKSk6CiAgICAgICAgICAgIHdpdGggbG9nX3dpdGhfdGltZShsb2dfZmlsZV9wYXRoKToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmbHVzaCgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiWFhYIDMiKQo=</text>
+        <text encoding="base64">ICAgIHN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3lzLnN0ZG91dC5mbHVzaCgpCg==</text>
+        <text encoding="base64">QGNvbnRleHRtYW5hZ2VyCmRlZiBTaWxlbmNlT3V0cHV0MigpOgogICAgd2l0aCBvcGVuKCIvZGV2L251bGwiLCAidyIpIGFzIGRldm51bGw6CiAgICAgICAgd2l0aCBUZWVMb2dnZXIoZGV2bnVsbCk6CiAgICAgICAgICAgIHlpZWxkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3lzLnN0ZGVyci5mbHVzaCgpCg==</text>
+        <text encoding="base64">ICAgIGZpbmFsbHk6CiAgICBpZiBzdGRvdXQ6CiAgICAgICAgc3lzLnN0ZG91dC5mbHVzaCgpCiAgICAgICAgc3lzLnN0ZG91dCA9IG9sZF9zdGRvdXQKICAgIGlmIHN0ZGVycjoKICAgICAgICBzeXMuc3RkZXJyLmZsdXNoKCkKICAgICAgICBzeXMuc3RkZXJyID0gb2xkX3N0ZGVycgogICAgZGV2bnVsbC5jbG9zZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzeXMucwo=</text>
+        <text encoding="base64">QGNvbnRleHRtYW5hZ2VyCmRlZiBTaWxlbmNlT3V0cHV0MihzdGRvdXQ9VHJ1ZSwgc3RkZXJyPUZhbHNlKToKICAgIHdpdGggb3BlbigiL2Rldi9udWxsIiwgInciKSBhcyBkZXZudWxsOgogICAgICAgIHdpdGggVGVlTG9nZ2VyCiAgICAgICAgICAgIHlpZWxkCiAgICBmaW5hbGx5OgogICAgaWYgc3Rkb3V0OgogICAgICAgIHN5cy5zdGRvdXQuZmx1c2goKQogICAgICAgIHN5cy5zdGRvdXQgPSBvbGRfc3Rkb3V0CiAgICBpZiBzdGRlcnI6CiAgICAgICAgc3lzLnN0ZGVyci5mbHVzaCgpCiAgICAgICAgc3lzLnN0ZGVyciA9IG9sZF9zdGRlcnIKICAgIGRldm51bGwuY2xvc2UoKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGNvbnRleHRtYW5hZ2VyCmRlZiBTaWxlbmNlT3V0cHV0MihzdGRvdXQ9VHJ1ZSwgc3RkZXJyPUZhbHNlKToKICAgIHdpdGggb3BlbigiL2Rldi9udWxsIiwgInciKSBhcyBkZXZudWxsOgogICAgICAgIHdpdGggVGVlTG9nZ2VyCiAgICAgICAgeWllbGQKICAgIGZpbmFsbHk6CiAgICAgICAgaWYgc3Rkb3V0OgogICAgICAgICAgICBzeXMuc3Rkb3V0LmZsdXNoKCkKICAgICAgICAgICAgc3lzLnN0ZG91dCA9IG9sZF9zdGRvdXQKICAgICAgICBpZiBzdGRlcnI6CiAgICAgICAgICAgIHN5cy5zdGRlcnIuZmx1c2goKQogICAgICAgICAgICBzeXMuc3RkZXJyID0gb2xkX3N0ZGVycgogICAgICAgIGRldm51bGwuY2xvc2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGNvbnRleHRtYW5hZ2VyCmRlZiBUZWVWMyhvdXRwdXRfZmlsZSwgc3Rkb3V0PVRydWUsIHN0ZGVycj1GYWxzZSwgc2lsZW5jZT1GYWxzZSk6CiAgICBpZiBzdGRvdXQ6CiAgICAgICAgb2xkX3N0ZG91dCA9IHN5cy5zdGRvdXQK</text>
+        <text encoding="base64">ICAgICAgICAgPSAKICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -384,9 +392,9 @@
         <entry>Q</entry>
         <entry>x</entry>
         <entry>Lw</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
