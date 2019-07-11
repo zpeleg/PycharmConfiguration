@@ -30,9 +30,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Bugatone-Space/python/tests/utils/testrail_client.py" timestamp="1562664863193" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1562675972146">
-        <mark key="'" line="89" column="47" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/authentication_benchmark.py" timestamp="1562073458760">
         <mark key="'" line="49" column="4" />
       </file>
@@ -79,11 +76,11 @@
       <file name="/None" timestamp="1557245313825">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" timestamp="1562855707600">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="12" />
-        <mark key="." line="144" column="12" />
-        <mark key="^" line="143" column="26" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" timestamp="1562859580396">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="95" column="14" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/configuration/configs_in_c_test.py" timestamp="1562490237890" />
       <file name="/Python Console" timestamp="1562758944351">
@@ -128,6 +125,12 @@
       <file name="/default_daemon_start_detect_special_sig_config" timestamp="1557245313816">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" timestamp="1562859213024">
+        <mark key="[" line="956" column="15" />
+        <mark key="]" line="956" column="17" />
+        <mark key="^" line="956" column="17" />
+        <mark key="." line="956" column="17" />
+      </file>
       <file name="/benchmark_metadata.py" timestamp="1562681511657">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="66" column="113" />
@@ -155,7 +158,7 @@
         <mark key="." line="60" column="85" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/moab_recording_script.py" timestamp="1562758514156" />
-      <file name="$USER_HOME$/Bugatone-Space/pybuga/tests/utils/test_helpers.py" timestamp="1562851131826">
+      <file name="$USER_HOME$/Bugatone-Space/pybuga/tests/utils/test_helpers.py" timestamp="1562858853931">
         <mark key="[" line="28" column="32" />
         <mark key="]" line="28" column="32" />
         <mark key="." line="28" column="32" />
@@ -283,8 +286,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>out</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmbHVzaCgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>out</text>
@@ -293,40 +296,40 @@
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3lzLnN0ZG91dC5mbHVzaCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzeXMuc3Rkb3V0LmZsdXNoKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3lzLnN0ZG91dC5mbHVzaCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBmbHVzaCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3lzLnN0ZGVyci5mbHVzaCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBmbHVzaCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzeXMucwo=</text>
+        <text encoding="base64">ICAgICAgICBmbHVzaCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiWFhYIDMiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QGNvbnRleHRtYW5hZ2VyCmRlZiBUZWVWMyhvdXRwdXRfZmlsZSwgc3Rkb3V0PVRydWUsIHN0ZGVycj1GYWxzZSwgc2lsZW5jZT1GYWxzZSk6CiAgICBpZiBzdGRvdXQ6CiAgICAgICAgb2xkX3N0ZG91dCA9IHN5cy5zdGRvdXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3lzLnN0ZG91dC5mbHVzaCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wbGV0ZWRfYXJjaGl2ZXMgPSBbYSBmb3IgYSBpbiBhbGxfYXJjaGl2ZXMgaWYgYVsnbWV0YWRhdGEnXVsnY29tcGxldGVkJ10gaXMgVHJ1ZV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3lzLnN0ZGVyci5mbHVzaCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImZpbmlzaGVkIHt9Ii5mb3JtYXQoYXJjaGl2ZS5hcmNoaXZlbmFtZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzeXMucwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbGx5Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBjb250ZXh0bGliIGltcG9ydCBjb250ZXh0bWFuYWdlcgo=</text>
+        <text encoding="base64">QGNvbnRleHRtYW5hZ2VyCmRlZiBUZWVWMyhvdXRwdXRfZmlsZSwgc3Rkb3V0PVRydWUsIHN0ZGVycj1GYWxzZSwgc2lsZW5jZT1GYWxzZSk6CiAgICBpZiBzdGRvdXQ6CiAgICAgICAgb2xkX3N0ZG91dCA9IHN5cy5zdGRvdXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -383,8 +386,8 @@
         <entry>Lw</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
