@@ -8,12 +8,12 @@
         <mark key="[" line="714" column="0" />
         <mark key="]" line="715" column="28" />
       </file>
-      <file name="$USER_HOME$/device_communication/pydcomm/benchmarks/benchmark_utils.py" timestamp="1562850122179">
+      <file name="$USER_HOME$/device_communication/pydcomm/benchmarks/benchmark_utils.py" timestamp="1562851082852">
         <mark key="'" line="197" column="12" />
-        <mark key="[" line="200" column="48" />
-        <mark key="]" line="200" column="48" />
-        <mark key="^" line="200" column="53" />
-        <mark key="." line="200" column="48" />
+        <mark key="[" line="201" column="4" />
+        <mark key="]" line="203" column="7" />
+        <mark key="^" line="203" column="7" />
+        <mark key="." line="203" column="7" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/algo/utils.py" timestamp="1562847837777">
         <mark key="[" line="3" column="0" />
@@ -155,6 +155,12 @@
         <mark key="." line="60" column="85" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/moab_recording_script.py" timestamp="1562758514156" />
+      <file name="$USER_HOME$/Bugatone-Space/pybuga/tests/utils/test_helpers.py" timestamp="1562851131826">
+        <mark key="[" line="28" column="32" />
+        <mark key="]" line="28" column="32" />
+        <mark key="." line="28" column="32" />
+        <mark key="^" line="18" column="35" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/analyze_archives.py" timestamp="1562590511832" />
       <file name="/default_daemon_start_detect_music_detection_config" timestamp="1557245313814">
         <mark key="[" line="0" column="0" />
@@ -274,17 +280,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImZpbmlzaGVkIHt9Ii5mb3JtYXQoYXJjaGl2ZS5hcmNoaXZlbmFtZSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>starting</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgic3RhcnRpbmcge30iLmZvcm1hdChhcmNoaXZlLmFyY2hpdmVuYW1lKSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9fZmlsZSA9IGNvZGVjcy5vcGVuKG5hbWUsIG1vZGU9InciLCBlbmNvZGluZz0idXRmLTgiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImZpbmlzaGVkIHt9Ii5mb3JtYXQoYXJjaGl2ZS5hcmNoaXZlbmFtZSkpCg==</text>
@@ -374,8 +380,8 @@
         <entry>Lw</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
