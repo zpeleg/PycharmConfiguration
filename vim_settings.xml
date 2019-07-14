@@ -26,12 +26,11 @@
       <file name="/False" timestamp="1555316610968">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/per_thread_logger.py" timestamp="1563111499880">
-        <mark key="'" line="3" column="9" />
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="16" column="15" />
-        <mark key="^" line="16" column="17" />
-        <mark key="." line="16" column="15" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/per_thread_logger.py" timestamp="1563114612835">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="20" />
+        <mark key="." line="35" column="20" />
+        <mark key="^" line="18" column="26" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1563091372916">
         <mark key="'" line="89" column="47" />
@@ -170,7 +169,7 @@
       <file name="/default_daemon_start_detect_music_detection_config" timestamp="1557245313814">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/process_utils.py" timestamp="1563105286076">
+      <file name="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/process_utils.py" timestamp="1563114194666">
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="12" />
         <mark key="." line="107" column="12" />
@@ -291,41 +290,41 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>str</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBzZWxmLmxvY2s6Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>str</text>
+        <text>threading</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fZ2V0X2lkKCkgbm90IGluIHNlbGYuZmlsZXM6CiAgICAgICAgICAgICAgICBzZWxmLmZpbGVzW3NlbGYuX2dldF9pZCgpXSA9IG9wZW4ob3MucGF0aC5qb2luKHJvb3RfcGF0aCxzdHIoc2VsZi5fZ2V0X2lkKCkpKSwgIndiIikKICAgICAgICAgICAgc2VsZi5maWxlc1tzZWxmLl9nZXRfaWQoKV0ud3JpdGUoZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBzZWxmLmxvY2s6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlciA9IFRocmVhZExvZ2dlcihfKQo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZgo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlciA9IFRocmVhZExvZ2dlcigpCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fZ2V0X2lkKCkgbm90IGluIHNlbGYuZmlsZXM6CiAgICAgICAgICAgICAgICBzZWxmLmZpbGVzW3NlbGYuX2dldF9pZCgpXSA9IG9wZW4ob3MucGF0aC5qb2luKHJvb3RfcGF0aCwgc3RyKHNlbGYuX2dldF9pZCgpKSksICJ3YiIp</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIGYgaW4gc2VsZi5maWxlcy52YWx1ZXMoKToKICAgICAgICAgICAgICAgIGYuZmx1c2goKQ==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -333,8 +332,8 @@
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZiA9IHNlbGYuZmlsZXMuZ2V0KHNlbGYuX2dldF9pZGVudGlmaWVyKCksIE5vbmUpCiAgICAgICAgICAgIGlmIGYgaXMgTm9uZQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
