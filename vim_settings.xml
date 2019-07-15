@@ -40,11 +40,11 @@
       <file name="/False" timestamp="1555316610968">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/per_thread_logger.py" timestamp="1563204468248">
-        <mark key="[" line="15" column="33" />
-        <mark key="]" line="15" column="33" />
-        <mark key="." line="15" column="33" />
-        <mark key="^" line="15" column="37" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/per_thread_logger.py" timestamp="1563205516602">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="14" column="37" />
       </file>
       <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" timestamp="1563192210473">
         <mark key="'" line="0" column="0" />
@@ -294,7 +294,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdpdGggaW5kZW50X3ByaW50aW5nKGxhbWJkYTogc3RyKGdldF9taWxsaXMoKSAtIGluaXRpYWwpICsgIiAiKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2NrID0gdGhyZWFkaW5nLkxvY2soKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -306,37 +306,37 @@
         <text encoding="base64">ICAgICAgICBzbGVlcCgxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpdGggaW5kZW50X3ByaW50aW5nKGxhbWJkYTogc3RyKGdldF9taWxsaXMoKSAtIGluaXRpYWwpICsgIiAiKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2NrID0gdGhyZWFkaW5nLkxvY2soKQo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBibGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBzZWxmLmxvY2s6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBibGEoKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBzZWxmLmxvY2s6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmlkID0gMAp0aHJlYWRfbWFwID0ge30KbG9jayA9IHRocmVhZGluZy5Mb2NrKCkKCgpkZWYgZ2V0X3RocmVhZF9pZCgpOgogICAgZ2xvYmFsIGlkLCB0aHJlYWRfbWFwLCBsb2NrCiAgICB0aWQgPSB0aHJlYWRpbmcuY3VycmVudF90aHJlYWQoKS5pZGVudAogICAgaWYgdGlkIG5vdCBpbiB0aHJlYWRfbWFwOgogICAgICAgIHdpdGgKICAgICAgICB0aHJlYWRfbWFwW3RpZF0gPSBpZAogICAgICAgIGlkICs9IDEK</text>
+        <text encoding="base64">ICAgIHdpdGggaW5kZW50X3ByaW50aW5nKGxhbWJkYTogc3RyKGdldF9taWxsaXMoKSAtIGluaXRpYWwpICsgIiAiKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdpdGggbG9jawo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBibGEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBwLmV4aXRjb2RlOgogICAgICAgICAgICAgICAgICAgIHJldHVybgogICAgICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgIGRlZiBibGEoKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMC4yKQo=</text>
+        <text encoding="base64">CmlkID0gMAp0aHJlYWRfbWFwID0ge30KbG9jayA9IHRocmVhZGluZy5Mb2NrKCkKCgpkZWYgZ2V0X3RocmVhZF9pZCgpOgogICAgZ2xvYmFsIGlkLCB0aHJlYWRfbWFwLCBsb2NrCiAgICB0aWQgPSB0aHJlYWRpbmcuY3VycmVudF90aHJlYWQoKS5pZGVudAogICAgaWYgdGlkIG5vdCBpbiB0aHJlYWRfbWFwOgogICAgICAgIHdpdGgKICAgICAgICB0aHJlYWRfbWFwW3RpZF0gPSBpZAogICAgICAgIGlkICs9IDEK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bG9jayA9IHRocmVhZGluZy5Mb2NrKCkK</text>
+        <text encoding="base64">ICAgIHdpdGggbG9jawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBsb2NrCiAgICB3aXRoIGxvY2s6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBwLmV4aXRjb2RlOgogICAgICAgICAgICAgICAgICAgIHJldHVybgogICAgICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -393,8 +393,8 @@
         <entry>q</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
