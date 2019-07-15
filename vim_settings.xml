@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/usr/lib/python2.7/multiprocessing/pool.py" timestamp="1562835792149">
-        <mark key="'" line="736" column="8" />
+      <file name="/usr/lib/python2.7/multiprocessing/pool.py" timestamp="1563195042402">
+        <mark key="'" line="283" column="31" />
         <mark key="[" line="714" column="0" />
         <mark key="]" line="715" column="28" />
       </file>
@@ -140,12 +140,12 @@
         <mark key="." line="92" column="93" />
         <mark key="^" line="92" column="93" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" timestamp="1563193070864">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" timestamp="1563195197480">
         <mark key="'" line="138" column="22" />
-        <mark key="[" line="152" column="43" />
-        <mark key="]" line="152" column="43" />
-        <mark key="." line="152" column="43" />
-        <mark key="^" line="152" column="43" />
+        <mark key="[" line="158" column="36" />
+        <mark key="]" line="158" column="41" />
+        <mark key="." line="158" column="41" />
+        <mark key="^" line="158" column="41" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/qa_helpers/benchmark_row_count.py" timestamp="1562678168420">
         <mark key="[" line="52" column="4" />
@@ -181,7 +181,6 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/algo/weights_streamer.py" timestamp="1563179950535" />
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
       <jump line="25" column="24" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
       <jump line="20" column="35" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
       <jump line="29" column="16" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
@@ -281,6 +280,7 @@
       <jump line="153" column="21" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" />
       <jump line="2" column="42" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" />
       <jump line="138" column="22" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" />
+      <jump line="283" column="31" filename="/usr/lib/python2.7/multiprocessing/pool.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -292,11 +292,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBibGEK</text>
+      <register name="&quot;" type="4">
+        <text>lambda a:</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>lambda a:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
@@ -392,8 +392,8 @@
         <entry>q</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
