@@ -17,11 +17,25 @@
         <mark key="]" line="183" column="0" />
         <mark key="." line="183" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1563111350743">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1563092785433">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/buga_utils.py" timestamp="1563177427604">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="959" column="11" />
+        <mark key="]" line="959" column="63" />
+      </file>
       <file name="/a.dummy" timestamp="1562576933220">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Bugatone-Space/python/infra/data/carchive.py" timestamp="1562069079787">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1562831654773">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="62" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="46" column="77" />
       </file>
       <file name="/False" timestamp="1555316610968">
         <mark key="[" line="0" column="0" />
@@ -32,85 +46,7 @@
         <mark key="." line="15" column="33" />
         <mark key="^" line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1563091372916">
-        <mark key="'" line="89" column="47" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/authentication_benchmark.py" timestamp="1562073458760">
-        <mark key="'" line="49" column="4" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1563120939807">
-        <mark key="'" line="91" column="16" />
-        <mark key="[" line="671" column="0" />
-        <mark key="]" line="671" column="0" />
-        <mark key="." line="671" column="0" />
-        <mark key="^" line="669" column="48" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/authentication.py" timestamp="1562073438306">
-        <mark key="'" line="287" column="22" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" timestamp="1562759014654">
-        <mark key="'" line="2" column="17" />
-        <mark key="[" line="153" column="46" />
-        <mark key="]" line="153" column="56" />
-        <mark key="^" line="152" column="50" />
-        <mark key="." line="153" column="46" />
-      </file>
-      <file name="/" timestamp="1559831585730">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1563120785059">
-        <mark key="'" line="466" column="19" />
-        <mark key="[" line="423" column="0" />
-        <mark key="]" line="423" column="0" />
-        <mark key="." line="423" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" timestamp="1563093390405">
-        <mark key="'" line="201" column="4" />
-        <mark key="[" line="92" column="89" />
-        <mark key="]" line="92" column="93" />
-        <mark key="." line="92" column="93" />
-        <mark key="^" line="92" column="93" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/qa_helpers/benchmark_row_count.py" timestamp="1562678168420">
-        <mark key="[" line="52" column="4" />
-        <mark key="]" line="52" column="7" />
-        <mark key="." line="52" column="7" />
-        <mark key="^" line="52" column="7" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_users_sanity_ft.yaml" timestamp="1562573344127">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="41" />
-        <mark key="." line="58" column="40" />
-        <mark key="^" line="58" column="40" />
-      </file>
-      <file name="/None" timestamp="1557245313825">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" timestamp="1563116699256">
-        <mark key="'" line="152" column="48" />
-      </file>
-      <file name="/Python Console" timestamp="1563111350743">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1563092785433">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/buga_utils.py" timestamp="1562852952001">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/scripts/do_auth_many_users.py" timestamp="1561907400667">
-        <mark key="'" line="119" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1562831654773">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="62" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="46" column="77" />
-      </file>
-      <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" timestamp="1563114673909" />
+      <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" timestamp="1563178471954" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" timestamp="1562504198511">
         <mark key="[" line="290" column="14" />
         <mark key="]" line="290" column="23" />
@@ -127,6 +63,12 @@
       <file name="/Dummy.txt" timestamp="1563120969547">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1563091372916">
+        <mark key="'" line="89" column="47" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+      </file>
       <file name="/default_bugatone_api_config" timestamp="1557245315848">
         <mark key="[" line="0" column="0" />
       </file>
@@ -134,13 +76,30 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" timestamp="1562859213024">
-        <mark key="[" line="956" column="15" />
-        <mark key="]" line="956" column="17" />
-        <mark key="^" line="956" column="17" />
-        <mark key="." line="956" column="17" />
+        <mark key="[" line="954" column="15" />
+        <mark key="]" line="954" column="17" />
+        <mark key="^" line="954" column="17" />
+        <mark key="." line="954" column="17" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1563120939807">
+        <mark key="'" line="91" column="16" />
+        <mark key="[" line="671" column="0" />
+        <mark key="]" line="671" column="0" />
+        <mark key="." line="671" column="0" />
+        <mark key="^" line="669" column="48" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
         <mark key="[" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" timestamp="1562759014654">
+        <mark key="'" line="2" column="17" />
+        <mark key="[" line="153" column="46" />
+        <mark key="]" line="153" column="56" />
+        <mark key="^" line="152" column="50" />
+        <mark key="." line="153" column="46" />
+      </file>
+      <file name="/" timestamp="1559831585730">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/benchmark_core.py" timestamp="1563111273575">
         <mark key="'" line="16" column="4" />
@@ -155,12 +114,43 @@
         <mark key="^" line="11" column="64" />
         <mark key="." line="11" column="44" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1563177006643">
+        <mark key="'" line="466" column="19" />
+        <mark key="[" line="417" column="0" />
+        <mark key="]" line="419" column="64" />
+        <mark key="." line="423" column="0" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/bla.py" timestamp="1562242688868">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="58" column="75" />
         <mark key="]" line="60" column="85" />
         <mark key="^" line="60" column="85" />
         <mark key="." line="60" column="85" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" timestamp="1563093390405">
+        <mark key="'" line="201" column="4" />
+        <mark key="[" line="92" column="89" />
+        <mark key="]" line="92" column="93" />
+        <mark key="." line="92" column="93" />
+        <mark key="^" line="92" column="93" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" timestamp="1563178476180">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="134" column="11" />
+        <mark key="." line="134" column="11" />
+        <mark key="^" line="134" column="11" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/qa_helpers/benchmark_row_count.py" timestamp="1562678168420">
+        <mark key="[" line="52" column="4" />
+        <mark key="]" line="52" column="7" />
+        <mark key="." line="52" column="7" />
+        <mark key="^" line="52" column="7" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_users_sanity_ft.yaml" timestamp="1562573344127">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="41" />
+        <mark key="." line="58" column="40" />
+        <mark key="^" line="58" column="40" />
       </file>
       <file name="$USER_HOME$/Bugatone-Space/pybuga/tests/utils/test_helpers.py" timestamp="1562858853931">
         <mark key="[" line="28" column="32" />
@@ -171,14 +161,11 @@
       <file name="/default_daemon_start_detect_music_detection_config" timestamp="1557245313814">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/process_utils.py" timestamp="1563120618655">
-        <mark key="[" line="138" column="18" />
-        <mark key="]" line="138" column="18" />
-        <mark key="." line="138" column="18" />
-        <mark key="^" line="138" column="18" />
+      <file name="/None" timestamp="1557245313825">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/detectors/benchmarks/utils.py" timestamp="1562509150834">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" timestamp="1563116699256">
+        <mark key="'" line="152" column="48" />
       </file>
     </filemarks>
     <jumps>
@@ -294,49 +281,49 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">U2F2ZSBiZW5jaG1hcmsgYXJjaGl2ZSB3aGVuIGNyZWF0aW5nIGl0Cg==</text>
+        <text encoding="base64">ICAgIHBvb2wgPSBUaHJlYWRQb29sKHByb2Nlc3Nlcz04KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>indent_printing</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>_apply_push_to_queue</text>
+        <text>indent_printing(lambda: time.strftime('[%H:%M:%S] '))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U2F2ZSBiZW5jaG1hcmsgYXJjaGl2ZSB3aGVuIGNyZWF0aW5nIGl0Cg==</text>
+        <text encoding="base64">ICAgIHBvb2wgPSBUaHJlYWRQb29sKHByb2Nlc3Nlcz04KQo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U2F2ZSBiZW5jaG1hcmsgYXJjaGl2ZSB3aGVuIGNyZWF0aW5nIGl0Cg==</text>
+        <text encoding="base64">ICAgIHdoaWxlIFRydWU6Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHlidWdhLmluZnJhLnV0aWxzLmNvbmZpZyBhcyBidWdhY29uZmlnCiAgICAgICAgcGF0aCA9IGJ1Z2Fjb25maWcuam9pbnRvLnRtcF9kaXJfcGF0aChzdHIob3MuZ2V0cGlkKCkpKQogICAgICAgIG1rZGlyX3AocGF0aCkK</text>
+        <text encoding="base64">U2F2ZSBiZW5jaG1hcmsgYXJjaGl2ZSB3aGVuIGNyZWF0aW5nIGl0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJhbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBpbmRlbnRfcHIK</text>
+        <text encoding="base64">U2F2ZSBiZW5jaG1hcmsgYXJjaGl2ZSB3aGVuIGNyZWF0aW5nIGl0Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIExvZ1BlclRocmVhZChwYXRoKToK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHlidWdhLmluZnJhLnV0aWxzLmNvbmZpZyBhcyBidWdhY29uZmlnCiAgICAgICAgcGF0aCA9IGJ1Z2Fjb25maWcuam9pbnRvLnRtcF9kaXJfcGF0aChzdHIob3MuZ2V0cGlkKCkpKQogICAgICAgIG1rZGlyX3AocGF0aCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -393,8 +380,8 @@
         <entry>q</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
