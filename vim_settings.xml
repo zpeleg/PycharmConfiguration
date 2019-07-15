@@ -140,12 +140,12 @@
         <mark key="." line="92" column="93" />
         <mark key="^" line="92" column="93" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" timestamp="1563195900418">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" timestamp="1563201963187">
         <mark key="'" line="123" column="25" />
-        <mark key="[" line="158" column="36" />
-        <mark key="]" line="158" column="41" />
-        <mark key="." line="158" column="41" />
-        <mark key="^" line="158" column="41" />
+        <mark key="[" line="152" column="46" />
+        <mark key="]" line="152" column="48" />
+        <mark key="." line="152" column="48" />
+        <mark key="^" line="152" column="48" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/qa_helpers/benchmark_row_count.py" timestamp="1562678168420">
         <mark key="[" line="52" column="4" />
@@ -293,10 +293,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>lambda a:</text>
+        <text>None</text>
       </register>
       <register name="-" type="4">
-        <text>lambda a:</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
@@ -392,8 +392,8 @@
         <entry>q</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
