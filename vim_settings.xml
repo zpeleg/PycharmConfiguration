@@ -46,11 +46,11 @@
         <mark key="." line="15" column="33" />
         <mark key="^" line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" timestamp="1563191398981">
+      <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" timestamp="1563192210473">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="120" column="17" />
-        <mark key="]" line="121" column="21" />
-        <mark key="." line="121" column="21" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
         <mark key="^" line="121" column="21" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" timestamp="1562504198511">
@@ -87,7 +87,7 @@
         <mark key="^" line="954" column="17" />
         <mark key="." line="954" column="17" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1563184188534">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1563192219280">
         <mark key="'" line="91" column="16" />
         <mark key="[" line="647" column="12" />
         <mark key="]" line="652" column="0" />
@@ -120,7 +120,7 @@
         <mark key="^" line="11" column="64" />
         <mark key="." line="11" column="44" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1563184208420">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1563192280218">
         <mark key="'" line="466" column="19" />
         <mark key="[" line="417" column="0" />
         <mark key="]" line="419" column="64" />
@@ -140,12 +140,12 @@
         <mark key="." line="92" column="93" />
         <mark key="^" line="92" column="93" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" timestamp="1563181620956">
-        <mark key="'" line="2" column="42" />
-        <mark key="[" line="155" column="32" />
-        <mark key="]" line="155" column="33" />
-        <mark key="." line="155" column="33" />
-        <mark key="^" line="159" column="37" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" timestamp="1563193070864">
+        <mark key="'" line="138" column="22" />
+        <mark key="[" line="152" column="43" />
+        <mark key="]" line="152" column="43" />
+        <mark key="." line="152" column="43" />
+        <mark key="^" line="152" column="43" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/qa_helpers/benchmark_row_count.py" timestamp="1562678168420">
         <mark key="[" line="52" column="4" />
@@ -181,7 +181,6 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/algo/weights_streamer.py" timestamp="1563179950535" />
     </filemarks>
     <jumps>
-      <jump line="22" column="28" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
       <jump line="23" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
       <jump line="25" column="24" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
       <jump line="20" column="35" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
@@ -281,6 +280,7 @@
       <jump line="11" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" />
       <jump line="153" column="21" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" />
       <jump line="2" column="42" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" />
+      <jump line="138" column="22" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -293,49 +293,49 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3Rkb3V0cXVldWUucHJpbnRfYWxsKCkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBibGEK</text>
       </register>
       <register name="-" type="4">
-        <text>q, stdoutqueue, func, args, kwargs or {}</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3Rkb3V0cXVldWUucHJpbnRfYWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICBzbGVlcCgxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpICs9IDE7cHJpbnQoIldBVklMWSB7fSIuZm9ybWF0KGkpKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBibGEK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpICs9IDE7cHJpbnQoIldBVklMWSB7fSIuZm9ybWF0KGkpKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBibGEoKToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpICs9IDE7cHJpbnQoIldBVklMWSB7fSIuZm9ybWF0KGkpKQo=</text>
+        <text encoding="base64">CmlkID0gMAp0aHJlYWRfbWFwID0ge30KbG9jayA9IHRocmVhZGluZy5Mb2NrKCkKCgpkZWYgZ2V0X3RocmVhZF9pZCgpOgogICAgZ2xvYmFsIGlkLCB0aHJlYWRfbWFwLCBsb2NrCiAgICB0aWQgPSB0aHJlYWRpbmcuY3VycmVudF90aHJlYWQoKS5pZGVudAogICAgaWYgdGlkIG5vdCBpbiB0aHJlYWRfbWFwOgogICAgICAgIHdpdGgKICAgICAgICB0aHJlYWRfbWFwW3RpZF0gPSBpZAogICAgICAgIGlkICs9IDEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpICs9IDE7cHJpbnQoIldBVklMWSB7fSIuZm9ybWF0KGkpKQo=</text>
+        <text encoding="base64">ICAgIHdpdGggbG9jawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpICs9IDE7cHJpbnQoIldBVklMWSB7fSIuZm9ybWF0KGkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBwLmV4aXRjb2RlOgogICAgICAgICAgICAgICAgICAgIHJldHVybgogICAgICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpICs9IDE7cHJpbnQoIldBVklMWSB7fSIuZm9ybWF0KGkpKQo=</text>
+        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMC4yKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpID0gMAo=</text>
+        <text encoding="base64">bG9jayA9IHRocmVhZGluZy5Mb2NrKCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpICs9IDE7cHJpbnQoIldBVklMWSB7fSIuZm9ybWF0KGkpKQo=</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBsb2NrCiAgICB3aXRoIGxvY2s6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaSArPSAxO3ByaW50KCJDT09LSUUge30iLmZvcm1hdChpKSkK</text>
+        <text encoding="base64">ICAgICAgICBpICs9IDE7cHJpbnQoIldBVklMWSB7fSIuZm9ybWF0KGkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -392,8 +392,8 @@
         <entry>q</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
