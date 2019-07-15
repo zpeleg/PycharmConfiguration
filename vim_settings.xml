@@ -40,7 +40,7 @@
       <file name="/False" timestamp="1555316610968">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/per_thread_logger.py" timestamp="1563115297291">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/per_thread_logger.py" timestamp="1563204468248">
         <mark key="[" line="15" column="33" />
         <mark key="]" line="15" column="33" />
         <mark key="." line="15" column="33" />
@@ -140,12 +140,12 @@
         <mark key="." line="92" column="93" />
         <mark key="^" line="92" column="93" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" timestamp="1563201963187">
-        <mark key="'" line="123" column="25" />
-        <mark key="[" line="152" column="46" />
-        <mark key="]" line="152" column="48" />
-        <mark key="." line="152" column="48" />
-        <mark key="^" line="152" column="48" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" timestamp="1563204578564">
+        <mark key="'" line="11" column="5" />
+        <mark key="[" line="141" column="56" />
+        <mark key="]" line="141" column="61" />
+        <mark key="." line="141" column="61" />
+        <mark key="^" line="141" column="61" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/qa_helpers/benchmark_row_count.py" timestamp="1562678168420">
         <mark key="[" line="52" column="4" />
@@ -178,10 +178,10 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" timestamp="1563116699256">
         <mark key="'" line="152" column="48" />
       </file>
+      <file name="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/process_utils.py" timestamp="1563203214966" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/algo/weights_streamer.py" timestamp="1563179950535" />
     </filemarks>
     <jumps>
-      <jump line="20" column="35" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
       <jump line="29" column="16" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
       <jump line="40" column="20" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
       <jump line="119" column="46" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
@@ -275,12 +275,13 @@
       <jump line="15" column="0" filename="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" />
       <jump line="153" column="21" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" />
       <jump line="2" column="42" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" />
       <jump line="138" column="22" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" />
       <jump line="283" column="31" filename="/usr/lib/python2.7/multiprocessing/pool.py" />
       <jump line="123" column="25" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" />
+      <jump line="165" column="16" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" />
+      <jump line="11" column="5" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -292,11 +293,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>None</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdpdGggaW5kZW50X3ByaW50aW5nKGxhbWJkYTogc3RyKGdldF9taWxsaXMoKSAtIGluaXRpYWwpICsgIiAiKToK</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
@@ -305,37 +306,37 @@
         <text encoding="base64">ICAgICAgICBzbGVlcCgxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBibGEK</text>
+        <text encoding="base64">ICAgIHdpdGggaW5kZW50X3ByaW50aW5nKGxhbWJkYTogc3RyKGdldF9taWxsaXMoKSAtIGluaXRpYWwpICsgIiAiKToK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBibGEoKToK</text>
+        <text encoding="base64">ICAgIHJldHVybiBibGEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmlkID0gMAp0aHJlYWRfbWFwID0ge30KbG9jayA9IHRocmVhZGluZy5Mb2NrKCkKCgpkZWYgZ2V0X3RocmVhZF9pZCgpOgogICAgZ2xvYmFsIGlkLCB0aHJlYWRfbWFwLCBsb2NrCiAgICB0aWQgPSB0aHJlYWRpbmcuY3VycmVudF90aHJlYWQoKS5pZGVudAogICAgaWYgdGlkIG5vdCBpbiB0aHJlYWRfbWFwOgogICAgICAgIHdpdGgKICAgICAgICB0aHJlYWRfbWFwW3RpZF0gPSBpZAogICAgICAgIGlkICs9IDEK</text>
+        <text encoding="base64">ICAgIGRlZiBibGEoKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpdGggbG9jawo=</text>
+        <text encoding="base64">CmlkID0gMAp0aHJlYWRfbWFwID0ge30KbG9jayA9IHRocmVhZGluZy5Mb2NrKCkKCgpkZWYgZ2V0X3RocmVhZF9pZCgpOgogICAgZ2xvYmFsIGlkLCB0aHJlYWRfbWFwLCBsb2NrCiAgICB0aWQgPSB0aHJlYWRpbmcuY3VycmVudF90aHJlYWQoKS5pZGVudAogICAgaWYgdGlkIG5vdCBpbiB0aHJlYWRfbWFwOgogICAgICAgIHdpdGgKICAgICAgICB0aHJlYWRfbWFwW3RpZF0gPSBpZAogICAgICAgIGlkICs9IDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBwLmV4aXRjb2RlOgogICAgICAgICAgICAgICAgICAgIHJldHVybgogICAgICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgIHdpdGggbG9jawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMC4yKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBwLmV4aXRjb2RlOgogICAgICAgICAgICAgICAgICAgIHJldHVybgogICAgICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bG9jayA9IHRocmVhZGluZy5Mb2NrKCkK</text>
+        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMC4yKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBsb2NrCiAgICB3aXRoIGxvY2s6Cg==</text>
+        <text encoding="base64">bG9jayA9IHRocmVhZGluZy5Mb2NrKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpICs9IDE7cHJpbnQoIldBVklMWSB7fSIuZm9ybWF0KGkpKQo=</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBsb2NrCiAgICB3aXRoIGxvY2s6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
