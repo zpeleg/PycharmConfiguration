@@ -100,12 +100,11 @@
         <mark key="." line="64" column="48" />
         <mark key="^" line="64" column="48" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/do_extended_many_user.py" timestamp="1563265811908">
-        <mark key="'" line="52" column="24" />
-        <mark key="[" line="43" column="105" />
-        <mark key="]" line="40" column="16" />
-        <mark key="." line="40" column="16" />
-        <mark key="^" line="40" column="16" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/do_extended_many_user.py" timestamp="1563267858442">
+        <mark key="[" line="49" column="40" />
+        <mark key="]" line="50" column="34" />
+        <mark key="." line="50" column="34" />
+        <mark key="^" line="50" column="34" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1563196012715">
         <mark key="'" line="466" column="19" />
@@ -142,6 +141,18 @@
         <mark key="[" line="115" column="0" />
         <mark key="]" line="115" column="93" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_users_sanity_ft.yaml" timestamp="1563267948164">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="47" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/extended_many_user.yaml" timestamp="1563268440535">
+        <mark key="'" line="48" column="19" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="48" column="24" />
+      </file>
       <file name="/default_daemon_start_detect_music_detection_config" timestamp="1557245313814">
         <mark key="[" line="0" column="0" />
       </file>
@@ -151,15 +162,8 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" timestamp="1563116699256">
         <mark key="'" line="152" column="48" />
       </file>
-      <file name="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/process_utils.py" timestamp="1563206573975" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/algo/weights_streamer.py" timestamp="1563179950535" />
     </filemarks>
     <jumps>
-      <jump line="138" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="127" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="124" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="115" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="97" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
       <jump line="94" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
       <jump line="91" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
       <jump line="34" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
@@ -255,6 +259,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/archives.py" />
       <jump line="36" column="59" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/do_extended_many_user.py" />
       <jump line="44" column="24" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/do_extended_many_user.py" />
+      <jump line="45" column="28" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/do_extended_many_user.py" />
+      <jump line="15" column="32" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_users_sanity_ft.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_users_sanity_ft.yaml" />
+      <jump line="13" column="31" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/extended_many_user.yaml" />
+      <jump line="48" column="19" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/extended_many_user.yaml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -266,50 +275,50 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ecs</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="-" type="4">
-        <text>ecs</text>
+        <text>root</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb25fbG9hZGVyID0gTW9hYkFyY2hpdmVzIGlmIGRhdGFfZm9sZGVyIGlzIE5vbmUgZWxzZSBNb2FiU2Vzc2lvbkxvYWRlcihmb2xkZXI9ZGF0YV9mb2xkZXIpCg==</text>
+      <register name="0" type="4">
+        <text>startedPlaying</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBib29sIGlzX3VuZGVyZ3JvdW5kOiBVc2UgVVQgb3IgRlQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBmYWxzZXBsYXlfb25seToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2NlbmFyaW9fbWV0YWRhdGE9ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgInRlYWNoZXJfYXJjaGl2ZSI6IHRzX2FyY2hpdmVuYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgImlzX3VuZGVyZ3JvdW5kIjogaXNfdW5kZXJncm91bmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uOiBtdXNpY19wbGF5ZXIuZmFzdF9mb3J3YXJkKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBsYXp5X3Byb3BlcnR5KGR1KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQ6IHN0b3BwZWRQbGF5aW5nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UmVtb3ZlIGxvY2sgZnJvbSBUaHJlYWRMb2dnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uOiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KCJhcHBseV9pbl9wcm9jZXNzIikKICAgICAgICAjIHNsZWVwX3RpbWUgPSByYW5kb20ucmFuZGludCgwLCAxMDApCiAgICAgICAgIyBwcmludCgiU2xlZXBpbmcgZm9yIHt9Ii5mb3JtYXQoc2xlZXBfdGltZSkpCiAgICAgICAgIyB0aW1lLnNsZWVwKHNsZWVwX3RpbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U2F2ZSBiZW5jaG1hcmsgYXJjaGl2ZSB3aGVuIGNyZWF0aW5nIGl0Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2NrID0gdGhyZWFkaW5nLkxvY2soKQo=</text>
+        <text encoding="base64">ICAgICMgbWF0Y2hpbmdfcmVjcyA9IChtYXRjaGluZ19hcmNzCiAgICAjICAgICAgICAgICAgICAgICAgfCBzZWxlY3QobGFtYmRhIGFyYzogYXJjLnJlY3MudmFsdWVzKCkKICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8ICkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -366,8 +375,8 @@
         <entry>q</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
