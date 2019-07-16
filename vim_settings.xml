@@ -101,12 +101,12 @@
       <file name="/None" timestamp="1557245313825">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" timestamp="1563291154180">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" timestamp="1563294101602">
         <mark key="'" line="153" column="48" />
-        <mark key="[" line="51" column="28" />
-        <mark key="]" line="51" column="41" />
-        <mark key="^" line="51" column="41" />
-        <mark key="." line="51" column="41" />
+        <mark key="[" line="91" column="73" />
+        <mark key="]" line="91" column="71" />
+        <mark key="^" line="91" column="71" />
+        <mark key="." line="91" column="71" />
       </file>
       <file name="/Python Console" timestamp="1563287980973">
         <mark key="[" line="0" column="0" />
@@ -153,7 +153,7 @@
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="99" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563293300897">
+      <file name="/Dummy.txt" timestamp="1563294059453">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/default_bugatone_api_config" timestamp="1557245315848">
@@ -347,17 +347,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UmVtb3ZlIGxvY2sgZnJvbSBUaHJlYWRMb2dnZXIK</text>
+      <register name="&quot;" type="4">
+        <text>calc_rows_timer.interval</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3Ig</text>
+        <text>calc_rows_timer.interval</text>
       </register>
       <register name="/" type="4">
         <text>or</text>
       </register>
       <register name="0" type="4">
-        <text>convert_mu_ext_archive_to_pandas</text>
+        <text>Manually disabled</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">UmVtb3ZlIGxvY2sgZnJvbSBUaHJlYWRMb2dnZXIK</text>
@@ -447,8 +447,8 @@
         <entry>q</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
