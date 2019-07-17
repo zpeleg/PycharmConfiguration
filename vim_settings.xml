@@ -12,11 +12,6 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/device_communication/pydcomm/benchmarks/benchmark_utils.py" timestamp="1563108524630">
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1563181658772">
         <mark key="[" line="0" column="0" />
       </file>
@@ -31,11 +26,17 @@
       <file name="/a.dummy" timestamp="1562576933220">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1562831654773">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="62" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="64" column="77" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/archives.py" timestamp="1563364585810">
+        <mark key="[" line="145" column="33" />
+        <mark key="]" line="145" column="93" />
+        <mark key="^" line="134" column="11" />
+        <mark key="." line="134" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1563365134437">
+        <mark key="[" line="40" column="121" />
+        <mark key="]" line="40" column="151" />
+        <mark key="." line="40" column="151" />
+        <mark key="^" line="40" column="151" />
       </file>
       <file name="/False" timestamp="1555316610968">
         <mark key="[" line="0" column="0" />
@@ -65,16 +66,17 @@
         <mark key="." line="290" column="23" />
         <mark key="^" line="290" column="23" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1562498980293">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1563363505262">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="148" column="63" />
-        <mark key="]" line="148" column="83" />
-        <mark key="." line="194" column="107" />
-        <mark key="^" line="194" column="107" />
+        <mark key="[" line="157" column="62" />
+        <mark key="]" line="157" column="74" />
+        <mark key="." line="157" column="74" />
+        <mark key="^" line="157" column="74" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563206526883">
+      <file name="/Dummy.txt" timestamp="1563363646855">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Bugatone-Space/python/infra/data/recordings.py" timestamp="1563363073695" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1563183112783">
         <mark key="'" line="89" column="47" />
         <mark key="." line="145" column="0" />
@@ -85,18 +87,19 @@
       <file name="/default_daemon_start_detect_special_sig_config" timestamp="1557245313816">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" timestamp="1562859213024">
+      <file name="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" timestamp="1563364410240">
+        <mark key="'" line="956" column="0" />
         <mark key="[" line="954" column="15" />
         <mark key="]" line="954" column="17" />
         <mark key="^" line="954" column="17" />
         <mark key="." line="954" column="17" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1563206513780">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1563365017987">
         <mark key="'" line="91" column="16" />
-        <mark key="[" line="667" column="0" />
-        <mark key="]" line="667" column="0" />
-        <mark key="." line="667" column="0" />
-        <mark key="^" line="647" column="0" />
+        <mark key="[" line="641" column="0" />
+        <mark key="]" line="641" column="0" />
+        <mark key="." line="641" column="0" />
+        <mark key="^" line="641" column="38" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
         <mark key="[" line="2" column="24" />
@@ -173,102 +176,15 @@
       <file name="/None" timestamp="1557245313825">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" timestamp="1563358006528">
-        <mark key="'" line="152" column="48" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" timestamp="1563365080854">
+        <mark key="'" line="157" column="48" />
+        <mark key="[" line="121" column="25" />
+        <mark key="]" line="121" column="25" />
+        <mark key="." line="121" column="25" />
+        <mark key="^" line="121" column="25" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="16" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="40" column="20" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="119" column="46" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="138" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="127" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="124" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="115" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="97" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="94" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="91" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="59" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" />
-      <jump line="72" column="58" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" />
-      <jump line="75" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" />
-      <jump line="2" column="17" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" />
-      <jump line="150" column="57" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="146" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="142" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="126" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="123" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="114" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="96" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="93" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="75" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="77" column="6" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="86" column="36" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="26" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" />
-      <jump line="156" column="51" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="157" column="8" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="2" column="17" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/benchmarks/benchmark_metadata_tests.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" />
-      <jump line="93" column="51" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" />
-      <jump line="69" column="15" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" />
-      <jump line="108" column="18" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" />
-      <jump line="132" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" />
-      <jump line="98" column="106" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" />
-      <jump line="89" column="75" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" />
-      <jump line="717" column="25" filename="/usr/lib/python2.7/multiprocessing/pool.py" />
-      <jump line="730" column="43" filename="/usr/lib/python2.7/multiprocessing/pool.py" />
-      <jump line="700" column="16" filename="/usr/lib/python2.7/multiprocessing/pool.py" />
-      <jump line="736" column="8" filename="/usr/lib/python2.7/multiprocessing/pool.py" />
-      <jump line="489" column="41" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="196" column="12" filename="$USER_HOME$/device_communication/pydcomm/benchmarks/benchmark_utils.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Bugatone-Space/python/infra/utils/buga_utils.py" />
-      <jump line="185" column="0" filename="$USER_HOME$/device_communication/pydcomm/benchmarks/benchmark_utils.py" />
-      <jump line="474" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="407" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="417" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="419" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="421" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="449" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="460" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="466" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="487" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="498" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="509" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="513" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="552" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="565" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="568" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="582" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="585" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="599" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="595" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="589" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="136" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" />
-      <jump line="190" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" />
-      <jump line="32" column="3" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/per_thread_logger.py" />
-      <jump line="3" column="9" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/per_thread_logger.py" />
-      <jump line="16" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/benchmark_core.py" />
-      <jump line="23" column="62" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="536" column="35" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="473" column="19" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
-      <jump line="151" column="13" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" />
-      <jump line="152" column="48" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" />
-      <jump line="129" column="19" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" />
-      <jump line="17" column="5" filename="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" />
       <jump line="153" column="21" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" />
@@ -278,6 +194,97 @@
       <jump line="123" column="25" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" />
       <jump line="165" column="16" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" />
       <jump line="11" column="5" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" />
+      <jump line="396" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="404" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="412" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="420" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="429" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="437" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="445" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="454" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="463" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="473" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="483" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="493" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="504" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="510" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="520" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="530" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="541" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="548" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="562" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="574" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="649" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="644" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="629" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="593" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="579" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="590" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="592" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="597" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="600" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="602" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="617" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="622" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="624" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="628" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="639" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="641" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="643" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="648" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="652" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="654" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="657" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="662" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="666" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="671" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="675" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="683" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="688" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="691" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="693" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="710" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="713" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="741" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="724" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="714" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="719" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="723" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="731" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="735" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="740" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="747" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="755" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="758" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="771" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="777" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="779" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="786" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="795" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="798" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="800" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="812" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="818" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="825" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="833" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="842" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="846" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="851" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="861" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="874" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="884" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="890" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="898" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="908" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="914" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="919" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="925" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="931" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="937" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="939" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="945" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="948" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
+      <jump line="956" column="0" filename="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -290,49 +297,49 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>, end=&quot;&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>, end=&quot;&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzbGVlcCgxKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCIuIiwgZW5kPSIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UmVtb3ZlIGxvY2sgZnJvbSBUaHJlYWRMb2dnZXIK</text>
+        <text encoding="base64">ICAgIHJhaXNlIEV4Y2VwdGlvbigiSXQncyBvay4gSSdtIGZpbmUuIikK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KCJhcHBseV9pbl9wcm9jZXNzIikKICAgICAgICAjIHNsZWVwX3RpbWUgPSByYW5kb20ucmFuZGludCgwLCAxMDApCiAgICAgICAgIyBwcmludCgiU2xlZXBpbmcgZm9yIHt9Ii5mb3JtYXQoc2xlZXBfdGltZSkpCiAgICAgICAgIyB0aW1lLnNsZWVwKHNsZWVwX3RpbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U2F2ZSBiZW5jaG1hcmsgYXJjaGl2ZSB3aGVuIGNyZWF0aW5nIGl0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2NrID0gdGhyZWFkaW5nLkxvY2soKQo=</text>
+        <text encoding="base64">UmVtb3ZlIGxvY2sgZnJvbSBUaHJlYWRMb2dnZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBzZWxmLmxvY2s6Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KCJhcHBseV9pbl9wcm9jZXNzIikKICAgICAgICAjIHNsZWVwX3RpbWUgPSByYW5kb20ucmFuZGludCgwLCAxMDApCiAgICAgICAgIyBwcmludCgiU2xlZXBpbmcgZm9yIHt9Ii5mb3JtYXQoc2xlZXBfdGltZSkpCiAgICAgICAgIyB0aW1lLnNsZWVwKHNsZWVwX3RpbWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBzZWxmLmxvY2s6Cg==</text>
+        <text encoding="base64">U2F2ZSBiZW5jaG1hcmsgYXJjaGl2ZSB3aGVuIGNyZWF0aW5nIGl0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpdGggaW5kZW50X3ByaW50aW5nKGxhbWJkYTogc3RyKGdldF9taWxsaXMoKSAtIGluaXRpYWwpICsgIiAiKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2NrID0gdGhyZWFkaW5nLkxvY2soKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBibGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBzZWxmLmxvY2s6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBibGEoKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBzZWxmLmxvY2s6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -389,8 +396,8 @@
         <entry>q</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
