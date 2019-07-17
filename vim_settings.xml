@@ -32,10 +32,10 @@
         <mark key="^" line="134" column="11" />
         <mark key="." line="134" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1563365134437">
-        <mark key="[" line="40" column="121" />
-        <mark key="]" line="40" column="151" />
-        <mark key="." line="40" column="151" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1563366011583">
+        <mark key="[" line="24" column="47" />
+        <mark key="]" line="24" column="78" />
+        <mark key="." line="24" column="47" />
         <mark key="^" line="40" column="151" />
       </file>
       <file name="/False" timestamp="1555316610968">
@@ -297,10 +297,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, end=&quot;&quot;)</text>
+        <text>; raise Exception(&quot;dont panic&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>, end=&quot;&quot;)</text>
+        <text>; raise Exception(&quot;dont panic&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
@@ -396,8 +396,8 @@
         <entry>q</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
