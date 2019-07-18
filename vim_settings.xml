@@ -119,6 +119,11 @@
         <mark key="^" line="11" column="64" />
         <mark key="." line="11" column="44" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/do_many_user_extended.py" timestamp="1563450770047">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1563374431013">
         <mark key="'" line="373" column="79" />
         <mark key="[" line="554" column="40" />
@@ -295,7 +300,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">TWFrZSBzaGl0IGZhc3Rlcgo=</text>
+        <text encoding="base64">ICAgICIiIiAiIiIK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -307,37 +312,37 @@
         <text>bugaconfig.jointo.mobileproduct_oppo_archives_path(&quot;../moab&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TWFrZSBzaGl0IGZhc3Rlcgo=</text>
+        <text encoding="base64">ICAgICIiIiAiIiIK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">TWFrZSBzaGl0IGZhc3Rlcgo=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgICAiIiIKCiAgICAgICAgIiIi</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQoIi4iKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpZiBsZW4ob3RoZXJfdXNlcl9yZWNzKSA+IDU6CiAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbigiVG9vbCBsb25nLiIpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Q2FjaGUgYXJjaGl2ZXMgd2hlbiBjcmVhdGluZyB0aW1lbGluZXMK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4ob3RoZXJfdXNlcl9yZWNzID4gNTApOgogICAgICAgICAgICByYWlzZSAK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4ob3RoZXJfdXNlcl9yZWNzID4gNTApOgogICAgICAgICAgICByYWlzZSAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Rml4dXBzCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlc3Npb25fbG9hZGVyID0gTW9hYlNlc3Npb25Mb2FkZXIoZGF0YV9kaXIpIGlmIGRhdGFfZGlyIGlzIG5vdCBOb25lIGVsc2UgTW9hYkFyY2hpdmVzCg==</text>
+        <text encoding="base64">Rml4dXBzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
