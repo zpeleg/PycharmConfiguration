@@ -89,6 +89,11 @@
         <mark key="^" line="954" column="17" />
         <mark key="." line="954" column="17" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/many_user_extended_summary.py" timestamp="1563451367138">
+        <mark key="[" line="111" column="25" />
+        <mark key="]" line="111" column="26" />
+        <mark key="." line="111" column="25" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1563367285229">
         <mark key="'" line="91" column="16" />
         <mark key="[" line="542" column="16" />
@@ -299,11 +304,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICIiIiAiIiIK</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
