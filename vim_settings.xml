@@ -179,6 +179,9 @@
         <mark key="." line="28" column="32" />
         <mark key="^" line="18" column="35" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/many_user_extended.yaml" timestamp="1563460205267">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/default_daemon_start_detect_music_detection_config" timestamp="1557245313814">
         <mark key="[" line="0" column="0" />
       </file>
@@ -193,8 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="42" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" />
-      <jump line="138" column="22" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" />
       <jump line="283" column="31" filename="/usr/lib/python2.7/multiprocessing/pool.py" />
       <jump line="123" column="25" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" />
       <jump line="165" column="16" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/apply_in_process_sucks.py" />
@@ -293,6 +294,8 @@
       <jump line="625" column="114" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
       <jump line="3" column="45" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
       <jump line="373" column="79" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
+      <jump line="102" column="103" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/many_user_extended.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/many_user_extended.yaml" />
     </jumps>
     <registers>
       <register name="a" type="4">
