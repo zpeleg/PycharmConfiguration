@@ -37,10 +37,11 @@
         <mark key="." line="666" column="62" />
         <mark key="^" line="666" column="62" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo2/do_auth_demo2.py" timestamp="1563721853154">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo2/do_auth_demo2.py" timestamp="1563724486176">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="35" column="85" />
+        <mark key="." line="35" column="85" />
+        <mark key="^" line="35" column="85" />
       </file>
       <file name="/" timestamp="1559831585730">
         <mark key="[" line="0" column="0" />
@@ -272,49 +273,49 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGZpbHRlcl9hdXRoX3JlY3MocmVjcyk6CiAgICByZXR1cm4gW3ggZm9yIF8sIHggaW4gc29ydGVkKHJlY3MuaXRlbXMoKSkgaWYgeC5tZXRhZGF0YVsnc29uZyddIG5vdCBpbiBbJ3RoZV9waXBzJywgJ3doaXRlX25vaXNlJywgTm9uZV1dCg==</text>
+        <text encoding="base64">ICAgIHJlY3NfYXV0aF9zZXNzaW9uID0gWyhpLCByZWMpIGZvciBpLCByZWMgaW4gZW51bWVyYXRlKHJlY3NfZmlsdGVyZWQsIDEpXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>benchmarks_</text>
+        <text>set_env_port</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEb2VzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGVmIGZpbHRlcl9hdXRoX3JlY3MocmVjcyk6CiAgICByZXR1cm4gW3ggZm9yIF8sIHggaW4gc29ydGVkKHJlY3MuaXRlbXMoKSkgaWYgeC5tZXRhZGF0YVsnc29uZyddIG5vdCBpbiBbJ3RoZV9waXBzJywgJ3doaXRlX25vaXNlJ11dCg==</text>
+      <register name="0" type="4">
+        <text>get_port_function()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGZpbHRlcl9hdXRoX3JlY3MocmVjcyk6CiAgICByZXR1cm4gW3ggZm9yIF8sIHggaW4gc29ydGVkKHJlY3MuaXRlbXMoKSkgaWYgeC5tZXRhZGF0YVsnc29uZyddIG5vdCBpbiBbJ3RoZV9waXBzJywgJ3doaXRlX25vaXNlJywgTm9uZV1dCg==</text>
+        <text encoding="base64">ICAgIHJlY3NfYXV0aF9zZXNzaW9uID0gWyhpLCByZWMpIGZvciBpLCByZWMgaW4gZW51bWVyYXRlKHJlY3NfZmlsdGVyZWQsIDEpXQo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGZpbHRlcl9hdXRoX3JlY3MocmVjcyk6CiAgICByZXR1cm4gW3ggZm9yIF8sIHggaW4gc29ydGVkKHJlY3MuaXRlbXMoKSkgaWYgeC5tZXRhZGF0YVsnc29uZyddIG5vdCBpbiBbJ3RoZV9waXBzJywgJ3doaXRlX25vaXNlJywgTm9uZV1dCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGZpbHRlcl9hdXRoX3JlY3MocmVjcyk6CiAgICByZXR1cm4gW3ggZm9yIF8sIHggaW4gc29ydGVkKHJlY3MuaXRlbXMoKSkgaWYgeC5tZXRhZGF0YVsnc29uZyddIG5vdCBpbiBbJ3RoZV9waXBzJywgJ3doaXRlX25vaXNlJ11dCg==</text>
+        <text encoding="base64">ICAgIHNldF9lbnZfcG9ydCA9IGdldF9wb3J0X2Z1bmN0aW9uKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGZpbHRlcl9hdXRoX3JlY3MocmVjcyk6CiAgICByZXR1cm4gW3ggZm9yIF8sIHggaW4gc29ydGVkKHJlY3MuaXRlbXMoKSkgaWYgeC5tZXRhZGF0YVsnc29uZyddIG5vdCBpbiBbJ3RoZV9waXBzJywgJ3doaXRlX25vaXNlJywgTm9uZV1dCg==</text>
+        <text encoding="base64">ICAgIHNldF9lbnZfcG9ydCA9IGdldF9wb3J0X2Z1bmN0aW9uKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfcm93KGJlbmNoKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIGlmIGJlbmNoLmVycm9yOgogICAgICAgICAgICAgICAgcmV0dXJuIHBkLkRhdGFGcmFtZShkYXRhPVt7ImJlbmNobWFya19mb2xkZXIiOiBiZW5jaC5mdWxscGF0aCwgImxvYWRfZXJyb3IiOiBiZW5jaC5lcnJvcn1dKQogICAgICAgICAgICByZXR1cm4gZnVuY3Rpb24oYmVuY2gpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICByZXR1cm4gcGQuRGF0YUZyYW1lKGRhdGE9W3siYmVuY2htYXJrX2ZvbGRlciI6IGJlbmNoLmZ1bGxwYXRoLCAibG9hZF9lcnJvciI6IHN0cihlKX1dKQo=</text>
+        <text encoding="base64">ZGVmIGZpbHRlcl9hdXRoX3JlY3MocmVjcyk6CiAgICByZXR1cm4gW3ggZm9yIF8sIHggaW4gc29ydGVkKHJlY3MuaXRlbXMoKSkgaWYgeC5tZXRhZGF0YVsnc29uZyddIG5vdCBpbiBbJ3RoZV9waXBzJywgJ3doaXRlX25vaXNlJywgTm9uZV1dCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QWRkIGxvY2sgYXJvdW5kIFByb2Nlc3MgY3JlYXRpb24K</text>
+        <text encoding="base64">ZGVmIGZpbHRlcl9hdXRoX3JlY3MocmVjcyk6CiAgICByZXR1cm4gW3ggZm9yIF8sIHggaW4gc29ydGVkKHJlY3MuaXRlbXMoKSkgaWYgeC5tZXRhZGF0YVsnc29uZyddIG5vdCBpbiBbJ3RoZV9waXBzJywgJ3doaXRlX25vaXNlJywgTm9uZV1dCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmRlZiB0aGlzKCk6CiAgICBwYXNzCnAgPSBQcm9jZXNzKHRoaXMpCnAuc3RhcnQoKQo=</text>
+        <text encoding="base64">ZGVmIGZpbHRlcl9hdXRoX3JlY3MocmVjcyk6CiAgICByZXR1cm4gW3ggZm9yIF8sIHggaW4gc29ydGVkKHJlY3MuaXRlbXMoKSkgaWYgeC5tZXRhZGF0YVsnc29uZyddIG5vdCBpbiBbJ3RoZV9waXBzJywgJ3doaXRlX25vaXNlJ11dCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpID0wCg==</text>
+        <text encoding="base64">ZGVmIGZpbHRlcl9hdXRoX3JlY3MocmVjcyk6CiAgICByZXR1cm4gW3ggZm9yIF8sIHggaW4gc29ydGVkKHJlY3MuaXRlbXMoKSkgaWYgeC5tZXRhZGF0YVsnc29uZyddIG5vdCBpbiBbJ3RoZV9waXBzJywgJ3doaXRlX25vaXNlJywgTm9uZV1dCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkrPTEKICAgICAgICAgICAgICAgIGlmIGk+MTAwOgogICAgICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfcm93KGJlbmNoKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIGlmIGJlbmNoLmVycm9yOgogICAgICAgICAgICAgICAgcmV0dXJuIHBkLkRhdGFGcmFtZShkYXRhPVt7ImJlbmNobWFya19mb2xkZXIiOiBiZW5jaC5mdWxscGF0aCwgImxvYWRfZXJyb3IiOiBiZW5jaC5lcnJvcn1dKQogICAgICAgICAgICByZXR1cm4gZnVuY3Rpb24oYmVuY2gpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICByZXR1cm4gcGQuRGF0YUZyYW1lKGRhdGE9W3siYmVuY2htYXJrX2ZvbGRlciI6IGJlbmNoLmZ1bGxwYXRoLCAibG9hZF9lcnJvciI6IHN0cihlKX1dKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -371,8 +372,8 @@
         <entry>q</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
