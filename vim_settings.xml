@@ -44,11 +44,10 @@
         <mark key="." line="52" column="8" />
         <mark key="^" line="51" column="17" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/compute_ft_calibs.py" timestamp="1563717555995">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="78" column="8" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/compute_ft_calibs.py" timestamp="1563794224100">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/per_thread_logger.py" timestamp="1563205516602">
         <mark key="[" line="12" column="0" />
@@ -62,12 +61,10 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="15" />
       </file>
-      <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" timestamp="1563787407805">
-        <mark key="'" line="136" column="12" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="35" />
-        <mark key="^" line="127" column="25" />
-        <mark key="." line="136" column="0" />
+      <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" timestamp="1563794850636">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1563721839830">
         <mark key="[" line="153" column="102" />
@@ -81,11 +78,11 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/please_stuck.py" timestamp="1563788855811">
-        <mark key="[" line="14" column="10" />
-        <mark key="]" line="14" column="11" />
-        <mark key="." line="14" column="11" />
-        <mark key="^" line="9" column="29" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/please_stuck.py" timestamp="1563794761000">
+        <mark key="[" line="20" column="110" />
+        <mark key="]" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+        <mark key="^" line="21" column="14" />
       </file>
       <file name="/default_bugatone_api_config" timestamp="1557245315848">
         <mark key="[" line="0" column="0" />
@@ -296,10 +293,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1.0</text>
+        <text>=12</text>
       </register>
       <register name="-" type="4">
-        <text>1.0</text>
+        <text>=12</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEb2VzXD4=</text>
@@ -308,37 +305,37 @@
         <text encoding="base64">ICAgICAgICAgICAgc3Rkb3V0cXVldWUucHJpbnRfYWxsKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2xlZXAoMC4xKQogICAgICAgICAgICBwcmludCgiYXNkYXNkIiArIHN0cihpKSkKICAgICAgICAgICAgc3VtICo9IGkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaSArPSAxCiAgICAgICAgICAgIGlmIGkgPiA1MDoKICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBhY3RpdmVfY2hpbGRyZW4oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2xlZXAoMC4xKQogICAgICAgICAgICBwcmludCgiYXNkYXNkIiArIHN0cihpKSkKICAgICAgICAgICAgc3VtICo9IGkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwLmlzX2FsaXZlKCk6CiAgICAgICAgICAgICMgcC50ZXJtaW5hdGUoKQogICAgICAgICAgICAjIHAuam9pbigpCiAgICAgICAgICAgIGFjdGl2ZV9jaGlsZHJlbigpCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UmVtb3ZlIGxvY2sgZnJvbSBUaHJlYWRMb2dnZXIK</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEVOUk9MTF9SRUMgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBwLmlzX2FsaXZlKCk6CiAgICAgICAgICAgICMgcC50ZXJtaW5hdGUoKQogICAgICAgICAgICAjIHAuam9pbigpCiAgICAgICAgICAgIGFjdGl2ZV9jaGlsZHJlbigpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">UmVtb3ZlIGxvY2sgZnJvbSBUaHJlYWRMb2dnZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVudW1lcmF0ZShpdGVydG9vbHMuY2hhaW4odHdvX2Vucm9sbHMsIG90aGVyX3VzZXJzX2xhc3RfYXV0aCwgb3RoZXJfZW5yb2xscywgYWxsX3JlbWFpbmluZ19hdXRoZXMpKQo=</text>
+        <text encoding="base64">ICAgIEVOUk9MTF9SRUMgPSAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
