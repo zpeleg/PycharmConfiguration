@@ -18,7 +18,7 @@
         <mark key="." line="95" column="19" />
         <mark key="^" line="95" column="19" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/paint_it_none.py" timestamp="1563805208661">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/paint_it_none.py" timestamp="1563806014303">
         <mark key="[" line="10" column="32" />
         <mark key="]" line="10" column="33" />
         <mark key="^" line="10" column="33" />
@@ -50,8 +50,12 @@
         <mark key="." line="52" column="8" />
         <mark key="^" line="51" column="17" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/compute_ft_calibs.py" timestamp="1563802373195">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/compute_ft_calibs.py" timestamp="1563806564129">
         <mark key="'" line="82" column="8" />
+        <mark key="[" line="41" column="61" />
+        <mark key="]" line="41" column="64" />
+        <mark key="^" line="41" column="64" />
+        <mark key="." line="41" column="64" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/per_thread_logger.py" timestamp="1563205516602">
         <mark key="[" line="12" column="0" />
@@ -299,10 +303,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>False</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEb2VzXD4=</text>
@@ -398,8 +402,8 @@
         <entry>q</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
