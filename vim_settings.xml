@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1563788512006">
+      <file name="/Python Console" timestamp="1563809015759">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1563350815586">
@@ -115,11 +115,11 @@
         <mark key="." line="667" column="62" />
         <mark key="^" line="667" column="62" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo2/do_auth_demo2.py" timestamp="1563728686849">
-        <mark key="[" line="15" column="5" />
-        <mark key="]" line="15" column="20" />
-        <mark key="." line="15" column="20" />
-        <mark key="^" line="15" column="20" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo2/do_auth_demo2.py" timestamp="1563809237968">
+        <mark key="[" line="43" column="63" />
+        <mark key="]" line="49" column="37" />
+        <mark key="." line="49" column="37" />
+        <mark key="^" line="49" column="37" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
         <mark key="[" line="2" column="24" />
@@ -303,49 +303,49 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>with_numbers</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>with_numbers</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEb2VzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIi0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCiAgICAgICAgICAgIHByaW50KCJBQUFxICIgKyBzdHIocS5lbXB0eSgpKSkKICAgICAgICAgICAgcHJpbnQoIkFBQXN0ZG91dCAiICsgc3RyKHN0ZG91dHF1ZXVlLmVtcHR5KCkpKQogICAgICAgICAgICBwcmludCgiLS0tLS0tLS0tLS0tLS0tLS0tLS0tIikK</text>
+        <text encoding="base64">ICAgIHJlY3MuYXBwZW5kKGdyb3VwZWRfYnlfdXNlclswXVsxXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGZvciB1c2VyIGluIGZsYXR0aXNoOgogICAgICAgIHJlY3MuYXBwZW5kKHVzZXJbLTFdKQo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBpID0gMAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgIGZpbmFsbHk6CiAgICAgICAgICAgICMgaWYgcC5pc19hbGl2ZSgpOgogICAgICAgICAgICAjIHAudGVybWluYXRlKCkKICAgICAgICAgICAgdGltZS5zbGVlcCgxKQogICAgICAgICAgICBzdGRvdXRxdWV1ZS5wcmludF9hbGwoKQogICAgICAgICAgICBwcmludCgiLS0tLS0tLS0tLS0tLS0tLS0tLS0tIikKICAgICAgICAgICAgcHJpbnQoIkFBQXEgIiArIHN0cihxLmVtcHR5KCkpKQogICAgICAgICAgICBwcmludCgiQUFBc3Rkb3V0ICIgKyBzdHIoc3Rkb3V0cXVldWUuZW1wdHkoKSkpCiAgICAgICAgICAgIHByaW50KCItLS0tLS0tLS0tLS0tLS0tLS0tLS0iKQogICAgICAgICAgICBwLmpvaW4oKQogICAgICAgICAgICBzdGRvdXRxdWV1ZS5wcmludF9hbGwoKQogICAgICAgICAgICBwcmludCgiLS0tLS0tLS0tLS0tLS0tLS0tLS0tIikKICAgICAgICAgICAgcHJpbnQoIkFBQSBhZnRlciBxICIgKyBzdHIocS5lbXB0eSgpKSkKICAgICAgICAgICAgcHJpbnQoIkFBQSBhZnRlciBzdGRvdXQgIiArIHN0cihzdGRvdXRxdWV1ZS5lbXB0eSgpKSkKICAgICAgICAgICAgcHJpbnQoIi0tLS0tLS0tLS0tLS0tLS0tLS0tLSIp</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3Rkb3V0cXVldWUuZW1wdHkoKSkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZlX2NoaWxkcmVuKCkK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZlX2NoaWxkcmVuKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZlX2NoaWxkcmVuKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaSArPSAxCiAgICAgICAgICAgIGlmIGkgPiA1MDoKICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZlX2NoaWxkcmVuKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBhY3RpdmVfY2hpbGRyZW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaSArPSAxCiAgICAgICAgICAgIGlmIGkgPiA1MDoKICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -402,8 +402,8 @@
         <entry>q</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
