@@ -25,12 +25,12 @@
         <mark key="." line="25" column="19" />
         <mark key="^" line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1563886821105">
-        <mark key="'" line="69" column="69" />
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="13" column="3" />
-        <mark key="^" line="13" column="3" />
-        <mark key="." line="13" column="3" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1563890627694">
+        <mark key="'" line="73" column="69" />
+        <mark key="[" line="58" column="33" />
+        <mark key="]" line="58" column="33" />
+        <mark key="^" line="58" column="33" />
+        <mark key="." line="58" column="33" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/paint_it_none.py" timestamp="1563806014303">
         <mark key="[" line="10" column="32" />
@@ -187,6 +187,10 @@
         <mark key="^" line="98" column="28" />
         <mark key="." line="83" column="0" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_users_sanity_ft.yaml" timestamp="1563889228610">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="34" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/replay_ui.py" timestamp="1563352442795">
         <mark key="[" line="71" column="102" />
         <mark key="]" line="71" column="102" />
@@ -329,17 +333,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlY19pbmRleCA9IDAK</text>
+      <register name="&quot;" type="4">
+        <text>; rec_index += 1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>; rec_index += 1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEb2VzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiByZWNvbm5lY3RfZWFycGhvbmVzKGludGVycHJldGVyPWludGVycHJldGVyLCBFdmVudD1FdmVudCk6CiAgICAgIGludGVycHJldGVyLnF1ZXVlKEV2ZW50KCJkaXNjb25uZWN0ZWRIZWFkcGhvbmVzIikpCiAgICAgIGludGVycHJldGVyLnF1ZXVlKEV2ZW50KCJjb25uZWN0ZWRIZWFkcGhvbmVzIikpCiAgICAgIGludGVycHJldGVyLnF1ZXVlKEV2ZW50KCJwcmVzc2VkUGxheSIpKQo=</text>
+      <register name="0" type="4">
+        <text>RestOfEnrolling</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJlY19pbmRleCA9IDAK</text>
