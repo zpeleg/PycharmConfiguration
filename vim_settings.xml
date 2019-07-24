@@ -140,7 +140,7 @@
         <mark key="^" line="95" column="19" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/daemon_flow_single_player.yaml" timestamp="1563976659872" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1563976985958">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1563979324689">
         <mark key="[" line="72" column="41" />
         <mark key="]" line="72" column="41" />
         <mark key="." line="72" column="41" />
@@ -190,11 +190,11 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563976959170">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="22" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1563979089244">
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="/default_bugatone_api_config" timestamp="1557245315848">
         <mark key="[" line="0" column="0" />
@@ -334,7 +334,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>; print(&quot;AAA Reconnecting&quot;)</text>
+        <text>authentication.yaml now supports enrolling only one user, this fixes a bug
+
+For now we don't need that support, if we will need there will be 
+development work anyway</text>
       </register>
       <register name="-" type="4">
         <text>; print(&quot;AAA Reconnecting&quot;)</text>
@@ -345,41 +348,44 @@
       <register name="0" type="4">
         <text>interpreter=interpreter, Event=Event):</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uOiBwcmludCgiQUFBIENvbm5lY3RlZCIpCg==</text>
-      </register>
-      <register name="q" type="4">
-        <text>k</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFzc2VydCBzZWxmLmNsaWVudCBpcyBOb25lLCAiUlBDIGNsaWVudCBhbHJlYWR5IHN0YXJ0ZWQiCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbm5lY3RlZF9ldmVudCA9IE5vbmUK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm5lY3QgPSBsYW1iZGEgKmFyZ3M6IE5vbmUK</text>
-      </register>
-      <register name="6" type="4">
+      <register name="1" type="4">
         <text>authentication.yaml now supports enrolling only one user, this fixes a bug
 
 For now we don't need that support, if we will need there will be 
 development work anyway</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">QWRkIHByaW50cyBhdCBzdGFydCBhbmQgZW5kIG9mIGFyY2hpdmUgcHJvY2Vzc2luZwo=</text>
+      <register name="q" type="4">
+        <text>k</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uOiBwcmludCgiQUFBIENvbm5lY3RlZCIpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjIGFzc2VydCBzZWxmLmNsaWVudCBpcyBOb25lLCAiUlBDIGNsaWVudCBhbHJlYWR5IHN0YXJ0ZWQiCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjIGNvbm5lY3RlZF9ldmVudCA9IE5vbmUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm5lY3QgPSBsYW1iZGEgKmFyZ3M6IE5vbmUK</text>
+      </register>
+      <register name="7" type="4">
+        <text>authentication.yaml now supports enrolling only one user, this fixes a bug
+
+For now we don't need that support, if we will need there will be 
+development work anyway</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">QWRkIHByaW50cyBhdCBzdGFydCBhbmQgZW5kIG9mIGFyY2hpdmUgcHJvY2Vzc2luZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UmVjb25uZWN0IGVhcnBob25lcyBiZXR3ZWVuIG1hbnkgdXNlcnMgc2Vzc2lvbnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
