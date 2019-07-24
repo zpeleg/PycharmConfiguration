@@ -62,11 +62,11 @@
         <mark key="^" line="19" column="15" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1563880462350" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1563957052583">
-        <mark key="[" line="665" column="59" />
-        <mark key="]" line="665" column="62" />
-        <mark key="." line="665" column="62" />
-        <mark key="^" line="665" column="62" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1563982900350">
+        <mark key="[" line="666" column="49" />
+        <mark key="]" line="666" column="65" />
+        <mark key="." line="666" column="65" />
+        <mark key="^" line="666" column="65" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo2/do_auth_demo2.py" timestamp="1563885684706">
         <mark key="[" line="3" column="5" />
@@ -190,11 +190,8 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563979089244">
-        <mark key="[" line="0" column="35" />
-        <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1563982923761">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/default_bugatone_api_config" timestamp="1557245315848">
         <mark key="[" line="0" column="0" />
@@ -333,11 +330,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>authentication.yaml now supports enrolling only one user, this fixes a bug
-
-For now we don't need that support, if we will need there will be 
-development work anyway</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Rml4IHJwYyByZWNvbm5lY3Rpb24gaW4gYXV0aCBtYW55IHVzZXIK</text>
       </register>
       <register name="-" type="4">
         <text>; print(&quot;AAA Reconnecting&quot;)</text>
@@ -348,44 +342,44 @@ development work anyway</text>
       <register name="0" type="4">
         <text>interpreter=interpreter, Event=Event):</text>
       </register>
-      <register name="1" type="4">
-        <text>authentication.yaml now supports enrolling only one user, this fixes a bug
-
-For now we don't need that support, if we will need there will be 
-development work anyway</text>
+      <register name="1" type="2">
+        <text encoding="base64">Rml4IHJwYyByZWNvbm5lY3Rpb24gaW4gYXV0aCBtYW55IHVzZXIK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uOiBwcmludCgiQUFBIENvbm5lY3RlZCIpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFzc2VydCBzZWxmLmNsaWVudCBpcyBOb25lLCAiUlBDIGNsaWVudCBhbHJlYWR5IHN0YXJ0ZWQiCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbm5lY3RlZF9ldmVudCA9IE5vbmUK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm5lY3QgPSBsYW1iZGEgKmFyZ3M6IE5vbmUK</text>
-      </register>
-      <register name="7" type="4">
+      <register name="2" type="4">
         <text>authentication.yaml now supports enrolling only one user, this fixes a bug
 
 For now we don't need that support, if we will need there will be 
 development work anyway</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uOiBwcmludCgiQUFBIENvbm5lY3RlZCIpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjIGFzc2VydCBzZWxmLmNsaWVudCBpcyBOb25lLCAiUlBDIGNsaWVudCBhbHJlYWR5IHN0YXJ0ZWQiCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjIGNvbm5lY3RlZF9ldmVudCA9IE5vbmUK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm5lY3QgPSBsYW1iZGEgKmFyZ3M6IE5vbmUK</text>
+      </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">QWRkIHByaW50cyBhdCBzdGFydCBhbmQgZW5kIG9mIGFyY2hpdmUgcHJvY2Vzc2luZwo=</text>
+      <register name="8" type="4">
+        <text>authentication.yaml now supports enrolling only one user, this fixes a bug
+
+For now we don't need that support, if we will need there will be 
+development work anyway</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">QWRkIHByaW50cyBhdCBzdGFydCBhbmQgZW5kIG9mIGFyY2hpdmUgcHJvY2Vzc2luZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -442,8 +436,8 @@ development work anyway</text>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>x</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
