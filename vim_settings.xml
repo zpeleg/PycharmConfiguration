@@ -3,20 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1563970718017">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1563970581272">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1563875942768">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/archives.py" timestamp="1563290432471">
-        <mark key="[" line="93" column="72" />
-        <mark key="]" line="95" column="19" />
-        <mark key="." line="95" column="19" />
-        <mark key="^" line="95" column="19" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo2/auth_demo2.yaml" timestamp="1563884612557">
         <mark key="'" line="93" column="0" />
@@ -24,14 +12,6 @@
         <mark key="]" line="25" column="19" />
         <mark key="." line="25" column="19" />
         <mark key="^" line="25" column="19" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/daemon_flow_single_player.yaml" timestamp="1563957260030" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1563970668745">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="78" column="20" />
-        <mark key="]" line="78" column="33" />
-        <mark key="." line="78" column="33" />
-        <mark key="^" line="78" column="33" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/paint_it_none.py" timestamp="1563806014303">
         <mark key="[" line="10" column="32" />
@@ -48,20 +28,6 @@
         <mark key="]" line="29" column="140" />
         <mark key="." line="29" column="140" />
         <mark key="^" line="1" column="15" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/many_user_authentication_summary.py" timestamp="1563968173914">
-        <mark key="'" line="223" column="56" />
-        <mark key="[" line="215" column="0" />
-        <mark key="]" line="216" column="119" />
-        <mark key="." line="215" column="0" />
-        <mark key="^" line="270" column="86" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/do_auth_demo.py" timestamp="1563885217332">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="37" column="29" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="54" column="50" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/aaa.py" timestamp="1563710168308">
         <mark key="'" line="68" column="0" />
@@ -83,40 +49,6 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/common.py" timestamp="1563885152210">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="59" column="54" />
-        <mark key="]" line="59" column="54" />
-        <mark key="^" line="59" column="54" />
-        <mark key="." line="59" column="54" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/uxevents.yaml" timestamp="1563896760569">
-        <mark key="[" line="19" column="55" />
-        <mark key="]" line="19" column="59" />
-        <mark key="." line="19" column="59" />
-        <mark key="^" line="19" column="59" />
-      </file>
-      <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" timestamp="1563799878642">
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
-        <mark key="^" line="149" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" timestamp="1563876302052">
-        <mark key="[" line="333" column="23" />
-        <mark key="]" line="333" column="39" />
-        <mark key="." line="333" column="39" />
-        <mark key="^" line="333" column="39" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1563970712037">
-        <mark key="[" line="72" column="35" />
-        <mark key="]" line="72" column="55" />
-        <mark key="^" line="72" column="34" />
-        <mark key="." line="72" column="35" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1563970274433">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmarks.py" timestamp="1563876550971">
         <mark key="[" line="29" column="14" />
         <mark key="]" line="29" column="13" />
@@ -130,12 +62,6 @@
         <mark key="^" line="19" column="15" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1563880462350" />
-      <file name="/default_bugatone_api_config" timestamp="1557245315848">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/default_daemon_start_detect_special_sig_config" timestamp="1557245313816">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1563957052583">
         <mark key="[" line="665" column="59" />
         <mark key="]" line="665" column="62" />
@@ -147,15 +73,6 @@
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
-        <mark key="[" line="2" column="24" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/export.py" timestamp="1563290665729">
-        <mark key="[" line="3" column="45" />
-        <mark key="]" line="3" column="89" />
-        <mark key="^" line="3" column="89" />
-        <mark key="." line="3" column="89" />
       </file>
       <file name="/" timestamp="1559831585730">
         <mark key="[" line="0" column="0" />
@@ -203,6 +120,99 @@
         <mark key="." line="71" column="102" />
         <mark key="^" line="71" column="102" />
       </file>
+      <file name="/None" timestamp="1557245313825">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_users_sanity.yaml" timestamp="1563886807322">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="13" column="45" />
+      </file>
+      <file name="/Python Console" timestamp="1563972372409">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1563972365981">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/archives.py" timestamp="1563290432471">
+        <mark key="[" line="93" column="72" />
+        <mark key="]" line="95" column="19" />
+        <mark key="." line="95" column="19" />
+        <mark key="^" line="95" column="19" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/daemon_flow_single_player.yaml" timestamp="1563957260030" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1563971842860">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="37" column="72" />
+        <mark key="]" line="37" column="72" />
+        <mark key="." line="37" column="72" />
+        <mark key="^" line="37" column="94" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/many_user_authentication_summary.py" timestamp="1563968173914">
+        <mark key="'" line="223" column="56" />
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="216" column="119" />
+        <mark key="." line="215" column="0" />
+        <mark key="^" line="270" column="86" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/do_auth_demo.py" timestamp="1563885217332">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="37" column="29" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="54" column="50" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/common.py" timestamp="1563885152210">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="59" column="54" />
+        <mark key="]" line="59" column="54" />
+        <mark key="^" line="59" column="54" />
+        <mark key="." line="59" column="54" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/uxevents.yaml" timestamp="1563896760569">
+        <mark key="[" line="19" column="55" />
+        <mark key="]" line="19" column="59" />
+        <mark key="." line="19" column="59" />
+        <mark key="^" line="19" column="59" />
+      </file>
+      <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" timestamp="1563799878642">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
+        <mark key="^" line="149" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" timestamp="1563876302052">
+        <mark key="[" line="333" column="23" />
+        <mark key="]" line="333" column="39" />
+        <mark key="." line="333" column="39" />
+        <mark key="^" line="333" column="39" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1563972604929">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="157" column="30" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1563972293556">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/default_bugatone_api_config" timestamp="1557245315848">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/default_daemon_start_detect_special_sig_config" timestamp="1557245313816">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
+        <mark key="[" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/export.py" timestamp="1563290665729">
+        <mark key="[" line="3" column="45" />
+        <mark key="]" line="3" column="89" />
+        <mark key="^" line="3" column="89" />
+        <mark key="." line="3" column="89" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/many_user_extended.yaml" timestamp="1563292816819">
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="0" />
@@ -211,13 +221,6 @@
       </file>
       <file name="/default_daemon_start_detect_music_detection_config" timestamp="1557245313814">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/None" timestamp="1557245313825">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_users_sanity.yaml" timestamp="1563886807322">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="13" column="45" />
       </file>
     </filemarks>
     <jumps>
@@ -332,11 +335,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Enrolling</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIGNvbm5lY3RlZF9ldmVudCA9IE5vbmUK</text>
       </register>
       <register name="-" type="4">
-        <text>Enrolling</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEb2VzXD4=</text>
@@ -345,37 +348,40 @@
         <text encoding="base64">ICAgICAgLSBuYW1lOiBDb25uZWN0aW5nVG9MaWJhdXRoCiAgICAgICAgb24gZW50cnk6IHVpcnBjLmNvbm5lY3QoKQogICAgICAgIHRyYW5zaXRpb25zOgogICAgICAgICAgLSB0YXJnZXQ6IEVucm9sbGluZwogICAgICAgICAgICBldmVudDogcnBjQ29ubmVjdGVkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbm5lY3RlZF9ldmVudCA9IE5vbmUK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UmVjb25uZWN0IGVhcnBob25lcyBiZXR3ZWVuIG1hbnkgdXNlcnMgc2Vzc2lvbnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QWRkIEF1dGhEZW1vMiByZXBsYXkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm5lY3QgPSBsYW1iZGEgKmFyZ3M6IE5vbmUK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvd1snZW5yb2xsX2ZhbHNlX291dF9jb3VudCddID0gbGVuKAogICAgICAgICAgICAgICAgICAgIFt0cyBmb3IgdHMgaW4gbm90aWZ5X2Vucm9sbG1lbnRfcHV0X2luX3Byb21wdF90aW1lcyBpZiBwZWRhbF9wcmVzc2VzWzFdIDw9IHRzIDw9IHBlZGFsX3ByZXNzZXNbMl1dKQo=</text>
+      <register name="4" type="4">
+        <text>authentication.yaml now supports enrolling only one user, this fixes a bug
+
+For now we don't need that support, if we will need there will be 
+development work anyway</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb24gZXhpdDogcmVjX2luZGV4ICs9IDEK</text>
+        <text encoding="base64">QWRkIHByaW50cyBhdCBzdGFydCBhbmQgZW5kIG9mIGFyY2hpdmUgcHJvY2Vzc2luZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb24gZXhpdDogcmVjX2luZGV4ICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBhZHZhbmNlX3JlYwo=</text>
+        <text encoding="base64">UmVjb25uZWN0IGVhcnBob25lcyBiZXR3ZWVuIG1hbnkgdXNlcnMgc2Vzc2lvbnMK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvbiBlbnRyeTogcmVjX2luZGV4ID0gMAo=</text>
+        <text encoding="base64">QWRkIEF1dGhEZW1vMiByZXBsYXkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlY19pbmRleCA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvd1snZW5yb2xsX2ZhbHNlX291dF9jb3VudCddID0gbGVuKAogICAgICAgICAgICAgICAgICAgIFt0cyBmb3IgdHMgaW4gbm90aWZ5X2Vucm9sbG1lbnRfcHV0X2luX3Byb21wdF90aW1lcyBpZiBwZWRhbF9wcmVzc2VzWzFdIDw9IHRzIDw9IHBlZGFsX3ByZXNzZXNbMl1dKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
