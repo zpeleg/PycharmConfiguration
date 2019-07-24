@@ -29,20 +29,6 @@
         <mark key="." line="29" column="140" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/aaa.py" timestamp="1563710168308">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="8" />
-        <mark key="." line="52" column="8" />
-        <mark key="^" line="51" column="17" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/compute_ft_calibs.py" timestamp="1563806564129">
-        <mark key="'" line="82" column="8" />
-        <mark key="[" line="41" column="61" />
-        <mark key="]" line="41" column="64" />
-        <mark key="^" line="41" column="64" />
-        <mark key="." line="41" column="64" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/per_thread_logger.py" timestamp="1563205516602">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -61,28 +47,21 @@
         <mark key="." line="19" column="15" />
         <mark key="^" line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1563880462350" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1563982900350">
         <mark key="[" line="666" column="49" />
         <mark key="]" line="666" column="65" />
         <mark key="." line="666" column="65" />
         <mark key="^" line="666" column="65" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo2/do_auth_demo2.py" timestamp="1563885684706">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="3" column="20" />
-        <mark key="." line="3" column="20" />
-        <mark key="^" line="3" column="20" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo2/do_auth_demo2.py" timestamp="1563984175333">
+        <mark key="'" line="24" column="28" />
+        <mark key="[" line="33" column="61" />
+        <mark key="]" line="34" column="3" />
+        <mark key="." line="34" column="3" />
+        <mark key="^" line="34" column="3" />
       </file>
       <file name="/" timestamp="1559831585730">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/operational_data_filter.py" timestamp="1563441860538">
-        <mark key="'" line="36" column="54" />
-        <mark key="[" line="37" column="51" />
-        <mark key="]" line="37" column="51" />
-        <mark key="^" line="37" column="51" />
-        <mark key="." line="37" column="51" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/do_extended_many_user.py" timestamp="1563269960813">
         <mark key="[" line="60" column="96" />
@@ -90,19 +69,10 @@
         <mark key="." line="60" column="96" />
         <mark key="^" line="60" column="91" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/do_many_user_extended.py" timestamp="1563446224853">
-        <mark key="'" line="47" column="54" />
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="3" column="20" />
-        <mark key="." line="3" column="20" />
-        <mark key="^" line="3" column="20" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1563957667220">
-        <mark key="'" line="380" column="71" />
-        <mark key="[" line="517" column="43" />
-        <mark key="]" line="517" column="69" />
-        <mark key="^" line="517" column="69" />
-        <mark key="." line="517" column="69" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1563985576691">
+        <mark key="[" line="309" column="0" />
+        <mark key="]" line="309" column="0" />
+        <mark key="." line="309" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" timestamp="1563960155231">
         <mark key="[" line="54" column="63" />
@@ -127,7 +97,7 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="13" column="45" />
       </file>
-      <file name="/Python Console" timestamp="1563972372409">
+      <file name="/Python Console" timestamp="1563984527629">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1563972365981">
@@ -153,19 +123,12 @@
         <mark key="." line="215" column="0" />
         <mark key="^" line="270" column="86" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/do_auth_demo.py" timestamp="1563885217332">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="37" column="29" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="54" column="50" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/common.py" timestamp="1563885152210">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="59" column="54" />
-        <mark key="]" line="59" column="54" />
-        <mark key="^" line="59" column="54" />
-        <mark key="." line="59" column="54" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/do_auth_demo.py" timestamp="1563984228951">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="50" column="56" />
+        <mark key="]" line="50" column="68" />
+        <mark key="." line="50" column="68" />
+        <mark key="^" line="50" column="68" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/uxevents.yaml" timestamp="1563896760569">
         <mark key="[" line="19" column="55" />
@@ -179,18 +142,18 @@
         <mark key="." line="149" column="0" />
         <mark key="^" line="149" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" timestamp="1563876302052">
-        <mark key="[" line="333" column="23" />
-        <mark key="]" line="333" column="39" />
-        <mark key="." line="333" column="39" />
-        <mark key="^" line="333" column="39" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" timestamp="1563984454374">
+        <mark key="[" line="180" column="0" />
+        <mark key="]" line="180" column="0" />
+        <mark key="^" line="343" column="29" />
+        <mark key="." line="180" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1563976965029">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1563985414840">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563982923761">
+      <file name="/Dummy.txt" timestamp="1563985415773">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/default_bugatone_api_config" timestamp="1557245315848">
@@ -219,11 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="347" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
-      <jump line="358" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
-      <jump line="352" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
-      <jump line="348" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
-      <jump line="344" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
       <jump line="331" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
       <jump line="322" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
       <jump line="319" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
@@ -319,6 +277,11 @@
       <jump line="29" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" />
       <jump line="70" column="20" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" />
       <jump line="9" column="3" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" />
+      <jump line="341" column="17" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
+      <jump line="349" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
+      <jump line="354" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
+      <jump line="360" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
+      <jump line="24" column="28" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo2/do_auth_demo2.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -331,55 +294,49 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Rml4IHJwYyByZWNvbm5lY3Rpb24gaW4gYXV0aCBtYW55IHVzZXIK</text>
+        <text encoding="base64">ICAgIEF1dGhEZW1vID0gQXV0aEJlbmNobWFya0NzdkxvYWRlckluc3RhbmNlKCdkZW1vYXV0aCcpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>; print(&quot;AAA Reconnecting&quot;)</text>
+        <text>recs_auth_session</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNvbm5lY3RfZWFycGhvbmVzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>interpreter=interpreter, Event=Event):</text>
+        <text>&quot;Failed to generate summary for archive '{}'&quot;.format(sess.session)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Rml4IHJwYyByZWNvbm5lY3Rpb24gaW4gYXV0aCBtYW55IHVzZXIK</text>
+        <text encoding="base64">ICAgIEF1dGhEZW1vID0gQXV0aEJlbmNobWFya0NzdkxvYWRlckluc3RhbmNlKCdkZW1vYXV0aCcpCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="4">
-        <text>authentication.yaml now supports enrolling only one user, this fixes a bug
-
-For now we don't need that support, if we will need there will be 
-development work anyway</text>
+      <register name="2" type="2">
+        <text encoding="base64">QWRkIHRpbWVvdXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uOiBwcmludCgiQUFBIENvbm5lY3RlZCIpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFzc2VydCBzZWxmLmNsaWVudCBpcyBOb25lLCAiUlBDIGNsaWVudCBhbHJlYWR5IHN0YXJ0ZWQiCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbm5lY3RlZF9ldmVudCA9IE5vbmUK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxlYXJuX3NlY3NfdGl0bGUgPSB1ImVucm9sbF9sZWFybl9zZWNzX3t9Ii5mb3JtYXQocm91bmQpCiAgICAgICAgICAgICAgICBpbl9zZWNzX3RpdGxlID0gdSJlbnJvbGxfaW5fc2Vjc197fSIuZm9ybWF0KHJvdW5kKQogICAgICAgICAgICAgICAgb3V0X3NlY3NfdGl0bGUgPSB1ImVucm9sbF9vdXRfc2Vjc197fSIuZm9ybWF0KHJvdW5kKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJlY3NfYXV0aF9zZXNzaW9uID0gWyhpLCByZWMpIGZvciBpLCByZWMgaW4gZW51bWVyYXRlKHJlY3NfZmlsdGVyZWQsIDEpXQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHVzZXJfbmFtZXMsIGZpcnN0X2lucyA9IGdldF91c2VyX25hbWVzX2FuZF9pbl90aW1lcyhzb3J0ZWQocmVjcy5pdGVtcygpKSkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm5lY3QgPSBsYW1iZGEgKmFyZ3M6IE5vbmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>authentication.yaml now supports enrolling only one user, this fixes a bug
-
-For now we don't need that support, if we will need there will be 
-development work anyway</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHdpdGhfbnVtYmVycyA9IGxpc3QoZW51bWVyYXRlKHJlY3MsIDEpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QWRkIHByaW50cyBhdCBzdGFydCBhbmQgZW5kIG9mIGFyY2hpdmUgcHJvY2Vzc2luZwo=</text>
+        <text encoding="base64">ICAgIGZ0ID0gWygwLCAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
