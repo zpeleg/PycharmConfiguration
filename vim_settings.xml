@@ -137,11 +137,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1563957052583">
-        <mark key="'" line="539" column="0" />
-        <mark key="[" line="665" column="59" />
-        <mark key="]" line="665" column="62" />
-        <mark key="." line="665" column="62" />
-        <mark key="^" line="665" column="62" />
+        <mark key="[" line="662" column="59" />
+        <mark key="]" line="662" column="62" />
+        <mark key="." line="662" column="62" />
+        <mark key="^" line="662" column="62" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo2/do_auth_demo2.py" timestamp="1563885684706">
         <mark key="[" line="3" column="5" />
@@ -188,12 +187,11 @@
         <mark key="^" line="517" column="69" />
         <mark key="." line="517" column="69" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" timestamp="1563720368170">
-        <mark key="'" line="94" column="50" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="89" column="98" />
-        <mark key="^" line="98" column="28" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" timestamp="1563960155231">
+        <mark key="[" line="54" column="63" />
+        <mark key="]" line="54" column="74" />
+        <mark key="^" line="54" column="74" />
+        <mark key="." line="54" column="74" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_users_sanity_ft.yaml" timestamp="1563889228610">
         <mark key="[" line="3" column="0" />
@@ -217,12 +215,12 @@
       <file name="/None" timestamp="1557245313825">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" timestamp="1563875761965">
-        <mark key="'" line="151" column="48" />
-        <mark key="[" line="46" column="9" />
-        <mark key="]" line="46" column="16" />
-        <mark key="^" line="46" column="16" />
-        <mark key="." line="46" column="16" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" timestamp="1563960345063">
+        <mark key="'" line="152" column="48" />
+        <mark key="[" line="47" column="17" />
+        <mark key="]" line="47" column="17" />
+        <mark key="^" line="47" column="17" />
+        <mark key="." line="47" column="17" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_users_sanity.yaml" timestamp="1563886807322">
         <mark key="[" line="10" column="0" />
@@ -342,7 +340,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">UmVjb25uZWN0IGVhcnBob25lcyBiZXR3ZWVuIG1hbnkgdXNlcnMgc2Vzc2lvbnMK</text>
+        <text encoding="base64">ICAgICAgICAiQXV0aERlbW8iOiBjYWxjX2V4cGVjdGVkX2F1dGhfZGVtb19yb3dfY291bnQsCg==</text>
       </register>
       <register name="-" type="4">
         <text>,&quot;{}&quot;</text>
@@ -350,8 +348,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxEb2VzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>RestOfEnrolling</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAiQXV0aERlbW8iOiBjYWxjX2V4cGVjdGVkX2F1dGhfZGVtb19yb3dfY291bnQsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">UmVjb25uZWN0IGVhcnBob25lcyBiZXR3ZWVuIG1hbnkgdXNlcnMgc2Vzc2lvbnMK</text>
@@ -441,8 +439,8 @@
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>x</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
