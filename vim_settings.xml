@@ -128,12 +128,12 @@
       <file name="/None" timestamp="1557245313825">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" timestamp="1564063991270">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" timestamp="1564064578454">
         <mark key="'" line="151" column="65" />
-        <mark key="[" line="160" column="76" />
-        <mark key="]" line="160" column="94" />
-        <mark key="." line="160" column="94" />
-        <mark key="^" line="160" column="94" />
+        <mark key="[" line="92" column="28" />
+        <mark key="]" line="92" column="38" />
+        <mark key="." line="92" column="38" />
+        <mark key="^" line="92" column="38" />
       </file>
       <file name="/Python Console" timestamp="1563984527629">
         <mark key="[" line="0" column="0" />
@@ -215,10 +215,10 @@
         <mark key="." line="130" column="76" />
         <mark key="^" line="130" column="76" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564063040903">
-        <mark key="[" line="1" column="0" />
+      <file name="/Dummy.txt" timestamp="1564064734813">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="54" />
+        <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/default_bugatone_api_config" timestamp="1557245315848">
@@ -361,11 +361,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q2hhbmdlIHRpbWVzdGFtcCBmb3JtYXQgdG8gcGxlYXNlIFlvdGFtJ3MgYW5jaWVudCBzaGVsbAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CmFzZGFzZA==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>verbose=False</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNvbm5lY3RfZWFycGhvbmVzXD4=</text>
@@ -373,38 +373,38 @@
       <register name="0" type="4">
         <text>get_current_timestamp</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Q2hhbmdlIHRpbWVzdGFtcCBmb3JtYXQgdG8gcGxlYXNlIFlvdGFtJ3MgYW5jaWVudCBzaGVsbAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CmFzZGFzZA==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2xlZXAoMSkK</text>
+        <text encoding="base64">Q2hhbmdlIHRpbWVzdGFtcCBmb3JtYXQgdG8gcGxlYXNlIFlvdGFtJ3MgYW5jaWVudCBzaGVsbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QWRkIGxvZyBwcmludCB3aXRoIHBhdGggb2YgbG9nIGZpbGVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2xlZXAoMSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UmV2ZXJ0IGJhY2sgdG8gbGF6eSBsb2FkaW5nIGNvbXBsZXRlZAo=</text>
+        <text encoding="base64">QWRkIGxvZyBwcmludCB3aXRoIHBhdGggb2YgbG9nIGZpbGVzCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">UmV2ZXJ0IGJhY2sgdG8gbGF6eSBsb2FkaW5nIGNvbXBsZXRlZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">X19hbGxfXyA9IFsncmVwbGF5X2Zyb21fbW9hYl9zY2VuYXJpbycsICdQaG9uZUludGVycHJldGVyQ29uZmlndXJhdGlvbicsICdnZXRfcmVjb3JkaW5nX2J5X3RhZycsICdUZXN0RmFpbGVkJywKICAgICAgICAgICAnRmluaXNoZWRTdWNjZXNzZnVsbHknLCAncmVwbGF5X2Zyb21fbW9hYl9zY2VuYXJpb193aXRoX3RpbWluZ3MnXQo=</text>
+        <text encoding="base64">UmV2ZXJ0IGJhY2sgdG8gbGF6eSBsb2FkaW5nIGNvbXBsZXRlZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">X19hbGxfXyA9IFsnY29tcHV0ZV9yZXBsYXlfYW5kX3N1bW1hcnknLCAncmVwbGF5X21haW4nXQo=</text>
+        <text encoding="base64">X19hbGxfXyA9IFsncmVwbGF5X2Zyb21fbW9hYl9zY2VuYXJpbycsICdQaG9uZUludGVycHJldGVyQ29uZmlndXJhdGlvbicsICdnZXRfcmVjb3JkaW5nX2J5X3RhZycsICdUZXN0RmFpbGVkJywKICAgICAgICAgICAnRmluaXNoZWRTdWNjZXNzZnVsbHknLCAncmVwbGF5X2Zyb21fbW9hYl9zY2VuYXJpb193aXRoX3RpbWluZ3MnXQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGdldF9mb3JtYXR0ZWRfdGltZSgpOgogICAgcmV0dXJuIGRhdGV0aW1lLm5vdygpLnN0cmZ0aW1lKCIlbS0lZF8lSDolTTolUyIpCgo=</text>
+        <text encoding="base64">X19hbGxfXyA9IFsnY29tcHV0ZV9yZXBsYXlfYW5kX3N1bW1hcnknLCAncmVwbGF5X21haW4nXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RXZlbiBzaG9ydGVyCg==</text>
+        <text encoding="base64">ZGVmIGdldF9mb3JtYXR0ZWRfdGltZSgpOgogICAgcmV0dXJuIGRhdGV0aW1lLm5vdygpLnN0cmZ0aW1lKCIlbS0lZF8lSDolTTolUyIpCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -461,8 +461,8 @@
         <entry>:w</entry>
         <entry>x</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
