@@ -110,10 +110,10 @@
         <mark key="^" line="86" column="97" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/daemon_flow_single_player.yaml" timestamp="1563976659872" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1563979324689">
-        <mark key="[" line="93" column="41" />
-        <mark key="]" line="93" column="41" />
-        <mark key="." line="93" column="41" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1564056386596">
+        <mark key="[" line="71" column="32" />
+        <mark key="]" line="71" column="32" />
+        <mark key="." line="71" column="32" />
         <mark key="^" line="101" column="32" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/many_user_authentication_summary.py" timestamp="1563968173914">
@@ -148,10 +148,10 @@
         <mark key="^" line="343" column="29" />
         <mark key="." line="180" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1564054001027">
-        <mark key="[" line="179" column="40" />
-        <mark key="]" line="179" column="43" />
-        <mark key="." line="179" column="43" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1564056442077">
+        <mark key="[" line="177" column="42" />
+        <mark key="]" line="177" column="43" />
+        <mark key="." line="177" column="43" />
         <mark key="^" line="179" column="43" />
       </file>
       <file name="/Dummy.txt" timestamp="1564055773440">
@@ -295,10 +295,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>join</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>join</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNvbm5lY3RfZWFycGhvbmVzXD4=</text>
