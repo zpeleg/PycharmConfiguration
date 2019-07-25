@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_users_queries.py" timestamp="1564047775601" />
       <file name="/a.dummy" timestamp="1563875942768">
         <mark key="[" line="0" column="0" />
       </file>
@@ -92,10 +93,6 @@
       </file>
       <file name="/None" timestamp="1557245313825">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_users_sanity.yaml" timestamp="1563886807322">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="13" column="45" />
       </file>
       <file name="/Python Console" timestamp="1563984527629">
         <mark key="[" line="0" column="0" />
