@@ -83,12 +83,12 @@
         <mark key="." line="60" column="96" />
         <mark key="^" line="60" column="91" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1564663228490">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1564670921768">
         <mark key="'" line="519" column="46" />
-        <mark key="[" line="175" column="21" />
-        <mark key="]" line="175" column="22" />
-        <mark key="." line="175" column="22" />
-        <mark key="^" line="175" column="22" />
+        <mark key="[" line="574" column="49" />
+        <mark key="]" line="574" column="65" />
+        <mark key="." line="574" column="65" />
+        <mark key="^" line="574" column="65" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" timestamp="1564661900831">
         <mark key="[" line="54" column="63" />
@@ -353,11 +353,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcud3JpdGVfc2xlZXBfdGltZSA9IDAuMDMK</text>
+      <register name="&quot;" type="4">
+        <text>format_exc(e)</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>format_exc(e)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
@@ -366,28 +366,22 @@
         <text>0.03</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcud3JpdGVfc2xlZXBfdGltZSA9IDAuMDMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBSZXBsYXlSZXN1bHQoYXJjaGl2ZW5hbWU9YXJjaGl2ZS5hcmNoaXZlbmFtZSwgZXhjZXB0aW9uX21lc3NhZ2U9ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhjZXB0aW9uX3N0YWNrdHJhY2U9Zm9ybWF0X2V4YyhlKSkK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="4">
-        <text>Generalize all arch to pandas function to a single function
-
-# Conflicts:
-#	pymobileproduct/benchmarks/load_bm.py</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNsZWVwKCkK</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAK</text>
       </register>
-      <register name="4" type="4">
-        <text>Generalize all arch to pandas function to a single function
-
-# Conflicts:
-#	pymobileproduct/benchmarks/load_bm.py</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Rml4IHJlbGF0aXZlIHBhdGhzIGxvYWRpbmcgaW4gQmVuY2hBcmNMb2FkZXIK</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcud3JpdGVfc2xlZXBfdGltZSA9IDAuMDMK</text>
       </register>
       <register name="6" type="4">
         <text>Generalize all arch to pandas function to a single function
@@ -395,21 +389,20 @@
 # Conflicts:
 #	pymobileproduct/benchmarks/load_bm.py</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNsZWVwKCkK</text>
+      </register>
+      <register name="w" type="4">
+        <text />
+      </register>
+      <register name="8" type="4">
         <text>Generalize all arch to pandas function to a single function
 
 # Conflicts:
 #	pymobileproduct/benchmarks/load_bm.py</text>
       </register>
-      <register name="w" type="4">
-        <text />
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uX2xvYWRlcl9yZXBvc2l0b3J5ID0gQ2FjaGluZ01vYWJTZXNzaW9uTG9hZGVyKGFyY2hpdmVzX2Rpcl9wYXRoKQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>,
-                                            session_loader=session_loader_repository)</text>
+      <register name="9" type="2">
+        <text encoding="base64">Rml4IHJlbGF0aXZlIHBhdGhzIGxvYWRpbmcgaW4gQmVuY2hBcmNMb2FkZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -466,8 +459,8 @@
         <entry>:w</entry>
         <entry>x</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
