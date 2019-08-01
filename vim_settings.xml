@@ -83,6 +83,12 @@
         <mark key="." line="60" column="96" />
         <mark key="^" line="60" column="91" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1564659762083">
+        <mark key="'" line="520" column="46" />
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="35" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" timestamp="1563960155231">
         <mark key="[" line="54" column="63" />
         <mark key="]" line="54" column="74" />
@@ -96,13 +102,6 @@
       </file>
       <file name="/None" timestamp="1557245313825">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" timestamp="1564507340384">
-        <mark key="'" line="156" column="65" />
-        <mark key="[" line="165" column="113" />
-        <mark key="]" line="165" column="113" />
-        <mark key="^" line="165" column="113" />
-        <mark key="." line="165" column="113" />
       </file>
       <file name="/Python Console" timestamp="1564500112788">
         <mark key="[" line="0" column="0" />
@@ -171,8 +170,8 @@
         <mark key="." line="161" column="0" />
         <mark key="^" line="169" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564507725400">
-        <mark key="[" line="1" column="0" />
+      <file name="/Dummy.txt" timestamp="1564659766445">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="0" />
@@ -214,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/do_many_user_extended.py" />
       <jump line="43" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/do_many_user_extended.py" />
       <jump line="45" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/do_many_user_extended.py" />
       <jump line="51" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/do_many_user_extended.py" />
@@ -314,6 +312,7 @@
       <jump line="24" column="83" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/ft_sanity/do_ft_sanity.py" />
       <jump line="379" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
       <jump line="41" column="15" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/teacher_sanity/teacher_sanity_queries.py" />
+      <jump line="520" column="46" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -326,7 +325,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">RmxvYXQK</text>
+        <text encoding="base64">X19hbGxfXyA9IFsnQmVuY2htYXJrTG9hZGVyJywgJ01vYWJUZXN0cycsICdSb3dTdW1tYXJpZXNHZW5lcmF0b3InLCAnQmVuY2htYXJrQ3N2TG9hZGVyJywgJ0JlbmNobWFya0xvYWRQb2xpY3knLAogICAgICAgICAgICdCZW5jaG1hcmtRdWVyeVJ1bm5lcnMnXQo=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -338,27 +337,27 @@
         <text encoding="base64">ICAgIGRlZiBfZ2VuZXJhdGVfc2NlbmFyaW8oc2VsZiwgYXJjaGl2ZSwgc2Vzc2lvbl9sb2FkZXIpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RmxvYXQK</text>
+        <text encoding="base64">X19hbGxfXyA9IFsnQmVuY2htYXJrTG9hZGVyJywgJ01vYWJUZXN0cycsICdSb3dTdW1tYXJpZXNHZW5lcmF0b3InLCAnQmVuY2htYXJrQ3N2TG9hZGVyJywgJ0JlbmNobWFya0xvYWRQb2xpY3knLAogICAgICAgICAgICdCZW5jaG1hcmtRdWVyeVJ1bm5lcnMnXQo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHRxZG0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">RmxvYXQK</text>
+      </register>
+      <register name="5" type="4">
         <text>Use cache in run_benchmark's generate_scenario and generate_timelines
 
 Make stuff super fast!</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZ2VuZXJhdGVfc2NlbmFyaW8oc2VsZiwgYXJjaGl2ZSk6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZ2VuZXJhdGVfc2NlbmFyaW8oc2VsZiwgYXJjaGl2ZSk6Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGRlZiBfZ2VuZXJhdGVfc2NlbmFyaW8oc2VsZiwgYXJjaGl2ZSk6Cg==</text>
@@ -367,10 +366,10 @@ Make stuff super fast!</text>
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgX2dlbmVyYXRlX3NjZW5hcmlvKHNlbGYsIGFyY2hpdmUsIHNlc3Npb25fbG9hZGVyKToK</text>
+        <text encoding="base64">ICAgIGRlZiBfZ2VuZXJhdGVfc2NlbmFyaW8oc2VsZiwgYXJjaGl2ZSk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZ2VuZXJhdGVfc2NlbmFyaW8oc2VsZiwgYXJjaGl2ZSk6Cg==</text>
+        <text encoding="base64">ICAgICMgVE9ETzogCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
