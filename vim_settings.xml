@@ -60,12 +60,12 @@
         <mark key="." line="19" column="15" />
         <mark key="^" line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1564391890309">
-        <mark key="'" line="566" column="74" />
-        <mark key="[" line="6" column="76" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1564668007965">
+        <mark key="'" line="574" column="74" />
+        <mark key="[" line="322" column="34" />
+        <mark key="]" line="322" column="37" />
+        <mark key="." line="322" column="37" />
+        <mark key="^" line="322" column="37" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo2/do_auth_demo2.py" timestamp="1563984175333">
         <mark key="'" line="24" column="28" />
@@ -100,6 +100,11 @@
         <mark key="[" line="20" column="60" />
         <mark key="]" line="20" column="60" />
         <mark key="." line="20" column="60" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/replay_ui.py" timestamp="1564668059688">
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
       </file>
       <file name="/None" timestamp="1557245313825">
         <mark key="[" line="0" column="0" />
@@ -153,6 +158,11 @@
         <mark key="." line="50" column="68" />
         <mark key="^" line="50" column="68" />
       </file>
+      <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/asyncgen.py" timestamp="1564062377494">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/uxevents.yaml" timestamp="1563896760569">
         <mark key="[" line="19" column="55" />
         <mark key="]" line="19" column="59" />
@@ -183,10 +193,10 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564662503739">
+      <file name="/Dummy.txt" timestamp="1564668114636">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="40" />
+        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/default_bugatone_api_config" timestamp="1557245315848">
@@ -343,35 +353,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>[os.path.basename(x)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25maWcud3JpdGVfc2xlZXBfdGltZSA9IDAuMDMK</text>
       </register>
       <register name="-" type="4">
-        <text>[os.path.basename(x)</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZ2VuZXJhdGVfc2NlbmFyaW8oc2VsZiwgYXJjaGl2ZSwgc2Vzc2lvbl9sb2FkZXIpOgo=</text>
+      <register name="0" type="4">
+        <text>0.03</text>
       </register>
-      <register name="1" type="4">
-        <text>Generalize all arch to pandas function to a single function
-
-# Conflicts:
-#	pymobileproduct/benchmarks/load_bm.py</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25maWcud3JpdGVfc2xlZXBfdGltZSA9IDAuMDMK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Rml4IHJlbGF0aXZlIHBhdGhzIGxvYWRpbmcgaW4gQmVuY2hBcmNMb2FkZXIK</text>
-      </register>
-      <register name="3" type="4">
+      <register name="2" type="4">
         <text>Generalize all arch to pandas function to a single function
 
 # Conflicts:
 #	pymobileproduct/benchmarks/load_bm.py</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNsZWVwKCkK</text>
       </register>
       <register name="4" type="4">
         <text>Generalize all arch to pandas function to a single function
@@ -380,23 +387,29 @@
 #	pymobileproduct/benchmarks/load_bm.py</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uX2xvYWRlcl9yZXBvc2l0b3J5ID0gQ2FjaGluZ01vYWJTZXNzaW9uTG9hZGVyKGFyY2hpdmVzX2Rpcl9wYXRoKQo=</text>
+        <text encoding="base64">Rml4IHJlbGF0aXZlIHBhdGhzIGxvYWRpbmcgaW4gQmVuY2hBcmNMb2FkZXIK</text>
       </register>
       <register name="6" type="4">
-        <text>,
-                                            session_loader=session_loader_repository)</text>
+        <text>Generalize all arch to pandas function to a single function
+
+# Conflicts:
+#	pymobileproduct/benchmarks/load_bm.py</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uX2xvYWRlcl9yZXBvc2l0b3J5ID0gQ2FjaGluZ01vYWJTZXNzaW9uTG9hZGVyKGFyY2hpdmVzX2Rpcl9wYXRoKQo=</text>
+      <register name="7" type="4">
+        <text>Generalize all arch to pandas function to a single function
+
+# Conflicts:
+#	pymobileproduct/benchmarks/load_bm.py</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">X19hbGxfXyA9IFsnQmVuY2htYXJrTG9hZGVyJywgJ01vYWJUZXN0cycsICdSb3dTdW1tYXJpZXNHZW5lcmF0b3InLCAnQmVuY2htYXJrQ3N2TG9hZGVyJywgJ0JlbmNobWFya0xvYWRQb2xpY3knLAogICAgICAgICAgICdCZW5jaG1hcmtRdWVyeVJ1bm5lcnMnXQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uX2xvYWRlcl9yZXBvc2l0b3J5ID0gQ2FjaGluZ01vYWJTZXNzaW9uTG9hZGVyKGFyY2hpdmVzX2Rpcl9wYXRoKQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>,
+                                            session_loader=session_loader_repository)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -453,8 +466,8 @@
         <entry>:w</entry>
         <entry>x</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
