@@ -62,12 +62,12 @@
         <mark key="^" line="19" column="15" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1564489911462" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1564668007965">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1565195994186">
         <mark key="'" line="574" column="74" />
-        <mark key="[" line="322" column="34" />
-        <mark key="]" line="322" column="37" />
-        <mark key="." line="322" column="37" />
-        <mark key="^" line="322" column="37" />
+        <mark key="[" line="605" column="49" />
+        <mark key="]" line="605" column="51" />
+        <mark key="." line="605" column="51" />
+        <mark key="^" line="605" column="51" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo2/do_auth_demo2.py" timestamp="1563984175333">
         <mark key="'" line="24" column="28" />
@@ -98,19 +98,16 @@
         <mark key="^" line="134" column="74" />
         <mark key="." line="134" column="74" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_users_sanity_ft.yaml" timestamp="1563889228610">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="34" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/find_many_users.py" timestamp="1564500082499">
         <mark key="[" line="20" column="60" />
         <mark key="]" line="20" column="60" />
         <mark key="." line="20" column="60" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/replay_ui.py" timestamp="1564668059688">
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/replay_ui.py" timestamp="1565195851837">
+        <mark key="[" line="58" column="70" />
+        <mark key="]" line="58" column="74" />
+        <mark key="." line="58" column="74" />
+        <mark key="^" line="58" column="74" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/logcat_monitor.py" timestamp="1564062249392" />
       <file name="/None" timestamp="1557245313825">
@@ -165,19 +162,6 @@
         <mark key="]" line="50" column="68" />
         <mark key="." line="50" column="68" />
         <mark key="^" line="50" column="68" />
-      </file>
-      <file name="/auth_demo_simple_summary.py" timestamp="1564400984336">
-        <mark key="[" line="274" column="0" />
-        <mark key="]" line="274" column="59" />
-      </file>
-      <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/asyncgen.py" timestamp="1564062377494">
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
-        <mark key="." line="170" column="0" />
-      </file>
-      <file name="/do_auth_many_users.py" timestamp="1564061829011">
-        <mark key="[" line="177" column="40" />
-        <mark key="]" line="177" column="44" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/json_helpers.py" timestamp="1564060245351" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/uxevents.yaml" timestamp="1563896760569">
@@ -238,10 +222,6 @@
         <mark key="]" line="11" column="7" />
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/oppo_utils.py" timestamp="1564678731327">
-        <mark key="[" line="1055" column="54" />
-        <mark key="]" line="1055" column="99" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/bla.py" timestamp="1564662026893">
         <mark key="[" line="3" column="61" />
@@ -378,11 +358,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QWRkIHNsZWVwIHRvIF93cml0ZV90b19idWdhc3RyZWFtCg==</text>
+      <register name="&quot;" type="4">
+        <text>AAA</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>AAA</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
@@ -391,40 +371,40 @@
         <text>/mnt/buga_storage/mobile_product/all_versions/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QWRkIHNsZWVwIHRvIF93cml0ZV90b19idWdhc3RyZWFtCg==</text>
+        <text encoding="base64">ICAgICAgICBpICs9IDEK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QWRkIHNsZWVwIHRvIF93cml0ZV90b19idWdhc3RyZWFtCg==</text>
+        <text encoding="base64">ICAgIGkgPSAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ3VyYXRpb24gPSBWZXJzaW9uRGVzY3JpcHRvci5mcm9tX2V4cG9ydGVkKDM5LCBhbGxfdmVyc2lvbnNfZGlyZWN0b3J5PUFVVEhfVkVSU0lPTlNfRk9MREVSKQo=</text>
+        <text encoding="base64">ICAgICAgICBnbG9iYWwgaQo=</text>
       </register>
       <register name="4" type="4">
-        <text>, 
-                                    threads=parallel_count if parallel_count is not None else cpu_count() - 2)</text>
+        <text>(_get_rec_title(rec),
+             np.vstack((rec.unsynced.loopback.arr,
+                        rec.unsynced.recording.arr)))</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIG1heF9zZXNzaW9uczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG91dHB1dF9hcmNoaXZlID0gQ0FyY2hpdmUoYXJjaGl2ZW5hbWU9dGltZXN0YW1wZWRfbmFtZShhcmNoaXZldGVtcGxhdGUpLCBkaXJwYXRoPW91dHB1dF9kaXJlY3RvcnkpCg==</text>
+        <text encoding="base64">QWRkIHNsZWVwIHRvIF93cml0ZV90b19idWdhc3RyZWFtCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleGNlcHRpb25fbWVzc2FnZSA9IE5vbmUKICAgICAgICAgICAgICAgICAgICBleGNlcHRpb25fc3RhY2t0cmFjZSA9IE5vbmUK</text>
+        <text encoding="base64">QWRkIHNsZWVwIHRvIF93cml0ZV90b19idWdhc3RyZWFtCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>,
-                            exception_message=exception_message,
-                            exception_stacktrace=exception_stacktrace</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbmZpZ3VyYXRpb24gPSBWZXJzaW9uRGVzY3JpcHRvci5mcm9tX2V4cG9ydGVkKDM5LCBhbGxfdmVyc2lvbnNfZGlyZWN0b3J5PUFVVEhfVkVSU0lPTlNfRk9MREVSKQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleGNlcHRpb25zLmFwcGVuZChleGNlcHRpb25fbWVzc2FnZSwgZXhjZXB0aW9uX3N0YWNrdHJhY2UpCg==</text>
+      <register name="9" type="4">
+        <text>, 
+                                    threads=parallel_count if parallel_count is not None else cpu_count() - 2)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
