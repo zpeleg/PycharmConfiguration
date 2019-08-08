@@ -61,14 +61,6 @@
         <mark key="." line="19" column="15" />
         <mark key="^" line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1564489911462" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1565195994186">
-        <mark key="'" line="574" column="74" />
-        <mark key="[" line="605" column="49" />
-        <mark key="]" line="605" column="51" />
-        <mark key="." line="605" column="51" />
-        <mark key="^" line="605" column="51" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo2/do_auth_demo2.py" timestamp="1563984175333">
         <mark key="'" line="24" column="28" />
         <mark key="[" line="33" column="61" />
@@ -102,12 +94,6 @@
         <mark key="[" line="20" column="60" />
         <mark key="]" line="20" column="60" />
         <mark key="." line="20" column="60" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/replay_ui.py" timestamp="1565195851837">
-        <mark key="[" line="58" column="70" />
-        <mark key="]" line="58" column="74" />
-        <mark key="." line="58" column="74" />
-        <mark key="^" line="58" column="74" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/logcat_monitor.py" timestamp="1564062249392" />
       <file name="/None" timestamp="1557245313825">
@@ -164,12 +150,6 @@
         <mark key="^" line="50" column="68" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/json_helpers.py" timestamp="1564060245351" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/uxevents.yaml" timestamp="1563896760569">
-        <mark key="[" line="19" column="55" />
-        <mark key="]" line="19" column="59" />
-        <mark key="." line="19" column="59" />
-        <mark key="^" line="19" column="59" />
-      </file>
       <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" timestamp="1564062442147">
         <mark key="[" line="133" column="0" />
         <mark key="]" line="149" column="0" />
@@ -180,13 +160,6 @@
         <mark key="[" line="327" column="0" />
         <mark key="]" line="327" column="0" />
         <mark key="." line="327" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" timestamp="1564491581834">
-        <mark key="'" line="219" column="4" />
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
-        <mark key="^" line="169" column="60" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/phi.py" timestamp="1564676772180">
         <mark key="[" line="3" column="0" />
