@@ -67,11 +67,11 @@
         <mark key="." line="19" column="15" />
         <mark key="^" line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1565258514213">
-        <mark key="[" line="204" column="29" />
-        <mark key="]" line="205" column="28" />
-        <mark key="^" line="205" column="28" />
-        <mark key="." line="205" column="28" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1565264567672">
+        <mark key="[" line="239" column="16" />
+        <mark key="]" line="239" column="36" />
+        <mark key="^" line="239" column="36" />
+        <mark key="." line="239" column="36" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo2/do_auth_demo2.py" timestamp="1563984175333">
         <mark key="'" line="24" column="28" />
@@ -181,7 +181,7 @@
         <mark key="^" line="3" column="73" />
         <mark key="." line="3" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565258660446">
+      <file name="/Dummy.txt" timestamp="1565264571158">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/default_bugatone_api_config" timestamp="1557245315848">
@@ -346,11 +346,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QWRkIHNsZWVwIHRvIF93cml0ZV90b19idWdhc3RyZWFtCg==</text>
+      <register name="&quot;" type="4">
+        <text>finished</text>
       </register>
       <register name="-" type="4">
-        <text>cls=BugaJSONEncoder))</text>
+        <text>finished</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
@@ -359,7 +359,7 @@
         <text>ToJSONEncoder.default(ToJSONEncoder(), o)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QWRkIHNsZWVwIHRvIF93cml0ZV90b19idWdhc3RyZWFtCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZpbmlzaGVkID0gRmFsc2UK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
@@ -371,25 +371,25 @@
         <text encoding="base64">QWRkIHNsZWVwIHRvIF93cml0ZV90b19idWdhc3RyZWFtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgic2RmYXNkZmEiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyByYWlzZSBGaW5pc2hlZFN1Y2Nlc3NmdWxseSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgYXJjaGl2ZSA9IENBcmNoaXZlKGFyY2hpdmVuYW1lPWFyY25hbWUsIGRpcnBhdGg9ZGlycGF0aCkK</text>
+        <text encoding="base64">QWRkIHNsZWVwIHRvIF93cml0ZV90b19idWdhc3RyZWFtCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJkaXJwYXRoIiwgZGlycGF0aCkKICAgIHByaW50KCJhcmNobmFtZSIsIGFyY25hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgic2RmYXNkZmEiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICMgYXJjaGl2ZSA9IENBcmNoaXZlKGFyY2hpdmVuYW1lPWFyY25hbWUsIGRpcnBhdGg9ZGlycGF0aCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIHByaW50KGFyYy5pdGVtcygpKQogICAgICAgICAgICByYWlzZQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJkaXJwYXRoIiwgZGlycGF0aCkKICAgIHByaW50KCJhcmNobmFtZSIsIGFyY25hbWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHR5cGUoYXJjKSkK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
