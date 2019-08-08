@@ -142,24 +142,17 @@
       <file name="/None" timestamp="1557245313825">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" timestamp="1564064578454">
-        <mark key="'" line="151" column="65" />
-        <mark key="[" line="92" column="28" />
-        <mark key="]" line="92" column="38" />
-        <mark key="." line="92" column="38" />
-        <mark key="^" line="92" column="38" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" timestamp="1565272518549">
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="23" column="20" />
+        <mark key="^" line="23" column="20" />
+        <mark key="." line="23" column="20" />
       </file>
       <file name="/Python Console" timestamp="1565185260591">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1563972365981">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/archives.py" timestamp="1565185215907">
-        <mark key="[" line="30" column="17" />
-        <mark key="]" line="30" column="17" />
-        <mark key="." line="30" column="17" />
-        <mark key="^" line="30" column="17" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1564391880046">
         <mark key="[" line="71" column="32" />
@@ -254,11 +247,11 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/export.py" timestamp="1563290665729">
-        <mark key="[" line="3" column="45" />
-        <mark key="]" line="3" column="89" />
-        <mark key="^" line="3" column="89" />
-        <mark key="." line="3" column="89" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/export.py" timestamp="1565272439188">
+        <mark key="[" line="93" column="14" />
+        <mark key="]" line="93" column="40" />
+        <mark key="^" line="93" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/benchmark_core.py" timestamp="1563111273575">
         <mark key="'" line="16" column="4" />
@@ -420,16 +413,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>commit_ids</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>commit_ids</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNvbm5lY3RfZWFycGhvbmVzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICB3cml0ZV9zbGVlcF90aW1lPTAuMDMpOgo=</text>
+      <register name="0" type="4">
+        <text>get_git_versions_dictionary</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGZvciBzZXNzIGluIGFyY2gudmFsdWVzKCk6Cg==</text>
