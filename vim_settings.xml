@@ -140,6 +140,12 @@
         <mark key="." line="24" column="81" />
         <mark key="^" line="24" column="83" />
       </file>
+      <file name="$USER_HOME$/device_communication/pydcomm/general_android/connection/fixers/get_user_attention_fixer.py" timestamp="1565513943530">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="12" column="75" />
+        <mark key="^" line="12" column="75" />
+        <mark key="." line="12" column="75" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/do_authentication.py" timestamp="1564491499380">
         <mark key="[" line="10" column="85" />
         <mark key="]" line="10" column="114" />
