@@ -114,7 +114,7 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="13" column="45" />
       </file>
-      <file name="/Python Console" timestamp="1565265427816">
+      <file name="/Python Console" timestamp="1565518141676">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1565253070537">
@@ -186,6 +186,7 @@
       <file name="/Dummy.txt" timestamp="1565284593803">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/do_single_ear_sanity.py" timestamp="1565518155936" />
       <file name="/default_bugatone_api_config" timestamp="1557245315848">
         <mark key="[" line="0" column="0" />
       </file>
@@ -213,6 +214,10 @@
         <mark key="^" line="3" column="61" />
         <mark key="." line="3" column="61" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/do_many_users_sanity.py" timestamp="1565517942235">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="41" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/many_user_extended.yaml" timestamp="1563292816819">
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="0" />
@@ -228,6 +233,12 @@
       </file>
       <file name="/load_bm.py" timestamp="1564679530146" />
       <file name="/arctoj.py" timestamp="1565253979946" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/many_users_sanity/flow.py" timestamp="1565517650642">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_user_row_summary.py" timestamp="1564503774528">
         <mark key="[" line="66" column="7" />
         <mark key="]" line="66" column="11" />
@@ -347,17 +358,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">SW1wcm92ZSBwZXJmb3JtYW5jZQo=</text>
+      <register name="&quot;" type="4">
+        <text>ts_archivename</text>
       </register>
       <register name="-" type="4">
-        <text>size</text>
+        <text>ts_archivename</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAob3MucGF0aC5nZXRzaXplKHJlYy51bnN5bmNlZC5sb29wYmFjay5maWxlcGF0aCkgLyAxNi4gLSA4KSAvIFNFQwo=</text>
+        <text encoding="base64">ICAgIGVhcnBob25lID0gc2Vzc2lvbi5yZWNzWzBdLm1ldGFkYXRhLmVhcnBob25lX25hbWUKICAgIGRldmljZSA9IHNlc3Npb24ubWV0YWRhdGEuZGV2aWNlX25hbWUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">SW1wcm92ZSBwZXJmb3JtYW5jZQo=</text>
