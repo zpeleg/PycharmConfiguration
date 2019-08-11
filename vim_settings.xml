@@ -46,11 +46,11 @@
         <mark key="." line="29" column="140" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/single_ear_sanity.yaml" timestamp="1565525323268">
-        <mark key="[" line="39" column="27" />
-        <mark key="]" line="40" column="17" />
-        <mark key="." line="40" column="17" />
-        <mark key="^" line="40" column="17" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/single_ear_sanity.yaml" timestamp="1565525971580">
+        <mark key="[" line="43" column="17" />
+        <mark key="]" line="43" column="23" />
+        <mark key="." line="43" column="23" />
+        <mark key="^" line="43" column="23" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/per_thread_logger.py" timestamp="1563205516602">
         <mark key="[" line="12" column="0" />
@@ -137,9 +137,9 @@
         <mark key="." line="174" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/daemon_flow_single_player.yaml" timestamp="1563976659872" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1564391880046">
-        <mark key="[" line="71" column="32" />
-        <mark key="]" line="71" column="32" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1565525349261">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="45" />
         <mark key="." line="71" column="32" />
         <mark key="^" line="101" column="32" />
       </file>
@@ -383,7 +383,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaW50ZXJwcmV0ZXIucXVldWUoRXZlbnQoInByZXNzZWRQbGF5IikpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBwbGF5KGludGVycHJldGVyPWludGVycHJldGVyLCBFdmVudD1FdmVudCk6CiAgICAgIGludGVycHJldGVyLnF1ZXVlKEV2ZW50KCJwcmVzc2VkUGxheSIpKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -392,7 +392,7 @@
         <text encoding="base64">XDxpZlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaW50ZXJwcmV0ZXIucXVldWUoRXZlbnQoInByZXNzZWRQbGF5IikpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBwbGF5KGludGVycHJldGVyPWludGVycHJldGVyLCBFdmVudD1FdmVudCk6CiAgICAgIGludGVycHJldGVyLnF1ZXVlKEV2ZW50KCJwcmVzc2VkUGxheSIpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIGd1YXJkOiAK</text>
