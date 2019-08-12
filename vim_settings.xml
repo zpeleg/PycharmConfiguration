@@ -143,6 +143,12 @@
       <file name="/default_daemon_start_detect_special_sig_config" timestamp="1557245313816">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/many_user_extended_summary.py" timestamp="1565610605586">
+        <mark key="[" line="126" column="25" />
+        <mark key="]" line="126" column="23" />
+        <mark key="." line="126" column="23" />
+        <mark key="^" line="126" column="23" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
         <mark key="[" line="2" column="24" />
       </file>
@@ -290,10 +296,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>arted</text>
+        <text>oncds</text>
       </register>
       <register name="-" type="4">
-        <text>arted</text>
+        <text>oncds</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
