@@ -227,12 +227,12 @@
         <mark key="[" line="274" column="0" />
         <mark key="]" line="274" column="59" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/player_recorder.py" timestamp="1565716748071">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/player_recorder.py" timestamp="1565718247974">
         <mark key="'" line="132" column="48" />
-        <mark key="[" line="61" column="48" />
-        <mark key="]" line="61" column="49" />
-        <mark key="." line="61" column="49" />
-        <mark key="^" line="61" column="48" />
+        <mark key="[" line="60" column="47" />
+        <mark key="]" line="60" column="47" />
+        <mark key="." line="60" column="47" />
+        <mark key="^" line="60" column="47" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/dunno.py" timestamp="1565700695106">
         <mark key="'" line="26" column="43" />
@@ -279,7 +279,7 @@
         <mark key="." line="180" column="0" />
         <mark key="^" line="343" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565522441703">
+      <file name="/Dummy.txt" timestamp="1565718093622">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="^" line="0" column="47" />
@@ -500,10 +500,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>None</text>
+        <text>24000</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>24000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
