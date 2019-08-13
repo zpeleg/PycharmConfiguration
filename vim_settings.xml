@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/extended_matrix/extended_matrix.yaml" timestamp="1565525339961">
@@ -185,7 +185,7 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="13" column="45" />
       </file>
-      <file name="/Python Console" timestamp="1565529914004">
+      <file name="/Python Console" timestamp="1565715833126">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1565529828096">
@@ -227,12 +227,12 @@
         <mark key="[" line="274" column="0" />
         <mark key="]" line="274" column="59" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/player_recorder.py" timestamp="1565700476295">
-        <mark key="'" line="118" column="48" />
-        <mark key="[" line="41" column="50" />
-        <mark key="]" line="41" column="50" />
-        <mark key="." line="41" column="50" />
-        <mark key="^" line="41" column="50" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/player_recorder.py" timestamp="1565716748071">
+        <mark key="'" line="132" column="48" />
+        <mark key="[" line="61" column="48" />
+        <mark key="]" line="61" column="49" />
+        <mark key="." line="61" column="49" />
+        <mark key="^" line="61" column="48" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/dunno.py" timestamp="1565700695106">
         <mark key="'" line="26" column="43" />
@@ -500,36 +500,48 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>None</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBwbGF5KGludGVycHJldGVyPWludGVycHJldGVyLCBFdmVudD1FdmVudCk6CiAgICAgIGludGVycHJldGVyLnF1ZXVlKEV2ZW50KCJwcmVzc2VkUGxheSIpKQo=</text>
+        <text encoding="base64">ICAgICAgICBvdXRkYXRhWzpdID0gbnVtcHkucmFuZG9tLnJhbmRuKGZyYW1lcywgMikgKiAwLjEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFnCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmcmFtZXMpCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmcmFtZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjaHVuay5zaGFwZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ICAgICAgICBvdXRkYXRhWzpdID0gc1tdCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWFnCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChmcmFtZXMpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="w" type="4">
+        <text />
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCiIiIlBsYXkgYW4gYXVkaW8gZmlsZSB1c2luZyBhIGxpbWl0ZWQgYW1vdW50IG9mIG1lbW9yeS4KClRoZSBzb3VuZGZpbGUgbW9kdWxlIChodHRwOi8vUHlTb3VuZEZpbGUucnRmZC5pby8pIG11c3QgYmUgaW5zdGFsbGVkIGZvcgp0aGlzIHRvIHdvcmsuICBOdW1QeSBpcyBub3QgbmVlZGVkLgoKSW4gY29udHJhc3QgdG8gcGxheV9maWxlLnB5LCB3aGljaCBsb2FkcyB0aGUgd2hvbGUgZmlsZSBpbnRvIG1lbW9yeQpiZWZvcmUgc3RhcnRpbmcgcGxheWJhY2ssIHRoaXMgZXhhbXBsZSBwcm9ncmFtIG9ubHkgaG9sZHMgYSBnaXZlbiBudW1iZXIKb2YgYXVkaW8gYmxvY2tzIGluIG1lbW9yeSBhbmQgaXMgdGhlcmVmb3JlIGFibGUgdG8gcGxheSBmaWxlcyB0aGF0IGFyZQpsYXJnZXIgdGhhbiB0aGUgYXZhaWxhYmxlIFJBTS4KCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGRpdmlzaW9uLCBwcmludF9mdW5jdGlvbgppbXBvcnQgYXJncGFyc2UKdHJ5OgogICAgaW1wb3J0IHF1ZXVlICAjIFB5dGhvbiAzLngKZXhjZXB0IEltcG9ydEVycm9yOgogICAgaW1wb3J0IFF1ZXVlIGFzIHF1ZXVlICAjIFB5dGhvbiAyLngKaW1wb3J0IHN5cwppbXBvcnQgdGhyZWFkaW5nCgpkZWYgaW50X29yX3N0cih0ZXh0KToKICAgICIiIkhlbHBlciBmdW5jdGlvbiBmb3IgYXJndW1lbnQgcGFyc2luZy4iIiIKICAgIHRyeToKICAgICAgICByZXR1cm4gaW50KHRleHQpCiAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICByZXR1cm4gdGV4dAoKcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoZGVzY3JpcHRpb249X19kb2NfXykKcGFyc2VyLmFkZF9hcmd1bWVudCgnZmlsZW5hbWUnLCBoZWxwPSdhdWRpbyBmaWxlIHRvIGJlIHBsYXllZCBiYWNrJykKcGFyc2VyLmFkZF9hcmd1bWVudCgnLWQnLCAnLS1kZXZpY2UnLCB0eXBlPWludF9vcl9zdHIsCiAgICAgICAgICAgICAgICAgICAgaGVscD0nb3V0cHV0IGRldmljZSAobnVtZXJpYyBJRCBvciBzdWJzdHJpbmcpJykKcGFyc2VyLmFkZF9hcmd1bWVudCgnLWInLCAnLS1ibG9ja3NpemUnLCB0eXBlPWludCwgZGVmYXVsdD0yMDQ4LAogICAgICAgICAgICAgICAgICAgIGhlbHA9J2Jsb2NrIHNpemUgKGRlZmF1bHQ6ICUoZGVmYXVsdClzKScpCnBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAnLXEnLCAnLS1idWZmZXJzaXplJywgdHlwZT1pbnQsIGRlZmF1bHQ9MjAsCiAgICBoZWxwPSdudW1iZXIgb2YgYmxvY2tzIHVzZWQgZm9yIGJ1ZmZlcmluZyAoZGVmYXVsdDogJShkZWZhdWx0KXMpJykKYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkKaWYgYXJncy5ibG9ja3NpemUgPT0gMDoKICAgIHBhcnNlci5lcnJvcignYmxvY2tzaXplIG11c3Qgbm90IGJlIHplcm8nKQppZiBhcmdzLmJ1ZmZlcnNpemUgPCAxOgogICAgcGFyc2VyLmVycm9yKCdidWZmZXJzaXplIG11c3QgYmUgYXQgbGVhc3QgMScpCgpxID0gcXVldWUuUXVldWUobWF4c2l6ZT1hcmdzLmJ1ZmZlcnNpemUpCmV2ZW50ID0gdGhyZWFkaW5nLkV2ZW50KCkKCgpkZWYgY2FsbGJhY2sob3V0ZGF0YSwgZnJhbWVzLCB0aW1lLCBzdGF0dXMpOgogICAgYXNzZXJ0IGZyYW1lcyA9PSBhcmdzLmJsb2Nrc2l6ZQogICAgaWYgc3RhdHVzLm91dHB1dF91bmRlcmZsb3c6CiAgICAgICAgcHJpbnQoJ091dHB1dCB1bmRlcmZsb3c6IGluY3JlYXNlIGJsb2Nrc2l6ZT8nLCBmaWxlPXN5cy5zdGRlcnIpCiAgICAgICAgcmFpc2Ugc2QuQ2FsbGJhY2tBYm9ydAogICAgYXNzZXJ0IG5vdCBzdGF0dXMKICAgIHRyeToKICAgICAgICBkYXRhID0gcS5nZXRfbm93YWl0KCkKICAgIGV4Y2VwdCBxdWV1ZS5FbXB0eToKICAgICAgICBwcmludCgnQnVmZmVyIGlzIGVtcHR5OiBpbmNyZWFzZSBidWZmZXJzaXplPycsIGZpbGU9c3lzLnN0ZGVycikKICAgICAgICByYWlzZSBzZC5DYWxsYmFja0Fib3J0CiAgICBpZiBsZW4oZGF0YSkgPCBsZW4ob3V0ZGF0YSk6CiAgICAgICAgb3V0ZGF0YVs6bGVuKGRhdGEpXSA9IGRhdGEKICAgICAgICBvdXRkYXRhW2xlbihkYXRhKTpdID0gYidceDAwJyAqIChsZW4ob3V0ZGF0YSkgLSBsZW4oZGF0YSkpCiAgICAgICAgcmFpc2Ugc2QuQ2FsbGJhY2tTdG9wCiAgICBlbHNlOgogICAgICAgIG91dGRhdGFbOl0gPSBkYXRhCgoKdHJ5OgogICAgaW1wb3J0IHNvdW5kZGV2aWNlIGFzIHNkCiAgICBpbXBvcnQgc291bmRmaWxlIGFzIHNmCgogICAgd2l0aCBzZi5Tb3VuZEZpbGUoYXJncy5maWxlbmFtZSkgYXMgZjoKICAgICAgICBmb3IgXyBpbiByYW5nZShhcmdzLmJ1ZmZlcnNpemUpOgogICAgICAgICAgICBkYXRhID0gZi5idWZmZXJfcmVhZChhcmdzLmJsb2Nrc2l6ZSwgZHR5cGU9J2Zsb2F0MzInKQogICAgICAgICAgICBpZiBub3QgZGF0YToKICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgIHEucHV0X25vd2FpdChkYXRhKSAgIyBQcmUtZmlsbCBxdWV1ZQoKICAgICAgICBzdHJlYW0gPSBzZC5SYXdPdXRwdXRTdHJlYW0oCiAgICAgICAgICAgIHNhbXBsZXJhdGU9Zi5zYW1wbGVyYXRlLCBibG9ja3NpemU9YXJncy5ibG9ja3NpemUsCiAgICAgICAgICAgIGRldmljZT1hcmdzLmRldmljZSwgY2hhbm5lbHM9Zi5jaGFubmVscywgZHR5cGU9J2Zsb2F0MzInLAogICAgICAgICAgICBjYWxsYmFjaz1jYWxsYmFjaywgZmluaXNoZWRfY2FsbGJhY2s9ZXZlbnQuc2V0KQogICAgICAgIHdpdGggc3RyZWFtOgogICAgICAgICAgICB0aW1lb3V0ID0gYXJncy5ibG9ja3NpemUgKiBhcmdzLmJ1ZmZlcnNpemUgLyBmLnNhbXBsZXJhdGUKICAgICAgICAgICAgd2hpbGUgZGF0YToKICAgICAgICAgICAgICAgIGRhdGEgPSBmLmJ1ZmZlcl9yZWFkKGFyZ3MuYmxvY2tzaXplLCBkdHlwZT0nZmxvYXQzMicpCiAgICAgICAgICAgICAgICBxLnB1dChkYXRhLCB0aW1lb3V0PXRpbWVvdXQpCiAgICAgICAgICAgIGV2ZW50LndhaXQoKSAgIyBXYWl0IHVudGlsIHBsYXliYWNrIGlzIGZpbmlzaGVkCmV4Y2VwdCBLZXlib2FyZEludGVycnVwdDoKICAgIHBhcnNlci5leGl0KCdcbkludGVycnVwdGVkIGJ5IHVzZXInKQpleGNlcHQgcXVldWUuRnVsbDoKICAgICMgQSB0aW1lb3V0IG9jY3VyZWQsIGkuZS4gdGhlcmUgd2FzIGFuIGVycm9yIGluIHRoZSBjYWxsYmFjawogICAgcGFyc2VyLmV4aXQoMSkKZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgcGFyc2VyLmV4aXQodHlwZShlKS5fX25hbWVfXyArICc6ICcgKyBzdHIoZSkpCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>#!/usr/bin/env python
 import argparse
 
@@ -559,18 +571,6 @@ except KeyboardInterrupt:
     parser.exit('\nInterrupted by user')
 except Exception as e:
     parser.exit(type(e).__name__ + ': ' + str(e))</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuc2l0aW9uczoKICAgICAgICAgIC0gdGFyZ2V0OiBBdXRvcGF1c2UKICAgICAgICAgICAgZXZlbnQ6IHN0YXJ0ZWRQbGF5aW5nCiAgICAgICAgICAtIHRhcmdldDogRmFsc2VQbGF5CiAgICAgICAgICAgIGV2ZW50OiBzb25nRW5kCiAgICAgICAgICAgIGd1YXJkOiBjdXJyZW50X2F1dG9wbGF5ID49IEFVVE9QTEFZX0NPVU5UCiAgICAgICAgICAgIGFjdGlvbjogZ29fdG9fbmV4dF9hdXRvcGxheSgpCg==</text>
-      </register>
-      <register name="w" type="4">
-        <text />
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGd1YXJkOiAK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
