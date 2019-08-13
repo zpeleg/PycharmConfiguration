@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/extended_matrix/extended_matrix.yaml" timestamp="1565525339961">
@@ -227,12 +227,12 @@
         <mark key="[" line="274" column="0" />
         <mark key="]" line="274" column="59" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/player_recorder.py" timestamp="1565697249720">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="84" column="65" />
-        <mark key="]" line="84" column="66" />
-        <mark key="^" line="84" column="66" />
-        <mark key="." line="84" column="66" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/player_recorder.py" timestamp="1565699393955">
+        <mark key="'" line="114" column="48" />
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="6" column="36" />
+        <mark key="." line="6" column="36" />
+        <mark key="^" line="6" column="36" />
       </file>
       <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/asyncgen.py" timestamp="1564062377494">
         <mark key="[" line="170" column="0" />
@@ -382,9 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="5" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmarking_utils.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmarking_utils.py" />
-      <jump line="69" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmarking_utils.py" />
       <jump line="38" column="42" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/many_user_extended_summary.py" />
       <jump line="57" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/many_user_extended_summary.py" />
       <jump line="1" column="17" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/many_user_extended_summary.py" />
@@ -482,6 +479,9 @@
       <jump line="601" column="38" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
       <jump line="19" column="23" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/arctoj.py" />
       <jump line="94" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/player_recorder.py" />
+      <jump line="38" column="22" filename="$USER_HOME$/mobileproduct/pymobileproduct/player_recorder.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/player_recorder.py" />
+      <jump line="113" column="48" filename="$USER_HOME$/mobileproduct/pymobileproduct/player_recorder.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -493,36 +493,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>#!/usr/bin/env python
-import argparse
-
-
-def int_or_str(text):
-    &quot;&quot;&quot;Helper function for argument parsing.&quot;&quot;&quot;
-    try:
-        return int(text)
-    except ValueError:
-        return text
-
-parser = argparse.ArgumentParser(description=__doc__)
-parser.add_argument('filename', help='audio file to be played back')
-parser.add_argument('-d', '--device', type=int_or_str,
-                    help='output device (numeric ID or substring)')
-args = parser.parse_args()
-
-try:
-    import sounddevice as sd
-    import soundfile as sf
-    data, fs = sf.read(args.filename, dtype='float32')
-    sd.play(data, fs, device=args.device)
-    status = sd.wait()
-    if status:
-        parser.exit('Error during playback: ' + str(status))
-except KeyboardInterrupt:
-    parser.exit('\nInterrupted by user')
-except Exception as e:
-    parser.exit(type(e).__name__ + ': ' + str(e))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Autopause</text>
@@ -533,7 +505,16 @@ except Exception as e:
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBwbGF5KGludGVycHJldGVyPWludGVycHJldGVyLCBFdmVudD1FdmVudCk6CiAgICAgIGludGVycHJldGVyLnF1ZXVlKEV2ZW50KCJwcmVzc2VkUGxheSIpKQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text>k</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCiIiIlBsYXkgYW4gYXVkaW8gZmlsZSB1c2luZyBhIGxpbWl0ZWQgYW1vdW50IG9mIG1lbW9yeS4KClRoZSBzb3VuZGZpbGUgbW9kdWxlIChodHRwOi8vUHlTb3VuZEZpbGUucnRmZC5pby8pIG11c3QgYmUgaW5zdGFsbGVkIGZvcgp0aGlzIHRvIHdvcmsuICBOdW1QeSBpcyBub3QgbmVlZGVkLgoKSW4gY29udHJhc3QgdG8gcGxheV9maWxlLnB5LCB3aGljaCBsb2FkcyB0aGUgd2hvbGUgZmlsZSBpbnRvIG1lbW9yeQpiZWZvcmUgc3RhcnRpbmcgcGxheWJhY2ssIHRoaXMgZXhhbXBsZSBwcm9ncmFtIG9ubHkgaG9sZHMgYSBnaXZlbiBudW1iZXIKb2YgYXVkaW8gYmxvY2tzIGluIG1lbW9yeSBhbmQgaXMgdGhlcmVmb3JlIGFibGUgdG8gcGxheSBmaWxlcyB0aGF0IGFyZQpsYXJnZXIgdGhhbiB0aGUgYXZhaWxhYmxlIFJBTS4KCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGRpdmlzaW9uLCBwcmludF9mdW5jdGlvbgppbXBvcnQgYXJncGFyc2UKdHJ5OgogICAgaW1wb3J0IHF1ZXVlICAjIFB5dGhvbiAzLngKZXhjZXB0IEltcG9ydEVycm9yOgogICAgaW1wb3J0IFF1ZXVlIGFzIHF1ZXVlICAjIFB5dGhvbiAyLngKaW1wb3J0IHN5cwppbXBvcnQgdGhyZWFkaW5nCgpkZWYgaW50X29yX3N0cih0ZXh0KToKICAgICIiIkhlbHBlciBmdW5jdGlvbiBmb3IgYXJndW1lbnQgcGFyc2luZy4iIiIKICAgIHRyeToKICAgICAgICByZXR1cm4gaW50KHRleHQpCiAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICByZXR1cm4gdGV4dAoKcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoZGVzY3JpcHRpb249X19kb2NfXykKcGFyc2VyLmFkZF9hcmd1bWVudCgnZmlsZW5hbWUnLCBoZWxwPSdhdWRpbyBmaWxlIHRvIGJlIHBsYXllZCBiYWNrJykKcGFyc2VyLmFkZF9hcmd1bWVudCgnLWQnLCAnLS1kZXZpY2UnLCB0eXBlPWludF9vcl9zdHIsCiAgICAgICAgICAgICAgICAgICAgaGVscD0nb3V0cHV0IGRldmljZSAobnVtZXJpYyBJRCBvciBzdWJzdHJpbmcpJykKcGFyc2VyLmFkZF9hcmd1bWVudCgnLWInLCAnLS1ibG9ja3NpemUnLCB0eXBlPWludCwgZGVmYXVsdD0yMDQ4LAogICAgICAgICAgICAgICAgICAgIGhlbHA9J2Jsb2NrIHNpemUgKGRlZmF1bHQ6ICUoZGVmYXVsdClzKScpCnBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAnLXEnLCAnLS1idWZmZXJzaXplJywgdHlwZT1pbnQsIGRlZmF1bHQ9MjAsCiAgICBoZWxwPSdudW1iZXIgb2YgYmxvY2tzIHVzZWQgZm9yIGJ1ZmZlcmluZyAoZGVmYXVsdDogJShkZWZhdWx0KXMpJykKYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkKaWYgYXJncy5ibG9ja3NpemUgPT0gMDoKICAgIHBhcnNlci5lcnJvcignYmxvY2tzaXplIG11c3Qgbm90IGJlIHplcm8nKQppZiBhcmdzLmJ1ZmZlcnNpemUgPCAxOgogICAgcGFyc2VyLmVycm9yKCdidWZmZXJzaXplIG11c3QgYmUgYXQgbGVhc3QgMScpCgpxID0gcXVldWUuUXVldWUobWF4c2l6ZT1hcmdzLmJ1ZmZlcnNpemUpCmV2ZW50ID0gdGhyZWFkaW5nLkV2ZW50KCkKCgpkZWYgY2FsbGJhY2sob3V0ZGF0YSwgZnJhbWVzLCB0aW1lLCBzdGF0dXMpOgogICAgYXNzZXJ0IGZyYW1lcyA9PSBhcmdzLmJsb2Nrc2l6ZQogICAgaWYgc3RhdHVzLm91dHB1dF91bmRlcmZsb3c6CiAgICAgICAgcHJpbnQoJ091dHB1dCB1bmRlcmZsb3c6IGluY3JlYXNlIGJsb2Nrc2l6ZT8nLCBmaWxlPXN5cy5zdGRlcnIpCiAgICAgICAgcmFpc2Ugc2QuQ2FsbGJhY2tBYm9ydAogICAgYXNzZXJ0IG5vdCBzdGF0dXMKICAgIHRyeToKICAgICAgICBkYXRhID0gcS5nZXRfbm93YWl0KCkKICAgIGV4Y2VwdCBxdWV1ZS5FbXB0eToKICAgICAgICBwcmludCgnQnVmZmVyIGlzIGVtcHR5OiBpbmNyZWFzZSBidWZmZXJzaXplPycsIGZpbGU9c3lzLnN0ZGVycikKICAgICAgICByYWlzZSBzZC5DYWxsYmFja0Fib3J0CiAgICBpZiBsZW4oZGF0YSkgPCBsZW4ob3V0ZGF0YSk6CiAgICAgICAgb3V0ZGF0YVs6bGVuKGRhdGEpXSA9IGRhdGEKICAgICAgICBvdXRkYXRhW2xlbihkYXRhKTpdID0gYidceDAwJyAqIChsZW4ob3V0ZGF0YSkgLSBsZW4oZGF0YSkpCiAgICAgICAgcmFpc2Ugc2QuQ2FsbGJhY2tTdG9wCiAgICBlbHNlOgogICAgICAgIG91dGRhdGFbOl0gPSBkYXRhCgoKdHJ5OgogICAgaW1wb3J0IHNvdW5kZGV2aWNlIGFzIHNkCiAgICBpbXBvcnQgc291bmRmaWxlIGFzIHNmCgogICAgd2l0aCBzZi5Tb3VuZEZpbGUoYXJncy5maWxlbmFtZSkgYXMgZjoKICAgICAgICBmb3IgXyBpbiByYW5nZShhcmdzLmJ1ZmZlcnNpemUpOgogICAgICAgICAgICBkYXRhID0gZi5idWZmZXJfcmVhZChhcmdzLmJsb2Nrc2l6ZSwgZHR5cGU9J2Zsb2F0MzInKQogICAgICAgICAgICBpZiBub3QgZGF0YToKICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgIHEucHV0X25vd2FpdChkYXRhKSAgIyBQcmUtZmlsbCBxdWV1ZQoKICAgICAgICBzdHJlYW0gPSBzZC5SYXdPdXRwdXRTdHJlYW0oCiAgICAgICAgICAgIHNhbXBsZXJhdGU9Zi5zYW1wbGVyYXRlLCBibG9ja3NpemU9YXJncy5ibG9ja3NpemUsCiAgICAgICAgICAgIGRldmljZT1hcmdzLmRldmljZSwgY2hhbm5lbHM9Zi5jaGFubmVscywgZHR5cGU9J2Zsb2F0MzInLAogICAgICAgICAgICBjYWxsYmFjaz1jYWxsYmFjaywgZmluaXNoZWRfY2FsbGJhY2s9ZXZlbnQuc2V0KQogICAgICAgIHdpdGggc3RyZWFtOgogICAgICAgICAgICB0aW1lb3V0ID0gYXJncy5ibG9ja3NpemUgKiBhcmdzLmJ1ZmZlcnNpemUgLyBmLnNhbXBsZXJhdGUKICAgICAgICAgICAgd2hpbGUgZGF0YToKICAgICAgICAgICAgICAgIGRhdGEgPSBmLmJ1ZmZlcl9yZWFkKGFyZ3MuYmxvY2tzaXplLCBkdHlwZT0nZmxvYXQzMicpCiAgICAgICAgICAgICAgICBxLnB1dChkYXRhLCB0aW1lb3V0PXRpbWVvdXQpCiAgICAgICAgICAgIGV2ZW50LndhaXQoKSAgIyBXYWl0IHVudGlsIHBsYXliYWNrIGlzIGZpbmlzaGVkCmV4Y2VwdCBLZXlib2FyZEludGVycnVwdDoKICAgIHBhcnNlci5leGl0KCdcbkludGVycnVwdGVkIGJ5IHVzZXInKQpleGNlcHQgcXVldWUuRnVsbDoKICAgICMgQSB0aW1lb3V0IG9jY3VyZWQsIGkuZS4gdGhlcmUgd2FzIGFuIGVycm9yIGluIHRoZSBjYWxsYmFjawogICAgcGFyc2VyLmV4aXQoMSkKZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgcGFyc2VyLmV4aXQodHlwZShlKS5fX25hbWVfXyArICc6ICcgKyBzdHIoZSkpCg==</text>
+      </register>
+      <register name="3" type="4">
         <text>#!/usr/bin/env python
 import argparse
 
@@ -564,35 +545,26 @@ except KeyboardInterrupt:
 except Exception as e:
     parser.exit(type(e).__name__ + ': ' + str(e))</text>
       </register>
-      <register name="q" type="4">
-        <text>k</text>
-      </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB0cmFuc2l0aW9uczoKICAgICAgICAgIC0gdGFyZ2V0OiBBdXRvcGF1c2UKICAgICAgICAgICAgZXZlbnQ6IHN0YXJ0ZWRQbGF5aW5nCiAgICAgICAgICAtIHRhcmdldDogRmFsc2VQbGF5CiAgICAgICAgICAgIGV2ZW50OiBzb25nRW5kCiAgICAgICAgICAgIGd1YXJkOiBjdXJyZW50X2F1dG9wbGF5ID49IEFVVE9QTEFZX0NPVU5UCiAgICAgICAgICAgIGFjdGlvbjogZ29fdG9fbmV4dF9hdXRvcGxheSgpCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIGd1YXJkOiAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBndWFyZDogZXZlbnQuZW5kX3BvcyA+PSAoZmlyc3RfaW5fdGltZXN0YW1wc1tlbnJvbGxfaW5kZXhdICsgMiAqNDgwMDApCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBkZWYgZG9fcGxheShpbnRlcnByZXRlcj1pbnRlcnByZXRlciwgbXVzaWNfcGxheWVyPW11c2ljX3BsYXllciwgRXZlbnQ9RXZlbnQpOgogICAgICBpbnRlcnByZXRlci5xdWV1ZShFdmVudCgicHJlc3NlZFBsYXkiKSkKCiAgICBkZWYgZG9fcGF1c2VfcGxheShpbnRlcnByZXRlcj1pbnRlcnByZXRlciwgbXVzaWNfcGxheWVyPW11c2ljX3BsYXllciwgRXZlbnQ9RXZlbnQpOgogICAgICBpbnRlcnByZXRlci5xdWV1ZShFdmVudCgicHJlc3NlZFBhdXNlIikpCiAgICAgIG11c2ljX3BsYXllci5mYXN0X2ZvcndhcmQoKQogICAgICBpbnRlcnByZXRlci5xdWV1ZShFdmVudCgicHJlc3NlZFBsYXkiKSkKCg==</text>
+        <text encoding="base64">ICAgICAgICBndWFyZDogZXZlbnQuZW5kX3BvcyA+PSAoZmlyc3RfaW5fdGltZXN0YW1wc1tlbnJvbGxfaW5kZXhdICsgMiAqNDgwMDApCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoKCgoKICAgICAgLSBuYW1lOiBTcGVjaWFsU2lnbmFsCiAgICAgICAgdHJhbnNpdGlvbnM6CiAgICAgICAgICAtIHRhcmdldDogTXVzaWNEZXRlY3Rpb24KICAgICAgICAgICAgZXZlbnQ6IHN0YXJ0ZWRQbGF5aW5nCiAgICAgICAgICAtIHRhcmdldDogTXVzaWNEZXRlY3Rpb24KICAgICAgICAgICAgZXZlbnQ6IHNvbmdFbmQKICAgICAgICAgICAgYWN0aW9uOiBkb19wbGF5KCkKICAgICAgLSBuYW1lOiBNdXNpY0RldGVjdGlvbgogICAgICAgIHRyYW5zaXRpb25zOgogICAgICAgICAgLSB0YXJnZXQ6IFNwZWNpYWxTaWduYWwKICAgICAgICAgICAgZXZlbnQ6IHN0b3BwZWRQbGF5aW5nCiAgICAgICAgICAtIHRhcmdldDogU3BlY2lhbFNpZ25hbAogICAgICAgICAgICBldmVudDogc29uZ0VuZAogICAgICAgICAgICBhY3Rpb246IGRvX3BhdXNlX3BsYXkoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogYXNkZmFzZGZ3YWUK</text>
+        <text encoding="base64">CiAgICBkZWYgZG9fcGxheShpbnRlcnByZXRlcj1pbnRlcnByZXRlciwgbXVzaWNfcGxheWVyPW11c2ljX3BsYXllciwgRXZlbnQ9RXZlbnQpOgogICAgICBpbnRlcnByZXRlci5xdWV1ZShFdmVudCgicHJlc3NlZFBsYXkiKSkKCiAgICBkZWYgZG9fcGF1c2VfcGxheShpbnRlcnByZXRlcj1pbnRlcnByZXRlciwgbXVzaWNfcGxheWVyPW11c2ljX3BsYXllciwgRXZlbnQ9RXZlbnQpOgogICAgICBpbnRlcnByZXRlci5xdWV1ZShFdmVudCgicHJlc3NlZFBhdXNlIikpCiAgICAgIG11c2ljX3BsYXllci5mYXN0X2ZvcndhcmQoKQogICAgICBpbnRlcnByZXRlci5xdWV1ZShFdmVudCgicHJlc3NlZFBsYXkiKSkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -645,12 +617,12 @@ except Exception as e:
         <entry>d</entry>
         <entry>Q</entry>
         <entry>x</entry>
-        <entry>Lw</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>w</entry>
         <entry>W</entry>
+        <entry>Lw</entry>
       </history-cmd>
       <history-expr />
       <history-input />
