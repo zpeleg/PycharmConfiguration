@@ -240,11 +240,11 @@
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/buga-recordings/pybugarec/audio_interfaces/synaptics_audio_interface.py" timestamp="1565769670034">
-        <mark key="[" line="95" column="40" />
-        <mark key="]" line="96" column="25" />
-        <mark key="." line="96" column="25" />
-        <mark key="^" line="96" column="25" />
+      <file name="$USER_HOME$/buga-recordings/pybugarec/audio_interfaces/synaptics_audio_interface.py" timestamp="1565773707603">
+        <mark key="[" line="43" column="29" />
+        <mark key="]" line="43" column="34" />
+        <mark key="." line="43" column="34" />
+        <mark key="^" line="43" column="34" />
       </file>
       <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/asyncgen.py" timestamp="1564062377494">
         <mark key="[" line="170" column="0" />
@@ -285,7 +285,7 @@
         <mark key="." line="180" column="0" />
         <mark key="^" line="343" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565718093622">
+      <file name="/Dummy.txt" timestamp="1565774646339">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="^" line="0" column="47" />
@@ -357,11 +357,13 @@
         <mark key="." line="141" column="61" />
         <mark key="^" line="141" column="61" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/moab_recording_script.py" timestamp="1565530038446">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/moab_recording_script.py" timestamp="1565774563757">
         <mark key="a" line="623" column="11" />
-        <mark key="[" line="623" column="11" />
-        <mark key="]" line="623" column="11" />
-        <mark key="." line="623" column="11" />
+        <mark key="'" line="4" column="20" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+        <mark key="^" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/Bugatone-Space/pybuga/tests/utils/test_helpers.py" timestamp="1562858853931">
         <mark key="[" line="28" column="32" />
@@ -394,7 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="17" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/many_user_extended_summary.py" />
       <jump line="47" column="12" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/many_user_extended_summary.py" />
       <jump line="2" column="18" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/many_user_extended_summary.py" />
       <jump line="25" column="37" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/many_user_extended_summary.py" />
@@ -494,6 +495,7 @@
       <jump line="113" column="48" filename="$USER_HOME$/mobileproduct/pymobileproduct/player_recorder.py" />
       <jump line="101" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/dunno.py" />
       <jump line="26" column="43" filename="$USER_HOME$/mobileproduct/pymobileproduct/dunno.py" />
+      <jump line="4" column="20" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/moab_recording_script.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -506,10 +508,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
@@ -517,38 +519,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBvdXRkYXRhWzpdID0gbnVtcHkucmFuZG9tLnJhbmRuKGZyYW1lcywgMikgKiAwLjEK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2QuZGVmYXVsdC5fX2RpY3RfXwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgogICAg</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmcmFtZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2QuZGVmYXVsdC5fX2RpY3RfXwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjaHVuay5zaGFwZSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRkYXRhWzpdID0gc1tdCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFnCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChmcmFtZXMpCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChjaHVuay5zaGFwZSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBvdXRkYXRhWzpdID0gc1tdCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWFnCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmcmFtZXMpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCiIiIlBsYXkgYW4gYXVkaW8gZmlsZSB1c2luZyBhIGxpbWl0ZWQgYW1vdW50IG9mIG1lbW9yeS4KClRoZSBzb3VuZGZpbGUgbW9kdWxlIChodHRwOi8vUHlTb3VuZEZpbGUucnRmZC5pby8pIG11c3QgYmUgaW5zdGFsbGVkIGZvcgp0aGlzIHRvIHdvcmsuICBOdW1QeSBpcyBub3QgbmVlZGVkLgoKSW4gY29udHJhc3QgdG8gcGxheV9maWxlLnB5LCB3aGljaCBsb2FkcyB0aGUgd2hvbGUgZmlsZSBpbnRvIG1lbW9yeQpiZWZvcmUgc3RhcnRpbmcgcGxheWJhY2ssIHRoaXMgZXhhbXBsZSBwcm9ncmFtIG9ubHkgaG9sZHMgYSBnaXZlbiBudW1iZXIKb2YgYXVkaW8gYmxvY2tzIGluIG1lbW9yeSBhbmQgaXMgdGhlcmVmb3JlIGFibGUgdG8gcGxheSBmaWxlcyB0aGF0IGFyZQpsYXJnZXIgdGhhbiB0aGUgYXZhaWxhYmxlIFJBTS4KCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGRpdmlzaW9uLCBwcmludF9mdW5jdGlvbgppbXBvcnQgYXJncGFyc2UKdHJ5OgogICAgaW1wb3J0IHF1ZXVlICAjIFB5dGhvbiAzLngKZXhjZXB0IEltcG9ydEVycm9yOgogICAgaW1wb3J0IFF1ZXVlIGFzIHF1ZXVlICAjIFB5dGhvbiAyLngKaW1wb3J0IHN5cwppbXBvcnQgdGhyZWFkaW5nCgpkZWYgaW50X29yX3N0cih0ZXh0KToKICAgICIiIkhlbHBlciBmdW5jdGlvbiBmb3IgYXJndW1lbnQgcGFyc2luZy4iIiIKICAgIHRyeToKICAgICAgICByZXR1cm4gaW50KHRleHQpCiAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICByZXR1cm4gdGV4dAoKcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoZGVzY3JpcHRpb249X19kb2NfXykKcGFyc2VyLmFkZF9hcmd1bWVudCgnZmlsZW5hbWUnLCBoZWxwPSdhdWRpbyBmaWxlIHRvIGJlIHBsYXllZCBiYWNrJykKcGFyc2VyLmFkZF9hcmd1bWVudCgnLWQnLCAnLS1kZXZpY2UnLCB0eXBlPWludF9vcl9zdHIsCiAgICAgICAgICAgICAgICAgICAgaGVscD0nb3V0cHV0IGRldmljZSAobnVtZXJpYyBJRCBvciBzdWJzdHJpbmcpJykKcGFyc2VyLmFkZF9hcmd1bWVudCgnLWInLCAnLS1ibG9ja3NpemUnLCB0eXBlPWludCwgZGVmYXVsdD0yMDQ4LAogICAgICAgICAgICAgICAgICAgIGhlbHA9J2Jsb2NrIHNpemUgKGRlZmF1bHQ6ICUoZGVmYXVsdClzKScpCnBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAnLXEnLCAnLS1idWZmZXJzaXplJywgdHlwZT1pbnQsIGRlZmF1bHQ9MjAsCiAgICBoZWxwPSdudW1iZXIgb2YgYmxvY2tzIHVzZWQgZm9yIGJ1ZmZlcmluZyAoZGVmYXVsdDogJShkZWZhdWx0KXMpJykKYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkKaWYgYXJncy5ibG9ja3NpemUgPT0gMDoKICAgIHBhcnNlci5lcnJvcignYmxvY2tzaXplIG11c3Qgbm90IGJlIHplcm8nKQppZiBhcmdzLmJ1ZmZlcnNpemUgPCAxOgogICAgcGFyc2VyLmVycm9yKCdidWZmZXJzaXplIG11c3QgYmUgYXQgbGVhc3QgMScpCgpxID0gcXVldWUuUXVldWUobWF4c2l6ZT1hcmdzLmJ1ZmZlcnNpemUpCmV2ZW50ID0gdGhyZWFkaW5nLkV2ZW50KCkKCgpkZWYgY2FsbGJhY2sob3V0ZGF0YSwgZnJhbWVzLCB0aW1lLCBzdGF0dXMpOgogICAgYXNzZXJ0IGZyYW1lcyA9PSBhcmdzLmJsb2Nrc2l6ZQogICAgaWYgc3RhdHVzLm91dHB1dF91bmRlcmZsb3c6CiAgICAgICAgcHJpbnQoJ091dHB1dCB1bmRlcmZsb3c6IGluY3JlYXNlIGJsb2Nrc2l6ZT8nLCBmaWxlPXN5cy5zdGRlcnIpCiAgICAgICAgcmFpc2Ugc2QuQ2FsbGJhY2tBYm9ydAogICAgYXNzZXJ0IG5vdCBzdGF0dXMKICAgIHRyeToKICAgICAgICBkYXRhID0gcS5nZXRfbm93YWl0KCkKICAgIGV4Y2VwdCBxdWV1ZS5FbXB0eToKICAgICAgICBwcmludCgnQnVmZmVyIGlzIGVtcHR5OiBpbmNyZWFzZSBidWZmZXJzaXplPycsIGZpbGU9c3lzLnN0ZGVycikKICAgICAgICByYWlzZSBzZC5DYWxsYmFja0Fib3J0CiAgICBpZiBsZW4oZGF0YSkgPCBsZW4ob3V0ZGF0YSk6CiAgICAgICAgb3V0ZGF0YVs6bGVuKGRhdGEpXSA9IGRhdGEKICAgICAgICBvdXRkYXRhW2xlbihkYXRhKTpdID0gYidceDAwJyAqIChsZW4ob3V0ZGF0YSkgLSBsZW4oZGF0YSkpCiAgICAgICAgcmFpc2Ugc2QuQ2FsbGJhY2tTdG9wCiAgICBlbHNlOgogICAgICAgIG91dGRhdGFbOl0gPSBkYXRhCgoKdHJ5OgogICAgaW1wb3J0IHNvdW5kZGV2aWNlIGFzIHNkCiAgICBpbXBvcnQgc291bmRmaWxlIGFzIHNmCgogICAgd2l0aCBzZi5Tb3VuZEZpbGUoYXJncy5maWxlbmFtZSkgYXMgZjoKICAgICAgICBmb3IgXyBpbiByYW5nZShhcmdzLmJ1ZmZlcnNpemUpOgogICAgICAgICAgICBkYXRhID0gZi5idWZmZXJfcmVhZChhcmdzLmJsb2Nrc2l6ZSwgZHR5cGU9J2Zsb2F0MzInKQogICAgICAgICAgICBpZiBub3QgZGF0YToKICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgIHEucHV0X25vd2FpdChkYXRhKSAgIyBQcmUtZmlsbCBxdWV1ZQoKICAgICAgICBzdHJlYW0gPSBzZC5SYXdPdXRwdXRTdHJlYW0oCiAgICAgICAgICAgIHNhbXBsZXJhdGU9Zi5zYW1wbGVyYXRlLCBibG9ja3NpemU9YXJncy5ibG9ja3NpemUsCiAgICAgICAgICAgIGRldmljZT1hcmdzLmRldmljZSwgY2hhbm5lbHM9Zi5jaGFubmVscywgZHR5cGU9J2Zsb2F0MzInLAogICAgICAgICAgICBjYWxsYmFjaz1jYWxsYmFjaywgZmluaXNoZWRfY2FsbGJhY2s9ZXZlbnQuc2V0KQogICAgICAgIHdpdGggc3RyZWFtOgogICAgICAgICAgICB0aW1lb3V0ID0gYXJncy5ibG9ja3NpemUgKiBhcmdzLmJ1ZmZlcnNpemUgLyBmLnNhbXBsZXJhdGUKICAgICAgICAgICAgd2hpbGUgZGF0YToKICAgICAgICAgICAgICAgIGRhdGEgPSBmLmJ1ZmZlcl9yZWFkKGFyZ3MuYmxvY2tzaXplLCBkdHlwZT0nZmxvYXQzMicpCiAgICAgICAgICAgICAgICBxLnB1dChkYXRhLCB0aW1lb3V0PXRpbWVvdXQpCiAgICAgICAgICAgIGV2ZW50LndhaXQoKSAgIyBXYWl0IHVudGlsIHBsYXliYWNrIGlzIGZpbmlzaGVkCmV4Y2VwdCBLZXlib2FyZEludGVycnVwdDoKICAgIHBhcnNlci5leGl0KCdcbkludGVycnVwdGVkIGJ5IHVzZXInKQpleGNlcHQgcXVldWUuRnVsbDoKICAgICMgQSB0aW1lb3V0IG9jY3VyZWQsIGkuZS4gdGhlcmUgd2FzIGFuIGVycm9yIGluIHRoZSBjYWxsYmFjawogICAgcGFyc2VyLmV4aXQoMSkKZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgcGFyc2VyLmV4aXQodHlwZShlKS5fX25hbWVfXyArICc6ICcgKyBzdHIoZSkpCg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
