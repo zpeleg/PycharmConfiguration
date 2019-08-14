@@ -240,11 +240,11 @@
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/buga-recordings/pybugarec/audio_interfaces/synaptics_audio_interface.py" timestamp="1565768104859">
-        <mark key="[" line="94" column="40" />
-        <mark key="]" line="95" column="18" />
-        <mark key="." line="95" column="18" />
-        <mark key="^" line="95" column="18" />
+      <file name="$USER_HOME$/buga-recordings/pybugarec/audio_interfaces/synaptics_audio_interface.py" timestamp="1565769670034">
+        <mark key="[" line="95" column="40" />
+        <mark key="]" line="96" column="25" />
+        <mark key="." line="96" column="25" />
+        <mark key="^" line="96" column="25" />
       </file>
       <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/asyncgen.py" timestamp="1564062377494">
         <mark key="[" line="170" column="0" />
@@ -605,8 +605,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>Lw</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
