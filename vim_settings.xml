@@ -87,7 +87,7 @@
         <mark key="." line="19" column="15" />
         <mark key="^" line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/moab_recording_utils.py" timestamp="1565775795789" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/moab_recording_utils.py" timestamp="1565784887766" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/qa_helpers/show_recordings.py" timestamp="1565522746050">
         <mark key="[" line="127" column="0" />
         <mark key="]" line="127" column="0" />
@@ -242,11 +242,11 @@
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/buga-recordings/pybugarec/audio_interfaces/synaptics_audio_interface.py" timestamp="1565777948158">
-        <mark key="[" line="168" column="41" />
-        <mark key="]" line="172" column="21" />
-        <mark key="." line="172" column="21" />
-        <mark key="^" line="172" column="21" />
+      <file name="$USER_HOME$/buga-recordings/pybugarec/audio_interfaces/synaptics_audio_interface.py" timestamp="1565784897782">
+        <mark key="[" line="170" column="54" />
+        <mark key="]" line="170" column="56" />
+        <mark key="." line="170" column="56" />
+        <mark key="^" line="170" column="56" />
       </file>
       <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/asyncgen.py" timestamp="1564062377494">
         <mark key="[" line="170" column="0" />
