@@ -4,45 +4,13 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_users_queries.py" timestamp="1565610255271" />
-      <file name="$USER_HOME$/buga-recordings/pybugarec/audio_interfaces/daemon_rpc_audio_interface.py" timestamp="1565530300234" />
-      <file name="/a.dummy" timestamp="1564497061829">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/net_bench.py" timestamp="1564496676885">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="15" />
-        <mark key="^" line="15" column="15" />
-        <mark key="." line="15" column="15" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/arctoj.py" timestamp="1565284576011">
         <mark key="[" line="26" column="26" />
         <mark key="]" line="26" column="39" />
         <mark key="^" line="26" column="39" />
         <mark key="." line="26" column="39" />
       </file>
-      <file name="$USER_HOME$/buga-recordings/pybugarec/audio_interfaces/dummy_audio_interface.py" timestamp="1565530309252" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/paint_it_none.py" timestamp="1563806014303">
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="10" column="33" />
-        <mark key="^" line="10" column="33" />
-        <mark key="." line="10" column="33" />
-      </file>
-      <file name="/False" timestamp="1555316610968">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/raw_row_summary.py" timestamp="1565610102196" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/single_ear_sanity.yaml" timestamp="1565622663498">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="91" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/single_ear_sanity/single_ear_sanity.py" timestamp="1565616237561">
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="1" column="20" />
-        <mark key="." line="1" column="20" />
-        <mark key="^" line="1" column="20" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/per_thread_logger.py" timestamp="1563205516602">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -55,21 +23,11 @@
         <mark key="." line="258" column="4" />
         <mark key="^" line="258" column="20" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/please_stuck.py" timestamp="1563796073732">
-        <mark key="[" line="18" column="14" />
-        <mark key="]" line="19" column="15" />
-        <mark key="." line="19" column="15" />
-        <mark key="^" line="19" column="15" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/moab_recording_utils.py" timestamp="1565529269692" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1565536661307">
         <mark key="[" line="613" column="0" />
         <mark key="]" line="613" column="16" />
         <mark key="^" line="610" column="45" />
         <mark key="." line="613" column="16" />
-      </file>
-      <file name="/" timestamp="1564506795609">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/do_extended_many_user.py" timestamp="1563269960813">
         <mark key="[" line="60" column="96" />
@@ -87,47 +45,9 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="43" column="69" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/find_many_users.py" timestamp="1564500082499">
-        <mark key="[" line="20" column="60" />
-        <mark key="]" line="20" column="60" />
-        <mark key="." line="20" column="60" />
-      </file>
       <file name="/moab_recording_script.py" timestamp="1565529149092" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/logcat_monitor.py" timestamp="1564062249392" />
-      <file name="/None" timestamp="1557245313825">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" timestamp="1564678570129">
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="155" column="83" />
-        <mark key="." line="170" column="117" />
-        <mark key="^" line="170" column="116" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/flow.py" timestamp="1565527564577" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_users_sanity.yaml" timestamp="1565536255995">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="13" column="45" />
-      </file>
-      <file name="/moab_recording_utils.py" timestamp="1565529157639" />
-      <file name="/Python Console" timestamp="1565529914004">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1565529828096">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/research/compare_versions.py" timestamp="1565610173786" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/archives.py" timestamp="1565522612388">
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="174" column="0" />
-        <mark key="." line="174" column="0" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/daemon_flow_single_player.yaml" timestamp="1563976659872" />
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1565525349261">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="45" />
-        <mark key="." line="71" column="32" />
-        <mark key="^" line="101" column="32" />
-      </file>
       <file name="$USER_HOME$/device_communication/pydcomm/general_android/connection/fixers/get_user_attention_fixer.py" timestamp="1565513943530">
         <mark key="[" line="12" column="46" />
         <mark key="]" line="12" column="75" />
@@ -139,11 +59,98 @@
         <mark key="]" line="360" column="0" />
         <mark key="." line="360" column="0" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/phi.py" timestamp="1564676772180">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="73" />
+        <mark key="^" line="3" column="73" />
+        <mark key="." line="3" column="73" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/many_user_extended.yaml" timestamp="1565622628389">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="146" />
+        <mark key="^" line="102" column="84" />
+        <mark key="." line="105" column="0" />
+      </file>
+      <file name="/arctoj.py" timestamp="1565253979946" />
+      <file name="$USER_HOME$/buga-recordings/setup.py" timestamp="1565786146696">
+        <mark key="[" line="8" column="134" />
+        <mark key="]" line="8" column="147" />
+        <mark key="^" line="8" column="147" />
+        <mark key="." line="8" column="147" />
+      </file>
+      <file name="$USER_HOME$/buga-recordings/pybugarec/audio_interfaces/daemon_rpc_audio_interface.py" timestamp="1565530300234" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/net_bench.py" timestamp="1564496676885">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="15" />
+        <mark key="^" line="15" column="15" />
+        <mark key="." line="15" column="15" />
+      </file>
+      <file name="$USER_HOME$/buga-recordings/pybugarec/audio_interfaces/dummy_audio_interface.py" timestamp="1565530309252" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/paint_it_none.py" timestamp="1563806014303">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="33" />
+        <mark key="^" line="10" column="33" />
+        <mark key="." line="10" column="33" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/single_ear_sanity.yaml" timestamp="1565622663498">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="91" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/single_ear_sanity/single_ear_sanity.py" timestamp="1565616237561">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/please_stuck.py" timestamp="1563796073732">
+        <mark key="[" line="18" column="14" />
+        <mark key="]" line="19" column="15" />
+        <mark key="." line="19" column="15" />
+        <mark key="^" line="19" column="15" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/moab_recording_utils.py" timestamp="1565529269692" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/find_many_users.py" timestamp="1564500082499">
+        <mark key="[" line="20" column="60" />
+        <mark key="]" line="20" column="60" />
+        <mark key="." line="20" column="60" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/logcat_monitor.py" timestamp="1564062249392" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" timestamp="1564678570129">
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="155" column="83" />
+        <mark key="." line="170" column="117" />
+        <mark key="^" line="170" column="116" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_users_sanity.yaml" timestamp="1565536255995">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="13" column="45" />
+      </file>
+      <file name="/moab_recording_utils.py" timestamp="1565529157639" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/research/compare_versions.py" timestamp="1565610173786" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/archives.py" timestamp="1565522612388">
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="0" />
+        <mark key="." line="174" column="0" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" timestamp="1565525349261">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="45" />
+        <mark key="." line="71" column="32" />
+        <mark key="^" line="101" column="32" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/do_authentication.py" timestamp="1564491499380">
         <mark key="[" line="10" column="85" />
         <mark key="]" line="10" column="114" />
         <mark key="^" line="10" column="114" />
         <mark key="." line="10" column="114" />
+      </file>
+      <file name="$USER_HOME$/buga-recordings/pybugarec/audio_interfaces/synaptics_audio_interface.py" timestamp="1565786087238">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="34" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/json_helpers.py" timestamp="1565253198668">
         <mark key="[" line="148" column="19" />
@@ -160,12 +167,6 @@
         <mark key="." line="149" column="0" />
         <mark key="^" line="149" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/phi.py" timestamp="1564676772180">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="73" />
-        <mark key="^" line="3" column="73" />
-        <mark key="." line="3" column="73" />
-      </file>
       <file name="/Dummy.txt" timestamp="1565621079755">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="0" column="0" />
@@ -178,20 +179,11 @@
         <mark key="." line="9" column="84" />
         <mark key="^" line="9" column="84" />
       </file>
-      <file name="/default_bugatone_api_config" timestamp="1557245315848">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/default_daemon_start_detect_special_sig_config" timestamp="1557245313816">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/many_user_extended_summary.py" timestamp="1565610605586">
         <mark key="[" line="122" column="25" />
         <mark key="]" line="122" column="23" />
         <mark key="." line="122" column="23" />
         <mark key="^" line="122" column="23" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
-        <mark key="[" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/export.py" timestamp="1563290665729">
         <mark key="[" line="3" column="45" />
@@ -209,21 +201,6 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="24" column="41" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/moab_recording_script.py" timestamp="1565530038446">
-        <mark key="a" line="623" column="11" />
-        <mark key="[" line="623" column="11" />
-        <mark key="]" line="623" column="11" />
-        <mark key="." line="623" column="11" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/many_user_extended.yaml" timestamp="1565622628389">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="146" />
-        <mark key="^" line="102" column="84" />
-        <mark key="." line="105" column="0" />
-      </file>
-      <file name="/default_daemon_start_detect_music_detection_config" timestamp="1557245313814">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/read_timings_file.py" timestamp="1565615505504">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="8" column="20" />
@@ -231,7 +208,6 @@
         <mark key="." line="8" column="20" />
       </file>
       <file name="/load_bm.py" timestamp="1564679530146" />
-      <file name="/arctoj.py" timestamp="1565253979946" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/many_users_sanity/flow.py" timestamp="1565517650642">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="20" />
