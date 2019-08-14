@@ -393,6 +393,12 @@
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="75" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/regression_test.py" timestamp="1565792850521">
+        <mark key="[" line="148" column="44" />
+        <mark key="]" line="148" column="44" />
+        <mark key="^" line="148" column="44" />
+        <mark key="." line="148" column="44" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/moab/moab_recording_test.py" timestamp="1565529909367">
         <mark key="[" line="72" column="33" />
       </file>
