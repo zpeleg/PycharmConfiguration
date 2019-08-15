@@ -46,6 +46,12 @@
         <mark key="]" line="43" column="69" />
       </file>
       <file name="/moab_recording_script.py" timestamp="1565529149092" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/synaptics_ai_bench.py" timestamp="1565856749961">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/teacher_sanity/flow.py" timestamp="1565527564577" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/daemon_flow_single_player.yaml" timestamp="1563976659872" />
       <file name="$USER_HOME$/device_communication/pydcomm/general_android/connection/fixers/get_user_attention_fixer.py" timestamp="1565513943530">
@@ -428,8 +434,8 @@
         <entry>x</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5X</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
