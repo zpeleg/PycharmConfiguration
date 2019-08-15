@@ -56,6 +56,12 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="61" column="24" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/synaptics_ai_stability.py" timestamp="1565868326113">
+        <mark key="[" line="13" column="36" />
+        <mark key="]" line="13" column="38" />
+        <mark key="^" line="13" column="38" />
+        <mark key="." line="13" column="38" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/aaa.py" timestamp="1563710168308">
         <mark key="'" line="68" column="0" />
         <mark key="[" line="52" column="0" />
@@ -87,7 +93,6 @@
         <mark key="." line="19" column="15" />
         <mark key="^" line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/moab_recording_utils.py" timestamp="1565784887766" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/qa_helpers/show_recordings.py" timestamp="1565522746050">
         <mark key="[" line="127" column="0" />
         <mark key="]" line="127" column="0" />
@@ -139,10 +144,6 @@
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1565791388987">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="304" column="27" />
-        <mark key="]" line="304" column="27" />
-        <mark key="^" line="304" column="27" />
-        <mark key="." line="304" column="27" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" timestamp="1565275336193">
         <mark key="[" line="152" column="92" />
@@ -366,12 +367,7 @@
         <mark key="^" line="141" column="61" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/moab_recording_script.py" timestamp="1565776680044">
-        <mark key="a" line="623" column="11" />
         <mark key="'" line="4" column="20" />
-        <mark key="[" line="609" column="0" />
-        <mark key="]" line="609" column="0" />
-        <mark key="." line="609" column="0" />
-        <mark key="^" line="609" column="30" />
       </file>
       <file name="$USER_HOME$/Bugatone-Space/pybuga/tests/utils/test_helpers.py" timestamp="1562858853931">
         <mark key="[" line="28" column="32" />
@@ -521,11 +517,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UmV0dXJuIHJlYyBldmVuIGlmIHRoZXJlIHdhcyBhbiBlcnJvcgo=</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
@@ -534,37 +530,37 @@
         <text>sony3</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UmV0dXJuIHJlYyBldmVuIGlmIHRoZXJlIHdhcyBhbiBlcnJvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWkuCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UmVhZCBtb2JpbGVwcm9kdWN0IHZlcnNpb24gaW4gYmVuY2htYXJrIG1ldGFkYXRhCg==</text>
+        <text encoding="base64">UmV0dXJuIHJlYyBldmVuIGlmIHRoZXJlIHdhcyBhbiBlcnJvcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIk5vdCBmaW5pc2hlZCIpCg==</text>
+        <text encoding="base64">UmVhZCBtb2JpbGVwcm9kdWN0IHZlcnNpb24gaW4gYmVuY2htYXJrIG1ldGFkYXRhCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIk5vdCBmaW5pc2hlZCIpCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyByZWMgPSBOb25lCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CgogICAg</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2QuZGVmYXVsdC5fX2RpY3RfXwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmcmFtZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2QuZGVmYXVsdC5fX2RpY3RfXwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjaHVuay5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmcmFtZXMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRkYXRhWzpdID0gc1tdCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjaHVuay5zaGFwZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -621,8 +617,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>Lw</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
