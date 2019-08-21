@@ -226,11 +226,8 @@
         <mark key="." line="149" column="0" />
         <mark key="^" line="149" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566389902012">
+      <file name="/Dummy.txt" timestamp="1566397490971">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/do_single_ear_sanity.py" timestamp="1565522431365">
         <mark key="[" line="9" column="68" />
@@ -262,12 +259,12 @@
         <mark key="^" line="3" column="61" />
         <mark key="." line="3" column="61" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/just_play.py" timestamp="1566394528760">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/just_play.py" timestamp="1566397478339">
         <mark key="'" line="109" column="28" />
-        <mark key="[" line="142" column="86" />
-        <mark key="]" line="143" column="26" />
-        <mark key="^" line="143" column="26" />
-        <mark key="." line="143" column="26" />
+        <mark key="[" line="139" column="31" />
+        <mark key="]" line="134" column="17" />
+        <mark key="^" line="129" column="53" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/read_timings_file.py" timestamp="1565615505504">
         <mark key="[" line="8" column="5" />
@@ -397,49 +394,49 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgID4+PiBpdCA9IGNodW5raWZ5aW5nX2l0ZXJhdG9yKG5wLmFycmF5KFtucC52c3RhY2soKG5wLmFyYW5nZSgxMCksIG5wLmFyYW5nZSgxMCkpKSBmb3IgXyBpbiByYW5nZSgzKV0pLCAxNSkK</text>
+        <text encoding="base64">UmVvcmRlciBjb2x1bW5zIHRvIGJlIHRoZSBzYW1lIGFzIGluIHN1bW1hcnkK</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>Can do stuff that isn't divisile, rest is filled with zeros</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgID4+PiBpdCA9IGNodW5raWZ5aW5nX2l0ZXJhdG9yKG5wLmFycmF5KFtucC52c3RhY2soKG5wLmFyYW5nZSgxMCksIG5wLmFyYW5nZSgxMCkpKSBmb3IgXyBpbiByYW5nZSgzKV0pLCAxNSkK</text>
+        <text encoding="base64">ICAgIFRyYWNlYmFjayAobW9zdCByZWNlbnQgY2FsbCBsYXN0KToKICAgIFN0b3BJdGVyYXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIENhbiBkbyBjaHVuayBzaXplIHRoYXQncyBsYXJnZXIgdGhhbiBhIHNpbmdsZSBuZXh0CiAgICAjID4+PiBpdCA9IGNodW5raWZ5aW5nX2l0ZXJhdG9yKG5wLmFycmF5KFtucC52c3RhY2soKG5wLmFyYW5nZSgzKSwgbnAuYXJhbmdlKDMpKSkgZm9yIF8gaW4gcmFuZ2UoMTApXSksIDUpCiAgICAjID4+PiBuZXh0KGl0KQogICAgIyA+Pj4gbmV4dChpdCkKICAgICMgPj4+IG5leHQoaXQpCiAgICAjID4+PiBuZXh0KGl0KQogICAgIyA+Pj4gbmV4dChpdCkKICAgICMgPj4+IG5leHQoaXQpCiAgICAjID4+PiBuZXh0KGl0KQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">UmVvcmRlciBjb2x1bW5zIHRvIGJlIHRoZSBzYW1lIGFzIGluIHN1bW1hcnkK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CgoKCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIENhbiBkbyBjaHVuayBzaXplIHRoYXQncyBsYXJnZXIgdGhhbiBhIHNpbmdsZSBuZXh0CiAgICAjID4+PiBpdCA9IGNodW5raWZ5aW5nX2l0ZXJhdG9yKG5wLmFycmF5KFtucC52c3RhY2soKG5wLmFyYW5nZSgzKSwgbnAuYXJhbmdlKDMpKSkgZm9yIF8gaW4gcmFuZ2UoMTApXSksIDUpCiAgICAjID4+PiBuZXh0KGl0KQogICAgIyA+Pj4gbmV4dChpdCkKICAgICMgPj4+IG5leHQoaXQpCiAgICAjID4+PiBuZXh0KGl0KQogICAgIyA+Pj4gbmV4dChpdCkKICAgICMgPj4+IG5leHQoaXQpCiAgICAjID4+PiBuZXh0KGl0KQ==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CgoKCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgID4+Pgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgID4+PiBuZXh0KGl0KQogICAgYXJyYXkoW1s0LiwgNS5dLAogICAgICAgICAgIFs0LiwgNS5dXSkKICAgID4+PiBuZXh0KGl0KQogICAgYXJyYXkoW1s2LiwgNy5dLAogICAgICAgICAgIFs2LiwgNy5dXSkKICAgID4+PiBuZXh0KGl0KQogICAgYXJyYXkoW1s4LiwgOS5dLAogICAgICAgICAgIFs4LiwgOS5dXSkKICAgID4+PiBuZXh0KGl0KQ==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgID4+PiBuZXh0KGl0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgID4+PiBuZXh0KGl0KQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgID4+PiBuZXh0KGluZGV4X2l0ZXJhdG9yKFtbXSxbXV0sIDEwKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgRmlsZSAiL2hvbWUvYnVnYS8ubG9jYWwvc2hhcmUvSmV0QnJhaW5zL1Rvb2xib3gvYXBwcy9QeUNoYXJtLVAvY2gtMC8xOTEuNzQ3OS4zMC9oZWxwZXJzL3B5Y2hhcm0vZG9jcnVubmVyLnB5IiwgbGluZSAxNDAsIGluIF9fcnVuCiAgICAgICAgY29tcGlsZWZsYWdzLCAxKSwgdGVzdC5nbG9icykKICAgICAgRmlsZSAiPGRvY3Rlc3QgaW5kZXhfaXRlcmF0b3JbNF0+IiwgbGluZSAxLCBpbiA8bW9kdWxlPgogICAgICAgIGl0ID0gaW5kZXhfaXRlcmF0b3IoeW91cl9zb25nLCAxMCkKICAgICAgRmlsZSAiL2hvbWUvYnVnYS9tb2JpbGVwcm9kdWN0L3B5bW9iaWxlcHJvZHVjdC9qdXN0X3BsYXkucHkiLCBsaW5lIDkwLCBpbiBpbmRleF9pdGVyYXRvcgogICAgICAgIG5leHQoaSkKICAgICAgRmlsZSAiL2hvbWUvYnVnYS9tb2JpbGVwcm9kdWN0L3B5bW9iaWxlcHJvZHVjdC9qdXN0X3BsYXkucHkiLCBsaW5lIDgxLCBpbiBpbm5lcgogICAgICAgIHJhaXNlIEV4Y2VwdGlvbigic29uZy5zaGFwZVsxXSBtdXN0IGJlIGRpdmlzaWJsZSBieSBjaHVua19zaXplIikK</text>
+        <text encoding="base64">ICAgID4+PiBuZXh0KGluZGV4X2l0ZXJhdG9yKFtbXSxbXV0sIDEwKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -496,8 +493,8 @@
         <entry>x</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5X</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
