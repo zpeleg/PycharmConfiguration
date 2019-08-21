@@ -259,12 +259,12 @@
         <mark key="^" line="3" column="61" />
         <mark key="." line="3" column="61" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/just_play.py" timestamp="1566397478339">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/just_play.py" timestamp="1566398787356">
         <mark key="'" line="109" column="28" />
         <mark key="[" line="139" column="31" />
-        <mark key="]" line="134" column="17" />
-        <mark key="^" line="129" column="53" />
-        <mark key="." line="133" column="0" />
+        <mark key="]" line="34" column="32" />
+        <mark key="^" line="34" column="32" />
+        <mark key="." line="34" column="32" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/read_timings_file.py" timestamp="1565615505504">
         <mark key="[" line="8" column="5" />
@@ -493,8 +493,8 @@
         <entry>x</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5X</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
