@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_users_queries.py" timestamp="1565610255271" />
@@ -163,12 +163,12 @@
         <mark key="." line="170" column="117" />
         <mark key="^" line="170" column="116" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/synaptics/proximity_media_player_tests.py" timestamp="1566744010035">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/synaptics/proximity_media_player_tests.py" timestamp="1566744184080">
         <mark key="'" line="62" column="54" />
-        <mark key="[" line="97" column="93" />
-        <mark key="]" line="97" column="60" />
-        <mark key="^" line="97" column="60" />
-        <mark key="." line="97" column="60" />
+        <mark key="[" line="97" column="78" />
+        <mark key="]" line="97" column="94" />
+        <mark key="^" line="97" column="94" />
+        <mark key="." line="97" column="94" />
       </file>
       <file name="/moab_recording_utils.py" timestamp="1565529157639" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/research/compare_versions.py" timestamp="1565610173786" />
@@ -348,10 +348,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>song</text>
+        <text>aaaaa</text>
       </register>
       <register name="-" type="4">
-        <text>song</text>
+        <text>aaaaa</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
