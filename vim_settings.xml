@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/remote/synaptics.py" timestamp="1567434871434" />
       <file name="$USER_HOME$/buga-recordings/setup.py" timestamp="1565786146696">
         <mark key="[" line="8" column="134" />
         <mark key="]" line="8" column="147" />
@@ -531,11 +532,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UGxheSBtdXNpYyBmcm9tIHN0YXRpYyBidWZmZXIK</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>2, 6</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
@@ -543,38 +544,38 @@
       <register name="0" type="4">
         <text>get_sin(440,3)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">UGxheSBtdXNpYyBmcm9tIHN0YXRpYyBidWZmZXIK</text>
+      <register name="1" type="4">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFzc2VydCBub3Qgc3RhdHVzCg==</text>
+        <text encoding="base64">UGxheSBtdXNpYyBmcm9tIHN0YXRpYyBidWZmZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KCJldmVudC5zZXQoKSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGFzc2VydCBub3Qgc3RhdHVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgd2l0aCBzdHJlYW06CiAgICAjICAgICBldmVudC53YWl0KCkK</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KCJldmVudC5zZXQoKSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgYXVkaW8gPSBucC5yYW5kb20ucmFuZG4oMiwgMyAqIDQ4MDAwKSAqIDAuMDEKCg==</text>
+        <text encoding="base64">ICAgICMgd2l0aCBzdHJlYW06CiAgICAjICAgICBldmVudC53YWl0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgaW5kZXhlZCA9IGluZGV4X2l0ZXJhdG9yKGF1ZGlvLCAxMDAwKQogICAgIyAjIGxhcmdlID0gZW5sYXJnZW5pbmdfaXRlcmF0b3IoaW5kZXhlZCwgNTAwMSkKICAgICMgY2h1bmtlZCA9IGNodW5raWZ5aW5nX2l0ZXJhdG9yKGluZGV4ZWQsIDEwMjQpCiAgICAjIGxpc3QoY2h1bmtlZCkK</text>
+        <text encoding="base64">ICAgICMgYXVkaW8gPSBucC5yYW5kb20ucmFuZG4oMiwgMyAqIDQ4MDAwKSAqIDAuMDEKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdoaWxlIFRydWU6Cg==</text>
+        <text encoding="base64">ICAgICMgaW5kZXhlZCA9IGluZGV4X2l0ZXJhdG9yKGF1ZGlvLCAxMDAwKQogICAgIyAjIGxhcmdlID0gZW5sYXJnZW5pbmdfaXRlcmF0b3IoaW5kZXhlZCwgNTAwMSkKICAgICMgY2h1bmtlZCA9IGNodW5raWZ5aW5nX2l0ZXJhdG9yKGluZGV4ZWQsIDEwMjQpCiAgICAjIGxpc3QoY2h1bmtlZCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyByZXQgPSBwbGF5KGl0KQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHdoaWxlIFRydWU6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgYnJlYWsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyByZXQgPSBwbGF5KGl0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
