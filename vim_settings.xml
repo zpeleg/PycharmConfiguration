@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/remote/synaptics.py" timestamp="1567434871434" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/remote/synaptics.py" timestamp="1567436466661" />
       <file name="$USER_HOME$/buga-recordings/setup.py" timestamp="1565786146696">
         <mark key="[" line="8" column="134" />
         <mark key="]" line="8" column="147" />
@@ -107,6 +107,7 @@
         <mark key="^" line="610" column="45" />
         <mark key="." line="613" column="16" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/proximity/simple_algo.py" timestamp="1567436347011" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo2/do_auth_demo2.py" timestamp="1563984175333">
         <mark key="'" line="24" column="28" />
         <mark key="[" line="33" column="61" />
