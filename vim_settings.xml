@@ -107,7 +107,12 @@
         <mark key="^" line="610" column="45" />
         <mark key="." line="613" column="16" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/proximity/simple_algo.py" timestamp="1567436347011" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/proximity/simple_algo.py" timestamp="1567437653851">
+        <mark key="[" line="323" column="0" />
+        <mark key="]" line="315" column="35" />
+        <mark key="." line="315" column="35" />
+        <mark key="^" line="315" column="35" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo2/do_auth_demo2.py" timestamp="1563984175333">
         <mark key="'" line="24" column="28" />
         <mark key="[" line="33" column="61" />
@@ -533,8 +538,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICdpbicgaW4gW3hbJ2RldGVjdGlvbiddIGZvciB4IGluIHdpbmRvd3NfcmVzXToK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -545,38 +550,38 @@
       <register name="0" type="4">
         <text>get_sin(440,3)</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Cgo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICdpbicgaW4gW3hbJ2RldGVjdGlvbiddIGZvciB4IGluIHdpbmRvd3NfcmVzXToK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UGxheSBtdXNpYyBmcm9tIHN0YXRpYyBidWZmZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsnZGV0ZWN0aW9uJzogJ2luJywgJ3dpbmRvdyc6IChzdGFydF90aW1lc3RhbXAsIGVuZF90aW1lc3RhbXApLCAnZXJyX2JvdW5kJzogZXJyX2JvdW5kLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFzc2VydCBub3Qgc3RhdHVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHJlc1swXSA9PSAib3V0IiBhbmQgcmVzWzFdID09ICJvdXQiOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KCJldmVudC5zZXQoKSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHJlc1swXSA9PSAnaW4nIG9yIHJlc1sxXSA9PSAnaW4nOgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICMgd2l0aCBzdHJlYW06CiAgICAjICAgICBldmVudC53YWl0KCkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgYXVkaW8gPSBucC5yYW5kb20ucmFuZG4oMiwgMyAqIDQ4MDAwKSAqIDAuMDEKCg==</text>
+        <text encoding="base64">UGxheSBtdXNpYyBmcm9tIHN0YXRpYyBidWZmZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgaW5kZXhlZCA9IGluZGV4X2l0ZXJhdG9yKGF1ZGlvLCAxMDAwKQogICAgIyAjIGxhcmdlID0gZW5sYXJnZW5pbmdfaXRlcmF0b3IoaW5kZXhlZCwgNTAwMSkKICAgICMgY2h1bmtlZCA9IGNodW5raWZ5aW5nX2l0ZXJhdG9yKGluZGV4ZWQsIDEwMjQpCiAgICAjIGxpc3QoY2h1bmtlZCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGFzc2VydCBub3Qgc3RhdHVzCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdoaWxlIFRydWU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KCJldmVudC5zZXQoKSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyByZXQgPSBwbGF5KGl0KQo=</text>
+        <text encoding="base64">ICAgICMgd2l0aCBzdHJlYW06CiAgICAjICAgICBldmVudC53YWl0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
