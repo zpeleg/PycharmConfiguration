@@ -127,11 +127,12 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" timestamp="1567950953094">
-        <mark key="[" line="14" column="67" />
-        <mark key="]" line="48" column="30" />
-        <mark key="." line="48" column="30" />
-        <mark key="^" line="48" column="30" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" timestamp="1567952864527">
+        <mark key="'" line="49" column="7" />
+        <mark key="[" line="56" column="25" />
+        <mark key="]" line="57" column="34" />
+        <mark key="." line="57" column="34" />
+        <mark key="^" line="57" column="34" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1566487978630">
         <mark key="'" line="724" column="104" />
@@ -253,11 +254,12 @@
       <file name="/default_daemon_start_detect_special_sig_config" timestamp="1557245313816">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" timestamp="1567950860301">
-        <mark key="[" line="124" column="34" />
-        <mark key="]" line="124" column="33" />
-        <mark key="." line="124" column="33" />
-        <mark key="^" line="124" column="33" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" timestamp="1567951532480">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="94" column="53" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="148" column="55" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/media_player/media_player2.yaml" timestamp="1566748897177">
         <mark key="[" line="0" column="0" />
@@ -294,22 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/do_auth_demo.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/do_auth_demo.py" />
-      <jump line="63" column="69" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" />
-      <jump line="223" column="56" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/many_user_authentication_summary.py" />
-      <jump line="539" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" />
-      <jump line="70" column="20" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" />
-      <jump line="9" column="3" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" />
-      <jump line="341" column="17" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
-      <jump line="349" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
-      <jump line="354" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
-      <jump line="360" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
-      <jump line="24" column="28" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo2/do_auth_demo2.py" />
-      <jump line="150" column="65" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" />
-      <jump line="160" column="102" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/replay_ui.py" />
-      <jump line="59" column="38" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmarks.py" />
       <jump line="566" column="74" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
       <jump line="346" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
       <jump line="155" column="81" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
@@ -394,6 +380,22 @@
       <jump line="95" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/media_player/media_player1.py" />
       <jump line="112" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/media_player/media_player1.py" />
       <jump line="13" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" />
+      <jump line="140" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
+      <jump line="132" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
+      <jump line="126" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
+      <jump line="121" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
+      <jump line="116" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
+      <jump line="114" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
+      <jump line="107" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
+      <jump line="100" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
+      <jump line="69" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" />
+      <jump line="49" column="7" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -405,50 +407,50 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlcG9zID0gWyJtb2JpbGVwcm9kdWN0IiwgIkJ1Z2F0b25lLVNwYWNlIiwgImRldmljZV9jb21tdW5pY2F0aW9uIl0K</text>
+      <register name="&quot;" type="4">
+        <text>@#4235</text>
       </register>
       <register name="-" type="4">
-        <text>eEPOS</text>
+        <text>@#4235</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tbm8tY292ZXJhZ2UtcmVwb3J0IiwgIi1OIikK</text>
+        <text encoding="base64">ICA+Pj4gZGV2aWNlX2NvbW11bmljYXRpb24gaXMgb24gYnJhbmNoIGFzZGZhZXJmLCBpcyB0aGF0IG9rYXk/ICh5ZXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcG9zID0gWyJtb2JpbGVwcm9kdWN0IiwgIkJ1Z2F0b25lLVNwYWNlIiwgImRldmljZV9jb21tdW5pY2F0aW9uIl0K</text>
+        <text encoding="base64">ICAgKiBJZiB1c2VyIGlzIG5vdCBvbiBvcmlnaW4vSEVBRCBmb3IgYnJhbmNoCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UkVQT1MgPSBbIm1vYmlsZXByb2R1Y3QiLCAiQnVnYXRvbmUtU3BhY2UiLCAiZGV2aWNlX2NvbW11bmljYXRpb24iXQo=</text>
+        <text encoding="base64">WyBdIGdpdCBhcmNoaXZlIGFsbCByZXBvcwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAKICAgIGdpdC5mZXRjaCgp</text>
+      <register name="3" type="2">
+        <text encoding="base64">WyBdIENoZWNrb3V0IHByZXZpb3VzIGJyYW5jaAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJwcm9jZXNzLmNoZWNrX2NhbGwoImdpdCBmZXRjaCIuc3BsaXQoIiAiKSkK</text>
+        <text encoding="base64">WyBdIG1ha2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBmZXRjaChzZWxmKToKICAgICAgICBjbWQgPSAKICAgICAgICBzdWJwcm9jZXNzLmNoZWNrX2NhbGwoImdpdCBmZXRjaCIuc3BsaXQoIiAiKSkK</text>
+        <text encoding="base64">WyBdIGdpdCBhcmNoaXZlIGFsbCByZXBvcwpbIF0gQ29weSBhbGwgYXJ0aWZhY3RzIHRvIGV4cG9ydCBkaXIKWyBdIENyZWF0ZSBkb2NrZXIgaW1hZ2UoaW5lIGFsbCB0aGUgcGVvcGxlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN1YnByb2Nlc3MuY2hlY2tfY2FsbCgiZ2l0IGZldGNoIi5zcGxpdCgiICIpKQo=</text>
+        <text encoding="base64">ICAgICIiIgogICAgIiIiCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIAo=</text>
+        <text encoding="base64">ZGVmIGlzX2NvbW1pdF9wdXNoZWQoZGlyZWN0b3J5PU5vbmUpOgogICAgcmVwbyA9IEdpdFJlcG9zaXRvcnkoZGlyZWN0b3J5KQogICAgcmVwby5mZXRjaCgpCgogICAgY3VycmVudF9jb21taXRfaWQgPSByZXBvLmdldF9jb21taXRfaWQoIkhFQUQiKQoKICAgIGJyYW5jaF9uYW1lID0gcmVwby5nZXRfY3VycmVudF9icmFuY2goKQogICAgcmVtb3RlX2JyYW5jaF9uYW1lID0gcmVwby5nZXRfcmVtb3RlX2JyYW5jaF9uYW1lKGJyYW5jaF9uYW1lKQogICAgcmVtb3RlX2hlYWRfY29tbWl0X2lkID0gcmVwby5nZXRfY29tbWl0X2lkKHJlbW90ZV9icmFuY2hfbmFtZSkKCiAgICByZXR1cm4gY3VycmVudF9jb21taXRfaWQgPT0gcmVtb3RlX2hlYWRfY29tbWl0X2lkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIG1haW4oKToKICAgIGFyZ3MgPSBnZXRfYXJncygpCiAgICBpZiBub3QgdmFsaWRhdGVfYXJncyhhcmdzKToKICAgICAgICByZXR1cm4KCiAgICBpZiBub3QgdmFsaWRhdGVfZW52KGFyZ3MuZXhwb3J0KToKICAgICAgICAKICAgIGJ1aWxkKCkK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
