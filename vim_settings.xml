@@ -70,11 +70,11 @@
         <mark key="^" line="41" column="64" />
         <mark key="." line="41" column="64" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/synaptics/export_synaptics_test.py" timestamp="1567959311365">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="13" column="83" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/synaptics/export_synaptics_test.py" timestamp="1568015487323">
+        <mark key="[" line="21" column="43" />
+        <mark key="]" line="22" column="64" />
+        <mark key="^" line="22" column="64" />
+        <mark key="." line="22" column="64" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/single_ear_sanity_row_summary.py" timestamp="1565621068927">
         <mark key="[" line="258" column="0" />
@@ -133,7 +133,7 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" timestamp="1567959194337">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" timestamp="1568012073944">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="39" column="28" />
         <mark key="]" line="39" column="67" />
@@ -419,11 +419,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X19tYWluX18K</text>
+      <register name="&quot;" type="4">
+        <text>git_repo_registry</text>
       </register>
       <register name="-" type="4">
-        <text>message</text>
+        <text>git_repo_registry</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
@@ -432,37 +432,37 @@
         <text>&quot;Can't export to storage without a name&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X19tYWluX18K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QWRkIGJ1aWxkIHR5cGUsIHJ1biB0ZXN0cywgYW5kIHNvbWUgcHJlIGJ1aWxkIGFzc2VydGlvbnMgZm9yIHN0b3JhZ2UgYnVpbGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdldF9hcmdzX21vY2sucmV0dXJuX3ZhbHVlID0gbW9jay5Nb2NrKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdWNjZXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN1Y2Nlc3MgPSBUcnVlCg==</text>
+        <text encoding="base64">ZGVmIGdpdF9yZXBvX3JlZ2lzdHJ5KGRpcnBhdGgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdWNjZXNzID0gRmFsc2UK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X19tYWluX18K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">QWRkIGJ1aWxkIHR5cGUsIHJ1biB0ZXN0cywgYW5kIHNvbWUgcHJlIGJ1aWxkIGFzc2VydGlvbnMgZm9yIHN0b3JhZ2UgYnVpbGQK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJncyA9IGdldF9hcmdzKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdldF9hcmdzX21vY2sucmV0dXJuX3ZhbHVlID0gbW9jay5Nb2NrKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdWNjZXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -519,8 +519,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>:w</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
