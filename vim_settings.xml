@@ -70,12 +70,12 @@
         <mark key="^" line="41" column="64" />
         <mark key="." line="41" column="64" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/synaptics/export_synaptics_test.py" timestamp="1568033099931">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/synaptics/export_synaptics_test.py" timestamp="1568035498764">
         <mark key="'" line="75" column="34" />
-        <mark key="[" line="119" column="25" />
-        <mark key="]" line="119" column="25" />
-        <mark key="^" line="119" column="36" />
-        <mark key="." line="119" column="25" />
+        <mark key="[" line="43" column="47" />
+        <mark key="]" line="43" column="76" />
+        <mark key="^" line="43" column="76" />
+        <mark key="." line="43" column="76" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/single_ear_sanity_row_summary.py" timestamp="1565621068927">
         <mark key="[" line="258" column="0" />
@@ -134,12 +134,12 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" timestamp="1568034407493">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" timestamp="1568035375605">
         <mark key="'" line="36" column="13" />
-        <mark key="[" line="171" column="33" />
-        <mark key="]" line="171" column="33" />
-        <mark key="." line="171" column="33" />
-        <mark key="^" line="169" column="14" />
+        <mark key="[" line="78" column="1" />
+        <mark key="]" line="78" column="2" />
+        <mark key="." line="78" column="2" />
+        <mark key="^" line="169" column="37" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1568021578534">
         <mark key="'" line="724" column="104" />
@@ -267,12 +267,12 @@
       <file name="/default_daemon_start_detect_special_sig_config" timestamp="1557245313816">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" timestamp="1568023011035">
-        <mark key="'" line="119" column="12" />
-        <mark key="[" line="149" column="25" />
-        <mark key="]" line="149" column="29" />
-        <mark key="." line="149" column="29" />
-        <mark key="^" line="149" column="29" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" timestamp="1568034599132">
+        <mark key="'" line="115" column="12" />
+        <mark key="[" line="54" column="40" />
+        <mark key="]" line="54" column="44" />
+        <mark key="." line="54" column="44" />
+        <mark key="^" line="54" column="44" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/media_player/media_player2.yaml" timestamp="1566748897177">
         <mark key="[" line="0" column="0" />
@@ -281,11 +281,11 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/export.py" timestamp="1568034256570">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="48" column="101" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/export.py" timestamp="1568035257734">
+        <mark key="[" line="80" column="20" />
+        <mark key="]" line="80" column="20" />
+        <mark key="^" line="158" column="38" />
+        <mark key="." line="80" column="20" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/bla.py" timestamp="1564662026893">
         <mark key="[" line="3" column="61" />
@@ -427,49 +427,49 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>version_number</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>version_number</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
       </register>
-      <register name="0" type="4">
-        <text>branch_name</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhcmdzLm5hbWUgPSAidmVyc2lvbiBuYW1lIHRoaW5neSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1vY2tfY3JhZXRlX3ByID0gcGF0Y2hlci5hZGRQYXRjaCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByZWZpeCA9ICgiYXV0aCIgaWYgcHJvamVjdCA9PSBBVVRIX1BST0pFQ1QgZWxzZSAiIikgKyBwcmVmaXgK</text>
+        <text encoding="base64">ICAgICAgICBicmFuY2hfbmFtZSA9IGdpdF92ZXJzaW9uLnJlcGxhY2UoInJlbGVhc2VfIiwgInJlbGVhc2UvIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIHByb2plY3QgPT0gQVVUSF9QUk9KRUNUOgogICAgICAgIGZvcm1hdHRlZF9uYW1lICs9ICItYXV0aCIK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0YWdfbmFtZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIHByb2plY3QgPT0gQVVUSF9QUk9KRUNUOgogICAgICAgIGZvcm1hdHRlZF9uYW1lICs9ICItYXV0aCIK</text>
+        <text encoding="base64">ICAgIHRhZ19uYW1lID0gdGFnX25hbWUucmVwbGFjZSgicmVsZWFzZV8iLCAicmVsZWFzZS8iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5leHRfdmVyc2lvbl9udW1iZXIgPSBnZXRfbmV4dF92ZXJzaW9uX251bWJlcihleHBvcnRfcGF0aCkK</text>
+        <text encoding="base64">ICAgIGJyYW5jaF9uYW1lID0gZ2l0X3ZlcnNpb24ucmVwbGFjZSgicmVsZWFzZV8iLCAicmVsZWFzZS8iKQogICAgYnJhbmNoX25hbWUgPSAiXyIuam9pbihicmFuY2hfbmFtZS5zcGxpdCgiXyIpWzotM10pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogcG9zc2libHkgdGhpcyBpc24ndCBuZWNlc3NhcnksIG9yIG1heWJlIHdlIG5lZWQgdG8gY2hlY2sgdGhhdCBpdCBoYXMgYmVlbiBwdXNoZWQsIGFuZCBub3QgYXQgaGVhZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIG1haW4oKToKICAgIHRyeToKICAgICAgICBhcmdzID0gZ2V0X2FyZ3MoKQogICAgICAgIGlubmVyX21haW4oYXJncykKICAgIGV4Y2VwdCBNYWtlRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcHJpbnQoZS5tZXNzYWdlKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGNyZWF0ZV9yZWxlYXNlX2JyYW5jaChqKToKICAgIHBhc3MKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVidWlsZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
