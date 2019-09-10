@@ -80,12 +80,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="22" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" timestamp="1568134817263">
-        <mark key="'" line="40" column="12" />
-        <mark key="[" line="254" column="0" />
-        <mark key="]" line="254" column="0" />
-        <mark key="^" line="253" column="63" />
-        <mark key="." line="254" column="0" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" timestamp="1568137652708">
+        <mark key="'" line="209" column="52" />
+        <mark key="[" line="295" column="64" />
+        <mark key="]" line="295" column="64" />
+        <mark key="^" line="295" column="64" />
+        <mark key="." line="295" column="64" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1568021578534">
         <mark key="'" line="724" column="104" />
@@ -172,7 +172,7 @@
         <mark key="." line="149" column="0" />
         <mark key="^" line="149" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568134401892">
+      <file name="/Dummy.txt" timestamp="1568137654325">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/do_single_ear_sanity.py" timestamp="1565522431365">
@@ -302,7 +302,6 @@
       <jump line="230" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" />
       <jump line="225" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" />
       <jump line="219" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" />
-      <jump line="209" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" />
       <jump line="203" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" />
       <jump line="190" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" />
       <jump line="180" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" />
@@ -335,6 +334,7 @@
       <jump line="47" column="19" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" />
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" />
       <jump line="40" column="12" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" />
+      <jump line="209" column="52" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -346,50 +346,50 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>$USER_HOME$/test-files/algo/synaptics</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">S2FwYXlpbQo=</text>
       </register>
       <register name="-" type="4">
-        <text>$USER_HOME$/test-files/algo/synaptics</text>
+        <text>Creating</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHNodXRpbC5jb3B5KG9zLnBhdGguam9pbihtb2JpbGVwcm9kdWN0X3BhdGgsICJweW1vYmlsZXByb2R1Y3QiLCAic3luYXB0aWNzIiwgIkRvY2tlcmZpbGUiKSwgdmVyc2lvbl9wYXRoKQo=</text>
+      <register name="0" type="4">
+        <text>NATHAN_DOCKER_PREFIX + version_name</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNodXRpbC5jb3B5KCkK</text>
+        <text encoding="base64">S2FwYXlpbQo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJrdWt1a3UiLCB2ZXJzaW9uX3BhdGgsICJhc2RmYXNkZiIsIHZlcnNpb25fbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q3JlYXRlIGRvY2tlcmZpbGUK</text>
+        <text encoding="base64">ICAgICMgY2xpZW50LmltYWdlcy5wdXNoKE5BVEhBTl9ET0NLRVJfUFJFRklYWzotMV0sIHRhZz1OQVRIQU5fRE9DS0VSX1BSRUZJWCArICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Rml4IHRlc3QK</text>
+        <text encoding="base64">ICAgIGNsaWVudC5pbWFnZXMuYnVpbGQocGF0aD12ZXJzaW9uX3BhdGgsIHRhZz1OQVRIQU5fRE9DS0VSX1BSRUZJWCArIHZlcnNpb25fbmFtZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IGRvY2tlci5mcm9tX2VudigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RG9ja2VyIHdpcAo=</text>
+        <text encoding="base64">ICAgIHZlcnNpb25fbmFtZSA9IHZlcnNpb25fbmFtZS5zcGxpdCgiLyIpWzFdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RXhwb3J0IGF1dGgvcHJveCB0byBzZXBhcmF0ZSBkaXJlY3Rvcmllcwo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJhYWFhYSIsIHZlcnNpb25fcGF0aCwgdmVyc2lvbl9uYW1lKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHNodXRpbC5jb3B5KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YmxhCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJrdWt1a3UiLCB2ZXJzaW9uX3BhdGgsICJhc2RmYXNkZiIsIHZlcnNpb25fbmFtZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
