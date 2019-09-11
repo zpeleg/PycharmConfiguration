@@ -49,11 +49,10 @@
         <mark key="^" line="58" column="51" />
         <mark key="." line="57" column="55" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/setup.py" timestamp="1568132960556">
-        <mark key="[" line="31" column="29" />
-        <mark key="]" line="31" column="30" />
-        <mark key="^" line="32" column="28" />
-        <mark key="." line="31" column="30" />
+      <file name="$USER_HOME$/mobileproduct/setup.py" timestamp="1568191799757">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/single_ear_sanity_row_summary.py" timestamp="1565621068927">
         <mark key="[" line="258" column="0" />
@@ -80,12 +79,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="22" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" timestamp="1568189769810">
-        <mark key="'" line="209" column="52" />
-        <mark key="[" line="295" column="64" />
-        <mark key="]" line="295" column="64" />
-        <mark key="^" line="295" column="64" />
-        <mark key="." line="295" column="64" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" timestamp="1568191882493">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="6" column="2" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1568021578534">
         <mark key="'" line="724" column="104" />
@@ -235,7 +234,6 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/moab/moab_recording_test.py" timestamp="1568123498034" />
     </filemarks>
     <jumps>
-      <jump line="259" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
       <jump line="273" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
       <jump line="286" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
       <jump line="291" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
@@ -335,6 +333,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" />
       <jump line="40" column="12" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" />
       <jump line="209" column="52" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -347,7 +346,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">S2FwYXlpbQo=</text>
+        <text encoding="base64">IyBwcmVfbWFpbigpCg==</text>
       </register>
       <register name="-" type="4">
         <text>Creating</text>
@@ -359,40 +358,40 @@
         <text>NATHAN_DOCKER_PREFIX + version_name</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">S2FwYXlpbQo=</text>
+        <text encoding="base64">IyBwcmVfbWFpbigpCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGl0ZW0gPT0gImlzX3dvcmtpbmdfZGlyX2NsZWFuIjogcmV0dXJuIFRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgY2xpZW50LmltYWdlcy5wdXNoKE5BVEhBTl9ET0NLRVJfUFJFRklYWzotMV0sIHRhZz1OQVRIQU5fRE9DS0VSX1BSRUZJWCArICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdkb2NrZXInCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsaWVudC5pbWFnZXMuYnVpbGQocGF0aD12ZXJzaW9uX3BhdGgsIHRhZz1OQVRIQU5fRE9DS0VSX1BSRUZJWCArIHZlcnNpb25fbmFtZSkK</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsaWVudCA9IGRvY2tlci5mcm9tX2VudigpCg==</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBDYWxsZWRQcm9jZXNzRXJyb3IgYXMgZToKICAgICAgICBwcmludCgiRVJSUlJSUk9PT09PUk9SUlJSIikKICAgICAgICBwcmludChlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZlcnNpb25fbmFtZSA9IHZlcnNpb25fbmFtZS5zcGxpdCgiLyIpWzFdCg==</text>
+        <text encoding="base64">S2FwYXlpbQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJhYWFhYSIsIHZlcnNpb25fcGF0aCwgdmVyc2lvbl9uYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNodXRpbC5jb3B5KCkK</text>
+        <text encoding="base64">ICAgICMgY2xpZW50LmltYWdlcy5wdXNoKE5BVEhBTl9ET0NLRVJfUFJFRklYWzotMV0sIHRhZz1OQVRIQU5fRE9DS0VSX1BSRUZJWCArICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJrdWt1a3UiLCB2ZXJzaW9uX3BhdGgsICJhc2RmYXNkZiIsIHZlcnNpb25fbmFtZSkK</text>
+        <text encoding="base64">ICAgIGNsaWVudC5pbWFnZXMuYnVpbGQocGF0aD12ZXJzaW9uX3BhdGgsIHRhZz1OQVRIQU5fRE9DS0VSX1BSRUZJWCArIHZlcnNpb25fbmFtZSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>x</text>
       </register>
     </registers>
     <search>
@@ -441,13 +440,13 @@
         <entry>d</entry>
         <entry>Q</entry>
         <entry>q</entry>
-        <entry>x</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>Lw</entry>
         <entry>:w</entry>
         <entry>w</entry>
         <entry>W</entry>
+        <entry>x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
