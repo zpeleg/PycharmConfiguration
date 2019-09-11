@@ -118,11 +118,11 @@
         <mark key="^" line="535" column="14" />
         <mark key="." line="683" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/Dockerfile" timestamp="1568219470049">
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="7" column="6" />
-        <mark key="^" line="7" column="6" />
-        <mark key="." line="7" column="6" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/Dockerfile" timestamp="1568221658395">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="12" column="6" />
+        <mark key="^" line="12" column="6" />
+        <mark key="." line="12" column="6" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo2/do_auth_demo2.py" timestamp="1563984175333">
         <mark key="'" line="24" column="28" />
@@ -161,12 +161,12 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" timestamp="1568220448174">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" timestamp="1568221835240">
         <mark key="'" line="177" column="47" />
-        <mark key="[" line="287" column="29" />
-        <mark key="]" line="287" column="37" />
-        <mark key="." line="287" column="37" />
-        <mark key="^" line="287" column="37" />
+        <mark key="[" line="234" column="140" />
+        <mark key="]" line="234" column="140" />
+        <mark key="." line="234" column="140" />
+        <mark key="^" line="234" column="140" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1568214133540">
         <mark key="'" line="165" column="10" />
