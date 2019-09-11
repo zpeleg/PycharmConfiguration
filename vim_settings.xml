@@ -36,6 +36,13 @@
       <file name="/False" timestamp="1555316610968">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo.yaml" timestamp="1568195957784">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="23" column="31" />
+        <mark key="." line="29" column="140" />
+        <mark key="^" line="1" column="15" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/single_ear_sanity/single_ear_sanity.py" timestamp="1565616237561">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="20" />
@@ -93,10 +100,6 @@
         <mark key="." line="798" column="49" />
         <mark key="^" line="798" column="49" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_users_sanity_ft.yaml" timestamp="1565523637558">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="43" column="69" />
-      </file>
       <file name="/export_synaptics_test.py" timestamp="1568023490788" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/replay_ui.py" timestamp="1566479318417">
         <mark key="[" line="87" column="80" />
@@ -119,10 +122,6 @@
         <mark key="." line="170" column="117" />
         <mark key="^" line="170" column="116" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_users_sanity.yaml" timestamp="1565536255995">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="13" column="45" />
-      </file>
       <file name="$USER_HOME$/buga-recordings/pybugarec/utils/make/export.py" timestamp="1568033415177" />
       <file name="/Python Console" timestamp="1568124896625">
         <mark key="[" line="0" column="0" />
@@ -132,12 +131,6 @@
         <mark key="]" line="0" column="20" />
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/make.py" timestamp="1567945886978">
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="171" column="13" />
-        <mark key="." line="171" column="13" />
-        <mark key="^" line="171" column="13" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/t2.py" timestamp="1568115620591">
         <mark key="[" line="1" column="11" />
@@ -156,14 +149,6 @@
         <mark key="]" line="136" column="0" />
         <mark key="^" line="0" column="34" />
         <mark key="." line="136" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/json_helpers.py" timestamp="1565253198668">
-        <mark key="[" line="148" column="19" />
-        <mark key="]" line="148" column="59" />
-      </file>
-      <file name="$USER_HOME$/device_communication/pydcomm/tests/connection/fixers/connected_usb_device_fixes_tests.py" timestamp="1568031045948">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="83" />
       </file>
       <file name="$USER_HOME$/Bugatone-Space/python/infra/utils/process_utils.py" timestamp="1564062442147">
         <mark key="[" line="133" column="0" />
@@ -193,15 +178,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" timestamp="1568123523166">
-        <mark key="'" line="115" column="12" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="184" column="11" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/media_player/media_player2.yaml" timestamp="1566748897177">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="21" />
+        <mark key="^" line="135" column="11" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
         <mark key="[" line="2" column="24" />
@@ -217,10 +194,6 @@
         <mark key="]" line="3" column="61" />
         <mark key="^" line="3" column="61" />
         <mark key="." line="3" column="61" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/do_many_users_sanity.py" timestamp="1565517942235">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="41" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/many_user_extended.yaml" timestamp="1566740208321">
         <mark key="[" line="102" column="0" />
