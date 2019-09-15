@@ -57,6 +57,9 @@
         <mark key="." line="29" column="140" />
         <mark key="^" line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/proximity/proximity_product_factory.py" timestamp="1568538349627">
+        <mark key="'" line="50" column="82" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/single_ear_sanity/single_ear_sanity.py" timestamp="1565616237561">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="20" />
@@ -90,6 +93,12 @@
         <mark key="." line="32" column="32" />
         <mark key="^" line="32" column="32" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/product_loader.py" timestamp="1568538503881">
+        <mark key="[" line="41" column="88" />
+        <mark key="]" line="41" column="86" />
+        <mark key="." line="41" column="86" />
+        <mark key="^" line="41" column="86" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/single_ear_sanity_row_summary.py" timestamp="1565621068927">
         <mark key="[" line="258" column="0" />
         <mark key="]" line="258" column="4" />
@@ -103,9 +112,12 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmarks.py" timestamp="1568046205652">
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="150" column="19" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/run_synaptics.py" timestamp="1568538425217">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="42" column="55" />
+        <mark key="]" line="42" column="55" />
+        <mark key="^" line="42" column="37" />
+        <mark key="." line="42" column="55" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1568211461606">
         <mark key="[" line="134" column="8" />
@@ -184,10 +196,6 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_users_sanity_ft.yaml" timestamp="1565523637558">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="43" column="69" />
-      </file>
-      <file name="/export_synaptics_test.py" timestamp="1568207411986">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="51" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/replay_ui.py" timestamp="1566479318417">
         <mark key="[" line="87" column="80" />
@@ -350,11 +358,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" timestamp="1568214180047">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="47" column="67" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" timestamp="1568538298798">
+        <mark key="[" line="46" column="86" />
+        <mark key="]" line="46" column="93" />
+        <mark key="^" line="46" column="93" />
+        <mark key="." line="46" column="93" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/bla.py" timestamp="1564662026893">
         <mark key="[" line="3" column="61" />
@@ -385,8 +393,6 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/moab/moab_recording_test.py" timestamp="1568123498034" />
     </filemarks>
     <jumps>
-      <jump line="127" column="56" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/synaptics/proximity_media_player_tests.py" />
-      <jump line="9" column="18" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/synaptics/proximity_media_player_tests.py" />
       <jump line="67" column="54" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/common.py" />
       <jump line="61" column="10" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/media_player/media_player1.py" />
       <jump line="67" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/media_player/media_player1.py" />
@@ -485,6 +491,8 @@
       <jump line="14" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/synaptics_proximity/do_synaptics_proximity.py" />
       <jump line="22" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/make.py" />
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/make.py" />
+      <jump line="50" column="82" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/proximity/proximity_product_factory.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/run_synaptics.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -496,11 +504,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="&quot;" type="4">
+        <text>output</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>output</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
