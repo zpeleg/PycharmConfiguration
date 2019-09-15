@@ -93,11 +93,12 @@
         <mark key="." line="32" column="32" />
         <mark key="^" line="32" column="32" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/product_loader.py" timestamp="1568538503881">
-        <mark key="[" line="41" column="88" />
-        <mark key="]" line="41" column="86" />
-        <mark key="." line="41" column="86" />
-        <mark key="^" line="41" column="86" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/product_loader.py" timestamp="1568539945792">
+        <mark key="'" line="47" column="39" />
+        <mark key="[" line="61" column="32" />
+        <mark key="]" line="62" column="43" />
+        <mark key="." line="62" column="43" />
+        <mark key="^" line="62" column="43" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/single_ear_sanity_row_summary.py" timestamp="1565621068927">
         <mark key="[" line="258" column="0" />
@@ -393,7 +394,6 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/moab/moab_recording_test.py" timestamp="1568123498034" />
     </filemarks>
     <jumps>
-      <jump line="67" column="54" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/common.py" />
       <jump line="61" column="10" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/media_player/media_player1.py" />
       <jump line="67" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/media_player/media_player1.py" />
       <jump line="75" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/media_player/media_player1.py" />
@@ -493,6 +493,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/make.py" />
       <jump line="50" column="82" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/proximity/proximity_product_factory.py" />
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/run_synaptics.py" />
+      <jump line="46" column="39" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/product_loader.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
