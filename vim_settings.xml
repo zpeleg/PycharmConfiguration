@@ -93,13 +93,6 @@
         <mark key="." line="32" column="32" />
         <mark key="^" line="32" column="32" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/product_loader.py" timestamp="1568539945792">
-        <mark key="'" line="47" column="39" />
-        <mark key="[" line="61" column="32" />
-        <mark key="]" line="62" column="43" />
-        <mark key="." line="62" column="43" />
-        <mark key="^" line="62" column="43" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/single_ear_sanity_row_summary.py" timestamp="1565621068927">
         <mark key="[" line="258" column="0" />
         <mark key="]" line="258" column="4" />
@@ -115,10 +108,10 @@
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/run_synaptics.py" timestamp="1568538425217">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="42" column="55" />
-        <mark key="]" line="42" column="55" />
-        <mark key="^" line="42" column="37" />
-        <mark key="." line="42" column="55" />
+        <mark key="[" line="40" column="55" />
+        <mark key="]" line="40" column="55" />
+        <mark key="^" line="40" column="37" />
+        <mark key="." line="40" column="55" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1568211461606">
         <mark key="[" line="134" column="8" />
