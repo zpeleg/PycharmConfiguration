@@ -93,6 +93,11 @@
         <mark key="." line="32" column="32" />
         <mark key="^" line="32" column="32" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/synaptics/product_rpc_tests.py" timestamp="1568541927768">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="8" />
+        <mark key="." line="72" column="8" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/single_ear_sanity_row_summary.py" timestamp="1565621068927">
         <mark key="[" line="258" column="0" />
         <mark key="]" line="258" column="4" />
@@ -203,6 +208,7 @@
         <mark key="." line="4" column="8" />
         <mark key="^" line="22" column="83" />
       </file>
+      <file name="$USER_HOME$/device_communication/pydcomm/rpc/buga_grpc_server.py" timestamp="1568541393182" />
       <file name="/None" timestamp="1557245313825">
         <mark key="[" line="0" column="0" />
       </file>
@@ -224,7 +230,7 @@
         <mark key="]" line="13" column="45" />
       </file>
       <file name="$USER_HOME$/buga-recordings/pybugarec/utils/make/export.py" timestamp="1568033415177" />
-      <file name="/Python Console" timestamp="1568212853326">
+      <file name="/Python Console" timestamp="1568541276457">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1568212865436">
@@ -279,11 +285,6 @@
         <mark key="]" line="136" column="0" />
         <mark key="^" line="0" column="34" />
         <mark key="." line="136" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/utils/git_test_helper.py" timestamp="1568209706166">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/json_helpers.py" timestamp="1565253198668">
         <mark key="[" line="148" column="19" />
@@ -498,52 +499,52 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>output</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoIG1vY2sucGF0Y2goTU9EVUxFX05BTUUgKyAiLkdSZW1vdGVQcm9jZWR1cmVDbGllbnQiKSBhcyBtOgo=</text>
       </register>
       <register name="-" type="4">
-        <text>output</text>
+        <text>product_rpc_server</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
       </register>
       <register name="0" type="4">
-        <text>/tars</text>
+        <text>.GRemoteProcedureClient</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG1vY2sucGF0Y2goTU9EVUxFX05BTUUgKyAiLkdSZW1vdGVQcm9jZWR1cmVDbGllbnQiKSBhcyBtOgo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QWRkIGNtZCB0byBkb2NrZXJmaWxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRfYXJncyhhcmdzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RE9DS0VSRklMRV9OQU1FID0gInByb2R1Y3QuRG9ja2VyZmlsZSIK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJUQUciLCB2ZXJzaW9uX25hbWUpCg==</text>
+        <text encoding="base64">QWRkIGNtZCB0byBkb2NrZXJmaWxlCg==</text>
       </register>
-      <register name="6" type="8">
-        <text>tars
-tars
-tars</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRfYXJncyhhcmdzKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">RlJPTSBzeW5hcHRpY3NiYXNlCgpSVU4gbWtkaXIgLXAgL2hvbWUvYnVnYS9CdWdhdG9uZS1TcGFjZS8gJiYgXAogICAgbWtkaXIgLXAgL2hvbWUvYnVnYS9tb2JpbGVwcm9kdWN0LyAmJiBcCiAgICBta2RpciAtcCAvaG9tZS9idWdhL2RldmljZV9jb21tdW5pY2F0aW9uLyAmJiBcCiAgICBta2RpciAtcCAvaG9tZS9idWdhL3Rlc3QtZmlsZXMvYWxnby9zeW5hcHRpY3MvCgpBREQgLi90YXJzL21vYmlsZXByb2R1Y3QudGFyLmd6IC9ob21lL2J1Z2EvbW9iaWxlcHJvZHVjdApBREQgLi90YXJzL0J1Z2F0b25lLVNwYWNlLnRhci5neiAvaG9tZS9idWdhL0J1Z2F0b25lLVNwYWNlCkFERCAuL3RhcnMvZGV2aWNlX2NvbW11bmljYXRpb24udGFyLmd6IC9ob21lL2J1Z2EvZGV2aWNlX2NvbW11bmljYXRpb24KClJVTiBta2RpciAtcCAvaG9tZS9idWdhL21vYmlsZXByb2R1Y3QvbGliL2xpbnV4X3g4Ni9SZWxlYXNlLwpDT1BZIC4vbGliLyouc28gL2hvbWUvYnVnYS9tb2JpbGVwcm9kdWN0L2xpYi9saW51eF94ODYvUmVsZWFzZS8KQ09QWSAuL3cwLmZsb2F0MzIgL2hvbWUvYnVnYS90ZXN0LWZpbGVzL2FsZ28vc3luYXB0aWNzL3cwLmZsb2F0MzIKClJVTiBwaXAgaW5zdGFsbCAtZSAvaG9tZS9idWdhL0J1Z2F0b25lLVNwYWNlLyAtZSAvaG9tZS9idWdhL21vYmlsZXByb2R1Y3QvIC1lIC9ob21lL2J1Z2EvZGV2aWNlX2NvbW11bmljYXRpb24vCkVOViBMRF9MSUJSQVJZX1BBVEg9L2hvbWUvYnVnYS9CdWdhdG9uZS1TcGFjZS9saWIvbGludXhfeDg2Oi4KCkNNRCBweXRob24gL2hvbWUvYnVnYS9tb2JpbGVwcm9kdWN0L3B5bW9iaWxlcHJvZHVjdC9zeW5hcHRpY3MvcHJvZHVjdC9wcm9kdWN0X3JwY19zZXJ2ZXIucHk=</text>
+      <register name="7" type="2">
+        <text encoding="base64">RE9DS0VSRklMRV9OQU1FID0gInByb2R1Y3QuRG9ja2VyZmlsZSIK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Rml4IHRoaW5neQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJUQUciLCB2ZXJzaW9uX25hbWUpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">QWRkIHN5bmFwdGljcyBiZW5jaG1hcmtzIHRvIGxvYWRibQo=</text>
+      <register name="9" type="8">
+        <text>tars
+tars
+tars</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -599,8 +600,8 @@ tars</text>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>Lw</entry>
         <entry>:w</entry>
-        <entry>W</entry>
         <entry>x</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
