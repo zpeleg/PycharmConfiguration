@@ -105,6 +105,9 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="14" column="37" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/product_loader.py" timestamp="1568645772842">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/single_ear_sanity_row_summary.py" timestamp="1565621068927">
         <mark key="[" line="258" column="0" />
         <mark key="]" line="258" column="4" />
@@ -508,7 +511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="20" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" />
       <jump line="9" column="3" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/normal_authentication/authentication.yaml" />
       <jump line="341" column="17" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
       <jump line="349" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
@@ -608,6 +610,7 @@
       <jump line="760" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
       <jump line="803" column="19" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
       <jump line="231" column="31" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/product_loader.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
