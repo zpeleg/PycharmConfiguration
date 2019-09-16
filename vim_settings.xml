@@ -210,6 +210,9 @@
         <mark key="." line="798" column="49" />
         <mark key="^" line="798" column="49" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/firmware/firmware_version_descriptor.py" timestamp="1568651198445">
+        <mark key="'" line="61" column="17" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/benchmark_metadata.py" timestamp="1565275336193">
         <mark key="[" line="152" column="92" />
         <mark key="]" line="153" column="55" />
@@ -438,12 +441,12 @@
         <mark key="^" line="3" column="89" />
         <mark key="." line="3" column="89" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" timestamp="1568650457580">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" timestamp="1568651196162">
         <mark key="'" line="237" column="35" />
-        <mark key="[" line="207" column="46" />
-        <mark key="]" line="207" column="38" />
-        <mark key="." line="207" column="38" />
-        <mark key="^" line="207" column="43" />
+        <mark key="[" line="228" column="22" />
+        <mark key="]" line="228" column="25" />
+        <mark key="." line="228" column="25" />
+        <mark key="^" line="228" column="25" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/benchmark_core.py" timestamp="1563111273575">
         <mark key="'" line="16" column="4" />
@@ -524,7 +527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="341" column="17" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
       <jump line="349" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
       <jump line="354" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
       <jump line="360" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
@@ -624,6 +626,7 @@
       <jump line="231" column="31" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/product_loader.py" />
       <jump line="237" column="35" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" />
+      <jump line="61" column="17" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/firmware/firmware_version_descriptor.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
