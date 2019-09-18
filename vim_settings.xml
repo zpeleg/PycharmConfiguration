@@ -52,6 +52,12 @@
         <mark key="." line="15" column="21" />
         <mark key="^" line="15" column="21" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/raw_row_summary.py" timestamp="1568822243852">
+        <mark key="[" line="84" column="107" />
+        <mark key="]" line="84" column="118" />
+        <mark key="^" line="84" column="118" />
+        <mark key="." line="84" column="118" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/synaptics_ai_stability.py" timestamp="1565870697824">
         <mark key="'" line="19" column="7" />
         <mark key="[" line="19" column="54" />
@@ -104,11 +110,11 @@
         <mark key="." line="258" column="4" />
         <mark key="^" line="258" column="20" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1568814693175">
-        <mark key="[" line="728" column="45" />
-        <mark key="]" line="728" column="64" />
-        <mark key="^" line="728" column="64" />
-        <mark key="." line="728" column="64" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1568822450969">
+        <mark key="[" line="502" column="53" />
+        <mark key="]" line="502" column="53" />
+        <mark key="^" line="425" column="62" />
+        <mark key="." line="502" column="53" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/proximity/simple_algo.py" timestamp="1567437653851">
         <mark key="[" line="323" column="0" />
@@ -284,6 +290,12 @@
         <mark key="]" line="141" column="61" />
         <mark key="." line="141" column="61" />
         <mark key="^" line="141" column="61" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/synaptics_many_users_proximity/synaptics_mu_prox_row_summary.py" timestamp="1568821617857">
+        <mark key="[" line="124" column="70" />
+        <mark key="]" line="124" column="72" />
+        <mark key="." line="124" column="72" />
+        <mark key="^" line="124" column="72" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/many_user_extended.yaml" timestamp="1566740208321">
         <mark key="'" line="0" column="0" />
@@ -504,11 +516,11 @@
         <mark key="." line="113" column="0" />
         <mark key="^" line="19" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568815060694">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="4" />
+      <file name="/Dummy.txt" timestamp="1568822952680">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="4" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/do_single_ear_sanity.py" timestamp="1565522431365">
         <mark key="[" line="9" column="68" />
@@ -711,17 +723,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>test</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Rml4IHRlc3QK</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>firmware</text>
       </register>
       <register name="0" type="4">
-        <text>print_state_changes</text>
+        <text>(min_time_earphone_put_out if delay_upper_bound else max_time_earphone_put_out)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Rml4IHRlc3QK</text>
@@ -730,31 +742,31 @@
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRlZiBwcmludF9zdGF0ZV9jaGFuZ2VzKG1ldGFldmVudCk6CiAgICAgICAgIyAgICAgaWYgbWV0YWV2ZW50Lm5hbWUgaW4gWyJzdGF0ZSBlbnRlcmVkIiwgInN0YXRlIGV4aXRlZCJdOgogICAgICAgICMgICAgICAgICBwcmludChtZXRhZXZlbnQpCiAgICAgICAgIwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBwcmludF9zdGF0ZV9jaGFuZ2VzKG1ldGFldmVudCk6CiAgICAgICAgaWYgbWV0YWV2ZW50Lm5hbWUgaW4gWyJzdGF0ZSBlbnRlcmVkIiwgInN0YXRlIGV4aXRlZCJdOgogICAgICAgICAgICBwcmludChtZXRhZXZlbnQpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgYmxhKGV2ZW50KToK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Rml4IHRlc3QK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Rml4IHRlc3QK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjIGRlZiBwcmludF9zdGF0ZV9jaGFuZ2VzKG1ldGFldmVudCk6CiAgICAgICAgIyAgICAgaWYgbWV0YWV2ZW50Lm5hbWUgaW4gWyJzdGF0ZSBlbnRlcmVkIiwgInN0YXRlIGV4aXRlZCJdOgogICAgICAgICMgICAgICAgICBwcmludChtZXRhZXZlbnQpCiAgICAgICAgIwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZiBwcmludF9zdGF0ZV9jaGFuZ2VzKG1ldGFldmVudCk6CiAgICAgICAgaWYgbWV0YWV2ZW50Lm5hbWUgaW4gWyJzdGF0ZSBlbnRlcmVkIiwgInN0YXRlIGV4aXRlZCJdOgogICAgICAgICAgICBwcmludChtZXRhZXZlbnQpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CiMgcGVwODogZGlzYWJsZT1FMjIzCgo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgYmxhKGV2ZW50KToK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I25vaW5zcGVjdGlvbiBQeVBlcDgK</text>
+        <text encoding="base64">Rml4IHRlc3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMgcGVwODogZGlzYWJsZT1FMjIzCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
