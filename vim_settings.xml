@@ -97,12 +97,12 @@
         <mark key="." line="258" column="4" />
         <mark key="^" line="258" column="20" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1568642993453">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1568795658752">
         <mark key="'" line="806" column="19" />
-        <mark key="[" line="664" column="61" />
-        <mark key="]" line="664" column="61" />
-        <mark key="^" line="664" column="64" />
-        <mark key="." line="664" column="61" />
+        <mark key="[" line="668" column="113" />
+        <mark key="]" line="668" column="113" />
+        <mark key="^" line="668" column="113" />
+        <mark key="." line="668" column="113" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/proximity/simple_algo.py" timestamp="1567437653851">
         <mark key="[" line="323" column="0" />
@@ -716,11 +716,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBERUZBVUxUX1JFTEVBU0VfTElCQlVHQVRPTkVfQlVJTERfUEFUSCA9ICIvaG9tZS9idWdhL2RldmljZV9jb21tdW5pY2F0aW9uL2NwcC9saWIvbGludXhfeDg2L1JlbGVhc2UvbGlicnBjX2F1dGhkZW1vX3Byb3h5LnNvIgo=</text>
+      <register name="&quot;" type="4">
+        <text>44444</text>
       </register>
       <register name="-" type="4">
-        <text>prox</text>
+        <text>44444</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
@@ -815,9 +815,9 @@
         <entry>Lw</entry>
         <entry>:w</entry>
         <entry>x</entry>
-        <entry>W</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
