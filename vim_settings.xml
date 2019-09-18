@@ -77,7 +77,7 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-        <mark key="^" line="201" column="0" />
+        <mark key="^" line="200" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/setup.py" timestamp="1568553996132">
         <mark key="[" line="11" column="27" />
@@ -105,7 +105,6 @@
         <mark key="^" line="258" column="20" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1568798280584">
-        <mark key="'" line="806" column="19" />
         <mark key="[" line="5" column="71" />
         <mark key="]" line="5" column="73" />
         <mark key="^" line="5" column="73" />
@@ -214,6 +213,7 @@
         <mark key="." line="98" column="16" />
         <mark key="^" line="98" column="16" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/synaptics_many_users_proximity/do_syn_mu_prox.py" timestamp="1568805894563" />
       <file name="$USER_HOME$/device_communication/pydcomm/general_android/connection/fixers/get_user_attention_fixer.py" timestamp="1565513943530">
         <mark key="[" line="12" column="46" />
         <mark key="]" line="12" column="75" />
@@ -226,12 +226,6 @@
         <mark key="]" line="360" column="0" />
         <mark key="." line="360" column="0" />
         <mark key="^" line="270" column="86" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/media_player/synaptics_replayer.py" timestamp="1568800210185">
-        <mark key="[" line="66" column="8" />
-        <mark key="]" line="66" column="17" />
-        <mark key="." line="66" column="17" />
-        <mark key="^" line="66" column="17" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" timestamp="1563984454374">
         <mark key="[" line="180" column="0" />
@@ -260,13 +254,6 @@
         <mark key="]" line="84" column="18" />
         <mark key="^" line="141" column="31" />
         <mark key="." line="80" column="0" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" timestamp="1568643144171">
-        <mark key="'" line="228" column="31" />
-        <mark key="[" line="46" column="86" />
-        <mark key="]" line="46" column="93" />
-        <mark key="^" line="46" column="93" />
-        <mark key="." line="46" column="93" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/synaptics/channel_ordering_machine_tests.py" timestamp="1568553969246">
         <mark key="[" line="78" column="48" />
@@ -364,7 +351,6 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="30" column="43" />
       </file>
-      <file name="/synaptics_replayer.py" timestamp="1568800222860" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/run_synaptics.py" timestamp="1568550493257">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="42" column="55" />
@@ -378,6 +364,7 @@
         <mark key="." line="19" column="15" />
         <mark key="^" line="19" column="15" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/synaptics_proximity/synaptics_proximity.yaml" timestamp="1568805569660" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/recplay.py" timestamp="1566316543989">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="235" column="17" />
@@ -501,13 +488,6 @@
         <mark key="." line="149" column="0" />
         <mark key="^" line="149" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/media_player/synaptics_media_player_logic.yaml" timestamp="1568639433772">
-        <mark key="'" line="11" column="9" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="7" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/uxevents.yaml" timestamp="1565622807691">
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
@@ -520,6 +500,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/synaptics_proximity/do_synaptics_proximity.py" timestamp="1568805865900" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/do_single_ear_sanity.py" timestamp="1565522431365">
         <mark key="[" line="9" column="68" />
         <mark key="]" line="9" column="84" />
