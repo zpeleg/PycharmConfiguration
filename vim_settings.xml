@@ -165,12 +165,12 @@
         <mark key="." line="60" column="96" />
         <mark key="^" line="60" column="91" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1566487978630">
-        <mark key="'" line="724" column="104" />
-        <mark key="[" line="797" column="71" />
-        <mark key="]" line="798" column="49" />
-        <mark key="." line="798" column="49" />
-        <mark key="^" line="798" column="49" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" timestamp="1568826453765">
+        <mark key="'" line="602" column="62" />
+        <mark key="[" line="3" column="64" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_users/many_users_sanity_ft.yaml" timestamp="1565523637558">
         <mark key="[" line="33" column="0" />
@@ -391,6 +391,10 @@
         <mark key="]" line="19" column="15" />
         <mark key="." line="19" column="15" />
         <mark key="^" line="19" column="15" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1568826359829">
+        <mark key="[" line="144" column="9" />
+        <mark key="]" line="144" column="30" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/recplay.py" timestamp="1566316543989">
         <mark key="'" line="20" column="0" />
@@ -618,7 +622,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
       <jump line="137" column="3" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/archives.py" />
       <jump line="24" column="83" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/ft_sanity/do_ft_sanity.py" />
       <jump line="379" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
@@ -718,6 +721,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/archive_structure.py" />
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/scripts/do_syn_mu_prox.py" />
       <jump line="103" column="38" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/synaptics_many_users_proximity/synaptics_mu_prox_row_summary.py" />
+      <jump line="602" column="62" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -730,31 +734,31 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Rml4IHRlc3QK</text>
+        <text encoding="base64">X19hbGxfXyA9IFsnQmVuY2htYXJrTG9hZGVyJywgJ01vYWJUZXN0cycsICdSb3dTdW1tYXJpZXNHZW5lcmF0b3InLCAnQmVuY2htYXJrQ3N2TG9hZGVyJywgJ0JlbmNobWFya0xvYWRQb2xpY3knLAogICAgICAgICAgICdCZW5jaG1hcmtRdWVyeVJ1bm5lcnMnLCAnQmVuY2htYXJrUmVncmVzc2lvblRlc3RlciddCg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>SynProxMu</text>
       </register>
       <register name="/" type="4">
         <text>firmware</text>
       </register>
       <register name="0" type="4">
-        <text>(min_time_earphone_put_out if delay_upper_bound else max_time_earphone_put_out)</text>
+        <text>SynProxPandasConverter</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Rml4IHRlc3QK</text>
+        <text encoding="base64">X19hbGxfXyA9IFsnQmVuY2htYXJrTG9hZGVyJywgJ01vYWJUZXN0cycsICdSb3dTdW1tYXJpZXNHZW5lcmF0b3InLCAnQmVuY2htYXJrQ3N2TG9hZGVyJywgJ0JlbmNobWFya0xvYWRQb2xpY3knLAogICAgICAgICAgICdCZW5jaG1hcmtRdWVyeVJ1bm5lcnMnLCAnQmVuY2htYXJrUmVncmVzc2lvblRlc3RlciddCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">X19hbGxfXyA9IFsnZ2VuZXJhdGVfc3luYXB0aWNzX211X3Byb3hpbWl0eV9zY2VuYXJpbyddCg==</text>
+        <text encoding="base64">Rml4IHRlc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">X19hbGxfXyA9IFsnbWFrZV9zeW5fbXVfcHJveF9yb3dfZnJvbV9hcmNoJ10K</text>
+        <text encoding="base64">X19hbGxfXyA9IFsnZ2VuZXJhdGVfc3luYXB0aWNzX211X3Byb3hpbWl0eV9zY2VuYXJpbyddCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Rml4IHRlc3QK</text>
+        <text encoding="base64">X19hbGxfXyA9IFsnbWFrZV9zeW5fbXVfcHJveF9yb3dfZnJvbV9hcmNoJ10K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Rml4IHRlc3QK</text>
@@ -763,16 +767,16 @@
         <text encoding="base64">Rml4IHRlc3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Rml4IHRlc3QK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRlZiBwcmludF9zdGF0ZV9jaGFuZ2VzKG1ldGFldmVudCk6CiAgICAgICAgIyAgICAgaWYgbWV0YWV2ZW50Lm5hbWUgaW4gWyJzdGF0ZSBlbnRlcmVkIiwgInN0YXRlIGV4aXRlZCJdOgogICAgICAgICMgICAgICAgICBwcmludChtZXRhZXZlbnQpCiAgICAgICAgIwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBwcmludF9zdGF0ZV9jaGFuZ2VzKG1ldGFldmVudCk6CiAgICAgICAgaWYgbWV0YWV2ZW50Lm5hbWUgaW4gWyJzdGF0ZSBlbnRlcmVkIiwgInN0YXRlIGV4aXRlZCJdOgogICAgICAgICAgICBwcmludChtZXRhZXZlbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGRlZiBwcmludF9zdGF0ZV9jaGFuZ2VzKG1ldGFldmVudCk6CiAgICAgICAgIyAgICAgaWYgbWV0YWV2ZW50Lm5hbWUgaW4gWyJzdGF0ZSBlbnRlcmVkIiwgInN0YXRlIGV4aXRlZCJdOgogICAgICAgICMgICAgICAgICBwcmludChtZXRhZXZlbnQpCiAgICAgICAgIwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -811,7 +815,6 @@
         <entry>firmware</entry>
       </history-search>
       <history-cmd>
-        <entry>set rnu 0</entry>
         <entry>set rnu=0</entry>
         <entry>set nu=0</entry>
         <entry>vi</entry>
@@ -829,8 +832,9 @@
         <entry>x</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5X</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>&quot;w</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
