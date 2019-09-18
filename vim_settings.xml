@@ -213,7 +213,12 @@
         <mark key="." line="98" column="16" />
         <mark key="^" line="98" column="16" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/synaptics_many_users_proximity/do_syn_mu_prox.py" timestamp="1568805894563" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/synaptics_many_users_proximity/do_syn_mu_prox.py" timestamp="1568807222415">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+      </file>
       <file name="$USER_HOME$/device_communication/pydcomm/general_android/connection/fixers/get_user_attention_fixer.py" timestamp="1565513943530">
         <mark key="[" line="12" column="46" />
         <mark key="]" line="12" column="75" />
@@ -364,7 +369,6 @@
         <mark key="." line="19" column="15" />
         <mark key="^" line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/synaptics_proximity/synaptics_proximity.yaml" timestamp="1568805569660" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/recplay.py" timestamp="1566316543989">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="235" column="17" />
@@ -494,13 +498,12 @@
         <mark key="." line="113" column="0" />
         <mark key="^" line="19" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568800246876">
-        <mark key="[" line="1" column="0" />
+      <file name="/Dummy.txt" timestamp="1568807374772">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/synaptics_proximity/do_synaptics_proximity.py" timestamp="1568805865900" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/do_single_ear_sanity.py" timestamp="1565522431365">
         <mark key="[" line="9" column="68" />
         <mark key="]" line="9" column="84" />
