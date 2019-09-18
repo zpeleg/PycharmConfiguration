@@ -325,6 +325,9 @@
         <mark key="^" line="15" column="15" />
         <mark key="." line="15" column="15" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/scripts/do_syn_mu_prox.py" timestamp="1568823610589">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/paint_it_none.py" timestamp="1563806014303">
         <mark key="[" line="10" column="32" />
         <mark key="]" line="10" column="33" />
@@ -490,6 +493,7 @@
         <mark key="." line="60" column="47" />
         <mark key="^" line="60" column="47" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/synaptics_proximity/synaptics_proximity_row_summary.py" timestamp="1568824013317" />
       <file name="$USER_HOME$/buga-recordings/pybugarec/audio_interfaces/synaptics_audio_interface.py" timestamp="1565857269070">
         <mark key="[" line="136" column="0" />
         <mark key="]" line="136" column="0" />
@@ -516,7 +520,7 @@
         <mark key="." line="113" column="0" />
         <mark key="^" line="19" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568822952680">
+      <file name="/Dummy.txt" timestamp="1568823572898">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="7" />
@@ -612,7 +616,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="346" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" />
       <jump line="155" column="81" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
       <jump line="219" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
       <jump line="137" column="3" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/archives.py" />
@@ -712,6 +715,7 @@
       <jump line="5" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/archive_structure.py" />
       <jump line="3" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/archive_structure.py" />
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/archive_structure.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/scripts/do_syn_mu_prox.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
