@@ -291,11 +291,12 @@
         <mark key="." line="141" column="61" />
         <mark key="^" line="141" column="61" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/synaptics_many_users_proximity/synaptics_mu_prox_row_summary.py" timestamp="1568821617857">
-        <mark key="[" line="124" column="70" />
-        <mark key="]" line="124" column="72" />
-        <mark key="." line="124" column="72" />
-        <mark key="^" line="124" column="72" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/synaptics_many_users_proximity/synaptics_mu_prox_row_summary.py" timestamp="1568824784483">
+        <mark key="'" line="103" column="38" />
+        <mark key="[" line="2" column="44" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/many_user_extended.yaml" timestamp="1566740208321">
         <mark key="'" line="0" column="0" />
@@ -325,8 +326,12 @@
         <mark key="^" line="15" column="15" />
         <mark key="." line="15" column="15" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/scripts/do_syn_mu_prox.py" timestamp="1568823610589">
+      <file name="$USER_HOME$/mobileproduct/scripts/do_syn_mu_prox.py" timestamp="1568824802611">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="54" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/paint_it_none.py" timestamp="1563806014303">
         <mark key="[" line="10" column="32" />
@@ -520,11 +525,8 @@
         <mark key="." line="113" column="0" />
         <mark key="^" line="19" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568823572898">
+      <file name="/Dummy.txt" timestamp="1568824851226">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/do_single_ear_sanity.py" timestamp="1565522431365">
         <mark key="[" line="9" column="68" />
@@ -616,7 +618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="81" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
       <jump line="219" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/do_auth_many_users.py" />
       <jump line="137" column="3" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/archives.py" />
       <jump line="24" column="83" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/ft_sanity/do_ft_sanity.py" />
@@ -716,6 +717,7 @@
       <jump line="3" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/archive_structure.py" />
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/archive_structure.py" />
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/scripts/do_syn_mu_prox.py" />
+      <jump line="103" column="38" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/synaptics_many_users_proximity/synaptics_mu_prox_row_summary.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -746,31 +748,31 @@
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Rml4IHRlc3QK</text>
+        <text encoding="base64">X19hbGxfXyA9IFsnZ2VuZXJhdGVfc3luYXB0aWNzX211X3Byb3hpbWl0eV9zY2VuYXJpbyddCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Rml4IHRlc3QK</text>
+        <text encoding="base64">X19hbGxfXyA9IFsnbWFrZV9zeW5fbXVfcHJveF9yb3dfZnJvbV9hcmNoJ10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Rml4IHRlc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRlZiBwcmludF9zdGF0ZV9jaGFuZ2VzKG1ldGFldmVudCk6CiAgICAgICAgIyAgICAgaWYgbWV0YWV2ZW50Lm5hbWUgaW4gWyJzdGF0ZSBlbnRlcmVkIiwgInN0YXRlIGV4aXRlZCJdOgogICAgICAgICMgICAgICAgICBwcmludChtZXRhZXZlbnQpCiAgICAgICAgIwo=</text>
+        <text encoding="base64">Rml4IHRlc3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBwcmludF9zdGF0ZV9jaGFuZ2VzKG1ldGFldmVudCk6CiAgICAgICAgaWYgbWV0YWV2ZW50Lm5hbWUgaW4gWyJzdGF0ZSBlbnRlcmVkIiwgInN0YXRlIGV4aXRlZCJdOgogICAgICAgICAgICBwcmludChtZXRhZXZlbnQpCg==</text>
+        <text encoding="base64">Rml4IHRlc3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgYmxhKGV2ZW50KToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Rml4IHRlc3QK</text>
+        <text encoding="base64">ICAgICAgICAjIGRlZiBwcmludF9zdGF0ZV9jaGFuZ2VzKG1ldGFldmVudCk6CiAgICAgICAgIyAgICAgaWYgbWV0YWV2ZW50Lm5hbWUgaW4gWyJzdGF0ZSBlbnRlcmVkIiwgInN0YXRlIGV4aXRlZCJdOgogICAgICAgICMgICAgICAgICBwcmludChtZXRhZXZlbnQpCiAgICAgICAgIwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiMgcGVwODogZGlzYWJsZT1FMjIzCgo=</text>
+        <text encoding="base64">ICAgIGRlZiBwcmludF9zdGF0ZV9jaGFuZ2VzKG1ldGFldmVudCk6CiAgICAgICAgaWYgbWV0YWV2ZW50Lm5hbWUgaW4gWyJzdGF0ZSBlbnRlcmVkIiwgInN0YXRlIGV4aXRlZCJdOgogICAgICAgICAgICBwcmludChtZXRhZXZlbnQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -827,8 +829,8 @@
         <entry>x</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5X</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
