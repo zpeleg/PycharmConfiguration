@@ -238,12 +238,7 @@
         <mark key="." line="360" column="0" />
         <mark key="^" line="270" column="86" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo_simple_summary.py" timestamp="1563984454374">
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="0" />
-        <mark key="." line="180" column="0" />
-        <mark key="^" line="343" column="29" />
-      </file>
+      <file name="/auth_demo_simple_summary.py" timestamp="1568894354433" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/phi.py" timestamp="1564676772180">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="73" />
@@ -507,7 +502,6 @@
         <mark key="." line="60" column="47" />
         <mark key="^" line="60" column="47" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/synaptics_proximity/synaptics_proximity_row_summary.py" timestamp="1568824013317" />
       <file name="$USER_HOME$/buga-recordings/pybugarec/audio_interfaces/synaptics_audio_interface.py" timestamp="1565857269070">
         <mark key="[" line="136" column="0" />
         <mark key="]" line="136" column="0" />
