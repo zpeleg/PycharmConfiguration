@@ -312,11 +312,11 @@
         <mark key="." line="113" column="31" />
         <mark key="^" line="95" column="23" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/syn_minimal_volume/do_syn_minimal_volume.py" timestamp="1569169659627">
-        <mark key="[" line="7" column="85" />
-        <mark key="]" line="8" column="7" />
-        <mark key="^" line="8" column="7" />
-        <mark key="." line="8" column="7" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/syn_minimal_volume/do_syn_minimal_volume.py" timestamp="1569170322053">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+        <mark key="." line="7" column="32" />
       </file>
       <file name="$USER_HOME$/buga-recordings/setup.py" timestamp="1565786146696">
         <mark key="[" line="8" column="134" />
@@ -738,10 +738,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIA==</text>
+        <text>sp_song_name</text>
       </register>
       <register name="-" type="4">
-        <text>JKJKJK</text>
+        <text>sp_song_name</text>
       </register>
       <register name="/" type="4">
         <text>firmware</text>
@@ -837,8 +837,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>&quot;w</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
