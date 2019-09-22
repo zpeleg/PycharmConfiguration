@@ -305,6 +305,12 @@
         <mark key="^" line="148" column="44" />
         <mark key="." line="148" column="44" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/media_player/synaptics_streamer.py" timestamp="1569154168616">
+        <mark key="[" line="92" column="16" />
+        <mark key="]" line="92" column="17" />
+        <mark key="^" line="92" column="16" />
+        <mark key="." line="92" column="17" />
+      </file>
       <file name="$USER_HOME$/buga-recordings/setup.py" timestamp="1565786146696">
         <mark key="[" line="8" column="134" />
         <mark key="]" line="8" column="147" />
@@ -712,11 +718,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNkZgo=</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>firmware</text>
@@ -725,37 +731,37 @@
         <text encoding="base64">IG9yICJwbGF5TXVzaWMiIGluIFt1WyJuYW1lIl0gZm9yIHUgaW4gdXhldmVudHNbcG9zXV06</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNkZgo=</text>
+        <text encoding="base64">ICAgICAgICBzbAo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNkZgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGlzX2NvbW1pdF9wdXNoZWRfYW5kX29uX3JlbW90ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Rml4IHR5cG8K</text>
+        <text encoding="base64">ZGVmIGlzX2NvbW1pdF9wdXNoZWRfYW5kX29uX3JlbW90ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UmVvcmdhbml6ZSBpbXBvcnRzCg==</text>
+        <text encoding="base64">Rml4IHR5cG8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgYXBsIGxlZnQK</text>
+        <text encoding="base64">UmVvcmdhbml6ZSBpbXBvcnRzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFwc19ib3RoLCBmcHNfYm90aCA9IGNhbGN1bGF0ZV9hdXRvcGF1c2VfZGVsYXlfYW5kX2ZhbHNlX3BhdXNlKHNjZW5hcmlvLnJlY3NbInJlY3MiXVswXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHV4ZXZlbnRzWzBdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlbGF5X3VwcGVyX2JvdW5kKQo=</text>
+        <text encoding="base64">ICAgICMgYXBsIGxlZnQK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZmFsc2UgcGF1c2UgdGVzdHMgYW5kIHRoZW4gYm90aCBvdXQK</text>
+        <text encoding="base64">ICAgIGFwc19ib3RoLCBmcHNfYm90aCA9IGNhbGN1bGF0ZV9hdXRvcGF1c2VfZGVsYXlfYW5kX2ZhbHNlX3BhdXNlKHNjZW5hcmlvLnJlY3NbInJlY3MiXVswXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHV4ZXZlbnRzWzBdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlbGF5X3VwcGVyX2JvdW5kKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgZmFsc2UgcGF1c2UgdGVzdHMgYW5kIHRoZW4gYm90aCBvdXQKICAgIGFwc19ib3RoLCBmcHNfYm90aCA9IGNhbGN1bGF0ZV9hdXRvcGF1c2VfZGVsYXlfYW5kX2ZhbHNlX3BhdXNlKHNjZW5hcmlvLnJlY3NbInJlY3MiXVswXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHV4ZXZlbnRzWzBdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlbGF5X3VwcGVyX2JvdW5kKQo=</text>
+        <text encoding="base64">ICAgICMgZmFsc2UgcGF1c2UgdGVzdHMgYW5kIHRoZW4gYm90aCBvdXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
