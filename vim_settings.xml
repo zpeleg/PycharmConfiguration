@@ -3,17 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/VersionDescriptor" timestamp="1566478513534">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/dontrun.py" timestamp="1566232241356">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="17" />
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
-      </file>
-      <file name="/a.dummy" timestamp="1568641860376">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo2/auth_demo2.yaml" timestamp="1564325731483">
         <mark key="'" line="103" column="0" />
@@ -34,9 +28,6 @@
         <mark key="]" line="67" column="0" />
         <mark key="^" line="67" column="0" />
         <mark key="." line="67" column="0" />
-      </file>
-      <file name="/False" timestamp="1555316610968">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/auth_demo/auth_demo.yaml" timestamp="1566724202263">
         <mark key="'" line="0" column="0" />
@@ -142,9 +133,6 @@
         <mark key="^" line="152" column="50" />
         <mark key="." line="153" column="46" />
       </file>
-      <file name="/" timestamp="1566478516385">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/operational_data_filter.py" timestamp="1563441860538">
         <mark key="'" line="36" column="54" />
         <mark key="[" line="37" column="51" />
@@ -208,9 +196,6 @@
         <mark key="^" line="29" column="35" />
         <mark key="." line="29" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1567947227367">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1566394343375">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
@@ -268,9 +253,6 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="/default_bugatone_api_config" timestamp="1557245315848">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/git.py" timestamp="1568207237332">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="80" column="0" />
@@ -310,9 +292,6 @@
         <mark key="]" line="102" column="146" />
         <mark key="^" line="102" column="84" />
         <mark key="." line="105" column="0" />
-      </file>
-      <file name="/default_daemon_start_detect_music_detection_config" timestamp="1557245313814">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/regression_test.py" timestamp="1565792850521">
         <mark key="[" line="148" column="44" />
@@ -395,6 +374,9 @@
         <mark key="[" line="144" column="9" />
         <mark key="]" line="144" column="30" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/algo/correct_ct.py" timestamp="1569146123771">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/synaptics_proximity/synaptics_proximity.yaml" timestamp="1568880285017">
         <mark key="[" line="12" column="30" />
         <mark key="]" line="12" column="41" />
@@ -436,9 +418,6 @@
         <mark key="]" line="96" column="37" />
         <mark key="." line="96" column="37" />
         <mark key="^" line="73" column="30" />
-      </file>
-      <file name="/None" timestamp="1557245313825">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/moab_benchmark.py" timestamp="1568794192863">
         <mark key="[" line="150" column="0" />
@@ -543,9 +522,6 @@
         <mark key="." line="9" column="84" />
         <mark key="^" line="9" column="84" />
       </file>
-      <file name="/default_daemon_start_detect_special_sig_config" timestamp="1557245313816">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Bugatone-Space/pybuga/infra/utils/buga_utils.py" timestamp="1563364410240">
         <mark key="'" line="956" column="0" />
         <mark key="[" line="954" column="15" />
@@ -565,9 +541,6 @@
         <mark key="]" line="122" column="23" />
         <mark key="." line="122" column="23" />
         <mark key="^" line="122" column="23" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/autoplay_vents/flow.py" timestamp="1557744892507">
-        <mark key="[" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/export.py" timestamp="1563290665729">
         <mark key="[" line="3" column="45" />
@@ -622,7 +595,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="379" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
       <jump line="41" column="15" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/teacher_sanity/teacher_sanity_queries.py" />
       <jump line="520" column="46" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
       <jump line="570" column="21" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
@@ -722,6 +694,7 @@
       <jump line="602" column="62" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
       <jump line="67" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
       <jump line="23" column="60" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/synaptics/synaptics_uxevents.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/algo/correct_ct.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
