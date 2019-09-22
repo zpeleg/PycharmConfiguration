@@ -219,13 +219,13 @@
       <file name="/default_bugatone_api_config" timestamp="1557245315848">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" timestamp="1568912385981">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/version_descriptor.py" timestamp="1569138934170">
         <mark key="'" line="241" column="35" />
         <mark key="k" line="232" column="25" />
-        <mark key="[" line="236" column="27" />
-        <mark key="]" line="236" column="52" />
-        <mark key="." line="236" column="52" />
-        <mark key="^" line="236" column="52" />
+        <mark key="[" line="45" column="87" />
+        <mark key="]" line="45" column="94" />
+        <mark key="." line="45" column="94" />
+        <mark key="^" line="45" column="94" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/teacher_sanity/do_teacher_sanity.py" timestamp="1562503231540">
         <mark key="[" line="11" column="44" />
@@ -329,9 +329,12 @@
         <mark key="." line="19" column="15" />
         <mark key="^" line="19" column="15" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/run_synaptics.py" timestamp="1569138998759">
+        <mark key="'" line="60" column="26" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1568912647261">
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="186" column="73" />
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="196" column="73" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/recplay.py" timestamp="1566316543989">
         <mark key="'" line="20" column="0" />
@@ -622,12 +625,12 @@
       <jump line="7" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" />
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/product_loader.py" />
       <jump line="6" column="36" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/proximity/proximity_product_loader.py" />
-      <jump line="60" column="20" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/run_synaptics.py" />
       <jump line="272" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" />
       <jump line="322" column="4" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" />
       <jump line="26" column="6" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/product_loader.py" />
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/common.py" />
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/synaptics/export_synaptics_test.py" />
+      <jump line="60" column="26" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/run_synaptics.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -739,8 +742,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>W:w</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
