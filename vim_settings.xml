@@ -312,6 +312,12 @@
         <mark key="." line="113" column="31" />
         <mark key="^" line="95" column="23" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/syn_minimal_volume/do_syn_minimal_volume.py" timestamp="1569167316388">
+        <mark key="[" line="3" column="114" />
+        <mark key="]" line="3" column="96" />
+        <mark key="^" line="3" column="96" />
+        <mark key="." line="3" column="96" />
+      </file>
       <file name="$USER_HOME$/buga-recordings/setup.py" timestamp="1565786146696">
         <mark key="[" line="8" column="134" />
         <mark key="]" line="8" column="147" />
@@ -732,10 +738,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGFsbF92ZXJfZGlyID0gIi9tbnQvYnVnYV9zdG9yYWdlL1N5bmFwdGljcy9hdXRoL3ZlcnNpb25zLyIKICAgIGZhaWxlZCA9IFtdCiAgICBmb3IgdiBpbiBvcy5saXN0ZGlyKGFsbF92ZXJfZGlyKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIGNyZWF0ZV9kb2NrZXIobW9iaWxlcHJvZHVjdF9wYXRoLCBvcy5wYXRoLmpvaW4oYWxsX3Zlcl9kaXIsIHYpLCBUcnVlKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgIGZhaWxlZC5hcHBlbmQodikKCiAgICBwYXNz</text>
+        <text>all the autopauses against the given set of autoplay</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>all the autopauses against the given set of autoplay</text>
       </register>
       <register name="/" type="4">
         <text>firmware</text>
