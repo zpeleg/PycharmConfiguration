@@ -60,9 +60,9 @@
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/proximity/simple_proximity_algo.py" timestamp="1568898768080">
         <mark key="[" line="55" column="56" />
-        <mark key="]" line="56" column="27" />
-        <mark key="." line="56" column="27" />
-        <mark key="^" line="56" column="27" />
+        <mark key="]" line="57" column="27" />
+        <mark key="." line="57" column="27" />
+        <mark key="^" line="57" column="27" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/synaptics_ai_stability.py" timestamp="1565870697824">
         <mark key="'" line="19" column="7" />
@@ -115,12 +115,6 @@
         <mark key="]" line="258" column="4" />
         <mark key="." line="258" column="4" />
         <mark key="^" line="258" column="20" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1568822450969">
-        <mark key="[" line="502" column="53" />
-        <mark key="]" line="502" column="53" />
-        <mark key="^" line="425" column="62" />
-        <mark key="." line="502" column="53" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/proximity/simple_algo.py" timestamp="1567437653851">
         <mark key="[" line="323" column="0" />
@@ -377,13 +371,6 @@
         <mark key="^" line="41" column="64" />
         <mark key="." line="41" column="64" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/synaptics/export_synaptics_test.py" timestamp="1568220619237">
-        <mark key="'" line="92" column="65" />
-        <mark key="[" line="130" column="113" />
-        <mark key="]" line="130" column="113" />
-        <mark key="." line="130" column="113" />
-        <mark key="^" line="130" column="113" />
-      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/media_player/statechart_thingy.yaml" timestamp="1566747511943">
         <mark key="'" line="16" column="36" />
         <mark key="[" line="40" column="0" />
@@ -517,12 +504,6 @@
         <mark key="]" line="60" column="47" />
         <mark key="." line="60" column="47" />
         <mark key="^" line="60" column="47" />
-      </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/synaptics_proximity/synaptics_proximity_row_summary.py" timestamp="1568898462738">
-        <mark key="[" line="83" column="103" />
-        <mark key="]" line="83" column="103" />
-        <mark key="^" line="83" column="103" />
-        <mark key="." line="83" column="103" />
       </file>
       <file name="$USER_HOME$/buga-recordings/pybugarec/audio_interfaces/synaptics_audio_interface.py" timestamp="1565857269070">
         <mark key="[" line="136" column="0" />
