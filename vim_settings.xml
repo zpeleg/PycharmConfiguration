@@ -522,8 +522,14 @@
         <mark key="." line="113" column="0" />
         <mark key="^" line="19" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568899677442">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/buga-recordings/pybugarec/audio_interfaces/synaptics_streaming_audio_interface.py" timestamp="1569158502938">
+        <mark key="[" line="273" column="22" />
+        <mark key="]" line="273" column="23" />
+        <mark key="^" line="273" column="23" />
+        <mark key="." line="273" column="23" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1569158349025">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="0" />
@@ -718,50 +724,50 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KDEpCg==</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>firmware</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KDMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaSA9IDAK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHRpbWUgaW1wb3J0IHNsZWVwCiAgICAgICAgc2xlZXAoMC4zKQo=</text>
+        <text encoding="base64">ICAgICAgICBpID0gMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNkZgo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIHRpbWUgaW1wb3J0IHNsZWVwCiAgICAgICAgc2xlZXAoMC4zKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGlzX2NvbW1pdF9wdXNoZWRfYW5kX29uX3JlbW90ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNkZgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Rml4IHR5cG8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UmVvcmdhbml6ZSBpbXBvcnRzCg==</text>
+        <text encoding="base64">ZGVmIGlzX2NvbW1pdF9wdXNoZWRfYW5kX29uX3JlbW90ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgYXBsIGxlZnQK</text>
+        <text encoding="base64">Rml4IHR5cG8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -818,8 +824,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>&quot;w</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
