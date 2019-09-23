@@ -116,11 +116,12 @@
         <mark key="." line="258" column="4" />
         <mark key="^" line="258" column="20" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/syn_minimal_volume/syn_min_vol_summary.py" timestamp="1569223474620">
-        <mark key="[" line="14" column="28" />
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="12" />
-        <mark key="^" line="15" column="12" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/syn_minimal_volume/syn_min_vol_summary.py" timestamp="1569225831833">
+        <mark key="'" line="2" column="42" />
+        <mark key="[" line="36" column="52" />
+        <mark key="]" line="36" column="52" />
+        <mark key="^" line="36" column="52" />
+        <mark key="." line="36" column="52" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/proximity/simple_algo.py" timestamp="1567437653851">
         <mark key="[" line="323" column="0" />
@@ -599,10 +600,10 @@
         <mark key="^" line="40" column="12" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/many_user_extended_summary.py" timestamp="1565610605586">
-        <mark key="'" line="115" column="25" />
-        <mark key="[" line="122" column="25" />
-        <mark key="]" line="122" column="23" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/many_user_extended_summary.py" timestamp="1569225813302">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="54" />
         <mark key="." line="122" column="23" />
         <mark key="^" line="122" column="23" />
       </file>
@@ -662,10 +663,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="23" filename="$USER_HOME$/mobileproduct/pymobileproduct/utils/arctoj.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/single_ear_sanity.yaml" />
-      <jump line="107" column="28" filename="$USER_HOME$/mobileproduct/pymobileproduct/just_play.py" />
-      <jump line="20" column="31" filename="$USER_HOME$/mobileproduct/pymobileproduct/data_collection/moab_recording_utils.py" />
       <jump line="644" column="96" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
       <jump line="631" column="54" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
       <jump line="724" column="104" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
@@ -762,6 +759,10 @@
       <jump line="714" column="23" filename="$USER_HOME$/.local/lib/python2.7/site-packages/sounddevice.py" />
       <jump line="736" column="46" filename="$USER_HOME$/.local/lib/python2.7/site-packages/sounddevice.py" />
       <jump line="241" column="27" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/export_synaptics.py" />
+      <jump line="23" column="23" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/syn_minimal_volume/syn_min_vol_summary.py" />
+      <jump line="17" column="15" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/syn_minimal_volume/syn_min_vol_summary.py" />
+      <jump line="3" column="42" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/syn_minimal_volume/syn_min_vol_summary.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_extended/many_user_extended_summary.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -773,60 +774,59 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+      <register name="&quot;" type="4">
+        <text>, columns=EXT_MU_COLS)</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>, columns=EXT_MU_COLS)</text>
       </register>
       <register name="/" type="4">
-        <text>firmware</text>
+        <text>else</text>
       </register>
-      <register name="0" type="4">
-        <text>¯\_(ツ)_/¯</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBwZC5EYXRhRnJhbWUoZGF0YT1yb3dzLCBjb2x1bW5zPUVYVF9NVV9DT0xTKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICByb3dzLmFwcGVuZChyb3cgKyBbKCdkZWxheV91cHBlcl9ib3VuZCcsICldKQogICAgICAgIHJvdy5hcHBlbmQoKCdkZWxheV91cHBlcl9ib3VuZCcpKQo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CnByaW50KCLCr1xfKOODhClfL8KvIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsYXlfbG93ZXIsIGZhbHNlX2xvd2VyID0gZnVuY3Rpb24ocmVjLCB1eCwgMiwgZGVsYXlfdXBwZXJfYm91bmQ9RmFsc2UpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CnByaW50KHUi8J+UpSIp</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBlbGlmICJwbGF5U3BlY2lhbFNpZ25hbCIgaW4gW3VbIm5hbWUiXSBmb3IgdSBpbiB1eF06Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgKCdzcGVjaWFsX3NpZ25hbCcsIGVuc3VyZV9zdHJpbmcoc2NlbmFyaW8ucmVjc1sncmVjcyddWzFdWydtZXRhZGF0YSddWydzb25nJ10pKSwKICAgICAgICAgICAgICAgKCdzcGVjaWFsX3NpZ25hbF92b2x1bWUnLCBzY2VuYXJpby5yZWNzWydyZWNzJ11bMV1bJ21ldGFkYXRhJ11bJ3ZvbHVtZSddICogMTAwKSwK</text>
+        <text encoding="base64">ICAgICAgICBpZiAicGxheU11c2ljIiBpbiBbdVsibmFtZSJdIGZvciB1IGluIHV4XToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgKCd2b2x1bWUnLCBzY2VuYXJpby5yZWNzWydyZWNzJ11bMF1bJ21ldGFkYXRhJ11bJ3ZvbHVtZSddICogMTAwKSwK</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgKCdzb25nJywgZW5zdXJlX3N0cmluZyhzY2VuYXJpby5yZWNzWydyZWNzJ11bMF1bJ21ldGFkYXRhJ11bJ3NvbmcnXSkpLAo=</text>
+        <text encoding="base64">ZGVmIGNhbGNfZGVsYXkoKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>if scenario.session_metadata.device_name else
-                           scenario.recs['recs'][0].metadata.device_name</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgKCdpc191cHBlcl9ib3VuZCcsIGRlbGF5X3VwcGVyX2JvdW5kKSwK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Rml4IHRoZSBwaXBzCg==</text>
+        <text encoding="base64">CnByaW50KCLCr1xfKOODhClfL8KvIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>firmware</last-search>
+      <last-search>else</last-search>
       <last-offset />
-      <last-pattern>firmware</last-pattern>
+      <last-pattern>else</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>buga_con</last-substitute>
       <last-dir>1</last-dir>
@@ -834,7 +834,6 @@
     </search>
     <history>
       <history-search>
-        <entry>h</entry>
         <entry>and</entry>
         <entry>cpp</entry>
         <entry>use</entry>
@@ -854,6 +853,7 @@
         <entry encoding="base64">XDxyZWNvbm5lY3RfZWFycGhvbmVzXD4=</entry>
         <entry encoding="base64">XDxpZlw+</entry>
         <entry>firmware</entry>
+        <entry>else</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu=0</entry>
@@ -873,8 +873,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>&quot;w</entry>
-        <entry>W</entry>
         <entry>Lw</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
