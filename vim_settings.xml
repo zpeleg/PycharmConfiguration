@@ -257,11 +257,11 @@
         <mark key="^" line="29" column="22" />
         <mark key="." line="29" column="22" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/crasher.py" timestamp="1569230083249">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="13" column="14" />
-        <mark key="^" line="13" column="14" />
-        <mark key="." line="13" column="14" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/crasher.py" timestamp="1569230824532">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/phi.py" timestamp="1564676772180">
         <mark key="[" line="3" column="0" />
@@ -787,10 +787,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBweWJ1Z2FyZWMuYXVkaW9faW50ZXJmYWNlcy5zeW5hcHRpY3NfYXVkaW9faW50ZXJmYWNlIGltcG9ydCBTCg==</text>
+        <text encoding="base64">ICAgICAgICBzbGVlcCgwLjUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">NTU2IC8gNTog</text>
+        <text>).start()</text>
       </register>
       <register name="/" type="4">
         <text>else</text>
@@ -799,38 +799,37 @@
         <text>SynapticsStreamingAudioInterface</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBweWJ1Z2FyZWMuYXVkaW9faW50ZXJmYWNlcy5zeW5hcHRpY3NfYXVkaW9faW50ZXJmYWNlIGltcG9ydCBTCg==</text>
+        <text encoding="base64">ICAgICAgICBzbGVlcCgwLjUpCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmNsYXNzIFN5bmFwdGljc1N0cmVhbWluZ0F1ZGlvSW50ZXJmYWNlKG9iamVjdCk6CiAgICBwYXNzCgo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJlYWRpbmcuVGhyZWFkKHRhcmdldD1sYW1iZGE6IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDU1NiAvIDY6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzbGVlcCgwLjUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIFRydWU6CiAgICAgICAgdGhyZWFkaW5nLlRocmVhZCh0YXJnZXQ9bGFtYmRhOiBhaS5yZWNvcmRfYW5kX3BsYXkoc29uZywgWzEsIDJdKSkuc3RhcnQoKQogICAgICAgIHNsZWVwKDAuNSkKICAgICAgICBwcmludCgi8J+QiO+4jyIpCg==</text>
+        <text encoding="base64">ZnJvbSBweWJ1Z2FyZWMuYXVkaW9faW50ZXJmYWNlcy5zeW5hcHRpY3NfYXVkaW9faW50ZXJmYWNlIGltcG9ydCBTCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDU1NiAvIDQ6Cg==</text>
+        <text encoding="base64">CmNsYXNzIFN5bmFwdGljc1N0cmVhbWluZ0F1ZGlvSW50ZXJmYWNlKG9iamVjdCk6CiAgICBwYXNzCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgd2l0aCBtOgogICAgICAgIHByaW50KCJoZWxvOiIpCg==</text>
+        <text encoding="base64">ICAgIDU1NiAvIDY6Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text>56 / 2: 
-556 / 3:</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHdoaWxlIFRydWU6CiAgICAgICAgdGhyZWFkaW5nLlRocmVhZCh0YXJnZXQ9bGFtYmRhOiBhaS5yZWNvcmRfYW5kX3BsYXkoc29uZywgWzEsIDJdKSkuc3RhcnQoKQogICAgICAgIHNsZWVwKDAuNSkKICAgICAgICBwcmludCgi8J+QiO+4jyIpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QWxsb3cgY2hvb3NpbmcgYXV0b3BhdXNlIHZvbHVtZXMK</text>
+        <text encoding="base64">ICAgIDU1NiAvIDQ6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdidWdhdG9uZV92ZXJzaW9uJywK</text>
+        <text encoding="base64">ICAgIAogICAgd2l0aCBtOgogICAgICAgIHByaW50KCJoZWxvOiIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -887,8 +886,8 @@
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>&quot;w</entry>
         <entry>Lw</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
