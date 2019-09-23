@@ -275,11 +275,11 @@
         <mark key="." line="19" column="15" />
         <mark key="^" line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1569243049988">
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="0" />
-        <mark key="^" line="210" column="72" />
-        <mark key="." line="180" column="0" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/make/benchmarks/run_benchmark.py" timestamp="1569256252319">
+        <mark key="[" line="219" column="71" />
+        <mark key="]" line="219" column="72" />
+        <mark key="." line="219" column="72" />
+        <mark key="^" line="219" column="72" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/synaptics_proximity/synaptics_proximity.yaml" timestamp="1569248457784">
         <mark key="[" line="0" column="0" />
@@ -557,16 +557,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>make_syn_min_vol_summary</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="-" type="4">
-        <text>make_syn_min_vol_summary</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>else</text>
       </register>
-      <register name="0" type="4">
-        <text>make_syn_ext_apl_summary</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJzeW5taW52b2xhcGwiOiAoY3JlYXRlX3J1bm5hYmxlX2JlbmNobWFyaygKICAgICAgICBNb2FiVGVzdHMuU3luYXB0aWNzUHJveE1pbkFwbFZvbCwKICAgICAgICAiU3luYXB0aWNzTWluVm9sQXBsIiwKICAgICAgICBnZW5lcmF0ZV9zeW5fbWluX3ZvbF9hcGxfc2NlbmFyaW8sCiAgICAgICAgbGFtYmRhIGZvbGRlcjogTW9hYlNlc3Npb25Mb2FkZXIoZm9sZGVyPWZvbGRlcikuU1lOX01JTl9WT0wsCiAgICAgICAgbGFtYmRhIHg6IHt9LAogICAgICAgIHZlcnNpb25fZGVzY3JpcHRvcj1TeW5hcHRpY3NQcm94aW1pdHlWZXJzaW9uRGVzY3JpcHRvcgogICAgKSwgU1RPUkFHRV9ESVJFQ1RPUllbInByb3giXSksCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">X19hbGxfXyA9IFsnQmVuY2htYXJrTG9hZGVyJywgJ01vYWJUZXN0cycsICdSb3dTdW1tYXJpZXNHZW5lcmF0b3InLCAnQmVuY2htYXJrQ3N2TG9hZGVyJywgJ0JlbmNobWFya0xvYWRQb2xpY3knLAogICAgICAgICAgICdCZW5jaG1hcmtRdWVyeVJ1bm5lcnMnLCAnQmVuY2htYXJrUmVncmVzc2lvblRlc3RlciddCg==</text>
@@ -655,8 +655,8 @@
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>&quot;w</entry>
         <entry>Lw</entry>
-        <entry>W</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
