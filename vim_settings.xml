@@ -116,12 +116,12 @@
         <mark key="." line="258" column="4" />
         <mark key="^" line="258" column="20" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/syn_minimal_volume/syn_min_vol_summary.py" timestamp="1569225831833">
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/syn_minimal_volume/syn_min_vol_summary.py" timestamp="1569227271148">
         <mark key="'" line="2" column="42" />
-        <mark key="[" line="36" column="52" />
-        <mark key="]" line="36" column="52" />
-        <mark key="^" line="36" column="52" />
-        <mark key="." line="36" column="52" />
+        <mark key="[" line="37" column="56" />
+        <mark key="]" line="37" column="56" />
+        <mark key="^" line="37" column="56" />
+        <mark key="." line="37" column="56" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/proximity/simple_algo.py" timestamp="1567437653851">
         <mark key="[" line="323" column="0" />
@@ -574,7 +574,11 @@
         <mark key="." line="113" column="0" />
         <mark key="^" line="19" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569222937436">
+      <file name="$USER_HOME$/buga-recordings/pybugarec/audio_interfaces/synaptics_streaming_audio_interface.py" timestamp="1569227420622">
+        <mark key="[" line="120" column="6" />
+        <mark key="]" line="120" column="37" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1569226974204">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/synaptics_proximity/do_synaptics_proximity.py" timestamp="1569171809914" />
@@ -775,49 +779,49 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, columns=EXT_MU_COLS)</text>
+        <text>SynapticsStreamingAudioInterface</text>
       </register>
       <register name="-" type="4">
-        <text>, columns=EXT_MU_COLS)</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>else</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwZC5EYXRhRnJhbWUoZGF0YT1yb3dzLCBjb2x1bW5zPUVYVF9NVV9DT0xTKQo=</text>
+      <register name="0" type="4">
+        <text>SynapticsStreamingAudioInterface</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByb3dzLmFwcGVuZChyb3cgKyBbKCdkZWxheV91cHBlcl9ib3VuZCcsICldKQogICAgICAgIHJvdy5hcHBlbmQoKCdkZWxheV91cHBlcl9ib3VuZCcpKQo=</text>
+        <text encoding="base64">QWxsb3cgY2hvb3NpbmcgYXV0b3BhdXNlIHZvbHVtZXMK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsYXlfbG93ZXIsIGZhbHNlX2xvd2VyID0gZnVuY3Rpb24ocmVjLCB1eCwgMiwgZGVsYXlfdXBwZXJfYm91bmQ9RmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICdidWdhdG9uZV92ZXJzaW9uJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmICJwbGF5U3BlY2lhbFNpZ25hbCIgaW4gW3VbIm5hbWUiXSBmb3IgdSBpbiB1eF06Cg==</text>
+        <text encoding="base64">ICAgICdzb25nJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAicGxheU11c2ljIiBpbiBbdVsibmFtZSJdIGZvciB1IGluIHV4XToK</text>
+        <text encoding="base64">ICAgICdmaXJtd2FyZScsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICd1c2VyJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGNhbGNfZGVsYXkoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICMgV2hlbiBydW4gdGhyb3VnaCBNb2FiVGVzdHMgdGhpcyBmaWVsZCBpcyBwb3B1bGF0ZWQgd2l0aCB0aGUgYnVnYXRvbmUgc28gdmVyc2lvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICdlYXJwaG9uZScsCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICdkZXZpY2UnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnByaW50KCLCr1xfKOODhClfL8KvIikK</text>
+        <text encoding="base64">ICAgICdmaXJtd2FyZScsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -874,8 +878,8 @@
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>&quot;w</entry>
         <entry>Lw</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
