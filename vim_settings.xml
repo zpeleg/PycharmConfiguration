@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/VersionDescriptor" timestamp="1566478513534">
@@ -16,11 +16,11 @@
       <file name="/False" timestamp="1555316610968">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/asdawdanwea/segfault_ziv.py" timestamp="1569314327365">
-        <mark key="[" line="7" column="39" />
-        <mark key="]" line="7" column="39" />
-        <mark key="^" line="12" column="10" />
-        <mark key="." line="7" column="39" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/asdawdanwea/segfault_ziv.py" timestamp="1569315510956">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/syn_minimal_volume/syn_min_vol_summary.py" timestamp="1569257346533">
         <mark key="'" line="0" column="0" />
@@ -152,6 +152,11 @@
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/synaptics_proximity/synaptics_proximity_row_summary.py" timestamp="1569223082181">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="70" column="16" />
+      </file>
+      <file name="$USER_HOME$/buga-recordings/pybugarec/audio_interfaces/synaptics_streaming_audio_interface.py" timestamp="1569315517420">
+        <mark key="'" line="107" column="20" />
+        <mark key="[" line="120" column="6" />
+        <mark key="]" line="120" column="37" />
       </file>
       <file name="/Dummy.txt" timestamp="1569257761105">
         <mark key="[" line="0" column="0" />
@@ -286,8 +291,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>[101 / 1882]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>[101 / 1882]</text>
@@ -299,37 +304,37 @@
         <text encoding="base64">ICAgIGZyb20gcHlidWdhLmluZnJhLnV0aWxzLm51bXB5X3V0aWxzIGltcG9ydCBnZXRfc2luCiAgICBpbXBvcnQgbnVtcHkgYXMgbnAKICAgIGZyb20gcHlidWdhcmVjLmF1ZGlvX2ludGVyZmFjZXMuc3luYXB0aWNzX3N0cmVhbWluZ19hdWRpb19pbnRlcmZhY2UgaW1wb3J0IFN5bmFwdGljc1N0cmVhbWluZ0F1ZGlvSW50ZXJmYWNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">NTU2LzM6CndpdGggbToKICAgIHByaW50KCJoZWxvOiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">NTU2LzQ6CndoaWxlIFRydWU6CiAgICB0aHJlYWRpbmcuVGhyZWFkKHRhcmdldD1sYW1iZGE6IGFpLnJlY29yZF9hbmRfcGxheShzb25nLCBbMSwyXSkpLnN0YXJ0KCkKICAgIHNsZWVwKDAuNSkKICAgIHByaW50KCLwn5CI77iPIikK</text>
+        <text encoding="base64">ZnJvbSBweWJ1Z2FyZWMuYXVkaW9faW50ZXJmYWNlcy5zeW5hcHRpY3Nfc3RyZWFtaW5nX2F1ZGlvX2ludGVyZmFjZSBpbXBvcnQgU3luYXB0aWNzU3RyZWFtaW5nQXVkaW9JbnRlcmZhY2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">NTU2LzY6Cg==</text>
+        <text encoding="base64">ZnJvbSBweWJ1Z2FyZWMuYXVkaW9faW50ZXJmYWNlcy5zeW5hcHRpY3Nfc3RyZWFtaW5nX2F1ZGlvX2ludGVyZmFjZSBpbXBvcnQgU3luYXB0aWNzU3RyZWFtaW5nQXVkaW9JbnRlcmZhY2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWNbMF0K</text>
+        <text encoding="base64">NTU2LzM6CndpdGggbToKICAgIHByaW50KCJoZWxvOiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZyb20gcHltb2JpbGVwcm9kdWN0Lmp1c3RfcGxheSBpbXBvcnQgaW5kZXhfaXRlcmF0b3IK</text>
+        <text encoding="base64">NTU2LzQ6CndoaWxlIFRydWU6CiAgICB0aHJlYWRpbmcuVGhyZWFkKHRhcmdldD1sYW1iZGE6IGFpLnJlY29yZF9hbmRfcGxheShzb25nLCBbMSwyXSkpLnN0YXJ0KCkKICAgIHNsZWVwKDAuNSkKICAgIHByaW50KCLwn5CI77iPIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Rml4IGJ1ZyBpbiBzdW1tYXJ5Cg==</text>
+        <text encoding="base64">NTU2LzY6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QWRkIHN5bmFwdGljcyBleHRyZW1lIGF1dG9wbGF5IHRvIGxvYWRfYm0K</text>
+        <text encoding="base64">ICAgICAgICByZWNbMF0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgUm93U3VtbWFyaWVzR2VuZXJhdG9yLlN5bkV4dEFwbC5mcm9tX3ZlcnNpb24oMjIpCg==</text>
+        <text encoding="base64">ICAgIGZyb20gcHltb2JpbGVwcm9kdWN0Lmp1c3RfcGxheSBpbXBvcnQgaW5kZXhfaXRlcmF0b3IK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Rml4IGJ1ZyBpbiBzdW1tYXJ5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
