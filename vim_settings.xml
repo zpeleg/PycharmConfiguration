@@ -198,11 +198,12 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/python-sounddevice/sounddevice.py" timestamp="1569337004880">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="885" column="0" />
-        <mark key="]" line="885" column="8" />
-        <mark key="." line="885" column="8" />
+      <file name="$USER_HOME$/Code/python-sounddevice/sounddevice.py" timestamp="1569340255745">
+        <mark key="'" line="174" column="8" />
+        <mark key="[" line="896" column="91" />
+        <mark key="]" line="898" column="29" />
+        <mark key="." line="898" column="29" />
+        <mark key="^" line="898" column="29" />
       </file>
       <file name="/default_bugatone_api_config" timestamp="1557245315848">
         <mark key="[" line="0" column="0" />
@@ -417,7 +418,7 @@
         <mark key="[" line="120" column="6" />
         <mark key="]" line="120" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569257761105">
+      <file name="/Dummy.txt" timestamp="1569339899515">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/do_single_ear_sanity.py" timestamp="1565522431365">
@@ -477,8 +478,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="297" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
-      <jump line="302" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
       <jump line="311" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
       <jump line="319" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
       <jump line="329" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
@@ -577,6 +576,8 @@
       <jump line="48" column="0" filename="$USER_HOME$/Code/python-sounddevice/sounddevice.py" />
       <jump line="51" column="0" filename="$USER_HOME$/Code/python-sounddevice/sounddevice.py" />
       <jump line="58" column="0" filename="$USER_HOME$/Code/python-sounddevice/sounddevice.py" />
+      <jump line="901" column="0" filename="$USER_HOME$/Code/python-sounddevice/sounddevice.py" />
+      <jump line="174" column="8" filename="$USER_HOME$/Code/python-sounddevice/sounddevice.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -589,49 +590,49 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJZb3UgbWF5IHNheSBJJ20gYSBkcmVhbWVyIHt9Ii5mb3JtYXQodGhyZWFkaW5nLmN1cnJlbnRfdGhyZWFkKCkuaWRlbnQgJSAxMCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIllvdSBtYXkgc2F5IEknbSBhIGRyZWFtZXIge30iLmZvcm1hdCh0aHJlYWRpbmcuY3VycmVudF90aHJlYWQoKS5pZGVudCAlIDEwKSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">V2hlbiBJIGZpbmQgbXlzZWxmIGluIHRpbWVzIG9mIHRyb3VibGUg</text>
+        <text>R-E-S-P-E-C-T</text>
       </register>
       <register name="/" type="4">
         <text>else</text>
       </register>
-      <register name="0" type="4">
-        <text>threading.current_thread().ident % 10</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaW50ICgiUi1FLVMtUC1FLUMtVCB7fSIuZm9ybWF0KHRocmVhZGluZy5jdXJyZW50X3RocmVhZCgpLmlkZW50ICUgMTApKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJZb3UgbWF5IHNheSBJJ20gYSBkcmVhbWVyIHt9Ii5mb3JtYXQodGhyZWFkaW5nLmN1cnJlbnRfdGhyZWFkKCkuaWRlbnQgJSAxMCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIllvdSBtYXkgc2F5IEknbSBhIGRyZWFtZXIge30iLmZvcm1hdCh0aHJlYWRpbmcuY3VycmVudF90aHJlYWQoKS5pZGVudCAlIDEwKSkK</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiSSBjYW4ndCBnZXQgbm8ge30iLmZvcm1hdCh0aHJlYWRpbmcuY3VycmVudF90aHJlYWQoKS5pZGVudCAlIDEwKSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiWW91IG1heSBzYXkgSSdtIGEgZHJlYW1lciB7fSIuZm9ybWF0KHRocmVhZGluZy5jdXJyZW50X3RocmVhZCgpLmlkZW50ICUgMTApKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToK</text>
+        <text encoding="base64">ICAgIHByaW50KCJZb3UgbWF5IHNheSBJJ20gYSBkcmVhbWVyIHt9Ii5mb3JtYXQodGhyZWFkaW5nLmN1cnJlbnRfdGhyZWFkKCkuaWRlbnQgJSAxMCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiSSBjYW4ndCBnZXQgbm8ge30iLmZvcm1hdCh0aHJlYWRpbmcuY3VycmVudF90aHJlYWQoKS5pZGVudCAlIDEwKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJJJ20gYWxpdmUiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJoZWxsbyBkYXJrbmVzcyB7fSwge30sIHt9LCB7fSIuZm9ybWF0KHB0ciwgZnJhbWVzLCBjaGFubmVscywgc2FtcGxlc2l6ZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJoZWxsbG9vb29vb29vb29vIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJJJ20gYWxpdmUiKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaW50KCJoZWxsbyBkYXJrbmVzcyB7fSwge30sIHt9LCB7fSIuZm9ybWF0KHB0ciwgZnJhbWVzLCBjaGFubmVscywgc2FtcGxlc2l6ZSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0aWQsIDApCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJoZWxsbG9vb29vb29vb29vIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
