@@ -40,12 +40,12 @@
         <mark key="." line="57" column="27" />
         <mark key="^" line="57" column="27" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/asdawdanwea/segfault_ziv.py" timestamp="1569326972413">
-        <mark key="'" line="74" column="24" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="65" column="20" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/asdawdanwea/segfault_ziv.py" timestamp="1569329859153">
+        <mark key="'" line="43" column="25" />
+        <mark key="[" line="46" column="28" />
+        <mark key="]" line="46" column="30" />
+        <mark key="^" line="46" column="30" />
+        <mark key="." line="46" column="30" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/utils/per_thread_logger.py" timestamp="1563205516602">
         <mark key="[" line="12" column="0" />
@@ -469,8 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
-      <jump line="172" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
       <jump line="187" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
       <jump line="190" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
       <jump line="200" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" />
@@ -569,6 +567,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/asdawdanwea/segfault_ziv.py" />
       <jump line="91" column="18" filename="$USER_HOME$/mobileproduct/pymobileproduct/asdawdanwea/segfault_ziv.py" />
       <jump line="74" column="24" filename="$USER_HOME$/mobileproduct/pymobileproduct/asdawdanwea/segfault_ziv.py" />
+      <jump line="71" column="25" filename="$USER_HOME$/mobileproduct/pymobileproduct/asdawdanwea/segfault_ziv.py" />
+      <jump line="43" column="25" filename="$USER_HOME$/mobileproduct/pymobileproduct/asdawdanwea/segfault_ziv.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -580,50 +580,50 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJlYW0uY2xvc2UoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>hi</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>hi</text>
       </register>
       <register name="/" type="4">
         <text>else</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgc29uZ1s6LCBjdXJyZW50X2luZGV4OmN1cnJlbnRfaW5kZXggKyBkYXRhX2xlbl0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodGlkLCAiaGkiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJlYW0uY2xvc2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0aWQsIDApCg==</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RyZWFtCg==</text>
+        <text encoding="base64">ICAgICAgICB0aWQgPSB0aHJlYWRpbmcuY3VycmVudF90aHJlYWQoKS5pZGVudCAgJTEwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBjb250ZXh0bWFuYWdlcgo=</text>
+        <text encoding="base64">ICAgICAgICB0aWQgPSB0aHJlYWRpbmcuY3VycmVudF90aHJlYWQoKS5pZGVudCAgJTEwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3R4Lm91dHB1dF9mcmFtZXMgKz0gZnJhbWVzCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHNvbmcgPSBucC56ZXJvcygoMiwgNDgwMDApKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY3R4LnJlY29yZGVkX2ZyYW1lcyA9PSAwOgogICAgICAgICAgICAgICAgY3R4LmZpcnN0X2Jsb2NrX3NpemUgPSBpbmRhdGEuc2hhcGVbMF0KCiAgICAgICAgICAgIGN0eC5yZWNvcmRlZF9mcmFtZXMgKz0gaW5kYXRhLnNoYXBlWzBdCg==</text>
+        <text encoding="base64">CiAgICAgICAgZGVmIG91dHB1dGVyKCk6CiAgICAgICAgICAgIHdoaWxlIFRydWU6CiAgICAgICAgICAgICAgICBpZiBldmVudC5pc19zZXQoKToKICAgICAgICAgICAgICAgICAgICByYWlzZSBTdG9wSXRlcmF0aW9uCiAgICAgICAgICAgICAgICB5aWVsZCBOb25rCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBmb3IgayBpbiBvdXRwdXRlcigpOgogICAgICAgICAgICAjICAgICBwYXNzCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByYW5kID0gcmFuZG9tLnJhbmRpbnQoMCwxMDApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGksIHIgaW4gZW51bWVyYXRlKHN0cmVhbSk6CiAgICAgICAgICAgICAgICBwcmludCgiaGkiLCByYW5kLCBpKQogICAgICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYubG9jazoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
