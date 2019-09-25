@@ -345,7 +345,8 @@
         <mark key="." line="60" column="47" />
         <mark key="^" line="60" column="47" />
       </file>
-      <file name="$USER_HOME$/buga-recordings/pybugarec/audio_interfaces/synaptics_audio_interface.py" timestamp="1565857269070">
+      <file name="$USER_HOME$/buga-recordings/pybugarec/audio_interfaces/synaptics_audio_interface.py" timestamp="1569404990477">
+        <mark key="'" line="149" column="0" />
         <mark key="[" line="136" column="0" />
         <mark key="]" line="136" column="0" />
         <mark key="." line="136" column="0" />
@@ -396,7 +397,7 @@
         <mark key="^" line="3" column="73" />
         <mark key="." line="3" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568913187637">
+      <file name="/Dummy.txt" timestamp="1569405083073">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/do_single_ear_sanity.py" timestamp="1565522431365">
@@ -495,6 +496,7 @@
         <mark key="^" line="148" column="44" />
         <mark key="." line="148" column="44" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/media_player/synaptics_streamer.py" timestamp="1569404919741" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/moab/moab_recording_test.py" timestamp="1565529909367">
         <mark key="[" line="72" column="33" />
       </file>
@@ -512,7 +514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="3" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/archives.py" />
       <jump line="24" column="83" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/ft_sanity/do_ft_sanity.py" />
       <jump line="379" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/benchmarks/load_bm.py" />
       <jump line="41" column="15" filename="$USER_HOME$/mobileproduct/pymobileproduct/moab/teacher_sanity/teacher_sanity_queries.py" />
@@ -612,6 +613,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/mobileproduct/pymobileproduct/tests/synaptics/export_synaptics_test.py" />
       <jump line="60" column="26" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/run_synaptics.py" />
       <jump line="102" column="94" filename="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/core_product.py" />
+      <jump line="149" column="0" filename="$USER_HOME$/buga-recordings/pybugarec/audio_interfaces/synaptics_audio_interface.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -623,8 +625,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>k</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QWxsb3cgcnVubmluZyBkb18gZnJvbSBsb2NhbCBleHBvcnRlZCB2ZXJzaW9ucwo=</text>
       </register>
       <register name="-" type="4">
         <text>k</text>
@@ -636,37 +638,37 @@
         <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tYWxsLXZlcnNpb25zLWRpciIsCiAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ9Tm9uZSwKICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0iUGF0aCB0byBhbGxfdmVyc2lvbnMgZm9sZGVyIG9yIGVxdWl2YWxlbnQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Rml4IHJ1bm5pbmcgbG9jYWwgdmVyc2lvbnMK</text>
+        <text encoding="base64">QWxsb3cgcnVubmluZyBkb18gZnJvbSBsb2NhbCBleHBvcnRlZCB2ZXJzaW9ucwo=</text>
       </register>
       <register name="q" type="4">
         <text>k</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoKQo=</text>
+        <text encoding="base64">Rml4IHJ1bm5pbmcgbG9jYWwgdmVyc2lvbnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SWYgaXNfcHVzaGVkIHRlc3QgZmFpbHMgaW4gZXhwb3J0LCBkb24ndCBjcmFzaCB0aGUgc2NyaXB0IHVuZXhwZWN0ZWRseQo=</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">X19hbGxfXyA9IFsnUHJvZHVjdExvYWRlciddCg==</text>
+        <text encoding="base64">SWYgaXNfcHVzaGVkIHRlc3QgZmFpbHMgaW4gZXhwb3J0LCBkb24ndCBjcmFzaCB0aGUgc2NyaXB0IHVuZXhwZWN0ZWRseQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Rml4IG5vLWJlbmNobWFya3MgZmxhZyBpbiBleHBvcnRfc3luYXB0aWNzCg==</text>
+        <text encoding="base64">X19hbGxfXyA9IFsnUHJvZHVjdExvYWRlciddCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Rml4IG5vLWJlbmNobWFya3MgZmxhZyBpbiBleHBvcnRfc3luYXB0aWNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGV4Y2VwdCBzdWJwcm9jZXNzLkNhbGxlZFByb2Nlc3NFcnJvciBhcyBlOgogICAgICAgICMgICAgIHRyYWNlYmFjay5wcmludF9leGMoKQogICAgICAgICMgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigiQ2Fubm90IGNyZWF0ZSBSUEMgc2VydmVyIG9uIHBvcnQge306IHt9Ii5mb3JtYXQocG9ydCwgZS5vdXRwdXQpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICAjIGV4Y2VwdCBzdWJwcm9jZXNzLkNhbGxlZFByb2Nlc3NFcnJvciBhcyBlOgogICAgICAgICMgICAgIHRyYWNlYmFjay5wcmludF9leGMoKQogICAgICAgICMgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigiQ2Fubm90IGNyZWF0ZSBSUEMgc2VydmVyIG9uIHBvcnQge306IHt9Ii5mb3JtYXQocG9ydCwgZS5vdXRwdXQpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QWxsb3cgc2V0dGluZyB0aGUgcG9ydAo=</text>
+        <text encoding="base64">ICAgICAgICAjIHRyeToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -714,7 +716,6 @@
         <entry>s</entry>
         <entry>we</entry>
         <entry>buga_con</entry>
-        <entry encoding="base64">JzwsJz5X</entry>
         <entry>d</entry>
         <entry>Q</entry>
         <entry>x</entry>
@@ -725,6 +726,7 @@
         <entry>W:w</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5X</entry>
       </history-cmd>
       <history-expr />
       <history-input />
