@@ -24,6 +24,13 @@
       <file name="/False" timestamp="1555316610968">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/proximity/proximity_product_factory.py" timestamp="1569397815242">
+        <mark key="'" line="11" column="34" />
+        <mark key="[" line="34" column="37" />
+        <mark key="]" line="34" column="37" />
+        <mark key="." line="34" column="37" />
+        <mark key="^" line="47" column="7" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/raw_row_summary.py" timestamp="1568822243852">
         <mark key="[" line="84" column="107" />
         <mark key="]" line="84" column="118" />
@@ -73,6 +80,12 @@
         <mark key="]" line="39" column="3" />
         <mark key="^" line="39" column="3" />
         <mark key="." line="39" column="3" />
+      </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/product_algo.py" timestamp="1569397885363">
+        <mark key="[" line="34" column="15" />
+        <mark key="]" line="34" column="15" />
+        <mark key="." line="34" column="15" />
+        <mark key="^" line="34" column="15" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/core/do_replay.py" timestamp="1569335759453">
         <mark key="[" line="751" column="4" />
@@ -199,7 +212,7 @@
         <mark key="." line="1" column="11" />
       </file>
       <file name="$USER_HOME$/Code/python-sounddevice/sounddevice.py" timestamp="1569344528223">
-        <mark key="'" line="1746" column="0" />
+        <mark key="'" line="1743" column="0" />
         <mark key="[" line="839" column="40" />
         <mark key="]" line="839" column="76" />
         <mark key="." line="839" column="76" />
@@ -418,7 +431,7 @@
         <mark key="[" line="120" column="6" />
         <mark key="]" line="120" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569339899515">
+      <file name="/Dummy.txt" timestamp="1569397510251">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/do_single_ear_sanity.py" timestamp="1565522431365">
@@ -589,17 +602,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgdHJhY2ViYWNrCiAgICAgICAgdHJhY2ViYWNrLnByaW50X3N0YWNrKCkK</text>
+      <register name="&quot;" type="4">
+        <text>self.verbose:</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>self.verbose:</text>
       </register>
       <register name="/" type="4">
         <text>else</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiQmFiZSB7fSIuZm9ybWF0KHRocmVhZGluZy5jdXJyZW50X3RocmVhZCgpLmlkZW50ICUgMTApKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnZlcmJvc2U6Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgdHJhY2ViYWNrCiAgICAgICAgdHJhY2ViYWNrLnByaW50X3N0YWNrKCkK</text>
