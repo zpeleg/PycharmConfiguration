@@ -71,10 +71,10 @@
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/proximity/proximity_product_factory.py" timestamp="1568909139876">
         <mark key="'" line="11" column="34" />
-        <mark key="[" line="61" column="31" />
-        <mark key="]" line="61" column="42" />
-        <mark key="^" line="61" column="42" />
-        <mark key="." line="61" column="42" />
+        <mark key="[" line="51" column="31" />
+        <mark key="]" line="51" column="42" />
+        <mark key="^" line="51" column="42" />
+        <mark key="." line="51" column="42" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/single_ear_sanity.yaml" timestamp="1565622663498">
         <mark key="'" line="48" column="0" />
@@ -118,10 +118,10 @@
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/synaptics/export_synaptics_test.py" timestamp="1568911234058">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="170" column="31" />
-        <mark key="]" line="170" column="31" />
-        <mark key="^" line="170" column="31" />
-        <mark key="." line="170" column="31" />
+        <mark key="[" line="169" column="31" />
+        <mark key="]" line="169" column="31" />
+        <mark key="^" line="169" column="31" />
+        <mark key="." line="169" column="31" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/single_ear_sanity_row_summary.py" timestamp="1565621068927">
         <mark key="[" line="258" column="0" />
@@ -318,6 +318,12 @@
         <mark key="^" line="12" column="75" />
         <mark key="." line="12" column="75" />
       </file>
+      <file name="$USER_HOME$/buga-recordings/pybugarec/tests/audio_interface_approval_tests.py" timestamp="1571151991816">
+        <mark key="[" line="34" column="33" />
+        <mark key="]" line="34" column="33" />
+        <mark key="^" line="35" column="58" />
+        <mark key="." line="34" column="33" />
+      </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/many_user_authentication_summary.py" timestamp="1564500999610">
         <mark key="'" line="223" column="56" />
         <mark key="[" line="360" column="0" />
@@ -496,7 +502,6 @@
         <mark key="^" line="148" column="44" />
         <mark key="." line="148" column="44" />
       </file>
-      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/media_player/synaptics_streamer.py" timestamp="1569404919741" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/tests/moab/moab_recording_test.py" timestamp="1565529909367">
         <mark key="[" line="72" column="33" />
       </file>
@@ -625,11 +630,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QWxsb3cgcnVubmluZyBkb18gZnJvbSBsb2NhbCBleHBvcnRlZCB2ZXJzaW9ucwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
@@ -725,8 +730,8 @@
         <entry>q</entry>
         <entry>W:w</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5X</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
