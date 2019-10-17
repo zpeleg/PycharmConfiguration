@@ -123,6 +123,7 @@
         <mark key="^" line="169" column="31" />
         <mark key="." line="169" column="31" />
       </file>
+      <file name="$USER_HOME$/mobileproduct/pymobileproduct/synaptics/product/product_loader.py" timestamp="1571313233335" />
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/single_ear_sanity/single_ear_sanity_row_summary.py" timestamp="1565621068927">
         <mark key="[" line="258" column="0" />
         <mark key="]" line="258" column="4" />
@@ -319,10 +320,7 @@
         <mark key="." line="12" column="75" />
       </file>
       <file name="$USER_HOME$/buga-recordings/pybugarec/tests/audio_interface_approval_tests.py" timestamp="1571151991816">
-        <mark key="[" line="34" column="33" />
-        <mark key="]" line="34" column="33" />
-        <mark key="^" line="35" column="58" />
-        <mark key="." line="34" column="33" />
+        <mark key="^" line="33" column="58" />
       </file>
       <file name="$USER_HOME$/mobileproduct/pymobileproduct/moab/many_user_authentication/many_user_authentication_summary.py" timestamp="1564500999610">
         <mark key="'" line="223" column="56" />
